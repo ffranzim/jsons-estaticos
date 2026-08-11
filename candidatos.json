@@ -1,0 +1,362 @@
+[
+  {
+    "nome_completo": "Wilker Leão",
+    "nome_urna": "Wilker Sá",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "cargo_pleiteado": "Deputado Federal",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 3000
+    },
+    "prioridade": 4,
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Combate à doutrinação ideológica",
+      "Direita acadêmica"
+    ]
+  },
+  {
+    "nome_completo": "Sebastião Coelho",
+    "nome_urna": "Sebastião Coelho",
+    "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 300
+    },
+    "prioridade": 3,
+    "perfil": {
+      "ocupacao_principal": "Desembargador aposentado"
+    },
+    "redes_sociais": {
+      "twitter": "https://x.com/sebasticoelho",
+      "instagram": null,
+      "site_oficial": "https://sebastiaocoelho.com/",
+      "apoia_se": "https://queroapoiar.com.br/desembargadorsebastiaocoelho",
+      "links": null,
+      "youtube": "https://www.youtube.com/@sebastiaocoelhodesembargador"
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Reforma do Judiciário",
+      "Pauta conservadora"
+    ]
+  },
+  {
+    "nome_completo": "Romeu Zema Neto",
+    "nome_urna": "Romeu Zema",
+    "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
+    "cargo_pleiteado": "Presidente da República",
+    "estado": "Nacional",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 1,
+    "perfil": {
+      "ocupacao_principal": "Empresário"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Privatização",
+      "Redução do custo Brasil"
+    ]
+  },
+  {
+    "nome_completo": "Deltan Martinazzo Dallagnol",
+    "nome_urna": "Deltan Dallagnol",
+    "foto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "PR",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 2,
+    "perfil": {
+      "ocupacao_principal": "Ex-procurador"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Combate à corrupção"
+    ]
+  },
+  {
+    "nome_completo": "Roberto Souza Fake",
+    "nome_urna": "Governador Roberto",
+    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+    "cargo_pleiteado": "Governador",
+    "estado": "MG",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 5,
+    "perfil": {
+      "ocupacao_principal": "Gestor público e empresário"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Fiscalização rigorosa de gastos públicos",
+      "Desburocratização estatal"
+    ]
+  },
+  {
+    "nome_completo": "João da Silva Fake",
+    "nome_urna": "João Distrital",
+    "foto": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400",
+    "cargo_pleiteado": "Deputado Distrital",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30123
+    },
+    "prioridade": 6,
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Melhoria no transporte público local"
+    ]
+  },
+  {
+    "nome_completo": "Maria Oliveira Fake",
+    "nome_urna": "Maria Estadual",
+    "foto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+    "cargo_pleiteado": "Deputado Estadual",
+    "estado": "SP",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30456
+    },
+    "prioridade": 7,
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Educação básica de qualidade"
+    ]
+  },
+  {
+    "nome_completo": "Carlos Mendes Fake",
+    "nome_urna": "Senador Mendes",
+    "foto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "SC",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30789
+    },
+    "prioridade": 8,
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Desenvolvimento econômico regional"
+    ]
+  },
+  {
+    "nome_completo": "Renato 38tão",
+    "nome_urna": "Renato 38tão",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 9,
+    "ficticio": true,
+    "perfil": {
+      "ocupacao_principal": "Personagem fictício"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Liberdade econômica",
+      "Redução de impostos"
+    ]
+  },
+  {
+    "nome_completo": "Alan dos Santos",
+    "nome_urna": "Alan dos Santos",
+    "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 10,
+    "ficticio": true,
+    "perfil": {
+      "ocupacao_principal": "Personagem fictício"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Liberdade de expressão",
+      "Combate à corrupção"
+    ]
+  },
+  {
+    "nome_completo": "Neymar da Silva Santos Júnior",
+    "nome_urna": "Neymar",
+    "foto": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 11,
+    "ficticio": true,
+    "perfil": {
+      "ocupacao_principal": "Personagem fictício"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Esporte",
+      "Incentivo à juventude"
+    ]
+  },
+  {
+    "nome_completo": "Donald John Trump",
+    "nome_urna": "Trump",
+    "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
+    "cargo_pleiteado": "Senador",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30
+    },
+    "prioridade": 12,
+    "ficticio": true,
+    "perfil": {
+      "ocupacao_principal": "Personagem fictício"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Livre mercado",
+      "Segurança pública"
+    ]
+  }
+]
