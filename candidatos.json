@@ -614,5 +614,191 @@
       "Liberdade econômica",
       "Defesa das liberdades individuais"
     ]
+  },
+  {
+    "nome_completo": "Fernanda Castro Lima",
+    "nome_urna": "Fernanda Castro",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "cargo_pleiteado": "Deputado Distrital",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30111
+    },
+    "prioridade": 11,
+    "perfil": {
+      "ocupacao_principal": "Advogada"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Segurança pública no DF",
+      "Modernização da gestão"
+    ]
+  },
+  {
+    "nome_completo": "Rodrigo Almeida Souza",
+    "nome_urna": "Rodrigo Almeida",
+    "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
+    "cargo_pleiteado": "Deputado Distrital",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30222
+    },
+    "prioridade": 12,
+    "perfil": {
+      "ocupacao_principal": "Servidor público"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Fiscalização do GDF",
+      "Mobilidade urbana"
+    ]
+  },
+  {
+    "nome_completo": "Ana Beatriz Nunes",
+    "nome_urna": "Ana Beatriz",
+    "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
+    "cargo_pleiteado": "Deputado Distrital",
+    "estado": "DF",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30333
+    },
+    "prioridade": 13,
+    "perfil": {
+      "ocupacao_principal": "Empresária"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Desburocratização",
+      "Apoio ao pequeno empreendedor"
+    ]
+  },
+  {
+    "nome_completo": "Marcelo Freitas Costa",
+    "nome_urna": "Marcelo Freitas",
+    "foto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400",
+    "cargo_pleiteado": "Deputado Federal",
+    "estado": "RJ",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30444
+    },
+    "prioridade": 14,
+    "perfil": {
+      "ocupacao_principal": "Engenheiro"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Segurança pública",
+      "Infraestrutura"
+    ]
+  },
+  {
+    "nome_completo": "Juliana Ramos Vieira",
+    "nome_urna": "Juliana Ramos",
+    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+    "cargo_pleiteado": "Deputado Federal",
+    "estado": "SP",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30555
+    },
+    "prioridade": 15,
+    "perfil": {
+      "ocupacao_principal": "Médica"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Saúde pública eficiente",
+      "Liberdade econômica"
+    ]
+  },
+  {
+    "nome_completo": "Bruno Tavares Rocha",
+    "nome_urna": "Bruno Tavares",
+    "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+    "cargo_pleiteado": "Deputado Federal",
+    "estado": "MG",
+    "partido": {
+      "sigla": "NOVO",
+      "numero": 30666
+    },
+    "prioridade": 16,
+    "perfil": {
+      "ocupacao_principal": "Produtor rural"
+    },
+    "redes_sociais": {
+      "twitter": null,
+      "instagram": null,
+      "site_oficial": null,
+      "apoia_se": null,
+      "links": null,
+      "youtube": null
+    },
+    "contatos": {
+      "whatsapp": null,
+      "telegram": null
+    },
+    "bandeiras": [
+      "Agronegócio",
+      "Redução de impostos"
+    ]
   }
 ]
