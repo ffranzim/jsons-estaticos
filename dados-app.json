@@ -1,5 +1,5 @@
 {
-    "codigoDaVersaoMinima" : "1",
-    "limpar-cache": "2",
-    "hash-limpeza-cache" : "2"
+    "codigo-versa-minima" : 1,
+    "limpar-cache-versao": 2,
+    "hash-ultima-limpeza-cache" : 2
 }
