@@ -1,5 +1,29 @@
 {
-    "codigo-versa-minima" : 1,
-    "limpar-cache-versao": 2,
-    "hash-ultima-limpeza-cache" : 2
+  "versao_minima_app": 1,
+  "clear_boxes": [
+    {
+      "nome": "all",
+      "time": "2026-08-14T21:24:13"
+    },
+    {
+      "nome": "settings_box",
+      "time": "2026-08-14T21:24:13"
+    },
+    {
+      "nome": "candidatos_escolhidos_box",
+      "time": "2026-08-14T21:24:13"
+    },
+    {
+      "nome": "uf_usuario",
+      "time": "2026-08-14T21:24:13"
+    },
+    {
+      "nome": "dados_app_box",
+      "time": "2026-08-14T21:24:13"
+    },
+    {
+      "nome": "theme_mode",
+      "time": "2026-08-14T21:24:13"
+    }
+  ]
 }
