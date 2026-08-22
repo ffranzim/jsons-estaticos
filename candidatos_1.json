@@ -73,12 +73,12 @@
       "ocupacao_principal": "Empresário"
     },
     "redes_sociais": {
-      "twitter": null,
-      "instagram": null,
-      "site_oficial": null,
-      "apoia_se": null,
-      "links": null,
-      "youtube": null
+      "twitter": "https://x.com/RomeuZema",
+      "instagram": "https://www.instagram.com/romeuzemaoficial/?hl=pt-br",
+      "site_oficial": "https://novo.org.br/",
+      "apoia_se": "https://apoia.se/",
+      "links": "https://linktr.ee/38.honra",
+      "youtube": "https://www.youtube.com/@RomeuZemaOficial"
     },
     "contatos": {
       "whatsapp": null,
