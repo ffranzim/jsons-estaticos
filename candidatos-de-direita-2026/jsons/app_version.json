@@ -9,9 +9,9 @@
   },
   "android": {
     "latestVersion": "1.2.1",
-    "buildNumber": "9",
+    "buildNumber": "12",
     "minSupportedVersion": "1.1.0",
-    "minSupportedBuildNumber": "12",
+    "minSupportedBuildNumber": "9",
     "updateUrl": "https://play.google.com/store/apps/details?id=seu.pacote",
     "releaseNotes": "Nova interface de perfil adicionada."
   }
