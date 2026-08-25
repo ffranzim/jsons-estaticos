@@ -118,6 +118,54 @@
     color: var(--text-muted);
     font-size: 13.5px;
   }
+
+  .pix-box {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .pix-qr {
+    flex: 0 0 auto;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    line-height: 0;
+  }
+
+  .pix-qr svg { display: block; }
+
+  .pix-details { flex: 1 1 220px; min-width: 220px; }
+
+  .pix-copia {
+    display: block;
+    width: 100%;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 12.5px;
+    color: var(--text);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    word-break: break-all;
+    resize: none;
+    margin: 10px 0;
+  }
+
+  .pix-copy-btn {
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    background: var(--primary);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 16px;
+    cursor: pointer;
+  }
+
+  .pix-copy-btn:active { opacity: 0.85; }
 </style>
 </head>
 <body>
@@ -165,6 +213,21 @@
       <dd>Sim, é necessária conexão para carregar e atualizar a lista de candidatos. Suas preferências (cola de votos, tema, etc.) continuam disponíveis offline, pois ficam salvas no próprio aparelho.</dd>
     </dl>
 
+    <h2>Apoie o projeto</h2>
+    <p>
+      O <strong>Candidatos de Direita 2026</strong> é mantido de forma independente e
+      gratuita, sem publicidade. Se o app te ajudou e você quiser apoiar a manutenção e
+      as próximas atualizações, pode contribuir via Pix:
+    </p>
+    <div class="card pix-box">
+      <div class="pix-qr" id="pix-qr"></div>
+      <div class="pix-details">
+        <strong>Chave Pix (telefone):</strong> +55 (41) 99209-3299
+        <textarea class="pix-copia" id="pix-copia" rows="4" readonly>00020126630014br.gov.bcb.pix0114+55419920932990223App_Direita_Brasil_20265204000053039865802BR5925FERNANDO_APARECIDO_RIBAS_6008BRASILIA62290525MyGNT4QaR1FKgk7wTPeTZdCwg63046563</textarea>
+        <button class="pix-copy-btn" id="pix-copy-btn" type="button">Copiar código Pix</button>
+      </div>
+    </div>
+
     <h2>Privacidade</h2>
     <p>
       Para saber quais dados o app acessa e como eles são usados, consulte a
@@ -176,5 +239,37 @@
       <a href="mailto:fernando.franzim@gmail.com">fernando.franzim@gmail.com</a>.
     </footer>
   </div>
+
+  <script src="qrcode.js"></script>
+  <script>
+    (function () {
+      var payload = document.getElementById('pix-copia').value;
+      var qr = qrcode(0, 'M');
+      qr.addData(payload);
+      qr.make();
+      document.getElementById('pix-qr').innerHTML = qr.createSvgTag(4, 0);
+
+      var textarea = document.getElementById('pix-copia');
+      var btn = document.getElementById('pix-copy-btn');
+      btn.addEventListener('click', function () {
+        textarea.select();
+        textarea.setSelectionRange(0, textarea.value.length);
+        var done = function () {
+          var original = btn.textContent;
+          btn.textContent = 'Copiado!';
+          setTimeout(function () { btn.textContent = original; }, 1800);
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(textarea.value).then(done, function () {
+            document.execCommand('copy');
+            done();
+          });
+        } else {
+          document.execCommand('copy');
+          done();
+        }
+      });
+    })();
+  </script>
 </body>
 </html>
