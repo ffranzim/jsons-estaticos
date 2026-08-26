@@ -1,0 +1,36 @@
+{
+  "data": "2026-08-25T00:00:00",
+  "buildNumber": "10",
+  "lista": [
+    {
+      "nome_completo": "Deltan Martinazzo Dallagnol",
+      "nome_urna": "Deltan Dallagnol",
+      "foto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400",
+      "cargo_pleiteado": "Senador",
+      "estado": "PR",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 2,
+      "perfil": {
+        "ocupacao_principal": "Ex-procurador Teste"
+      },
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Combate à corrupção - teste"
+      ]
+    }
+  ]
+}
