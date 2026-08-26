@@ -37,8 +37,7 @@
       }
     ]
   },
-
-    {
+  {
     "data": "2026-08-26T00:00:00",
     "buildNumber": 10,
     "updateNumber": 4,
@@ -55,6 +54,44 @@
         },
         "perfil": {
           "ocupacao_principal": "Ex-procurador"
+        },
+        "observacoes": {},
+        "prioridade": 50,
+        "redes_sociais": {
+          "twitter": "https://x.com/deltanmd?lang=pt",
+          "instagram": "https://www.instagram.com/deltandallagnol",
+          "site_oficial": null,
+          "apoia_se": null,
+          "links": null,
+          "youtube": null
+        },
+        "contatos": {
+          "whatsapp": null,
+          "telegram": null
+        },
+        "bandeiras": [
+          "Não cadastradas"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "2026-08-26T00:00:00",
+    "buildNumber": 5,
+    "updateNumber": 4,
+    "lista": [
+      {
+        "nome_completo": "Deltan Martinazzo Dallagnol",
+        "nome_urna": "Deltan Dallagnol",
+        "foto": "fotos_novo_brasil/FPR160002547661_div.jpg",
+        "cargo_pleiteado": "Senador",
+        "estado": "PR",
+        "partido": {
+          "sigla": "NOVO",
+          "numero": 300
+        },
+        "perfil": {
+          "ocupacao_principal": "Ex-procurador Nao fazer"
         },
         "observacoes": {},
         "prioridade": 50,
