@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T21:13:21+00:00",
-  "hash": "8ed372abbf80",
+  "gerado_em": "2026-08-30T23:14:39+00:00",
+  "hash": "634f5e4dfc61",
   "candidatos": [
     {
       "nome_completo": "Abel Costa",
@@ -19219,6 +19219,9 @@
         "numero": 30007
       },
       "prioridade": 10,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -19896,6 +19899,9 @@
         "numero": 30777
       },
       "prioridade": 10,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -21437,6 +21443,10 @@
         "numero": 3007
       },
       "prioridade": 30,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -22412,6 +22422,9 @@
         "numero": 300
       },
       "prioridade": 50,
+      "apoiadores": [
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -23390,7 +23403,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "centro-direita",
       "redes_sociais": {
@@ -24078,6 +24092,10 @@
         "numero": 2247
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -24351,6 +24369,10 @@
         "numero": 2221
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -24481,13 +24503,16 @@
       "nome_completo": "Maria Eduarda Campopiano Monteiro",
       "nome_urna": "Eduarda Campopiano",
       "foto": "fotos_pl_brasil/FSP250002536384_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
       "partido": {
         "sigla": "PL",
         "numero": 22011
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -24537,7 +24562,6 @@
       "nome_completo": "Elias do Bomfim Amaral",
       "nome_urna": "Elias de Madureira",
       "foto": "fotos_pl_brasil/FSP250002536372_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
       "partido": {
         "sigla": "PL",
@@ -25333,6 +25357,9 @@
         "numero": 22522
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -25497,6 +25524,10 @@
         "numero": 2211
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -26239,6 +26270,9 @@
         "numero": 22038
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -32646,7 +32680,9 @@
       },
       "prioridade": 49,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu",
+        "app"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -46032,6 +46068,10 @@
         "numero": 10
       },
       "prioridade": 61,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -50378,6 +50418,9 @@
         "numero": 22
       },
       "prioridade": 86,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,

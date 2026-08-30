@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T21:13:21+00:00",
-  "hash": "8ed372abbf80",
+  "gerado_em": "2026-08-30T23:14:39+00:00",
+  "hash": "634f5e4dfc61",
   "candidatos": [
     {
       "nome_completo": "Adalberto Souza de Almeida",
@@ -1607,6 +1607,9 @@
         "numero": 30000
       },
       "prioridade": 10,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -2636,7 +2639,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -5672,6 +5676,9 @@
         "numero": 45000
       },
       "prioridade": 1,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -5889,6 +5896,9 @@
         "numero": 10
       },
       "prioridade": 61,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -6324,7 +6334,8 @@
       },
       "prioridade": 41,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "redes_sociais": {
         "twitter": null,
@@ -7854,6 +7865,9 @@
         "numero": 22
       },
       "prioridade": 86,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T21:13:21+00:00",
-  "hash": "8ed372abbf80",
+  "gerado_em": "2026-08-30T23:14:39+00:00",
+  "hash": "634f5e4dfc61",
   "candidatos": [
     {
       "nome_completo": "Ademir Goncalves",
@@ -4878,7 +4878,8 @@
       "apoiadores": [
         "app",
         "FMG130002542026",
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "perfil": {
         "ocupacao_principal": "Ex-procurador"
@@ -5262,6 +5263,9 @@
         "numero": 3043
       },
       "prioridade": 30,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -5424,6 +5428,10 @@
         "numero": 3000
       },
       "prioridade": 30,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -5885,6 +5893,9 @@
         "numero": 3020
       },
       "prioridade": 30,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -6156,6 +6167,9 @@
         "numero": 30456
       },
       "prioridade": 10,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -6970,6 +6984,9 @@
         "numero": 22357
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -7187,7 +7204,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -8445,6 +8463,10 @@
         "numero": 22
       },
       "prioridade": 66,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -12805,6 +12827,9 @@
         "numero": 555
       },
       "prioridade": 49,
+      "apoiadores": [
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": "https://twitter.com/cristinagraeml",
@@ -19286,6 +19311,9 @@
         "numero": 22
       },
       "prioridade": 86,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,

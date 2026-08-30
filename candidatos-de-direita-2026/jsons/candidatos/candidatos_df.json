@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T21:13:21+00:00",
-  "hash": "8ed372abbf80",
+  "gerado_em": "2026-08-30T23:14:39+00:00",
+  "hash": "634f5e4dfc61",
   "candidatos": [
     {
       "nome_completo": "Alexandre Nunes dos Santos",
@@ -5855,6 +5855,10 @@
         "numero": 3000
       },
       "prioridade": 31,
+      "apoiadores": [
+        "ancapsu",
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -6049,7 +6053,9 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu",
+        "app"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -6107,6 +6113,9 @@
         "numero": 22122
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -6407,6 +6416,9 @@
         "numero": 22190
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -6462,6 +6474,9 @@
         "numero": 22822
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -6543,6 +6558,9 @@
         "numero": 2201
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -6572,7 +6590,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -7903,6 +7922,9 @@
         "numero": 11
       },
       "prioridade": 61,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -12861,6 +12883,9 @@
         "sigla": "PL",
         "numero": 22
       },
+      "apoiadores": [
+        "ancapsu"
+      ],
       "prioridade": 86,
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
