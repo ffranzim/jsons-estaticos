@@ -1,0 +1,7101 @@
+{
+  "gerado_em": "2026-08-30T21:13:21+00:00",
+  "hash": "8ed372abbf80",
+  "candidatos": [
+    {
+      "nome_completo": "Alexandre Mariano Lustosa",
+      "nome_urna": "Alexandre Mariano",
+      "foto": "fotos_avante_brasil/FPI180002552962_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 700
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Aline da Conceição Silva Nascimento",
+      "nome_urna": "Aline Nascimento",
+      "foto": "fotos_avante_brasil/FPI180002552093_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7077
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Alice Barbosa Alencar Campelo Mendes",
+      "nome_urna": "Ana Câmpelo",
+      "foto": "fotos_avante_brasil/FPI180002549935_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 700
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antônio José de Freitas Lira",
+      "nome_urna": "Antônio José Lira",
+      "foto": "fotos_avante_brasil/FPI180002549936_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 700
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Fábio Júnior de Sousa Lima",
+      "nome_urna": "Fabio Junior",
+      "foto": "fotos_avante_brasil/FPI180002550423_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7077
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Guilherme Ferreira da Cunha Rocha",
+      "nome_urna": "Guilherme Rocha",
+      "foto": "fotos_avante_brasil/FPI180002552960_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 700
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gustavo Henrique Leite Feijó",
+      "nome_urna": "Gustavo Pelo Piauí Ou Gustavo",
+      "foto": "fotos_avante_brasil/FPI180002550421_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Hedilene do Nascimento Silva",
+      "nome_urna": "Hedilene Nassil",
+      "foto": "fotos_avante_brasil/FPI180002548563_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7070
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Calina Raquel Lopes Batista Pereira",
+      "nome_urna": "Irmã Calina Lopes",
+      "foto": "fotos_avante_brasil/FPI180002552094_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7013
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ivanildo Mesquita Lopes",
+      "nome_urna": "Ivanildo Lopes",
+      "foto": "fotos_avante_brasil/FPI180002552961_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 707
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "José Carlos Lima da Silva",
+      "nome_urna": "J C do Dirceu",
+      "foto": "fotos_avante_brasil/FPI180002552963_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 700
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lucas Veras de Moraes",
+      "nome_urna": "Lucas Veras de Moraes",
+      "foto": "fotos_avante_brasil/FPI180002550422_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Glaydston Michel Saldanha Moura Lira",
+      "nome_urna": "Michel Saldanha",
+      "foto": "fotos_avante_brasil/FPI180002549937_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 700
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco de Sena Santos",
+      "nome_urna": "Pastor Sena",
+      "foto": "fotos_avante_brasil/FPI180002552964_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 707
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcos Aurelio da Fonseca",
+      "nome_urna": "Professor Marcos Aurélio",
+      "foto": "fotos_avante_brasil/FPI180002552096_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7010
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Reinaldo Ximenes da Silva",
+      "nome_urna": "Professor Ximenes",
+      "foto": "fotos_avante_brasil/FPI180002552095_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7070
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Stanley Pereira Meireles",
+      "nome_urna": "Stanley Meireles",
+      "foto": "fotos_avante_brasil/FPI180002552959_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 707
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcos Antônio dos Santos",
+      "nome_urna": "Marcos Canguru",
+      "foto": "fotos_avante_brasil/FPI180002554033_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7011
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Samara Assis de Oliveira",
+      "nome_urna": "Samara Oliveira",
+      "foto": "fotos_avante_brasil/FPI180002554035_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7099
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Valteví Barros de Souza",
+      "nome_urna": "Valtevi Barros",
+      "foto": "fotos_avante_brasil/FPI180002554121_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7022
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Zenivan Vieira dos Santos",
+      "nome_urna": "Professor Zenivan",
+      "foto": "fotos_avante_brasil/FPI180002554034_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7088
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Fábio Júnior de Sousa Lima",
+      "nome_urna": "Fabio Junior",
+      "foto": "fotos_avante_brasil/FPI180002553899_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70000
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Islandia Maria Pereira Piauilino",
+      "nome_urna": "Islândia Piauilino",
+      "foto": "fotos_avante_brasil/FPI180002554007_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "José Raimundo da Rocha Junior",
+      "nome_urna": "Júnior Rocha",
+      "foto": "fotos_avante_brasil/FPI180002553898_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70110
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "João Francisco da Silva Cavalcante",
+      "nome_urna": "João Cavalcante",
+      "foto": "fotos_avante_brasil/FPI180002553897_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70733
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcos Antonio dos Santos",
+      "nome_urna": "Marcos Canguru",
+      "foto": "fotos_avante_brasil/FPI180002553896_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Neryane Rosa dos Santos Costa",
+      "nome_urna": "Neryane Costa",
+      "foto": "fotos_avante_brasil/FPI180002554095_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Otoniel D Oliveira Chagas Bisneto",
+      "nome_urna": "Otoniel Chagas Bisneto",
+      "foto": "fotos_avante_brasil/FPI180002554006_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70190
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Zenivan Vieira dos Santos",
+      "nome_urna": "Professor Zenivan",
+      "foto": "fotos_avante_brasil/FPI180002553895_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jesus Rodrigues Alves",
+      "nome_urna": "Jesus Rodrigues",
+      "foto": "fotos_cidadania_brasil/FPI180002548580_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 2333
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joaquim Jose Saraiva da Penha",
+      "nome_urna": "Joaquim Saraiva",
+      "foto": "fotos_cidadania_brasil/FPI180002548572_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 2377
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Juliana Rodrigues Fontenele Oliveira",
+      "nome_urna": "Juliana Rodrigues",
+      "foto": "fotos_cidadania_brasil/FPI180002548570_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 2345
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "José Afonso Vieira",
+      "nome_urna": "Afonso Vieira",
+      "foto": "fotos_dc_brasil/FPI180002547861_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 278
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio de Deus Neto",
+      "nome_urna": "Antonio de Deus",
+      "foto": "fotos_dc_brasil/FPI180002549595_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2727
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Carlos Alberto Carcara da Silva",
+      "nome_urna": "Carlir Carcara",
+      "foto": "fotos_dc_brasil/FPI180002549593_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2755
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Denilson Barbosa da Silva",
+      "nome_urna": "Denilson Silva",
+      "foto": "fotos_dc_brasil/FPI180002549590_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2799
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dilcon Afonso Santos Carvalho",
+      "nome_urna": "Dilcon Afonso",
+      "foto": "fotos_dc_brasil/FPI180002547864_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 277
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dionisio Carvalho Neto",
+      "nome_urna": "Dionisio Carvalho",
+      "foto": "fotos_dc_brasil/FPI180002547863_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 277
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco das Chagas da Silva",
+      "nome_urna": "Francisco das Chagas",
+      "foto": "fotos_dc_brasil/FPI180002547859_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 277
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco das Chagas Pereira de Sousa",
+      "nome_urna": "Francisco Sousa",
+      "foto": "fotos_dc_brasil/FPI180002549591_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2700
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gisele Maria dos Santos Silva",
+      "nome_urna": "Gisele Santos",
+      "foto": "fotos_dc_brasil/FPI180002549586_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2738
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Evandro Marques Cunha",
+      "nome_urna": "Irmão Evandro Marques",
+      "foto": "fotos_dc_brasil/FPI180002547860_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 278
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jair Sampaio da Silva",
+      "nome_urna": "Jair Sampaio",
+      "foto": "fotos_dc_brasil/FPI180002549592_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2788
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Leonidas Pinto Firmesa",
+      "nome_urna": "Leônidas",
+      "foto": "fotos_dc_brasil/FPI180002549589_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2773
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Mikahil Fernando Santos Mendes",
+      "nome_urna": "Mikahil Mendes",
+      "foto": "fotos_dc_brasil/FPI180002547862_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 278
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pedro Pereira dos Santos Filho",
+      "nome_urna": "Pedro Pereira",
+      "foto": "fotos_dc_brasil/FPI180002548566_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Adão Roberto Lima da Silva",
+      "nome_urna": "Professor Adão",
+      "foto": "fotos_dc_brasil/FPI180002549594_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2777
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco José Martins Jurity",
+      "nome_urna": "Professor Jurity",
+      "foto": "fotos_dc_brasil/FPI180002548565_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Tatiana Maria Lima Cruz",
+      "nome_urna": "Tatiana Cruz",
+      "foto": "fotos_dc_brasil/FPI180002549588_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2722
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Josefa Goncalves da Silva",
+      "nome_urna": "Zefa",
+      "foto": "fotos_dc_brasil/FPI180002549587_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2710
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexsandro de Oliveira Pinto",
+      "nome_urna": "Alex Pinto",
+      "foto": "fotos_democrata_brasil/FPI180002548158_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 350
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Andreia Andrade Viana",
+      "nome_urna": "Andreia Viana",
+      "foto": "fotos_democrata_brasil/FPI180002541418_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3535
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio José Visgueira de Souza",
+      "nome_urna": "Antonio José dos Metalúrgicos",
+      "foto": "fotos_democrata_brasil/FPI180002548160_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 355
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pedro Henrique Monteiro dos Santos",
+      "nome_urna": "Engenheiro Pedro Monteiro",
+      "foto": "fotos_democrata_brasil/FPI180002541419_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3525
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisca Batista da Silva",
+      "nome_urna": "Francisca Protetora",
+      "foto": "fotos_democrata_brasil/FPI180002541414_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3517
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Geovanni Santos do Nascimento",
+      "nome_urna": "Geovanni Nascimento",
+      "foto": "fotos_democrata_brasil/FPI180002548156_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 355
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jardenya Eylane Bezerra Teles",
+      "nome_urna": "Jardenya Bezerra",
+      "foto": "fotos_democrata_brasil/FPI180002548155_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 355
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "João Ricardo Soares da Silva",
+      "nome_urna": "João Ricardo",
+      "foto": "fotos_democrata_brasil/FPI180002548389_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 35
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Evandro Craveiro da Rocha",
+      "nome_urna": "Missionário Evandro Craveiro",
+      "foto": "fotos_democrata_brasil/FPI180002548157_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 350
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rinaldo Jose Silva Cicero",
+      "nome_urna": "Pastor Rinaldo",
+      "foto": "fotos_democrata_brasil/FPI180002541422_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3555
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo César Alves Lustosa",
+      "nome_urna": "Paulo Lustosa",
+      "foto": "fotos_democrata_brasil/FPI180002541420_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3577
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Manoel Neto Lima Oliveira",
+      "nome_urna": "Prof Manoel Libras",
+      "foto": "fotos_democrata_brasil/FPI180002541416_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3545
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ravenna de Castro Lima Azevedo",
+      "nome_urna": "Ravenna da Inclusão",
+      "foto": "fotos_democrata_brasil/FPI180002548388_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 35
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Benedita Marques da Costa",
+      "nome_urna": "Sargenta Benedita",
+      "foto": "fotos_democrata_brasil/FPI180002541421_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3502
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco das Chagas de Oliveira Godinho",
+      "nome_urna": "Subtenente Oliveira",
+      "foto": "fotos_democrata_brasil/FPI180002541417_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3500
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sebastiana Maria Craveiro da Rocha",
+      "nome_urna": "Tiana Rocha",
+      "foto": "fotos_democrata_brasil/FPI180002548159_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 350
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Raimundo Vicente Pessoa Nogueira",
+      "nome_urna": "Vicente Nogueira",
+      "foto": "fotos_democrata_brasil/FPI180002541413_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3544
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Wesley Carvalho de Lima França",
+      "nome_urna": "Wesley França",
+      "foto": "fotos_democrata_brasil/FPI180002541415_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 3508
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Aline Teixeira Mascarenhas de Andrade",
+      "nome_urna": "Aline Teixeira",
+      "foto": "fotos_mdb_brasil/FPI180002536463_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1580
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Paula Mendes de Araujo",
+      "nome_urna": "Ana Paula",
+      "foto": "fotos_mdb_brasil/FPI180002536221_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15110
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Anyara Soares Aires Santos",
+      "nome_urna": "Anyara Santos",
+      "foto": "fotos_mdb_brasil/FPI180002536231_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15199
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Avelar de Castro Ferreira",
+      "nome_urna": "Avelar Ferreira",
+      "foto": "fotos_mdb_brasil/FPI180002536227_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15132
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Borges Monteiro",
+      "nome_urna": "Chico Monteiro",
+      "foto": "fotos_mdb_brasil/FPI180002536225_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15677
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Anamelka Albuquerque Formiga Adad",
+      "nome_urna": "Delegada Anamelka",
+      "foto": "fotos_mdb_brasil/FPI180002536456_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1501
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria Deusa da Paz Oliveira",
+      "nome_urna": "Deusa Pazoli",
+      "foto": "fotos_mdb_brasil/FPI180002536220_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dogival Vidal dos Reis Neto",
+      "nome_urna": "Dogim Felix",
+      "foto": "fotos_mdb_brasil/FPI180002536230_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15000
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Felipe de Souza Rezende Sampaio",
+      "nome_urna": "Dr. Felipe Sampaio",
+      "foto": "fotos_mdb_brasil/FPI180002533965_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 151
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose de Ribamar Bandeira Filho",
+      "nome_urna": "Dr. Ribamar Bandeira",
+      "foto": "fotos_mdb_brasil/FPI180002536455_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1500
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dário de Paulo Castro",
+      "nome_urna": "Dário Castro",
+      "foto": "fotos_mdb_brasil/FPI180002533966_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 151
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Francisco Luz Neto",
+      "nome_urna": "Enfermeiro Antonio Neto",
+      "foto": "fotos_mdb_brasil/FPI180002536458_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1512
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Enéas Maia dos Santos",
+      "nome_urna": "Enéas Maia",
+      "foto": "fotos_mdb_brasil/FPI180002536226_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gederlanio Rodrigues de Oliveira",
+      "nome_urna": "Gd",
+      "foto": "fotos_mdb_brasil/FPI180002536224_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15233
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Luis de Carvalho",
+      "nome_urna": "Irmão Zé Luis",
+      "foto": "fotos_mdb_brasil/FPI180002536457_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1522
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Waldy Pereira da Silva Junior",
+      "nome_urna": "Júnior Trinca",
+      "foto": "fotos_mdb_brasil/FPI180002536232_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15190
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Mauro Expedito Reis de Freitas Tapety",
+      "nome_urna": "Mauro Tapety",
+      "foto": "fotos_mdb_brasil/FPI180002536222_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15112
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gessivaldo Isaias de Carvalho Silva",
+      "nome_urna": "Pastor Gessivaldo Isaias",
+      "foto": "fotos_mdb_brasil/FPI180002536229_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15789
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Poliana dos Santos Aguiar",
+      "nome_urna": "Poliana Aguiar",
+      "foto": "fotos_mdb_brasil/FPI180002536233_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15520
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rômulo Augusto Gomes Rodrigues",
+      "nome_urna": "Rômulo Augusto",
+      "foto": "fotos_mdb_brasil/FPI180002536464_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1544
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sarah Gabrielle Cabral de Menezes",
+      "nome_urna": "Sarah Menezes",
+      "foto": "fotos_mdb_brasil/FPI180002536462_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1516
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sarvia Karoline Gomes Oliveira",
+      "nome_urna": "Sarvia",
+      "foto": "fotos_mdb_brasil/FPI180002536460_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1510
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sávia Waldejane Ferreira de Castro",
+      "nome_urna": "Savia Castro",
+      "foto": "fotos_mdb_brasil/FPI180002536215_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Themistocles de Sampaio Pereira Filho",
+      "nome_urna": "Themístocles Filho",
+      "foto": "fotos_mdb_brasil/FPI180002536234_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Valdene Brito Leal",
+      "nome_urna": "Valdene Brito",
+      "foto": "fotos_mdb_brasil/FPI180002536219_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15567
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Venancio Cardoso Neto",
+      "nome_urna": "Venâncio",
+      "foto": "fotos_mdb_brasil/FPI180002536459_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 1555
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luiz Henrique Sousa de Carvalho",
+      "nome_urna": "Ziza Carvalho",
+      "foto": "fotos_mdb_brasil/FPI180002536228_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15999
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Josenilde Alves da Silva Nunes",
+      "nome_urna": "Nilda Nunes",
+      "foto": "fotos_mdb_brasil/FPI180002553902_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15678
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ainoan de Sousa Santana",
+      "nome_urna": "Ainoan Sousa",
+      "foto": "fotos_mobiliza_brasil/FPI180002540685_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3303
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexandre da Costa Silva",
+      "nome_urna": "Alex Cabelo",
+      "foto": "fotos_mobiliza_brasil/FPI180002540687_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3322
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ângela Maria Sousa de Oliveira",
+      "nome_urna": "Angela do Povão",
+      "foto": "fotos_mobiliza_brasil/FPI180002540688_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3313
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Angelica Maria Araujo Almeida de Sousa",
+      "nome_urna": "Angélica Veríssimo",
+      "foto": "fotos_mobiliza_brasil/FPI180002544455_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 338
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Carlos Alberto Cardoso Azevedo",
+      "nome_urna": "Carlos Alberto",
+      "foto": "fotos_mobiliza_brasil/FPI180002544456_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 333
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Cicero Romao Santos de Oliveira",
+      "nome_urna": "Cicero Romão",
+      "foto": "fotos_mobiliza_brasil/FPI180002540686_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3325
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dyego Soares Estevão",
+      "nome_urna": "Dyego Soares",
+      "foto": "fotos_mobiliza_brasil/FPI180002544460_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 333
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Eneias de Sousa Moraes",
+      "nome_urna": "Eneias Moraes",
+      "foto": "fotos_mobiliza_brasil/FPI180002540681_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3347
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gersilda Teixeira de Araujo",
+      "nome_urna": "Gersilda Teixeira",
+      "foto": "fotos_mobiliza_brasil/FPI180002544458_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 338
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jéssicaline Alves Rodrigues",
+      "nome_urna": "Jéssicaline",
+      "foto": "fotos_mobiliza_brasil/FPI180002540679_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3320
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Roberto Bezerra de Oliveira",
+      "nome_urna": "Major Paulo Roberto",
+      "foto": "fotos_mobiliza_brasil/FPI180002544457_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 333
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcos Aureliano Ferreira da Silva",
+      "nome_urna": "Marcos Aureliano",
+      "foto": "fotos_mobiliza_brasil/FPI180002540684_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3330
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Mauricio Pereira de Sousa",
+      "nome_urna": "Mauricio de Sousa",
+      "foto": "fotos_mobiliza_brasil/FPI180002540689_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3333
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Orlando Matias do Nascimento",
+      "nome_urna": "Orlando Matias",
+      "foto": "fotos_mobiliza_brasil/FPI180002540682_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3321
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Galiana Marques da Costa",
+      "nome_urna": "Sargenta Galiana",
+      "foto": "fotos_mobiliza_brasil/FPI180002540680_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3399
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Almeida de Sousa",
+      "nome_urna": "Toinho Dufrango",
+      "foto": "fotos_mobiliza_brasil/FPI180002544459_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 338
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Valdivino Rodrigues da Silva",
+      "nome_urna": "Valdivino Fofão",
+      "foto": "fotos_mobiliza_brasil/FPI180002540683_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3355
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Albertino Ribeiro da Silva",
+      "nome_urna": "Albertino Ribeiro",
+      "foto": "fotos_novo_brasil/FPI180002534439_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3003
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio de Barros Araujo Filho",
+      "nome_urna": "Antônio Barros",
+      "foto": "fotos_novo_brasil/FPI180002549933_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 300
+      },
+      "prioridade": 50,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Aristoteles Hilton de Sousa Gonçalves",
+      "nome_urna": "Ari Hilton",
+      "foto": "fotos_novo_brasil/FPI180002534435_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3020
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Erivaldo Leite de Araujo",
+      "nome_urna": "Betim",
+      "foto": "fotos_novo_brasil/FPI180002549932_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 300
+      },
+      "prioridade": 50,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Deise Jaciele Pereira Soares",
+      "nome_urna": "Deise Jaciele",
+      "foto": "fotos_novo_brasil/FPI180002533970_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3023
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Karine Costa Bonfim",
+      "nome_urna": "Dra. Karine Bonfim",
+      "foto": "fotos_novo_brasil/FPI180002534440_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3022
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Elizeu Morais de Aguiar",
+      "nome_urna": "Elizeu Aguiar",
+      "foto": "fotos_novo_brasil/FPI180002549920_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 70,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Erivan Pio da Costa",
+      "nome_urna": "Erivan Costa",
+      "foto": "fotos_novo_brasil/FPI180002533971_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3075
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ismar Aguiar Marques",
+      "nome_urna": "Ismar Marques",
+      "foto": "fotos_novo_brasil/FPI180002549919_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 70,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jefferson Carvalho da Silva",
+      "nome_urna": "Jefferson Carvalho",
+      "foto": "fotos_novo_brasil/FPI180002533972_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3030
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lavínia Castelo Branco de Noronha Campos",
+      "nome_urna": "Lalá",
+      "foto": "fotos_novo_brasil/FPI180002534436_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3000
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luciane Pereira da Silva",
+      "nome_urna": "Lucy da Silva",
+      "foto": "fotos_novo_brasil/FPI180002534438_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3021
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marília Mendes de Carvalho Bomfim",
+      "nome_urna": "Marília Mendes",
+      "foto": "fotos_novo_brasil/FPI180002549934_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 300
+      },
+      "prioridade": 50,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Odir Santana Cruz da Silva",
+      "nome_urna": "Odir Santana",
+      "foto": "fotos_novo_brasil/FPI180002533973_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3077
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jean Pereira dos Santos",
+      "nome_urna": "Pereira Sá",
+      "foto": "fotos_novo_brasil/FPI180002534437_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3031
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Josimar Angelico de Carvalho",
+      "nome_urna": "Pr. Josimar Carvalho",
+      "foto": "fotos_novo_brasil/FPI180002534434_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3011
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Adelmar Ferreira de Sousa",
+      "nome_urna": "Adelmazin da Saúde",
+      "foto": "fotos_pl_brasil/FPI180002548639_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22202
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alberto Luis Araújo Silva",
+      "nome_urna": "Alberto Silva",
+      "foto": "fotos_pl_brasil/FPI180002548647_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22789
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Cleiton Rafael de Moraes Rufino",
+      "nome_urna": "Cleiton Popular",
+      "foto": "fotos_pl_brasil/FPI180002548685_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2255
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Mauricio Sérgio Ferreira Soares da Silva Júnior",
+      "nome_urna": "Dr. Maurício Soares",
+      "foto": "fotos_pl_brasil/FPI180002548686_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2200
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Emily do Nascimento Santos",
+      "nome_urna": "Emily Santos",
+      "foto": "fotos_pl_brasil/FPI180002548682_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2222
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Erivan Coutinho Lima",
+      "nome_urna": "Erivan Lima",
+      "foto": "fotos_pl_brasil/FPI180002548683_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2232
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ertima Maria Fontes de Morais",
+      "nome_urna": "Ertima",
+      "foto": "fotos_pl_brasil/FPI180002548651_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22234
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Flávia Moita Ramos",
+      "nome_urna": "Flávia Moita",
+      "foto": "fotos_pl_brasil/FPI180002548641_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22111
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Lima Silva Junior",
+      "nome_urna": "Francisco Junior Vet",
+      "foto": "fotos_pl_brasil/FPI180002548635_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22555
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Frida Silveira Dietrich Soares",
+      "nome_urna": "Frida de Direita",
+      "foto": "fotos_pl_brasil/FPI180002548646_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22777
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Glória Borges Soares",
+      "nome_urna": "Glória Borges",
+      "foto": "fotos_pl_brasil/FPI180002548644_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22000
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisca Maria dos Reis Lima Sousa",
+      "nome_urna": "Irmã Francisca",
+      "foto": "fotos_pl_brasil/FPI180002548638_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22221
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Jaciel Silva da Cruz",
+      "nome_urna": "Jaciel Silva",
+      "foto": "fotos_pl_brasil/FPI180002548642_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22822
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jhamya Weline Vasconcelos Junqueira",
+      "nome_urna": "Jhamya Junqueira",
+      "foto": "fotos_pl_brasil/FPI180002540451_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 222
+      },
+      "prioridade": 46,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lanna Lysa de Sousa Campos",
+      "nome_urna": "Lanna Campos",
+      "foto": "fotos_pl_brasil/FPI180002548640_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22444
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Liamara Alencar Mesquita",
+      "nome_urna": "Liamara Alencar",
+      "foto": "fotos_pl_brasil/FPI180002548681_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2211
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joao Paulo da Costa Araujo Alves",
+      "nome_urna": "Major Costa Araújo",
+      "foto": "fotos_pl_brasil/FPI180002548687_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2252
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcos Raimundo de Souza",
+      "nome_urna": "Marazzo",
+      "foto": "fotos_pl_brasil/FPI180002548636_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22026
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Natanael Ribeiro da Silva",
+      "nome_urna": "Natanael Vida Boa",
+      "foto": "fotos_pl_brasil/FPI180002548690_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2233
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Manoel Lopes Correia Lima",
+      "nome_urna": "Nel Lopes",
+      "foto": "fotos_pl_brasil/FPI180002548643_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22122
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Osias Sousa Aguiar",
+      "nome_urna": "Osias Aguiar",
+      "foto": "fotos_pl_brasil/FPI180002548648_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22222
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Fernando Perez Nobre Mourão",
+      "nome_urna": "Paulo Mourão",
+      "foto": "fotos_pl_brasil/FPI180002548689_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2277
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pedro Ayres Filho",
+      "nome_urna": "Pedro Ayres",
+      "foto": "fotos_pl_brasil/FPI180002548649_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22333
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rogério Gomes Galvão Leite",
+      "nome_urna": "Rogério Lingo Lingo",
+      "foto": "fotos_pl_brasil/FPI180002548688_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2210
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Samuel Coêlho de Melo",
+      "nome_urna": "Samuel Coêlho",
+      "foto": "fotos_pl_brasil/FPI180002548645_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22123
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sidnei Bonacolsi",
+      "nome_urna": "Sidnei Bonacolsi",
+      "foto": "fotos_pl_brasil/FPI180002548652_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22022
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria do Socorro Medeiros de Sousa",
+      "nome_urna": "Socorro Medeiros",
+      "foto": "fotos_pl_brasil/FPI180002548684_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2244
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "José Sudário da Silva Sobrinho",
+      "nome_urna": "Sudário",
+      "foto": "fotos_pl_brasil/FPI180002548650_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22345
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Tiago Maximiano Junqueira",
+      "nome_urna": "Tiago Junqueira",
+      "foto": "fotos_pl_brasil/FPI180002540449_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 222
+      },
+      "prioridade": 46,
+      "apoiadores": [
+        "FBR280002551544"
+      ],
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": "https://www.instagram.com/tiago_junqueira_pi_/",
+        "site_oficial": "https://tiagojunqueira.com.br/",
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Vitor Diego de Sousa Lima",
+      "nome_urna": "Vitor Lima",
+      "foto": "fotos_pl_brasil/FPI180002548637_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22888
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexandre Campelo de Sousa",
+      "nome_urna": "Alexandre Campelo",
+      "foto": "fotos_pode_brasil/FPI180002541694_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 2014
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gilberto Moreira de Sousa",
+      "nome_urna": "Dr. Gilberto Moreira",
+      "foto": "fotos_pode_brasil/FPI180002541693_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 2000
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria do Desterro dos Anjos Soares",
+      "nome_urna": "Maria Soares",
+      "foto": "fotos_pode_brasil/FPI180002541692_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 2022
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Calebe Oliveira Temporal de Souza",
+      "nome_urna": "Professor Calebe Temporal",
+      "foto": "fotos_pode_brasil/FPI180002541696_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 2077
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sandra Lima de Vasconcelos Ramos",
+      "nome_urna": "Professora Sandra Ramos",
+      "foto": "fotos_pode_brasil/FPI180002541691_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 2020
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "André Rodrigues Nogueira",
+      "nome_urna": "André Nogueira",
+      "foto": "fotos_pp_brasil/FPI180002539017_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11022
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Gonçalves de Carvalho Lima",
+      "nome_urna": "Antonio Cachorro",
+      "foto": "fotos_pp_brasil/FPI180002539135_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1144
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alcilene Costa Moraes",
+      "nome_urna": "Bibi Alcilene",
+      "foto": "fotos_pp_brasil/FPI180002539036_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11456
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rildo Barroso Cardoso",
+      "nome_urna": "Bispo Rildo Cardoso",
+      "foto": "fotos_pp_brasil/FPI180002539026_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11711
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Roberto Alves Soares",
+      "nome_urna": "Bob Guerreiro",
+      "foto": "fotos_pp_brasil/FPI180002539016_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11800
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antônio Francisco Gomes de Castro",
+      "nome_urna": "Chico Pança",
+      "foto": "fotos_pp_brasil/FPI180002539037_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11233
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ciro Nogueira Lima Filho",
+      "nome_urna": "Ciro Nogueira",
+      "foto": "fotos_pp_brasil/FPI180002540446_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 111
+      },
+      "prioridade": 41,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": "https://x.com/ciro_nogueira",
+        "instagram": "https://www.instagram.com/cironogueirapiaui/",
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Erivelto de Sa Barros",
+      "nome_urna": "Dr. Erivelto Barros",
+      "foto": "fotos_pp_brasil/FPI180002539024_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Andreia Araujo Couto de Sousa",
+      "nome_urna": "Dra. Andreia",
+      "foto": "fotos_pp_brasil/FPI180002539042_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11221
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Debora Carvalho Silva Ribeiro",
+      "nome_urna": "Dra. Debora Carvalho",
+      "foto": "fotos_pp_brasil/FPI180002539023_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Vania Carvalho dos Santos",
+      "nome_urna": "Enfermeira Vânia Carvalho",
+      "foto": "fotos_pp_brasil/FPI180002539129_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1123
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gil Marques de Medeiros",
+      "nome_urna": "Gil Paraibano",
+      "foto": "fotos_pp_brasil/FPI180002539137_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1100
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gustavo Sousa de Neiva",
+      "nome_urna": "Gustavo Neiva",
+      "foto": "fotos_pp_brasil/FPI180002539038_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11111
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gyselle Soares Estevao",
+      "nome_urna": "Gyselle Cajuína",
+      "foto": "fotos_pp_brasil/FPI180002539132_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1112
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Hallyson Martins da Mata e Silva",
+      "nome_urna": "Hallyson da Mata",
+      "foto": "fotos_pp_brasil/FPI180002539033_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joel Rodrigues da Silva",
+      "nome_urna": "Joel Rodrigues",
+      "foto": "fotos_pp_brasil/FPI180002538530_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11
+      },
+      "prioridade": 61,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jonas Barroso Luz Neto",
+      "nome_urna": "Jonas Barroso",
+      "foto": "fotos_pp_brasil/FPI180002539028_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "João José Ferreira Silva",
+      "nome_urna": "Jotinha",
+      "foto": "fotos_pp_brasil/FPI180002539130_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1155
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julio Ferraz Arcoverde",
+      "nome_urna": "Julio Arcoverde",
+      "foto": "fotos_pp_brasil/FPI180002539127_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1111
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Juraci Ribeiro Alberto",
+      "nome_urna": "Juraci Ribeiro",
+      "foto": "fotos_pp_brasil/FPI180002539025_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11441
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Raimundo Nonato Lima Percy Junior",
+      "nome_urna": "Júnior Percy",
+      "foto": "fotos_pp_brasil/FPI180002539021_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11444
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Larissa Freire de Farias Lima",
+      "nome_urna": "Larissa Freire",
+      "foto": "fotos_pp_brasil/FPI180002538633_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11345
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lytson Brendow de Barros Soares",
+      "nome_urna": "Lytson Breno",
+      "foto": "fotos_pp_brasil/FPI180002539031_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11122
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jarina de Paiva Buosi",
+      "nome_urna": "Missionária Débora Paiva",
+      "foto": "fotos_pp_brasil/FPI180002539015_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11100
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ricardo Saraiva de Oliveira Sobrinho Braz",
+      "nome_urna": "Pastor Ricardo Braz",
+      "foto": "fotos_pp_brasil/FPI180002540447_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 111
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pedro Alcântara Carvalho do Nascimento",
+      "nome_urna": "Pedro Alcântara",
+      "foto": "fotos_pp_brasil/FPI180002539039_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11007
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Petrus Evelyn Martins",
+      "nome_urna": "Petrus Evelyn (o Piauiense)",
+      "foto": "fotos_pp_brasil/FPI180002539014_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11000
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Raimundo Neto e Silva Nogueira Lima",
+      "nome_urna": "Raimundo Neto",
+      "foto": "fotos_pp_brasil/FPI180002540450_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 111
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Raimundo Nonato Oliveira Sousa",
+      "nome_urna": "Raimundo Sousa",
+      "foto": "fotos_pp_brasil/FPI180002539022_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Roberto Cesar de Area Leao Nascimento",
+      "nome_urna": "Roberto Leão",
+      "foto": "fotos_pp_brasil/FPI180002539032_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Samantha Cavalca Sobreira Dutra",
+      "nome_urna": "Samantha Cavalca",
+      "foto": "fotos_pp_brasil/FPI180002539134_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1122
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Suzane Maria Cardoso",
+      "nome_urna": "Suzane Cardoso",
+      "foto": "fotos_pp_brasil/FPI180002551675_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11411
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Tex Willer Marques dos Santos",
+      "nome_urna": "Tex Willer",
+      "foto": "fotos_pp_brasil/FPI180002539020_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11011
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joventina Moura Duarte Pimentel",
+      "nome_urna": "Tina Duarte",
+      "foto": "fotos_pp_brasil/FPI180002539041_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11223
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "José Jesus Trabulo de Sousa Neto",
+      "nome_urna": "Trabulo Neto",
+      "foto": "fotos_pp_brasil/FPI180002539040_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11999
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Valdelice da Silva Vieira",
+      "nome_urna": "Val Vieira",
+      "foto": "fotos_pp_brasil/FPI180002539030_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11126
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Fernando Oliveira de Brito",
+      "nome_urna": "Zé Fernando",
+      "foto": "fotos_pp_brasil/FPI180002539019_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11789
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Atila de Melo Lira",
+      "nome_urna": "Átila Lira",
+      "foto": "fotos_pp_brasil/FPI180002539133_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1110
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Anatoli France Veras e Silva",
+      "nome_urna": "Anatoli France",
+      "foto": "fotos_psdb_brasil/FPI180002552113_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45678
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco André Alves de Mesquita",
+      "nome_urna": "André Mesquita",
+      "foto": "fotos_psdb_brasil/FPI180002548575_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4555
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio de Padua Brito Costa",
+      "nome_urna": "Antônio de Pádua Carnaúba",
+      "foto": "fotos_psdb_brasil/FPI180002548573_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4566
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Muniz Dourado",
+      "nome_urna": "Antônio Muniz",
+      "foto": "fotos_psdb_brasil/FPI180002551960_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45666
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Ribeiro Filho Portela",
+      "nome_urna": "Chico Tanazo",
+      "foto": "fotos_psdb_brasil/FPI180002552103_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Diego Mendes Sousa",
+      "nome_urna": "Diego Mendes",
+      "foto": "fotos_psdb_brasil/FPI180002548569_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 456
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Eudes Carneiro",
+      "nome_urna": "Dr. Paulo Eudes",
+      "foto": "fotos_psdb_brasil/FPI180002544215_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Samuel Robson Moreira Rego",
+      "nome_urna": "Dr. Samuel Rego",
+      "foto": "fotos_psdb_brasil/FPI180002552112_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45567
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lúcia Maria de Sousa Aguiar dos Santos",
+      "nome_urna": "Dra. Lúcia Santos",
+      "foto": "fotos_psdb_brasil/FPI180002544216_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ednaldo Neiva",
+      "nome_urna": "Edino Neiva",
+      "foto": "fotos_psdb_brasil/FPI180002552108_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Edmilson de Oliveira Rodrigues",
+      "nome_urna": "Edmilson da Projet",
+      "foto": "fotos_psdb_brasil/FPI180002551959_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Eloiza Melo Queiróz",
+      "nome_urna": "Eloiza Melo",
+      "foto": "fotos_psdb_brasil/FPI180002551957_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45020
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Graziele Maria Oliveira França",
+      "nome_urna": "Graziele Oliveira",
+      "foto": "fotos_psdb_brasil/FPI180002548577_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4532
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Albinato Veloso da Silva",
+      "nome_urna": "Irmão Veloso",
+      "foto": "fotos_psdb_brasil/FPI180002548571_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4522
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Jorge Lopes Sousa",
+      "nome_urna": "Jorge Lopes",
+      "foto": "fotos_psdb_brasil/FPI180002548568_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 456
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joselito Oliveira de Andrade",
+      "nome_urna": "Joselito do Povão",
+      "foto": "fotos_psdb_brasil/FPI180002552106_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45165
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Carlos da Silva Machado",
+      "nome_urna": "José Carlos",
+      "foto": "fotos_psdb_brasil/FPI180002552110_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lucas Hellyus dos Santos Barbosa",
+      "nome_urna": "Lucas Barbosa",
+      "foto": "fotos_psdb_brasil/FPI180002548578_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4567
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcileide de Oliveira",
+      "nome_urna": "Marcia Guerreira",
+      "foto": "fotos_psdb_brasil/FPI180002552105_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45000
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Mayara Lopes de Arêa Leão Araujo",
+      "nome_urna": "Mayara Leão",
+      "foto": "fotos_psdb_brasil/FPI180002548576_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4545
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Milton Nonato da Silva Filho",
+      "nome_urna": "Miltinho",
+      "foto": "fotos_psdb_brasil/FPI180002548567_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 456
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Naiane da Silva Algarves Marcelice",
+      "nome_urna": "Naiane Algarves",
+      "foto": "fotos_psdb_brasil/FPI180002548579_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4517
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Pereira dos Santos Neto",
+      "nome_urna": "Neto Pereira",
+      "foto": "fotos_psdb_brasil/FPI180002552111_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45765
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Nemaura de Sousa Santos",
+      "nome_urna": "Neumara",
+      "foto": "fotos_psdb_brasil/FPI180002552114_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45444
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Deisiane Vieira da Silva",
+      "nome_urna": "Pastora Deisy",
+      "foto": "fotos_psdb_brasil/FPI180002551958_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria Lucia de Sousa",
+      "nome_urna": "Pastora Lúcia",
+      "foto": "fotos_psdb_brasil/FPI180002552109_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Iraldenon Rocha Monteiro",
+      "nome_urna": "Professor Iral",
+      "foto": "fotos_psdb_brasil/FPI180002552104_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45456
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ronnie Wagner Santos Costa",
+      "nome_urna": "Ronnie Costa",
+      "foto": "fotos_psdb_brasil/FPI180002552107_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Walmir Francisco Salvador da Silva",
+      "nome_urna": "Vigilante Walmir Salvador",
+      "foto": "fotos_psdb_brasil/FPI180002548574_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4511
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alan Teixeira Osorio",
+      "nome_urna": "Alan Osório",
+      "foto": "fotos_republicanos_brasil/FPI180002544104_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1099
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Flavia Teixeira Fidelis",
+      "nome_urna": "Ana Fidelis",
+      "foto": "fotos_republicanos_brasil/FPI180002544099_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1012
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Fabio Abreu Costa",
+      "nome_urna": "Capitão Fabio Abreu",
+      "foto": "fotos_republicanos_brasil/FPI180002544098_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1010
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Elisvania Rodrigues da Silva",
+      "nome_urna": "Doutora Elisvania Rodrigues",
+      "foto": "fotos_republicanos_brasil/FPI180002544102_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1044
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Fabricio Loiola Santos",
+      "nome_urna": "Fabricio Loiola",
+      "foto": "fotos_republicanos_brasil/FPI180002544105_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1011
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Magno Soares da Silva",
+      "nome_urna": "Magno Soares",
+      "foto": "fotos_republicanos_brasil/FPI180002544101_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1013
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Uyara Diana Carvalho Cipriano",
+      "nome_urna": "Pastora Diana Carvalho",
+      "foto": "fotos_republicanos_brasil/FPI180002544103_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1022
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Leonidas Quaresma de Carvalho Filho",
+      "nome_urna": "Prof Leonidas Quaresma",
+      "foto": "fotos_republicanos_brasil/FPI180002544100_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1036
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Tomaz Teixeira",
+      "nome_urna": "Tomaz Teixeira",
+      "foto": "fotos_republicanos_brasil/FPI180002544097_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 1001
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Cristina Fernandes da Silva",
+      "nome_urna": "Ana Comboa",
+      "foto": "fotos_uniao_brasil/FPI180002539027_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Aldenice Costa Moraes",
+      "nome_urna": "Dedé Aldenice",
+      "foto": "fotos_uniao_brasil/FPI180002539136_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4410
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Emanoel de Paiva Sousa",
+      "nome_urna": "Emanoel Paiva",
+      "foto": "fotos_uniao_brasil/FPI180002539128_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4411
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Geraldo Jarques Pereira Filho",
+      "nome_urna": "Geraldin",
+      "foto": "fotos_uniao_brasil/FPI180002539131_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4444
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jeova Barbosa de Carvalho Alencar",
+      "nome_urna": "Jeová Alencar",
+      "foto": "fotos_uniao_brasil/FPI180002538529_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 11
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Natricio Vale Almeida",
+      "nome_urna": "Natrício",
+      "foto": "fotos_uniao_brasil/FPI180002539018_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44789
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco das Chagas Costa Oliveira",
+      "nome_urna": "Quem Quem",
+      "foto": "fotos_uniao_brasil/FPI180002539029_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44700
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Cristina Ferreira Lima",
+      "nome_urna": "Tina dos Carroceiros",
+      "foto": "fotos_uniao_brasil/FPI180002539034_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "PI",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44567
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Augusto Jorge Cury",
+      "nome_urna": "Escritor Augusto Cury",
+      "foto": "fotos_avante_brasil/FBR280002551547_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julio Cesar Delgado",
+      "nome_urna": "Júlio Delgado",
+      "foto": "fotos_avante_brasil/FBR280002551546_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Clariana Zacarkim Barao",
+      "nome_urna": "Clariana Barao",
+      "foto": "fotos_dc_brasil/FBR280002552484_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Fabiana Cristina Tavares Torquato",
+      "nome_urna": "Fabiana Torquato",
+      "foto": "fotos_dc_brasil/FBR280002552485_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Wilson Grassi Junior",
+      "nome_urna": "Veterinário Wilson Grassi",
+      "foto": "fotos_democrata_brasil/FBR280002548139_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 35
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Suêd Haidar Nogueira",
+      "nome_urna": "Suêd Haidar",
+      "foto": "fotos_democrata_brasil/FBR280002548140_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 35
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Romeu Zema Neto",
+      "nome_urna": "Zema",
+      "foto": "fotos_novo_brasil/FBR280002539826_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 90,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": "https://x.com/RomeuZema",
+        "instagram": "https://www.instagram.com/romeuzemaoficial",
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": "https://linktr.ee/romeuzema",
+        "youtube": "https://www.youtube.com/@romeuzemaoficial"
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Combate ao privilégio / Combate aos Intocáveis",
+        "Defesa da liberdade de expressão",
+        "Defesa da moralidade pública",
+        "Corte de impostos e burocracia",
+        "Redução da maioridade penal",
+        "Redução de ministérios",
+        "Poupança de R$ 1 mil ao nascer"
+      ]
+    },
+    {
+      "nome_completo": "Luis Eduardo Grangeiro Girão",
+      "nome_urna": "Eduardo Girão",
+      "foto": "fotos_novo_brasil/FBR280002539825_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 90,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Flavio Nantes Bolsonaro",
+      "nome_urna": "Flavio Bolsonaro",
+      "foto": "fotos_pl_brasil/FBR280002551544_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22
+      },
+      "prioridade": 86,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alfredo Gaspar de Mendonça Neto",
+      "nome_urna": "Alfredo Gaspar",
+      "foto": "fotos_pl_brasil/FBR280002551543_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22
+      },
+      "prioridade": 86,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pablo Henrique Costa Marcal",
+      "nome_urna": "Pablo Marçal",
+      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PRTB",
+        "numero": 28
+      },
+      "prioridade": 81,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Leonardo Alves de Araujo",
+      "nome_urna": "Leonardo Avalanche",
+      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PRTB",
+        "numero": 28
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ronaldo Ramos Caiado",
+      "nome_urna": "Ronaldo Caiado",
+      "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PSD",
+        "numero": 55
+      },
+      "prioridade": 81,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gilberto Kassab",
+      "nome_urna": "Gilberto Kassab",
+      "foto": "fotos_psd_brasil/FBR280002551933_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PSD",
+        "numero": 55
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    }
+  ]
+}
