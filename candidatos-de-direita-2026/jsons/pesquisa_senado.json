@@ -1,0 +1,2125 @@
+{
+  "gerado_em": "2026-08-30T22:03:47+00:00",
+  "hash": "5da18b895dee",
+  "pesquisas": [
+    {
+      "uf": "AC",
+      "instituto_pesquisa": "AtlasIntel",
+      "data_pesquisa": "2026-08-02",
+      "candidatos": [
+        {
+          "nome": "Marcio Bittar",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 20.6
+        },
+        {
+          "nome": "Gladson Cameli",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 18.5
+        },
+        {
+          "nome": "Mara Rocha",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 18.1
+        },
+        {
+          "nome": "Jorge Viana",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 11.4
+        },
+        {
+          "nome": "Sérgio Petecão",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 9.9
+        },
+        {
+          "nome": "Eduardo Velloso",
+          "partido": "Solidariedade",
+          "numero": 77,
+          "percentual": 6.4
+        },
+        {
+          "nome": "Inácio Moreira",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 3.5
+        },
+        {
+          "nome": "Júnior Feitosa",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 0.7
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 2.3
+        },
+        {
+          "categoria": "Não sabe",
+          "percentual": 8.6
+        }
+      ]
+    },
+    {
+      "uf": "AL",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-23",
+      "candidatos": [
+        {
+          "nome": "Arthur Lira",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 20
+        },
+        {
+          "nome": "Renan Calheiros",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 18
+        },
+        {
+          "nome": "Marina JHC",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 15
+        },
+        {
+          "nome": "Davi Davino Filho",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 10
+        },
+        {
+          "nome": "Dr. Wanderley",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 5
+        },
+        {
+          "nome": "Mariedson",
+          "partido": "Democrata",
+          "numero": 20,
+          "percentual": 1
+        },
+        {
+          "nome": "Alexandre Fleming",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 12
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 19
+        }
+      ]
+    },
+    {
+      "uf": "AM",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-25",
+      "candidatos": [
+        {
+          "nome": "Capitão Alberto Neto",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 24
+        },
+        {
+          "nome": "Wilson Lima",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 19
+        },
+        {
+          "nome": "Eduardo Braga",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 18
+        },
+        {
+          "nome": "Plinio Valério",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 14
+        },
+        {
+          "nome": "Ismael Munduruku",
+          "partido": "Rede",
+          "numero": 18,
+          "percentual": 5
+        },
+        {
+          "nome": "Professora Evany",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 3
+        },
+        {
+          "nome": "Xuxa do Amazonas",
+          "partido": "Mobiliza",
+          "numero": 33,
+          "percentual": 2
+        },
+        {
+          "nome": "Evandro de Oliveira",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 1
+        },
+        {
+          "nome": "Dailson Corrêa",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 6
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 7
+        }
+      ]
+    },
+    {
+      "uf": "AP",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-24",
+      "candidatos": [
+        {
+          "nome": "Rayssa Furlan",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 27
+        },
+        {
+          "nome": "Randolfe Rodrigues",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 19
+        },
+        {
+          "nome": "Lucas Barreto",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 18
+        },
+        {
+          "nome": "Alliny Serrão",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 9
+        },
+        {
+          "nome": "Acácio Favacho",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 7
+        },
+        {
+          "nome": "João Capiberibe",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 4
+        },
+        {
+          "nome": "Helio Silva",
+          "partido": "PCO",
+          "numero": 29,
+          "percentual": 0
+        },
+        {
+          "nome": "Juíza Jô",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 0
+        },
+        {
+          "nome": "Professor Uzian Pinto",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 5
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 11
+        }
+      ]
+    },
+    {
+      "uf": "BA",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-10",
+      "candidatos": [
+        {
+          "nome": "Rui Costa",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 25
+        },
+        {
+          "nome": "Jaques Wagner",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 20
+        },
+        {
+          "nome": "Angelo Coronel",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 15
+        },
+        {
+          "nome": "João Roma",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 15
+        },
+        {
+          "nome": "Professora Delliana",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 5
+        },
+        {
+          "nome": "Carlos Sodré",
+          "partido": "Mobiliza",
+          "numero": 33,
+          "percentual": 1
+        },
+        {
+          "nome": "Marcelo Carvalho",
+          "partido": "Rede",
+          "numero": 18,
+          "percentual": 1
+        },
+        {
+          "nome": "Marcelo Santtana",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        },
+        {
+          "nome": "Gregório Gould",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Nulo/Branco",
+          "percentual": 9
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 8
+        }
+      ]
+    },
+    {
+      "uf": "CE",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-19",
+      "candidatos": [
+        {
+          "nome": "Cid Gomes",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 27
+        },
+        {
+          "nome": "Capitão Wagner",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 21
+        },
+        {
+          "nome": "Luizianne",
+          "partido": "Rede",
+          "numero": 18,
+          "percentual": 21
+        },
+        {
+          "nome": "Alcides Fernandes",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 14
+        },
+        {
+          "nome": "Guilherme Theofilo",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 5
+        },
+        {
+          "nome": "Catarina Matos",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 0
+        },
+        {
+          "nome": "Reginaldo",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 5
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 7
+        }
+      ]
+    },
+    {
+      "uf": "DF",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-24",
+      "candidatos": [
+        {
+          "nome": "Michelle Bolsonaro",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 25
+        },
+        {
+          "nome": "Leila do Vôlei",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 17
+        },
+        {
+          "nome": "Erika Kokay",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 12
+        },
+        {
+          "nome": "Bia Kicis",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 9
+        },
+        {
+          "nome": "Sebastião Coelho",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 2
+        },
+        {
+          "nome": "Professor Guilherme Amorim",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 2
+        },
+        {
+          "nome": "Ronaldo Fonseca",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 1
+        },
+        {
+          "nome": "Zanata",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 1
+        },
+        {
+          "nome": "Tiago",
+          "partido": "Agir",
+          "numero": 36,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Outros candidatos",
+          "percentual": 0
+        },
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 12
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 18
+        }
+      ]
+    },
+    {
+      "uf": "ES",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-26",
+      "candidatos": [
+        {
+          "nome": "Renato Casagrande",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 28
+        },
+        {
+          "nome": "Sérgio Meneguelli",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 10
+        },
+        {
+          "nome": "Fabiano Contarato",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 9
+        },
+        {
+          "nome": "Rose de Freitas",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 9
+        },
+        {
+          "nome": "Maguinha Malta",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 6
+        },
+        {
+          "nome": "Evair de Melo",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 5
+        },
+        {
+          "nome": "Marcos do Val",
+          "partido": "Avante",
+          "numero": 70,
+          "percentual": 4
+        },
+        {
+          "nome": "Rodney Miranda",
+          "partido": "PRTB",
+          "numero": 28,
+          "percentual": 2
+        },
+        {
+          "nome": "Professor Fabian",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 2
+        },
+        {
+          "nome": "Callegari",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        },
+        {
+          "nome": "Leonardo Monjardim",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 8
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 15
+        }
+      ]
+    },
+    {
+      "uf": "GO",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-27",
+      "candidatos": [
+        {
+          "nome": "Gracinha Caiado",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 27
+        },
+        {
+          "nome": "Gustavo Gayer",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 17
+        },
+        {
+          "nome": "Gustavo Mendanha",
+          "partido": "PRD",
+          "numero": 14,
+          "percentual": 12
+        },
+        {
+          "nome": "Dr. Zacharias Calil",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 12
+        },
+        {
+          "nome": "Vanderlan Cardoso",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 10
+        },
+        {
+          "nome": "Isaura Lemos",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 5
+        },
+        {
+          "nome": "Oséias Varão",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 4
+        },
+        {
+          "nome": "Cintia Dias",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 3
+        },
+        {
+          "nome": "Iure Castro",
+          "partido": "Cidadania",
+          "numero": 23,
+          "percentual": 2
+        },
+        {
+          "nome": "Ernesto Roller",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 4
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 3
+        }
+      ]
+    },
+    {
+      "uf": "MA",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-23",
+      "candidatos": [
+        {
+          "nome": "Roseana Sarney",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 16
+        },
+        {
+          "nome": "Weverton Rocha",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 11
+        },
+        {
+          "nome": "Lahesio Bonfim",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 10
+        },
+        {
+          "nome": "Eliziane Gama",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 9
+        },
+        {
+          "nome": "Fufuca",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 9
+        },
+        {
+          "nome": "Dr. Hilton Gonçalo",
+          "partido": "Mobiliza",
+          "numero": 33,
+          "percentual": 5
+        },
+        {
+          "nome": "Cidônio Gonçalves",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 1
+        },
+        {
+          "nome": "Wilson Leite",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 1
+        },
+        {
+          "nome": "Simplício Araújo",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        },
+        {
+          "nome": "Raimundo Moreira",
+          "partido": "PCB",
+          "numero": 21,
+          "percentual": 1
+        },
+        {
+          "nome": "Enilton Rodrigues",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 9
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 27
+        }
+      ]
+    },
+    {
+      "uf": "MG",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-26",
+      "candidatos": [
+        {
+          "nome": "Marília Campos",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 24
+        },
+        {
+          "nome": "Carlos Viana",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 13
+        },
+        {
+          "nome": "Domingos Sávio",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 13
+        },
+        {
+          "nome": "Marcelo Aro",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 12
+        },
+        {
+          "nome": "Áurea Carolina",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 9
+        },
+        {
+          "nome": "Marco Antônio Superman",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 4
+        },
+        {
+          "nome": "Ana Luiza do MLB",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        },
+        {
+          "nome": "Arcanjo Pimenta",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 1
+        },
+        {
+          "nome": "Carlin Moura",
+          "partido": "Avante",
+          "numero": 70,
+          "percentual": 1
+        },
+        {
+          "nome": "Gustavo Galassi",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 1
+        },
+        {
+          "nome": "Manoel Carvalho",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 1
+        },
+        {
+          "nome": "Marcelo Heringer",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 8
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 11
+        }
+      ]
+    },
+    {
+      "uf": "MS",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-05",
+      "candidatos": [
+        {
+          "nome": "Reinaldo Azambuja",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 38
+        },
+        {
+          "nome": "Capitão Contar",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 19
+        },
+        {
+          "nome": "Nelsinho Trad",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 15
+        },
+        {
+          "nome": "Vander Loubet",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 9
+        },
+        {
+          "nome": "Soraya Thronicke",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 8
+        },
+        {
+          "nome": "Beto do Movimento",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 5
+        },
+        {
+          "nome": "Daniel Júnior",
+          "partido": "Agir",
+          "numero": 36,
+          "percentual": 2
+        },
+        {
+          "nome": "Fernando Moraes",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 2
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 4
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 6
+        }
+      ]
+    },
+    {
+      "uf": "MT",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-11",
+      "candidatos": [
+        {
+          "nome": "Mauro Mendes",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 27
+        },
+        {
+          "nome": "Janaína Riva",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 25
+        },
+        {
+          "nome": "Carlos Fávaro",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 13
+        },
+        {
+          "nome": "José Medeiros",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 12
+        },
+        {
+          "nome": "Pedro Taques",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 11
+        },
+        {
+          "nome": "Antônio Galvan",
+          "partido": "Avante",
+          "numero": 70,
+          "percentual": 4
+        },
+        {
+          "nome": "Margareth Buzzetti",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 4
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 2
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 2
+        }
+      ]
+    },
+    {
+      "uf": "PA",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-03",
+      "candidatos": [
+        {
+          "nome": "Helder Barbalho",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 40
+        },
+        {
+          "nome": "Delegado Éder Mauro",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 16
+        },
+        {
+          "nome": "Celso Sabino",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 12
+        },
+        {
+          "nome": "Zequinha Marinho",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 11
+        },
+        {
+          "nome": "Chicão Melo",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 10
+        },
+        {
+          "nome": "Breno Guimarães",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 1
+        },
+        {
+          "nome": "Gizelle Freitas",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 1
+        },
+        {
+          "nome": "Lívia Noronha",
+          "partido": "Solidariedade",
+          "numero": 77,
+          "percentual": 1
+        },
+        {
+          "nome": "Gal Leite",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 0
+        },
+        {
+          "nome": "Marcelino Conti de Souza",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 3
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 5
+        }
+      ]
+    },
+    {
+      "uf": "PB",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-22",
+      "candidatos": [
+        {
+          "nome": "João Azevêdo",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 29
+        },
+        {
+          "nome": "Veneziano",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 23
+        },
+        {
+          "nome": "Marcelo Queiroga",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 15
+        },
+        {
+          "nome": "Nabor",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 15
+        },
+        {
+          "nome": "Major Fábio",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 4
+        },
+        {
+          "nome": "André Gadelha",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 4
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Nulo/Branco",
+          "percentual": 3
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 7
+        }
+      ]
+    },
+    {
+      "uf": "PE",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-15",
+      "candidatos": [
+        {
+          "nome": "Marília Arraes",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 29
+        },
+        {
+          "nome": "Humberto Costa",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 20
+        },
+        {
+          "nome": "Mendonça Filho",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 18
+        },
+        {
+          "nome": "Eduardo da Fonte",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 12
+        },
+        {
+          "nome": "Tulio Gadelha",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 11
+        },
+        {
+          "nome": "Carlos Sant'Anna",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 2
+        },
+        {
+          "nome": "Paulo Rubem",
+          "partido": "Rede",
+          "numero": 18,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 4
+        },
+        {
+          "categoria": "Não sabe",
+          "percentual": 3
+        }
+      ]
+    },
+    {
+      "uf": "PI",
+      "instituto_pesquisa": "Datafolha",
+      "data_pesquisa": "2026-08-21",
+      "candidatos": [
+        {
+          "nome": "Ciro Nogueira",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 16
+        },
+        {
+          "nome": "Marcelo Castro",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 16
+        },
+        {
+          "nome": "Júlio César",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 14
+        },
+        {
+          "nome": "Tiago Junqueira",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 4
+        },
+        {
+          "nome": "Jorge Lopes",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 2
+        },
+        {
+          "nome": "Danniel Rocha",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 2
+        },
+        {
+          "nome": "Antônio Barros",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 1
+        },
+        {
+          "nome": "Antônio José Lira",
+          "partido": "Avante",
+          "numero": 70,
+          "percentual": 1
+        },
+        {
+          "nome": "Major Paulo Roberto",
+          "partido": "Mobiliza",
+          "numero": 33,
+          "percentual": 1
+        },
+        {
+          "nome": "Maria Madalena Nunes",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 1
+        },
+        {
+          "nome": "Dionísio Carvalho",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        },
+        {
+          "nome": "Pedro Laurentino",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        },
+        {
+          "nome": "Cloves José",
+          "partido": "PCO",
+          "numero": 29,
+          "percentual": 1
+        },
+        {
+          "nome": "Francinaldo Leão",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 1
+        },
+        {
+          "nome": "Missionário Evandro Craveiro",
+          "partido": "Democrata",
+          "numero": 20,
+          "percentual": 1
+        },
+        {
+          "nome": "Jardenya Bezerra",
+          "partido": "Democrata",
+          "numero": 20,
+          "percentual": 1
+        },
+        {
+          "nome": "Irmão Evandro Marques",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        },
+        {
+          "nome": "Toinho Dufrango",
+          "partido": "Mobiliza",
+          "numero": 33,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Nenhum",
+          "percentual": 20
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 14
+        }
+      ]
+    },
+    {
+      "uf": "PR",
+      "instituto_pesquisa": "IRG Pesquisas",
+      "data_pesquisa": "2026-08-12",
+      "candidatos": [
+        {
+          "nome": "Deltan Dallagnol",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 19.6
+        },
+        {
+          "nome": "Gleisi Hoffmann",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 19.3
+        },
+        {
+          "nome": "Alexandre Curi",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 18.0
+        },
+        {
+          "nome": "Filipe Barros",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 16.8
+        },
+        {
+          "nome": "Cristina Graeml",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 6.2
+        },
+        {
+          "nome": "Dr. Rosinha",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 4.3
+        },
+        {
+          "nome": "Karen Guerreiro",
+          "partido": "Missão",
+          "numero": null,
+          "percentual": 1.2
+        },
+        {
+          "nome": "Joaquim do MLB",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 0.2
+        },
+        {
+          "nome": "Marcelo Marcelino",
+          "partido": "PCO",
+          "numero": 29,
+          "percentual": 0.1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Nenhum/Branco/Nulo",
+          "percentual": 6.5
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 7.8
+        }
+      ]
+    },
+    {
+      "uf": "RJ",
+      "instituto_pesquisa": "Datafolha",
+      "data_pesquisa": "2026-08-21",
+      "candidatos": [
+        {
+          "nome": "Benedita da Silva",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 15
+        },
+        {
+          "nome": "Carlos Jordy",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 8
+        },
+        {
+          "nome": "Carlos Portinho",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 8
+        },
+        {
+          "nome": "Marcelo Crivella",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 6
+        },
+        {
+          "nome": "Monica Benicio",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 6
+        },
+        {
+          "nome": "Pedro Paulo",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 6
+        },
+        {
+          "nome": "Waguinho",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 3
+        },
+        {
+          "nome": "André Monteiro",
+          "partido": "Democrata",
+          "numero": 20,
+          "percentual": 2
+        },
+        {
+          "nome": "Marcos Dias",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 2
+        },
+        {
+          "nome": "Michelly Xavier",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 2
+        },
+        {
+          "nome": "Helio Secco",
+          "partido": "Missão",
+          "numero": null,
+          "percentual": 1
+        },
+        {
+          "nome": "Luciano Mattos",
+          "partido": "PRTB",
+          "numero": 28,
+          "percentual": 1
+        },
+        {
+          "nome": "Luiz Eugenio",
+          "partido": "PCO",
+          "numero": 29,
+          "percentual": 1
+        },
+        {
+          "nome": "Paula Falcão",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 1
+        },
+        {
+          "nome": "Vinicius Benevides",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Nenhum",
+          "percentual": 23
+        },
+        {
+          "categoria": "Não sabe",
+          "percentual": 12
+        }
+      ]
+    },
+    {
+      "uf": "RN",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-23",
+      "candidatos": [
+        {
+          "nome": "Styvenson Valentim",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 16
+        },
+        {
+          "nome": "Zenaide Maia",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 10
+        },
+        {
+          "nome": "Samanda de Lula",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 8
+        },
+        {
+          "nome": "Rafael Motta",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 8
+        },
+        {
+          "nome": "Coronel Hélio",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 5
+        },
+        {
+          "nome": "Professor Guilherme",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        },
+        {
+          "nome": "Sandro Pimentel",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 1
+        },
+        {
+          "nome": "Gari Wendell Batista",
+          "partido": "Agir",
+          "numero": 36,
+          "percentual": 1
+        },
+        {
+          "nome": "Sônia Godeiro",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 1
+        },
+        {
+          "nome": "Rosália Fernandes",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 1
+        },
+        {
+          "nome": "Tércio Tinoco",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 1
+        },
+        {
+          "nome": "Clóvis Costa do Coletivo Nós",
+          "partido": "Agir",
+          "numero": 36,
+          "percentual": 0
+        },
+        {
+          "nome": "Linhares Jiboia",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 0
+        },
+        {
+          "nome": "Luciana Mandu",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Indecisos/não sabe/não respondeu",
+          "percentual": 24
+        },
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 23
+        }
+      ]
+    },
+    {
+      "uf": "RO",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-24",
+      "candidatos": [
+        {
+          "nome": "Dr. Fernando Máximo",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 17
+        },
+        {
+          "nome": "Silvia Cristina",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 11
+        },
+        {
+          "nome": "Bruno Bolsonaro Scheid",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 11
+        },
+        {
+          "nome": "Mariana Carvalho",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 10
+        },
+        {
+          "nome": "Acir Gurgacz",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 5
+        },
+        {
+          "nome": "Luciana Oliveira",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 4
+        },
+        {
+          "nome": "Engenheiro Thulio",
+          "partido": "Missão",
+          "numero": null,
+          "percentual": 1
+        },
+        {
+          "nome": "Luís Fernando",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 1
+        },
+        {
+          "nome": "Neidinha Suruí",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 1
+        },
+        {
+          "nome": "Aires Mota",
+          "partido": "PV",
+          "numero": 43,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Nulo/Branco/Não vai votar",
+          "percentual": 13
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 26
+        }
+      ]
+    },
+    {
+      "uf": "RR",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-26",
+      "candidatos": [
+        {
+          "nome": "Teresa Surita",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 19
+        },
+        {
+          "nome": "Nicoletti",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 17
+        },
+        {
+          "nome": "Helena da Asatur",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 16
+        },
+        {
+          "nome": "Chico Rodrigues",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 11
+        },
+        {
+          "nome": "Hélio Bolsonaro",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 5
+        },
+        {
+          "nome": "Pastor Isamar",
+          "partido": "União",
+          "numero": 44,
+          "percentual": 3
+        },
+        {
+          "nome": "Regina Tio Ivo",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 2
+        },
+        {
+          "nome": "Márcio Junqueira",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 1
+        },
+        {
+          "nome": "Bartô Macuxi",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 1
+        },
+        {
+          "nome": "Hilton Xavier",
+          "partido": "Avante",
+          "numero": 70,
+          "percentual": 1
+        },
+        {
+          "nome": "Rogério Miranda",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 0
+        },
+        {
+          "nome": "Mário Rocha",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 0
+        },
+        {
+          "nome": "Hipérion de Oliveira",
+          "partido": "PV",
+          "numero": 43,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Indecisos",
+          "percentual": 17
+        },
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 7
+        }
+      ]
+    },
+    {
+      "uf": "RS",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-24",
+      "candidatos": [
+        {
+          "nome": "Marcel Van Hattem",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 20
+        },
+        {
+          "nome": "Manuela D'Avila",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 19
+        },
+        {
+          "nome": "Sanderson",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 17
+        },
+        {
+          "nome": "Germano Rigotto",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 15
+        },
+        {
+          "nome": "Paulo Pimenta",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 15
+        },
+        {
+          "nome": "Frederico Antunes",
+          "partido": "PSD",
+          "numero": 55,
+          "percentual": 5
+        },
+        {
+          "nome": "Milton Cardoso",
+          "partido": "PSDB",
+          "numero": 45,
+          "percentual": 1
+        },
+        {
+          "nome": "Luciano do MLB",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 4
+        },
+        {
+          "categoria": "Não sabe/Não respondeu",
+          "percentual": 3
+        }
+      ]
+    },
+    {
+      "uf": "SC",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-23",
+      "candidatos": [
+        {
+          "nome": "Esperidião Amin",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 19
+        },
+        {
+          "nome": "Carlos Bolsonaro",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 16
+        },
+        {
+          "nome": "Carol De Toni",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 12
+        },
+        {
+          "nome": "Décio Lima",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 9
+        },
+        {
+          "nome": "Afrânio Boppré",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 2
+        },
+        {
+          "nome": "Lunelli",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 2
+        },
+        {
+          "nome": "Túlio de Amorim Pfuetzenreiter",
+          "partido": "Missão",
+          "numero": null,
+          "percentual": 1
+        },
+        {
+          "nome": "Ana Lúcia da Silveira Machado",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        },
+        {
+          "nome": "Joaninha de Oliveira",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 1
+        },
+        {
+          "nome": "Carol",
+          "partido": "PCO",
+          "numero": 29,
+          "percentual": 1
+        },
+        {
+          "nome": "Marlene Soccas",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 1
+        },
+        {
+          "nome": "Jeferson Rocha",
+          "partido": "PRD",
+          "numero": 14,
+          "percentual": 1
+        },
+        {
+          "nome": "Marcos Dorval",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Indecisos/não sabe",
+          "percentual": 23
+        },
+        {
+          "categoria": "Branco/Nulo",
+          "percentual": 11
+        }
+      ]
+    },
+    {
+      "uf": "SE",
+      "instituto_pesquisa": "Quaest",
+      "data_pesquisa": "2026-08-26",
+      "candidatos": [
+        {
+          "nome": "Delegado André David",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 11
+        },
+        {
+          "nome": "Rogério Carvalho",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 11
+        },
+        {
+          "nome": "André Moura",
+          "partido": "União Brasil",
+          "numero": 44,
+          "percentual": 9
+        },
+        {
+          "nome": "Delegado Alessandro",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 8
+        },
+        {
+          "nome": "Eduardo Amorim",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 7
+        },
+        {
+          "nome": "Rodrigo Valadares",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 7
+        },
+        {
+          "nome": "Edvaldo",
+          "partido": "PDT",
+          "numero": 12,
+          "percentual": 6
+        },
+        {
+          "nome": "Coronel Rocha",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 2
+        },
+        {
+          "nome": "Iran Barbosa",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 2
+        },
+        {
+          "nome": "Renatinha",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        },
+        {
+          "nome": "Paulinho da União Tur",
+          "partido": "DC",
+          "numero": 27,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Branco/Nulo/Não vai votar",
+          "percentual": 13
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 22
+        }
+      ]
+    },
+    {
+      "uf": "SP",
+      "instituto_pesquisa": "Datafolha",
+      "data_pesquisa": "2026-08-21",
+      "candidatos": [
+        {
+          "nome": "Marina Silva",
+          "partido": "Rede",
+          "numero": 18,
+          "percentual": 12
+        },
+        {
+          "nome": "Simone Tebet",
+          "partido": "PSB",
+          "numero": 40,
+          "percentual": 12
+        },
+        {
+          "nome": "André do Prado",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 10
+        },
+        {
+          "nome": "Guilherme Derrite",
+          "partido": "PP",
+          "numero": 11,
+          "percentual": 7
+        },
+        {
+          "nome": "Ricardo Salles",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 6
+        },
+        {
+          "nome": "Geraldo Rufino",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 4
+        },
+        {
+          "nome": "Soninha Francine",
+          "partido": "Cidadania",
+          "numero": 23,
+          "percentual": 3
+        },
+        {
+          "nome": "Marcio Alves",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 3
+        },
+        {
+          "nome": "Dra Eliana Ferreira",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 3
+        },
+        {
+          "nome": "Maíra de Souza",
+          "partido": "UP",
+          "numero": 80,
+          "percentual": 2
+        },
+        {
+          "nome": "William Teixeira",
+          "partido": "Agir",
+          "numero": 36,
+          "percentual": 1
+        },
+        {
+          "nome": "Petter Maahs",
+          "partido": "PCB",
+          "numero": 21,
+          "percentual": 1
+        },
+        {
+          "nome": "Ednelson Cesaretti",
+          "partido": "PCO",
+          "numero": 29,
+          "percentual": 1
+        },
+        {
+          "nome": "Weller Gonçalves",
+          "partido": "PSTU",
+          "numero": 16,
+          "percentual": 0
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Em branco/nenhum",
+          "percentual": 21
+        },
+        {
+          "categoria": "Indecisos",
+          "percentual": 14
+        }
+      ]
+    },
+    {
+      "uf": "TO",
+      "instituto_pesquisa": "Real Time Big Data",
+      "data_pesquisa": "2026-08-25",
+      "candidatos": [
+        {
+          "nome": "Eduardo Gomes",
+          "partido": "PL",
+          "numero": 22,
+          "percentual": 26
+        },
+        {
+          "nome": "Alexandre Guimarães",
+          "partido": "MDB",
+          "numero": 15,
+          "percentual": 18
+        },
+        {
+          "nome": "Gaguim",
+          "partido": "União",
+          "numero": 44,
+          "percentual": 10
+        },
+        {
+          "nome": "Vanderlei Luxemburgo",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 9
+        },
+        {
+          "nome": "Ronaldo Dimas",
+          "partido": "Podemos",
+          "numero": 19,
+          "percentual": 8
+        },
+        {
+          "nome": "Eli Borges",
+          "partido": "Republicanos",
+          "numero": 10,
+          "percentual": 7
+        },
+        {
+          "nome": "Paulo Mourão",
+          "partido": "PT",
+          "numero": 13,
+          "percentual": 6
+        },
+        {
+          "nome": "Professor Osvaldo",
+          "partido": "PSOL",
+          "numero": 50,
+          "percentual": 3
+        },
+        {
+          "nome": "Fábio Ribeiro",
+          "partido": "Rede",
+          "numero": 18,
+          "percentual": 1
+        },
+        {
+          "nome": "Helio Rodrigues Bolsonaro",
+          "partido": "Democrata",
+          "numero": 20,
+          "percentual": 1
+        },
+        {
+          "nome": "Nilton Santos",
+          "partido": "Novo",
+          "numero": 30,
+          "percentual": 1
+        }
+      ],
+      "brancos_nulos_indecisos": [
+        {
+          "categoria": "Nulo/Branco",
+          "percentual": 5
+        },
+        {
+          "categoria": "Não sabe",
+          "percentual": 5
+        }
+      ]
+    }
+  ]
+}
