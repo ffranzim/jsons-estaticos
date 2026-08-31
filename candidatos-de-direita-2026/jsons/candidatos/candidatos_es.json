@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T21:13:21+00:00",
-  "hash": "8ed372abbf80",
+  "gerado_em": "2026-08-31T01:02:14+00:00",
+  "hash": "15cd84a23530",
   "candidatos": [
     {
       "nome_completo": "Luiz Adriano Martins Rodrigues",
@@ -11309,6 +11309,9 @@
         "numero": 30
       },
       "prioridade": 90,
+      "apoiadores": [
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": "https://x.com/RomeuZema",

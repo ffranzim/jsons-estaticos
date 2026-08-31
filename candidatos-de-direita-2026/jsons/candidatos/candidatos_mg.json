@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T23:14:39+00:00",
-  "hash": "634f5e4dfc61",
+  "gerado_em": "2026-08-31T01:02:14+00:00",
+  "hash": "15cd84a23530",
   "candidatos": [
     {
       "nome_completo": "Alexandra Maria da Silva Santos",
@@ -34808,6 +34808,9 @@
         "numero": 30
       },
       "prioridade": 90,
+      "apoiadores": [
+        "app"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": "https://x.com/RomeuZema",
