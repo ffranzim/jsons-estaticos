@@ -1635,6 +1635,9 @@
         "numero": 3030
       },
       "prioridade": 30,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -1824,6 +1827,9 @@
         "numero": 22222
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -2176,6 +2182,9 @@
         "numero": 22123
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -2447,7 +2456,8 @@
       },
       "prioridade": 41,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "centro-direita",
       "redes_sociais": {
@@ -2586,6 +2596,9 @@
         "numero": 1190
       },
       "prioridade": 21,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -4131,6 +4144,9 @@
         "numero": 45
       },
       "prioridade": 61,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -4295,7 +4311,8 @@
       },
       "prioridade": 41,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "redes_sociais": {
         "twitter": "https://x.com/marinacfig",
@@ -5381,6 +5398,9 @@
         "numero": 4400
       },
       "prioridade": 21,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
