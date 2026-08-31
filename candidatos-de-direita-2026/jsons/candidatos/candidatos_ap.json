@@ -81,7 +81,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Deferido"
     },
     {
       "nome_completo": "Eliada dos Santos Foro",
@@ -216,7 +217,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Marcos Jose Reategui de Souza",
@@ -243,7 +245,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Weslen Figueiredo dos Santos",
@@ -297,7 +300,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Robson Marcos Gualberto do Carmo",
@@ -2268,7 +2272,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Deferido"
     },
     {
       "nome_completo": "Madson Millor Lima Rodrigues",
@@ -4975,7 +4980,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Anderson Ricardo de Almeida Feio",
@@ -5015,6 +5021,9 @@
         "numero": 44700
       },
       "prioridade": 1,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -5963,6 +5972,101 @@
       "bandeiras": [
         "Não cadastradas"
       ]
+    },
+    {
+      "nome_completo": "Antonio Paulo de Oliveira Furlan",
+      "nome_urna": "Dr. Furlan",
+      "foto": "fotos_psd_brasil/FAP30002530014_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "AP",
+      "partido": {
+        "sigla": "PSD",
+        "numero": 55
+      },
+      "prioridade": 61,
+      "apoiadores": [
+        "ancapsu"
+      ],
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Deferido com recurso"
+    },
+    {
+      "nome_completo": "Luiz Cantuaria Barreto",
+      "nome_urna": "Lucas Barreto",
+      "foto": "fotos_psd_brasil/FAP30002530069_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "AP",
+      "partido": {
+        "sigla": "PSD",
+        "numero": 555
+      },
+      "prioridade": 41,
+      "apoiadores": [
+        "FBR280002551544",
+        "ancapsu"
+      ],
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento"
+    },
+    {
+      "nome_completo": "Rayssa Cadena Furlan",
+      "nome_urna": "Rayssa Furlan",
+      "foto": "fotos_pode_brasil/FAP30002530071_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "AP",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 200
+      },
+      "prioridade": 41,
+      "apoiadores": [
+        "FBR280002551544",
+        "ancapsu"
+      ],
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento"
     }
   ]
 }

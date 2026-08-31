@@ -1118,37 +1118,6 @@
       ]
     },
     {
-      "nome_completo": "Acacio da Silva Favacho Neto",
-      "nome_urna": "Acácio Favacho",
-      "foto": "fotos_mdb_brasil/FAP30002549911_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "AP",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 151
-      },
-      "prioridade": 41,
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
       "nome_completo": "Diogo Wenceslau Vilhena Senior",
       "nome_urna": "Diogo Senior",
       "foto": "fotos_mdb_brasil/FAP30002549865_div.jpg",
@@ -2368,37 +2337,6 @@
         "numero": 15555
       },
       "prioridade": 1,
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
-      "nome_completo": "Helder Zahluth Barbalho",
-      "nome_urna": "Helder",
-      "foto": "fotos_mdb_brasil/FPA140002550779_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "PA",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 151
-      },
-      "prioridade": 41,
       "posicao_segundo_hub_politico": "centro",
       "redes_sociais": {
         "twitter": null,
@@ -62700,40 +62638,6 @@
       ]
     },
     {
-      "nome_completo": "Rayssa Cadena Furlan",
-      "nome_urna": "Rayssa Furlan",
-      "foto": "fotos_pode_brasil/FAP30002530071_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "AP",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 200
-      },
-      "prioridade": 41,
-      "apoiadores": [
-        "FBR280002551544"
-      ],
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": "https://x.com/rayssa_furlan",
-        "instagram": "https://www.instagram.com/rayssacfurlan/",
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": "https://www.facebook.com/rayssa.cadena",
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
       "nome_completo": "Alexandre Araujo Marcal",
       "nome_urna": "Alexandre Xambinho",
       "foto": "fotos_pode_brasil/FES80002537487_div.jpg",
@@ -62992,37 +62896,6 @@
         "numero": 2040
       },
       "prioridade": 21,
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
-      "nome_completo": "Daniel Barbosa Santos",
-      "nome_urna": "Dr. Daniel",
-      "foto": "fotos_pode_brasil/FPA140002549930_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20
-      },
-      "prioridade": 61,
       "posicao_segundo_hub_politico": "centro",
       "redes_sociais": {
         "twitter": null,
@@ -92924,37 +92797,6 @@
       ]
     },
     {
-      "nome_completo": "Antonio Paulo de Oliveira Furlan",
-      "nome_urna": "Dr. Furlan",
-      "foto": "fotos_psd_brasil/FAP30002530014_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "AP",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55
-      },
-      "prioridade": 61,
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
       "nome_completo": "Lorran Damasceno Barreto",
       "nome_urna": "Lorran Barreto",
       "foto": "fotos_psd_brasil/FAP30002531189_div.jpg",
@@ -92972,40 +92814,6 @@
         "site_oficial": null,
         "apoia_se": null,
         "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
-      "nome_completo": "Luiz Cantuaria Barreto",
-      "nome_urna": "Lucas Barreto",
-      "foto": "fotos_psd_brasil/FAP30002530069_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "AP",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 555
-      },
-      "prioridade": 41,
-      "apoiadores": [
-        "FBR280002551544"
-      ],
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": "https://x.com/LucasBarreto_AP",
-        "instagram": "https://www.instagram.com/lucasbarreto_ap/?hl=pt-br",
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": "https://www.facebook.com/lucasbarretosenador/?locale=pt_BR",
         "youtube": null
       },
       "contatos": {
@@ -99145,37 +98953,6 @@
       ],
       "motivos_exclusao": [
         "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
-      "nome_completo": "Ciro Ferreira Gomes",
-      "nome_urna": "Ciro Gomes",
-      "foto": "fotos_psdb_brasil/FCE60002531351_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "CE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45
-      },
-      "prioridade": 61,
-      "posicao_segundo_hub_politico": "centro-esquerda",
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro-esquerda pelo Hub Político"
       ]
     },
     {
@@ -178482,36 +178259,6 @@
       ]
     },
     {
-      "nome_completo": "Lívia Maria Araújo Noronha de Oliveira",
-      "nome_urna": "Lívia Noronha",
-      "foto": "fotos_solidariedade_brasil/FPA140002553952_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 777
-      },
-      "prioridade": 41,
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Filiação ao PSOL (esquerda)"
-      ]
-    },
-    {
       "nome_completo": "Jose Adailton Cruz Pereira",
       "nome_urna": "Adailton Cruz",
       "foto": "fotos_uniao_brasil/FAC10002544540_div.jpg",
@@ -178584,37 +178331,6 @@
         "numero": 44333
       },
       "prioridade": 1,
-      "posicao_segundo_hub_politico": "centro",
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "motivos_exclusao": [
-        "Classificado como centro pelo Hub Político"
-      ]
-    },
-    {
-      "nome_completo": "Clécio Luís Vilhena Vieira",
-      "nome_urna": "Clécio",
-      "foto": "fotos_uniao_brasil/FAP30002536311_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "AP",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44
-      },
-      "prioridade": 61,
       "posicao_segundo_hub_politico": "centro",
       "redes_sociais": {
         "twitter": null,
@@ -184843,6 +184559,70 @@
       "motivos_exclusao": [
         "Partido de esquerda",
         "Classificado como esquerda pelo Hub Político"
+      ]
+    },
+    {
+      "nome_completo": "Clécio Luís Vilhena Vieira",
+      "nome_urna": "Clécio",
+      "foto": "fotos_uniao_brasil/FAP30002536311_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "AP",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento",
+      "posicao_segundo_hub_politico": "centro",
+      "motivos_exclusao": [
+        "Classificado como centro pelo Hub Político"
+      ]
+    },
+    {
+      "nome_completo": "Acacio da Silva Favacho Neto",
+      "nome_urna": "Acácio Favacho",
+      "foto": "fotos_mdb_brasil/FAP30002549911_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "AP",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 151
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento",
+      "posicao_segundo_hub_politico": "centro",
+      "motivos_exclusao": [
+        "Classificado como centro pelo Hub Político"
       ]
     }
   ]

@@ -3091,6 +3091,9 @@
         "numero": 300
       },
       "prioridade": 50,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -3226,6 +3229,9 @@
         "numero": 30
       },
       "prioridade": 70,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -4253,7 +4259,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "redes_sociais": {
         "twitter": null,
@@ -5043,6 +5050,9 @@
         "numero": 11122
       },
       "prioridade": 1,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -5151,6 +5161,9 @@
         "numero": 11000
       },
       "prioridade": 1,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -5259,6 +5272,9 @@
         "numero": 1122
       },
       "prioridade": 21,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,

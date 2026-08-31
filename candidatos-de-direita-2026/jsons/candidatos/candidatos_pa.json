@@ -2165,7 +2165,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Edlaine Guimarães Santos Rodrigues",
@@ -2192,7 +2193,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "José Lucivaldo Moita",
@@ -2219,7 +2221,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Nelson Antonio Barbosa Margalho",
@@ -2300,7 +2303,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Adriana Ferreira de Almeida Silva",
@@ -2818,7 +2822,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Deferido"
     },
     {
       "nome_completo": "Iran Ataide de Lima",
@@ -3335,7 +3340,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Claudia Dias dos Santos",
@@ -4888,7 +4894,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Enedilson Lobato Pereira",
@@ -5104,7 +5111,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Eude da Costa Leite",
@@ -7849,7 +7857,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Francisca Charles Carneiro Silva",
@@ -12257,7 +12266,8 @@
       },
       "bandeiras": [
         "Não cadastradas"
-      ]
+      ],
+      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Fábio Alex Corrêa Barra",
@@ -13491,6 +13501,93 @@
       "bandeiras": [
         "Não cadastradas"
       ]
+    },
+    {
+      "nome_completo": "Daniel Barbosa Santos",
+      "nome_urna": "Dr. Daniel",
+      "foto": "fotos_pode_brasil/FPA140002549930_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "PA",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 20
+      },
+      "prioridade": 61,
+      "apoiadores": [
+        "ancapsu"
+      ],
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento"
+    },
+    {
+      "nome_completo": "Helder Zahluth Barbalho",
+      "nome_urna": "Helder",
+      "foto": "fotos_mdb_brasil/FPA140002550779_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PA",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 151
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento"
+    },
+    {
+      "nome_completo": "Lívia Maria Araújo Noronha de Oliveira",
+      "nome_urna": "Lívia Noronha",
+      "foto": "fotos_solidariedade_brasil/FPA140002553952_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "PA",
+      "partido": {
+        "sigla": "SOLIDARIEDADE",
+        "numero": 777
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "status_tse": "Aguardando julgamento"
     }
   ]
 }

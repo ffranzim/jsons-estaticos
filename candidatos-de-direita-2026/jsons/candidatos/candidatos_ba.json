@@ -9688,6 +9688,9 @@
         "numero": 2299
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -9959,6 +9962,9 @@
         "numero": 2226
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -10094,6 +10100,9 @@
         "numero": 22822
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -10204,7 +10213,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -10343,6 +10353,9 @@
         "numero": 2233
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -11021,6 +11034,9 @@
         "numero": 22122
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -11510,6 +11526,9 @@
         "numero": 22007
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -15705,7 +15724,8 @@
       },
       "prioridade": 41,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "centro-direita",
       "redes_sociais": {
@@ -18982,6 +19002,9 @@
         "numero": 44
       },
       "prioridade": 61,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "centro-direita",
       "redes_sociais": {
         "twitter": null,

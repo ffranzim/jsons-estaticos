@@ -1930,6 +1930,9 @@
         "numero": 3000
       },
       "prioridade": 30,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "redes_sociais": {
         "twitter": null,
         "instagram": null,
@@ -2204,6 +2207,9 @@
         "numero": 2211
       },
       "prioridade": 26,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "centro-direita",
       "redes_sociais": {
         "twitter": null,
@@ -2232,6 +2238,9 @@
         "numero": 22222
       },
       "prioridade": 6,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -2288,7 +2297,8 @@
       },
       "prioridade": 46,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "redes_sociais": {
         "twitter": null,
@@ -2479,6 +2489,9 @@
         "sigla": "PL",
         "numero": 2210
       },
+      "apoiadores": [
+        "ancapsu"
+      ],
       "prioridade": 26,
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
@@ -2974,6 +2987,9 @@
         "numero": 22
       },
       "prioridade": 66,
+      "apoiadores": [
+        "ancapsu"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
@@ -3030,7 +3046,8 @@
       },
       "prioridade": 41,
       "apoiadores": [
-        "FBR280002551544"
+        "FBR280002551544",
+        "ancapsu"
       ],
       "posicao_segundo_hub_politico": "centro-direita",
       "redes_sociais": {
