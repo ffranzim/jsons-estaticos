@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-31T01:02:14+00:00",
-  "hash": "15cd84a23530",
+  "gerado_em": "2026-09-01T02:36:16+00:00",
+  "hash": "d609659893da",
   "candidatos": [
     {
       "nome_completo": "Jaime Domingues Nunes",
@@ -5819,6 +5819,10 @@
         "numero": 22
       },
       "prioridade": 86,
+      "apoiadores": [
+        "ancapsu",
+        "FMG130002542026"
+      ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "twitter": null,
