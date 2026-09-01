@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-30T21:45:45+00:00",
-  "hash": "24366599d402",
+  "gerado_em": "2026-09-01T17:59:57+00:00",
+  "hash": "c165483bd47d",
   "apoiadores": [
     {
       "id": "app",
@@ -11,6 +11,11 @@
       "id": "ancapsu",
       "nome": "Peter Turguniev",
       "descricao": "Gordão da Ucrania"
+    },
+    {
+      "id": "teste",
+      "nome": "Nao considerar",
+      "descricao": "Não considerar"
     }
   ]
 }

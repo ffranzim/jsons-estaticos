@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-01T17:48:05+00:00",
-  "hash": "e7e07402066d",
+  "gerado_em": "2026-09-01T17:59:57+00:00",
+  "hash": "c165483bd47d",
   "candidatos": [
     {
       "nome_completo": "Alexandre Nunes dos Santos",
@@ -5831,7 +5831,8 @@
       },
       "prioridade": 50,
       "apoiadores": [
-        "app"
+        "app",
+        "teste"
       ],
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
