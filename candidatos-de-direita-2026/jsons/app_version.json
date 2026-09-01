@@ -1,18 +1,18 @@
 {
   "ios": {
-    "latestVersion": "1.2.0",
-    "buildNumber": "10",
-    "minSupportedVersion": "1.0.0",
-    "minSupportedBuildNumber": "1",
-    "updateUrl": "https://apps.apple.com/app/idSEU_ID",
+    "latestVersion": "1.0.16",
+    "buildNumber": "16",
+    "minSupportedVersion": "1.0.16",
+    "minSupportedBuildNumber": "16",
+    "updateUrl": "https://apps.apple.com/br/app/candidatos-de-direita-2026/id6804828582",
     "releaseNotes": "Correção de bugs e melhorias de performance."
   },
   "android": {
-    "latestVersion": "1.2.1",
-    "buildNumber": "12",
-    "minSupportedVersion": "1.1.0",
-    "minSupportedBuildNumber": "9",
-    "updateUrl": "https://play.google.com/store/apps/details?id=seu.pacote",
-    "releaseNotes": "Nova interface de perfil adicionada."
+    "latestVersion": "1.0.16",
+    "buildNumber": "16",
+    "minSupportedVersion": "1.0.16",
+    "minSupportedBuildNumber": "16",
+    "updateUrl": "https://play.google.com/store/apps/details?id=br.com.whoami&hl=pt",
+    "releaseNotes": "Correção de bugs e melhorias de performance."
   }
 }
