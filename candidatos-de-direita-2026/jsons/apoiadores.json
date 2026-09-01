@@ -1,16 +1,18 @@
 {
-  "gerado_em": "2026-09-01T18:08:07+00:00",
-  "hash": "2fffe9c15faf",
+  "gerado_em": "2026-09-01T23:15:21+00:00",
+  "hash": "722ce20d1e68",
   "apoiadores": [
     {
       "id": "app",
       "nome": "App Candidatos de direita",
-      "descricao": "APP"
+      "descricao": "APP",
+      "foto": "images/png/logo_direita.png"
     },
     {
       "id": "ancapsu",
       "nome": "Peter Turguniev",
-      "descricao": "Gordão da Ucrania"
+      "descricao": "Gordão da Ucrania",
+      "foto": "images/apoiadores/ancapsu.jpg"
     }
   ]
 }
