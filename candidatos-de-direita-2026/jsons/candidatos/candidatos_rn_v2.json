@@ -1,0 +1,5767 @@
+{
+  "gerado_em": "2026-09-02T11:30:00+00:00",
+  "candidatos": [
+    {
+      "nome_completo": "Clovis Ferreira da Costa",
+      "nome_urna": "Clóvis Costa do Coletivo Nós",
+      "foto": "fotos_agir_brasil/FRN200002548115_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 369
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Erivaldo da Costa",
+      "nome_urna": "Erivaldo Costa",
+      "foto": "fotos_agir_brasil/FRN200002549134_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 360
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Aldair de Lucena da Silva",
+      "nome_urna": "Gari Aldair",
+      "foto": "fotos_agir_brasil/FRN200002548116_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 369
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Wendell Batista dos Santos",
+      "nome_urna": "Gari Wendell Batista",
+      "foto": "fotos_agir_brasil/FRN200002549133_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 360
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Ananias Neto",
+      "nome_urna": "José Neto",
+      "foto": "fotos_agir_brasil/FRN200002549132_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 360
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Karlo Rodrigo Lucio Vieira",
+      "nome_urna": "Rodrigo Bolsonaro",
+      "foto": "fotos_agir_brasil/FRN200002546756_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 36
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria Socorro Batista de Macedo",
+      "nome_urna": "Socorro Batista",
+      "foto": "fotos_agir_brasil/FRN200002546755_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 36
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Charllys Padilha Felix",
+      "nome_urna": "Charllys Padilha",
+      "foto": "fotos_agir_brasil/FRN200002554266_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AGIR",
+        "numero": 369
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Adriana Carla Carvalho de Albuquerque Teixeira",
+      "nome_urna": "Adriana Albuquerque",
+      "foto": "fotos_avante_brasil/FRN200002551423_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7077
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Apolliane Rosseline Ferreira de Souza",
+      "nome_urna": "Apolliane Souza",
+      "foto": "fotos_avante_brasil/FRN200002551422_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7010
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gabriel Nunes da Silva",
+      "nome_urna": "Gabriel Nunes",
+      "foto": "fotos_avante_brasil/FRN200002551418_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7012
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Hudson Carlos de Carvalho Alves",
+      "nome_urna": "Hudson Tourinho",
+      "foto": "fotos_avante_brasil/FRN200002551424_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7070
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lilian Cynthia Freire",
+      "nome_urna": "Lilian Cynthia",
+      "foto": "fotos_avante_brasil/FRN200002551420_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7044
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Omar de Oliveira Nogueira",
+      "nome_urna": "Omar Nogueira",
+      "foto": "fotos_avante_brasil/FRN200002551421_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7000
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexander Jutic Campello",
+      "nome_urna": "Palhaço Fuxiquinho",
+      "foto": "fotos_avante_brasil/FRN200002551425_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7011
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Vitor Vinicius Marques da Silva",
+      "nome_urna": "Vitor Marques",
+      "foto": "fotos_avante_brasil/FRN200002551419_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 7022
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lidiane Maria Ayres Silva Bezerra",
+      "nome_urna": "Anne Bezerra",
+      "foto": "fotos_cidadania_brasil/FRN200002538215_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 2328
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Kleyton Ralph Silva",
+      "nome_urna": "Cabo Ralph",
+      "foto": "fotos_cidadania_brasil/FRN200002538226_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 23456
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Tatiane da Costa Soares Damasceno",
+      "nome_urna": "Dra Tatiane Costa",
+      "foto": "fotos_cidadania_brasil/FRN200002538231_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 23123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Ovidio Andrade de Melo Junior",
+      "nome_urna": "Paulo Ovídio",
+      "foto": "fotos_cidadania_brasil/FRN200002538214_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 2345
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Adelita Maria de Oliveira",
+      "nome_urna": "Adelita Oliveira",
+      "foto": "fotos_dc_brasil/FRN200002552147_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2799
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Allain Patrick Ferreira Xavier",
+      "nome_urna": "Allain Agente Judiciário",
+      "foto": "fotos_dc_brasil/FRN200002550227_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 277
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Carlos Alberto de Almeida Cavalcante",
+      "nome_urna": "Carlos Jararaca",
+      "foto": "fotos_dc_brasil/FRN200002550223_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jean Rodrigues do Nascimento",
+      "nome_urna": "Jean Rodrigues",
+      "foto": "fotos_dc_brasil/FRN200002552146_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2710
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gladyer Linhares Godeiro",
+      "nome_urna": "Linhares Jiboia",
+      "foto": "fotos_dc_brasil/FRN200002550225_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 277
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julio Cesar Neves",
+      "nome_urna": "Pastor Júlio",
+      "foto": "fotos_dc_brasil/FRN200002550224_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julio Rogerio da Silva Neto",
+      "nome_urna": "Pastor Júlio Neto",
+      "foto": "fotos_dc_brasil/FRN200002552145_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2711
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Clarice Teixeira Maia",
+      "nome_urna": "Professora Clarice",
+      "foto": "fotos_dc_brasil/FRN200002552150_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2730
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Melquisedec de Melo Lira",
+      "nome_urna": "Sargento Melquisedec",
+      "foto": "fotos_dc_brasil/FRN200002552149_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2722
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Wilka Nobrega Batista Souza",
+      "nome_urna": "Wilka Nóbrega",
+      "foto": "fotos_dc_brasil/FRN200002550226_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 277
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Erinaldo Moises Alves de Souza",
+      "nome_urna": "Xexeu de Natal",
+      "foto": "fotos_dc_brasil/FRN200002552144_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2724
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria Irismar Rodrigues de Souza Gois",
+      "nome_urna": "Íris de Góis",
+      "foto": "fotos_dc_brasil/FRN200002552148_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "DC",
+        "numero": 2777
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Luisa de Castro Silva",
+      "nome_urna": "Ana Luisa",
+      "foto": "fotos_mdb_brasil/FRN200002534348_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15180
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Angela Jucelyh Silva de Paiva Fagundes",
+      "nome_urna": "Angela Paiva",
+      "foto": "fotos_mdb_brasil/FRN200002534357_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15100
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Josivan Bibiano de Azevedo",
+      "nome_urna": "Bibiano",
+      "foto": "fotos_mdb_brasil/FRN200002534370_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Clovis Barbosa de Oliveira Junior",
+      "nome_urna": "Clovis Junior",
+      "foto": "fotos_mdb_brasil/FRN200002534359_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15000
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Jacome de Lima Junior",
+      "nome_urna": "Dr Antônio Jácome",
+      "foto": "fotos_mdb_brasil/FRN200002534358_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15133
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Manoel Milano Soares",
+      "nome_urna": "Dr Milano Maximo",
+      "foto": "fotos_mdb_brasil/FRN200002534349_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15999
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Elonaide Rodrigues da Rocha",
+      "nome_urna": "Ellem Rocha",
+      "foto": "fotos_mdb_brasil/FRN200002534360_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15300
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Elvis Felipe Amaro dos Santos",
+      "nome_urna": "Elvis de Dal",
+      "foto": "fotos_mdb_brasil/FRN200002534353_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15666
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Hermano da Costa Moraes",
+      "nome_urna": "Hermano Morais",
+      "foto": "fotos_mdb_brasil/FRN200002535256_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 44
+      },
+      "prioridade": 61,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Holderlin Silva de Araújo",
+      "nome_urna": "Holderlin Silva",
+      "foto": "fotos_mdb_brasil/FRN200002534354_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ismenia Vitoria de Araujo",
+      "nome_urna": "Ismenia Araujo",
+      "foto": "fotos_mdb_brasil/FRN200002534366_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15500
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ivan Lopes Junior",
+      "nome_urna": "Ivan Junior",
+      "foto": "fotos_mdb_brasil/FRN200002534351_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ivanilda Tenorio da Fonseca",
+      "nome_urna": "Ivanilda Tenorio",
+      "foto": "fotos_mdb_brasil/FRN200002534365_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15115
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jeferson Rodrigues de Brito",
+      "nome_urna": "Jeferson Brito",
+      "foto": "fotos_mdb_brasil/FRN200002534369_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Marques de Oliveira Junior",
+      "nome_urna": "Junior Marques",
+      "foto": "fotos_mdb_brasil/FRN200002534362_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luciano Tertulino Barbosa",
+      "nome_urna": "Luciano Barbosa",
+      "foto": "fotos_mdb_brasil/FRN200002534350_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Emerson Lima Moreira de Menezes",
+      "nome_urna": "Major Emerson",
+      "foto": "fotos_mdb_brasil/FRN200002534356_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15190
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marlene Costa do Monte",
+      "nome_urna": "Marlene Monte",
+      "foto": "fotos_mdb_brasil/FRN200002534368_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15015
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Emerson Ricardo Araújo de Melo",
+      "nome_urna": "Professor Emerson",
+      "foto": "fotos_mdb_brasil/FRN200002534361_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luis Carlos Noronha e Sousa",
+      "nome_urna": "Professor Luis Carlos Noronha",
+      "foto": "fotos_mdb_brasil/FRN200002534352_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15444
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria Salete Campelo",
+      "nome_urna": "Salete Campelo",
+      "foto": "fotos_mdb_brasil/FRN200002534367_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15400
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sara Maria da Silva Santos",
+      "nome_urna": "Sara Santos",
+      "foto": "fotos_mdb_brasil/FRN200002534364_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15155
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Walter Pereira Alves",
+      "nome_urna": "Walter Alves",
+      "foto": "fotos_mdb_brasil/FRN200002534363_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15678
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Yara Olegaria de Gois Silva",
+      "nome_urna": "Yara Gois",
+      "foto": "fotos_mdb_brasil/FRN200002534355_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MDB",
+        "numero": 15456
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexandre Ribeiro Ramos",
+      "nome_urna": "Alexandre Ramos",
+      "foto": "fotos_mobiliza_brasil/FRN200002549675_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3350
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Angelita Pereira da Silva",
+      "nome_urna": "Angelita da Vila",
+      "foto": "fotos_mobiliza_brasil/FRN200002549678_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3335
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Karine Cardoso de Lima",
+      "nome_urna": "Karine da Vila",
+      "foto": "fotos_mobiliza_brasil/FRN200002549674_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3309
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Magno Nascimento dos Reis",
+      "nome_urna": "Magno Reis",
+      "foto": "fotos_mobiliza_brasil/FRN200002549679_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3312
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francinalba Moreira Ribeiro",
+      "nome_urna": "Nalba da Saude",
+      "foto": "fotos_mobiliza_brasil/FRN200002549673_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3310
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Patricia de Souza Ferreira",
+      "nome_urna": "Patricia Ferreira",
+      "foto": "fotos_mobiliza_brasil/FRN200002549680_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3323
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Samara Torres Soares",
+      "nome_urna": "Samara Torres",
+      "foto": "fotos_mobiliza_brasil/FRN200002549677_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3322
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Wender de Andrade",
+      "nome_urna": "Wender Andrade",
+      "foto": "fotos_mobiliza_brasil/FRN200002549672_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3333
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Windson Balbino Lima",
+      "nome_urna": "Windson Xuxu",
+      "foto": "fotos_mobiliza_brasil/FRN200002549676_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "MOBILIZA",
+        "numero": 3324
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Abel Farias Silva",
+      "nome_urna": "Abel Farias",
+      "foto": "fotos_novo_brasil/FRN200002535503_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3030
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Camila Dumas Damasio Georg",
+      "nome_urna": "Camila Atípica",
+      "foto": "fotos_novo_brasil/FRN200002535506_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3022
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Daniel Rizzi Mavignier Lima",
+      "nome_urna": "Daniel Rizzi",
+      "foto": "fotos_novo_brasil/FRN200002535499_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3055
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dilson Lima de Oliveira",
+      "nome_urna": "Diretor Dilson Lima",
+      "foto": "fotos_novo_brasil/FRN200002535504_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3003
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Daniel Lima Sampaio",
+      "nome_urna": "Dr Daniel",
+      "foto": "fotos_novo_brasil/FRN200002535498_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3044
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Dalila Gurgel Neta",
+      "nome_urna": "Dra. Dalila Veterinária",
+      "foto": "fotos_novo_brasil/FRN200002535502_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3033
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Raphael Ferreira Araújo",
+      "nome_urna": "Raphael Ferreira",
+      "foto": "fotos_novo_brasil/FRN200002535500_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3000
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Richardson Ferreira Barbosa",
+      "nome_urna": "Richardson",
+      "foto": "fotos_novo_brasil/FRN200002535501_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3001
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Suyane Thainara Varela de Medeiros",
+      "nome_urna": "Suyane Varela",
+      "foto": "fotos_novo_brasil/FRN200002535505_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 3010
+      },
+      "prioridade": 30,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marta Maria Silva Camara",
+      "nome_urna": "Amora Brayan",
+      "foto": "fotos_pl_brasil/FRN200002534422_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22007
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Wesliane Karen Castilho de Almeida",
+      "nome_urna": "Anne Lagartixa",
+      "foto": "fotos_pl_brasil/FRN200002534417_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22762
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Anteomar Pereira da Silva",
+      "nome_urna": "Babá",
+      "foto": "fotos_pl_brasil/FRN200002534441_div.jpg",
+      "cargo_pleiteado": "Vice-Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22
+      },
+      "prioridade": 66,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rivaldo Costa",
+      "nome_urna": "Bibi Costa",
+      "foto": "fotos_pl_brasil/FRN200002533892_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22322
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Paulo Luiz da Silva Pereira",
+      "nome_urna": "Bispo Paulo Luiz",
+      "foto": "fotos_pl_brasil/FRN200002534428_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22456
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Deyvison Thalles Martins do Nascimento",
+      "nome_urna": "Cabo Deyvison",
+      "foto": "fotos_pl_brasil/FRN200002533879_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2288
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Camila Rouse de Araujo Cabral",
+      "nome_urna": "Camila Araújo",
+      "foto": "fotos_pl_brasil/FRN200002534421_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22777
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Hilkea Carla de Souza Medeiros Lima",
+      "nome_urna": "Carla Dickson",
+      "foto": "fotos_pl_brasil/FRN200002533876_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2211
+      },
+      "prioridade": 26,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Andre Luiz Vieira de Azevedo",
+      "nome_urna": "Coronel Azevedo",
+      "foto": "fotos_pl_brasil/FRN200002533888_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22222
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Inacio Brilhante de Araujo Filho",
+      "nome_urna": "Coronel Brilhante",
+      "foto": "fotos_pl_brasil/FRN200002533882_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2244
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Helio Imbrosio Oliveira",
+      "nome_urna": "Coronel Hélio",
+      "foto": "fotos_pl_brasil/FRN200002534447_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 222
+      },
+      "prioridade": 46,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": "https://www.instagram.com/coronelheliorn/",
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": "https://www.facebook.com/coronel.helio.oliveira.2025",
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Daniele Nogueira do Prado",
+      "nome_urna": "Daniele Prado",
+      "foto": "fotos_pl_brasil/FRN200002533884_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22722
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Kerginaldo Jácome da Costa",
+      "nome_urna": "Dr. Kerginaldo",
+      "foto": "fotos_pl_brasil/FRN200002534427_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22100
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gabriella Trajano Tinoco",
+      "nome_urna": "Gabi Trajano",
+      "foto": "fotos_pl_brasil/FRN200002533881_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2277
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gabriel Cesar de Oliveira Siqueira",
+      "nome_urna": "Gabriel César",
+      "foto": "fotos_pl_brasil/FRN200002534414_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22444
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gabriel Vitor Ribeiro de Lima",
+      "nome_urna": "Gabriel Ribeiro",
+      "foto": "fotos_pl_brasil/FRN200002534420_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22522
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gabriela Xavier da Silveira Palma Fagundes",
+      "nome_urna": "Gabriela Fagundes",
+      "foto": "fotos_pl_brasil/FRN200002534445_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 222
+      },
+      "prioridade": 46,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Elieser Girao Monteiro Filho",
+      "nome_urna": "General Girão",
+      "foto": "fotos_pl_brasil/FRN200002533875_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2210
+      },
+      "prioridade": 26,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Getulio Nunes do Rego",
+      "nome_urna": "Getúlio Rêgo",
+      "foto": "fotos_pl_brasil/FRN200002534424_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22110
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gustavo Henrique Lima de Carvalho",
+      "nome_urna": "Gustavo Carvalho",
+      "foto": "fotos_pl_brasil/FRN200002534423_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22888
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jorge Ricardo do Rosario",
+      "nome_urna": "Jorge do Rosário",
+      "foto": "fotos_pl_brasil/FRN200002533893_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22000
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Josemar de Souza Varela Filho",
+      "nome_urna": "Josemar Varela",
+      "foto": "fotos_pl_brasil/FRN200002533886_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22022
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Alves da Silva",
+      "nome_urna": "Juninho Saia Rodada",
+      "foto": "fotos_pl_brasil/FRN200002533883_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2200
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Karina Nunes Pimenta",
+      "nome_urna": "Karina Pimenta",
+      "foto": "fotos_pl_brasil/FRN200002534415_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22220
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcela Irina Alves Gomes da Silva",
+      "nome_urna": "Marcela Alves",
+      "foto": "fotos_pl_brasil/FRN200002533891_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22999
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Michael Lucena Diniz",
+      "nome_urna": "Michael Diniz",
+      "foto": "fotos_pl_brasil/FRN200002533887_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22422
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Yraguacy Araujo Almeida de Souza",
+      "nome_urna": "Nina Souza",
+      "foto": "fotos_pl_brasil/FRN200002533880_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2233
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jois Maria de Medeiros Ferreira",
+      "nome_urna": "Pastora Jois",
+      "foto": "fotos_pl_brasil/FRN200002534426_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22234
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pedro Cavalcante Albano Filho",
+      "nome_urna": "Pedro Filho",
+      "foto": "fotos_pl_brasil/FRN200002533878_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2255
+      },
+      "prioridade": 26,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Renan Cavalcanti de Souza",
+      "nome_urna": "Renan da Federal",
+      "foto": "fotos_pl_brasil/FRN200002534416_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22345
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Evandro Goncalves da Silva Junior",
+      "nome_urna": "Sargento Gonçalves",
+      "foto": "fotos_pl_brasil/FRN200002533877_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 2222
+      },
+      "prioridade": 26,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Manasses Cristiano Rocha da Silva",
+      "nome_urna": "Sargento Manasses",
+      "foto": "fotos_pl_brasil/FRN200002534418_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22556
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rivaldo Antonio da Silva Junior",
+      "nome_urna": "Sargento Rivaldo",
+      "foto": "fotos_pl_brasil/FRN200002533889_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22190
+      },
+      "prioridade": 6,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Terezinha Maia de Medeiros",
+      "nome_urna": "Terezinha Maia",
+      "foto": "fotos_pl_brasil/FRN200002533890_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22123
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luiz Antonio Lourenco de Farias",
+      "nome_urna": "Tomba Farias",
+      "foto": "fotos_pl_brasil/FRN200002534425_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22333
+      },
+      "prioridade": 6,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Álvaro Costa Dias",
+      "nome_urna": "Álvaro Dias",
+      "foto": "fotos_pl_brasil/FRN200002534442_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22
+      },
+      "prioridade": 66,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Anne Kelly Valentim Mendes",
+      "nome_urna": "Kelly Valentim",
+      "foto": "fotos_pode_brasil/FRN200002534446_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 200
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Eann Styvenson Valentim Mendes",
+      "nome_urna": "Styvenson Valentim",
+      "foto": "fotos_pode_brasil/FRN200002534448_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 200
+      },
+      "prioridade": 41,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": "https://www.instagram.com/senadorstyvensonvalentim/",
+        "site_oficial": "https://svrn.com.br/",
+        "apoia_se": null,
+        "links": "https://www.facebook.com/SenadorStyvensonValentim/videos/",
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Adriana Firmino da Silva Nascimento",
+      "nome_urna": "Adriana Trombeta",
+      "foto": "fotos_pp_brasil/FRN200002535739_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11000
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexandre Feitosa da Silva",
+      "nome_urna": "Bambam",
+      "foto": "fotos_pp_brasil/FRN200002535732_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11711
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marijara Luz Ribeiro Chaves",
+      "nome_urna": "Dadaia Ribeiro",
+      "foto": "fotos_pp_brasil/FRN200002535509_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 444
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Vanderlândio Jackson de Souza Costa",
+      "nome_urna": "Derlandio Jackson",
+      "foto": "fotos_pp_brasil/FRN200002535742_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joao da Silva Maia",
+      "nome_urna": "João Maia",
+      "foto": "fotos_pp_brasil/FRN200002535715_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1111
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julio Cesar Soares Camara",
+      "nome_urna": "Julio Cesar",
+      "foto": "fotos_pp_brasil/FRN200002535726_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Kleber Geverson de Oliveira Rodrigues",
+      "nome_urna": "Kleber Rodrigues",
+      "foto": "fotos_pp_brasil/FRN200002535736_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11999
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Leila Soares Maia",
+      "nome_urna": "Leila Maia",
+      "foto": "fotos_pp_brasil/FRN200002535719_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1144
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Carla Kaline Fernandes Camara",
+      "nome_urna": "Major Carla Câmara",
+      "foto": "fotos_pp_brasil/FRN200002535737_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11666
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Neilton Carlos Diogenes Magalhaes",
+      "nome_urna": "Neilton Diógenes",
+      "foto": "fotos_pp_brasil/FRN200002535725_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11111
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Nelter Lula de Queiroz Santos",
+      "nome_urna": "Nelter Queiroz",
+      "foto": "fotos_pp_brasil/FRN200002535728_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11222
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ana Paula de Lima Carvalho Galdino",
+      "nome_urna": "Paulinha Galdino",
+      "foto": "fotos_pp_brasil/FRN200002535720_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1122
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Carla Polyanna da Silva",
+      "nome_urna": "Polyanna Dantas",
+      "foto": "fotos_pp_brasil/FRN200002535731_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Robinson Mesquita de Faria",
+      "nome_urna": "Robinson Faria",
+      "foto": "fotos_pp_brasil/FRN200002535721_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 1155
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sirleno Raimundo da Silva Junior",
+      "nome_urna": "Sirleno Junior",
+      "foto": "fotos_pp_brasil/FRN200002535733_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PP",
+        "numero": 11777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexsandra da Silva Xavier",
+      "nome_urna": "Alexsandra Xavier",
+      "foto": "fotos_prd_brasil/FRN200002546788_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25900
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Carlos Alexandre da Silva Pereira",
+      "nome_urna": "Carlos Enfermeiro",
+      "foto": "fotos_prd_brasil/FRN200002546773_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 2500
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Antonio da Silva",
+      "nome_urna": "Chico do Chapéu de Couro",
+      "foto": "fotos_prd_brasil/FRN200002546780_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25600
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Daniel Santos Silva do Rego",
+      "nome_urna": "Daniel Santos",
+      "foto": "fotos_prd_brasil/FRN200002546786_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25789
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Edmilson da Silva",
+      "nome_urna": "Edmilson Acari",
+      "foto": "fotos_prd_brasil/FRN200002546782_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Nunes da Silva Filho",
+      "nome_urna": "Fran Barbeiro",
+      "foto": "fotos_prd_brasil/FRN200002546769_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 2544
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Garibalde Leite de Oliveira",
+      "nome_urna": "Garibalde Leite",
+      "foto": "fotos_prd_brasil/FRN200002546770_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 2570
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Geovana Aparecida Lima da Silva",
+      "nome_urna": "Geovana Silva",
+      "foto": "fotos_prd_brasil/FRN200002546789_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gilberto Verissimo Torres",
+      "nome_urna": "Gilberto Olinto",
+      "foto": "fotos_prd_brasil/FRN200002546778_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25456
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Lima da Costa",
+      "nome_urna": "J Lima",
+      "foto": "fotos_prd_brasil/FRN200002546781_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25001
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jussycleia Vilela Nunes da Silveira",
+      "nome_urna": "Jussy Nunes",
+      "foto": "fotos_prd_brasil/FRN200002546785_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25444
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Manoel Felix da Silva Mendes",
+      "nome_urna": "Manoel Felix",
+      "foto": "fotos_prd_brasil/FRN200002546783_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Severina Evionarde dos Santos",
+      "nome_urna": "Narde Santos",
+      "foto": "fotos_prd_brasil/FRN200002546774_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 2555
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Nildete Vitorino",
+      "nome_urna": "Nildete Vitorino",
+      "foto": "fotos_prd_brasil/FRN200002546784_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcelo Alves Felippe",
+      "nome_urna": "Prof. Marcelo Felippe",
+      "foto": "fotos_prd_brasil/FRN200002546790_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25065
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maria Aparecida da Silva",
+      "nome_urna": "Professora Aparecida",
+      "foto": "fotos_prd_brasil/FRN200002546779_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Severina Ramos da Cunha",
+      "nome_urna": "Rama Cunha",
+      "foto": "fotos_prd_brasil/FRN200002546776_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 2512
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ronaldo Batista Negromonte",
+      "nome_urna": "Ronaldo Cachorrão",
+      "foto": "fotos_prd_brasil/FRN200002546777_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PRD",
+        "numero": 25700
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alexsandson Silva do Nascimento",
+      "nome_urna": "Alex Kroos",
+      "foto": "fotos_psdb_brasil/FRN200002538219_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4581
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lauriany Alves de Alcantara",
+      "nome_urna": "Any Alcântara",
+      "foto": "fotos_psdb_brasil/FRN200002538237_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45707
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ataandra Martins Pereira Abrantes",
+      "nome_urna": "Ataandra Abrantes",
+      "foto": "fotos_psdb_brasil/FRN200002538217_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4588
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Antonio Juscicleiton Silva",
+      "nome_urna": "Cleiton da Policlínica",
+      "foto": "fotos_psdb_brasil/FRN200002538224_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45231
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Daiana Valentim Freire",
+      "nome_urna": "Daiana Valentim",
+      "foto": "fotos_psdb_brasil/FRN200002538245_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45444
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Davi Fernandes de Oliveira",
+      "nome_urna": "Davi Fernandes",
+      "foto": "fotos_psdb_brasil/FRN200002538223_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45789
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sergio Fernando Leocadio Teixeira",
+      "nome_urna": "Delegado Leocádio",
+      "foto": "fotos_psdb_brasil/FRN200002538242_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45999
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gustavo Montenegro Soares",
+      "nome_urna": "Dr Gustavo Soares",
+      "foto": "fotos_psdb_brasil/FRN200002538244_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julia Ferreira Lopes de Almeida",
+      "nome_urna": "Dra Júlia Almeida",
+      "foto": "fotos_psdb_brasil/FRN200002538227_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45666
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Engracia Alves de Oliveira Neta da Silva",
+      "nome_urna": "Engrácia Alves",
+      "foto": "fotos_psdb_brasil/FRN200002538241_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45777
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Eugenio Ribeiro de Souza Neto",
+      "nome_urna": "Eugênio Ribeiro",
+      "foto": "fotos_psdb_brasil/FRN200002538225_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Expedito Ferreira de Souza",
+      "nome_urna": "Expedito Ferreira",
+      "foto": "fotos_psdb_brasil/FRN200002538234_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ezequiel Galvao Ferreira de Souza",
+      "nome_urna": "Ezequiel",
+      "foto": "fotos_psdb_brasil/FRN200002538230_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45678
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Flavio Luiz Araujo de Oliveira",
+      "nome_urna": "Flavio Luiz",
+      "foto": "fotos_psdb_brasil/FRN200002538216_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4512
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Flavio Cesar Nogueira",
+      "nome_urna": "Flávio de Berói",
+      "foto": "fotos_psdb_brasil/FRN200002538235_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45200
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gilvan Sarinho Ribeiro",
+      "nome_urna": "Gilvan Balada",
+      "foto": "fotos_psdb_brasil/FRN200002538236_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45084
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jonata Justino do Nascimento",
+      "nome_urna": "Jonata Nascimento",
+      "foto": "fotos_psdb_brasil/FRN200002538238_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45077
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Raimundo Colaça da Silva Filho",
+      "nome_urna": "Júnior Colaça",
+      "foto": "fotos_psdb_brasil/FRN200002538229_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Sirleide Rosa de Oliveira",
+      "nome_urna": "Leide Fit",
+      "foto": "fotos_psdb_brasil/FRN200002538232_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45455
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Leonardo Winicius de Souza Euzebio",
+      "nome_urna": "Léo Souza",
+      "foto": "fotos_psdb_brasil/FRN200002538240_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45700
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Moisés de Almeida Santos",
+      "nome_urna": "Major Moisés",
+      "foto": "fotos_psdb_brasil/FRN200002538222_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45190
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Milena Galvao Ferreira de Souza",
+      "nome_urna": "Milena Galvão",
+      "foto": "fotos_psdb_brasil/FRN200002534444_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 200
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luciana Araújo Silva",
+      "nome_urna": "Nega de Nenem Borges",
+      "foto": "fotos_psdb_brasil/FRN200002538213_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4500
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ney Robson da Rocha Alves",
+      "nome_urna": "Ney Robson",
+      "foto": "fotos_psdb_brasil/FRN200002538243_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45045
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ludimilla Carvalho Serafim de Oliveira",
+      "nome_urna": "Reitora Ludimilla",
+      "foto": "fotos_psdb_brasil/FRN200002538239_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45456
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rodrigo Antonio Medeiros Aladim de Araujo",
+      "nome_urna": "Rodrigo Aladim",
+      "foto": "fotos_psdb_brasil/FRN200002538218_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4567
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Rosano Taveira da Cunha Junior",
+      "nome_urna": "Taveira Júnior",
+      "foto": "fotos_psdb_brasil/FRN200002538233_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45000
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Valerio Djalma Cavalcanti Marinho",
+      "nome_urna": "Valério Marinho",
+      "foto": "fotos_psdb_brasil/FRN200002534443_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 222
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Domingos Gondim",
+      "nome_urna": "Zé Peixeiro",
+      "foto": "fotos_psdb_brasil/FRN200002538220_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 4545
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Eriko Samuel Xavier de Oliveira",
+      "nome_urna": "Ériko Jácome",
+      "foto": "fotos_psdb_brasil/FRN200002538246_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "PSDB",
+        "numero": 45111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Joaquim Luiz de Araujo Neto",
+      "nome_urna": "Netinho Lins",
+      "foto": "fotos_republicanos_brasil/FRN200002535508_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "REPUBLICANOS",
+        "numero": 555
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Hilda Cristiani Silva da Costa",
+      "nome_urna": "Cristiani Artesã",
+      "foto": "fotos_solidariedade_brasil/FRN200002546772_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "SOLIDARIEDADE",
+        "numero": 7732
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Deborah Suellen Cabral de Freitas",
+      "nome_urna": "Déborah Suellen",
+      "foto": "fotos_solidariedade_brasil/FRN200002546775_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "SOLIDARIEDADE",
+        "numero": 7717
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Frederico Braga Tavares",
+      "nome_urna": "Fred Braga",
+      "foto": "fotos_solidariedade_brasil/FRN200002546768_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "SOLIDARIEDADE",
+        "numero": 7777
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "John Kenneth Neves da Silva",
+      "nome_urna": "John Kenneth",
+      "foto": "fotos_solidariedade_brasil/FRN200002546771_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "SOLIDARIEDADE",
+        "numero": 7722
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Allyson Leandro Bezerra Silva",
+      "nome_urna": "Allyson",
+      "foto": "fotos_uniao_brasil/FRN200002535255_div.jpg",
+      "cargo_pleiteado": "Governador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44
+      },
+      "prioridade": 61,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Luiz Benes Leocadio de Araujo",
+      "nome_urna": "Benes Leocádio",
+      "foto": "fotos_uniao_brasil/FRN200002535722_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4444
+      },
+      "prioridade": 21,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Bianca Fernandes de Negreiros",
+      "nome_urna": "Bianca Negreiros",
+      "foto": "fotos_uniao_brasil/FRN200002535723_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4445
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Cinthia Raquel Pinheiro da Silva",
+      "nome_urna": "Cinthia de Allyson",
+      "foto": "fotos_uniao_brasil/FRN200002535730_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44444
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Danieli Talita de Oliveira Araujo Ribeiro",
+      "nome_urna": "Dani Ribeiro",
+      "foto": "fotos_uniao_brasil/FRN200002535718_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4400
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Francisco Deividiclay Costa Silva",
+      "nome_urna": "Deivid Simão",
+      "foto": "fotos_uniao_brasil/FRN200002535729_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44111
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Matheus Faustino da Silva Souza",
+      "nome_urna": "Faustino",
+      "foto": "fotos_uniao_brasil/FRN200002535716_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4455
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Jose Galeno Diogenes Torquato",
+      "nome_urna": "Galeno Torquato",
+      "foto": "fotos_uniao_brasil/FRN200002535738_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44544
+      },
+      "prioridade": 1,
+      "posicao_segundo_hub_politico": "centro-direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Maciel Gomes da Silva",
+      "nome_urna": "Maciel Gomes",
+      "foto": "fotos_uniao_brasil/FRN200002535740_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44222
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marcos Solano Vale",
+      "nome_urna": "Marcos Solano",
+      "foto": "fotos_uniao_brasil/FRN200002535512_div.jpg",
+      "cargo_pleiteado": "1º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 444
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Marlene de Fatima Bezerra Lourenco",
+      "nome_urna": "Marlene Bezerra",
+      "foto": "fotos_uniao_brasil/FRN200002535741_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44190
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Severina Nagila Diniz Lima",
+      "nome_urna": "Nagila Diniz",
+      "foto": "fotos_uniao_brasil/FRN200002535717_div.jpg",
+      "cargo_pleiteado": "Deputado Federal",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 4477
+      },
+      "prioridade": 21,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Natalia Leopoldina da Silva Souza",
+      "nome_urna": "Natalia Leopoldina",
+      "foto": "fotos_uniao_brasil/FRN200002535735_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44888
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Manoel Pereira Filho",
+      "nome_urna": "Nenel Lucas",
+      "foto": "fotos_uniao_brasil/FRN200002535727_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44333
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Odete Maria de Araujo Silva Lopes",
+      "nome_urna": "Odete Lopes",
+      "foto": "fotos_uniao_brasil/FRN200002535510_div.jpg",
+      "cargo_pleiteado": "2º Suplente",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 555
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Robson Ricardo Machado Lima de Carvalho",
+      "nome_urna": "Robson Carvalho",
+      "foto": "fotos_uniao_brasil/FRN200002535734_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44555
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Tercio Barreto Ramos Tinoco",
+      "nome_urna": "Tércio Tinôco",
+      "foto": "fotos_uniao_brasil/FRN200002535511_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 444
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Lindovaildo Soares de Azevedo",
+      "nome_urna": "Vavá Azevedo",
+      "foto": "fotos_uniao_brasil/FRN200002535724_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
+      "estado": "RN",
+      "partido": {
+        "sigla": "UNIÃO",
+        "numero": 44123
+      },
+      "prioridade": 1,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Augusto Jorge Cury",
+      "nome_urna": "Escritor Augusto Cury",
+      "foto": "fotos_avante_brasil/FBR280002551547_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Julio Cesar Delgado",
+      "nome_urna": "Júlio Delgado",
+      "foto": "fotos_avante_brasil/FBR280002551546_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "AVANTE",
+        "numero": 70
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Clariana Zacarkim Barao",
+      "nome_urna": "Clariana Barao",
+      "foto": "fotos_dc_brasil/FBR280002552484_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Fabiana Cristina Tavares Torquato",
+      "nome_urna": "Fabiana Torquato",
+      "foto": "fotos_dc_brasil/FBR280002552485_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DC",
+        "numero": 27
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Wilson Grassi Junior",
+      "nome_urna": "Veterinário Wilson Grassi",
+      "foto": "fotos_democrata_brasil/FBR280002548139_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 35
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Suêd Haidar Nogueira",
+      "nome_urna": "Suêd Haidar",
+      "foto": "fotos_democrata_brasil/FBR280002548140_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "DEMOCRATA",
+        "numero": 35
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Romeu Zema Neto",
+      "nome_urna": "Zema",
+      "foto": "fotos_novo_brasil/FBR280002539826_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 90,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": "https://x.com/RomeuZema",
+        "instagram": "https://www.instagram.com/romeuzemaoficial",
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": "https://linktr.ee/romeuzema",
+        "youtube": "https://www.youtube.com/@romeuzemaoficial"
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Combate ao privilégio / Combate aos Intocáveis",
+        "Defesa da liberdade de expressão",
+        "Defesa da moralidade pública",
+        "Corte de impostos e burocracia",
+        "Redução da maioridade penal",
+        "Redução de ministérios",
+        "Poupança de R$ 1 mil ao nascer"
+      ]
+    },
+    {
+      "nome_completo": "Luis Eduardo Grangeiro Girão",
+      "nome_urna": "Eduardo Girão",
+      "foto": "fotos_novo_brasil/FBR280002539825_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "NOVO",
+        "numero": 30
+      },
+      "prioridade": 90,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Flavio Nantes Bolsonaro",
+      "nome_urna": "Flavio Bolsonaro",
+      "foto": "fotos_pl_brasil/FBR280002551544_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22
+      },
+      "prioridade": 86,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Alfredo Gaspar de Mendonça Neto",
+      "nome_urna": "Alfredo Gaspar",
+      "foto": "fotos_pl_brasil/FBR280002551543_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PL",
+        "numero": 22
+      },
+      "prioridade": 86,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Pablo Henrique Costa Marcal",
+      "nome_urna": "Pablo Marçal",
+      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PRTB",
+        "numero": 28
+      },
+      "prioridade": 81,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Leonardo Alves de Araujo",
+      "nome_urna": "Leonardo Avalanche",
+      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PRTB",
+        "numero": 28
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Ronaldo Ramos Caiado",
+      "nome_urna": "Ronaldo Caiado",
+      "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
+      "cargo_pleiteado": "Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PSD",
+        "numero": 55
+      },
+      "prioridade": 81,
+      "posicao_segundo_hub_politico": "direita",
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    },
+    {
+      "nome_completo": "Gilberto Kassab",
+      "nome_urna": "Gilberto Kassab",
+      "foto": "fotos_psd_brasil/FBR280002551933_div.jpg",
+      "cargo_pleiteado": "Vice-Presidente",
+      "estado": "BR",
+      "partido": {
+        "sigla": "PSD",
+        "numero": 55
+      },
+      "prioridade": 81,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ]
+    }
+  ],
+  "hash": "e324b04e3f4f"
+}
