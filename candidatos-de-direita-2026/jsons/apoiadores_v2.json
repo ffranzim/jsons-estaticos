@@ -9,7 +9,8 @@
       "foto": "images/png/logo_direita.png",
       "apoiados": {
         "br": [
-          30
+          30,
+          22
         ],
         "ce": [
           2222
@@ -348,6 +349,17 @@
     },
     {
       "id": "FSC240002539378",
+      "nome": "Carol de Toni",
+      "descricao": "Deputado Federal - SC",
+      "foto": "images/candidatos_pl/FSC240002539378_div.jpg",
+      "apoiados": {
+        "br": [
+          22
+        ]
+      }
+    },
+    {
+      "id": "    FSC240002541931",
       "nome": "Julia Zanatta",
       "descricao": "Deputado Federal - SC",
       "foto": "images/candidatos_pl/FSC240002539378_div.jpg",
