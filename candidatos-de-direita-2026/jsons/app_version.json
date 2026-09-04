@@ -8,8 +8,8 @@
     "releaseNotes": "Correção de bugs e melhorias de performance."
   },
   "android": {
-    "latestVersion": "1.0.20",
-    "buildNumber": "20",
+    "latestVersion": "1.0.21",
+    "buildNumber": "21",
     "minSupportedVersion": "1.0.20",
     "minSupportedBuildNumber": "20",
     "updateUrl": "https://play.google.com/store/apps/details?id=br.com.whoami&hl=pt",
