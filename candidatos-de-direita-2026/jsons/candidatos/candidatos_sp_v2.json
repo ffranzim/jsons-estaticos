@@ -1,5 +1,6 @@
 {
   "gerado_em": "2026-09-02T11:30:00+00:00",
+  "versao": 1,
   "hash": "5c24119f997f",
   "candidatos": [
     {
@@ -7022,33 +7023,7 @@
         "Não cadastradas"
       ]
     },
-    {
-      "nome_completo": "Sonia Francine Gaspar Marmo",
-      "nome_urna": "Soninha Francine",
-      "foto": "fotos_cidadania_brasil/FSP250002552369_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "SP",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 232
-      },
-      "prioridade": 41,
-      "redes_sociais": {
-        "twitter": null,
-        "instagram": null,
-        "site_oficial": null,
-        "apoia_se": null,
-        "links": null,
-        "youtube": null
-      },
-      "contatos": {
-        "whatsapp": null,
-        "telegram": null
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
+
     {
       "nome_completo": "Anistela Rios de Barros Felix Pereira",
       "nome_urna": "Teia Barros",

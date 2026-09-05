@@ -1,7 +1,68 @@
 {
   "gerado_em": "2026-09-03T20:51:00+00:00",
+  "versao": 1,
   "hash": "27340805ecdc",
   "candidatos": [
+    {
+      "nome_completo": "Vanderlei Luxemburgo da Silva",
+      "nome_urna": "Vanderlei Luxemburgo",
+      "foto": "fotos_pode_brasil/FTO270002546039_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "TO",
+      "partido": {
+        "sigla": "PODE",
+        "numero": 200
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "motivos_exclusao": [
+        "Afirma ter origem e ideologia de esquerda"
+      ]
+    },
+    {
+      "nome_completo": "Sonia Francine Gaspar Marmo",
+      "nome_urna": "Soninha Francine",
+      "foto": "fotos_cidadania_brasil/FSP250002552369_div.jpg",
+      "cargo_pleiteado": "Senador",
+      "estado": "SP",
+      "partido": {
+        "sigla": "CIDADANIA",
+        "numero": 232
+      },
+      "prioridade": 41,
+      "redes_sociais": {
+        "twitter": null,
+        "instagram": null,
+        "site_oficial": null,
+        "apoia_se": null,
+        "links": null,
+        "youtube": null
+      },
+      "contatos": {
+        "whatsapp": null,
+        "telegram": null
+      },
+      "bandeiras": [
+        "Não cadastradas"
+      ],
+      "motivos_exclusao": [
+        "Se declara de centro-esquerda"
+      ]
+    },
     {
       "nome_completo": "Abdala Habib Fraxe Junior",
       "nome_urna": "Abdala Fraxe",
