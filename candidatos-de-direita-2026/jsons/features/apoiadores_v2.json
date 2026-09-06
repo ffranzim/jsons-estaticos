@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-06T17:40:50.304259+00:00",
+  "gerado_em": "2026-09-06T20:02:53.924741+00:00",
   "versao": 1,
-  "hash": "761d56990c27",
+  "hash": "1b2569cc4bd9",
   "apoiadores": [
     {
       "id": "app",
@@ -10,49 +10,130 @@
       "foto": "images/png/logo_direita.png",
       "apoiados": {
         "br": [
-          30,
-          22
+          {
+            "numero": 30,
+            "nome": "Zema"
+          },
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
         ],
         "ce": [
-          2222
+          {
+            "numero": 2222,
+            "nome": "André Fernandes"
+          }
         ],
         "df": [
-          30,
-          223,
-          300,
-          3000
+          {
+            "numero": 30,
+            "nome": "Kiko Caputo"
+          },
+          {
+            "numero": 223,
+            "nome": "Bia Kicis"
+          },
+          {
+            "numero": 300,
+            "nome": "Sebastião Coelho"
+          },
+          {
+            "numero": 3000,
+            "nome": "Wilker Sá"
+          }
         ],
         "go": [
-          222
+          {
+            "numero": 222,
+            "nome": "Gustavo Gayer"
+          }
         ],
         "mg": [
-          300,
-          2222
+          {
+            "numero": 300,
+            "nome": "Marco Antônio Superman"
+          },
+          {
+            "numero": 2222,
+            "nome": "Nikolas Ferreira"
+          }
         ],
         "pr": [
-          22,
-          300,
-          555,
-          3000,
-          22007
+          {
+            "numero": 22,
+            "nome": "Sergio Moro"
+          },
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
+          },
+          {
+            "numero": 555,
+            "nome": "Cristina Reis Graeml"
+          },
+          {
+            "numero": 3000,
+            "nome": "Jeffrey Chiquini"
+          },
+          {
+            "numero": 22007,
+            "nome": "João Bettega"
+          }
         ],
         "rs": [
-          300
+          {
+            "numero": 300,
+            "nome": "Marcel Van Hattem"
+          }
         ],
         "sc": [
-          221,
-          2233,
-          22222
+          {
+            "numero": 221,
+            "nome": "Carol de Toni"
+          },
+          {
+            "numero": 2233,
+            "nome": "Julia Zanatta"
+          },
+          {
+            "numero": 22222,
+            "nome": "Ana Campagnolo"
+          }
         ],
         "sp": [
-          10,
-          111,
-          300,
-          2211,
-          2221,
-          2247,
-          3007,
-          22011
+          {
+            "numero": 10,
+            "nome": "Tarcísio"
+          },
+          {
+            "numero": 111,
+            "nome": "Guilherme Derrite"
+          },
+          {
+            "numero": 300,
+            "nome": "Salles"
+          },
+          {
+            "numero": 2211,
+            "nome": "Lucas Pavanato"
+          },
+          {
+            "numero": 2221,
+            "nome": "Dra. Nise Yamaguchi"
+          },
+          {
+            "numero": 2247,
+            "nome": "Delegado Paulo Bilynskyj"
+          },
+          {
+            "numero": 3007,
+            "nome": "Marina Helena"
+          },
+          {
+            "numero": 22011,
+            "nome": "Eduarda Campopiano"
+          }
         ]
       }
     },
@@ -63,274 +144,916 @@
       "foto": "images/apoiadores/ancapsu.jpg",
       "apoiados": {
         "ac": [
-          10,
-          100,
-          222,
-          30000,
-          45000
+          {
+            "numero": 10,
+            "nome": "Alan Rick"
+          },
+          {
+            "numero": 100,
+            "nome": "Mara Rocha"
+          },
+          {
+            "numero": 222,
+            "nome": "Marcio Bittar"
+          },
+          {
+            "numero": 30000,
+            "nome": "Emerson Jarude"
+          },
+          {
+            "numero": 45000,
+            "nome": "Patrícia Parente"
+          }
         ],
         "al": [
-          45,
-          111,
-          456,
-          1190,
-          3030,
-          4400,
-          22123,
-          22222
+          {
+            "numero": 45,
+            "nome": "Jhc"
+          },
+          {
+            "numero": 111,
+            "nome": "Arthur Lira"
+          },
+          {
+            "numero": 456,
+            "nome": "Marina Jhc"
+          },
+          {
+            "numero": 1190,
+            "nome": "Delegado Fabio Costa"
+          },
+          {
+            "numero": 3030,
+            "nome": "Guido Santos"
+          },
+          {
+            "numero": 4400,
+            "nome": "Nivaldo Albuquerque"
+          },
+          {
+            "numero": 22123,
+            "nome": "Leonardo Dias"
+          },
+          {
+            "numero": 22222,
+            "nome": "Cabo Bebeto"
+          }
         ],
         "am": [
-          22,
-          222,
-          455,
-          2210,
-          2211,
-          10007,
-          22111,
-          22222,
-          22333
+          {
+            "numero": 22,
+            "nome": "Professora Maria do Carmo"
+          },
+          {
+            "numero": 222,
+            "nome": "Capitão Alberto Neto"
+          },
+          {
+            "numero": 455,
+            "nome": "Plinio Valério"
+          },
+          {
+            "numero": 2210,
+            "nome": "Jean Batista"
+          },
+          {
+            "numero": 2211,
+            "nome": "Sargento Salazar"
+          },
+          {
+            "numero": 10007,
+            "nome": "Rodrigo Guedes"
+          },
+          {
+            "numero": 22111,
+            "nome": "Kidson Maia"
+          },
+          {
+            "numero": 22222,
+            "nome": "Delegado Péricles"
+          },
+          {
+            "numero": 22333,
+            "nome": "Cabo Maciel"
+          }
         ],
         "ap": [
-          55,
-          200,
-          555,
-          44700
+          {
+            "numero": 55,
+            "nome": "Dr. Furlan"
+          },
+          {
+            "numero": 200,
+            "nome": "Rayssa Furlan"
+          },
+          {
+            "numero": 555,
+            "nome": "Lucas Barreto"
+          },
+          {
+            "numero": 44700,
+            "nome": "Aparecida Salomão"
+          }
         ],
         "ba": [
-          44,
-          100,
-          222,
-          2226,
-          2233,
-          2299,
-          22007,
-          22122,
-          22822
+          {
+            "numero": 44,
+            "nome": "Acm Neto"
+          },
+          {
+            "numero": 100,
+            "nome": "Angelo Coronel"
+          },
+          {
+            "numero": 222,
+            "nome": "João Roma"
+          },
+          {
+            "numero": 2226,
+            "nome": "Giu Argolo"
+          },
+          {
+            "numero": 2233,
+            "nome": "Leandro de Jesus"
+          },
+          {
+            "numero": 2299,
+            "nome": "Doutora Raissa Soares"
+          },
+          {
+            "numero": 22007,
+            "nome": "Tenóbio"
+          },
+          {
+            "numero": 22122,
+            "nome": "Rebeca Martins"
+          },
+          {
+            "numero": 22822,
+            "nome": "Jarbas Lemoss"
+          }
         ],
         "br": [
-          22
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
         ],
         "ce": [
-          45,
-          222,
-          445,
-          2200,
-          2222,
-          2288,
-          22000,
-          22022,
-          30000
+          {
+            "numero": 45,
+            "nome": "Ciro Gomes"
+          },
+          {
+            "numero": 222,
+            "nome": "Alcides Fernandes"
+          },
+          {
+            "numero": 445,
+            "nome": "Capitão Wagner"
+          },
+          {
+            "numero": 2200,
+            "nome": "Carmelo Neto"
+          },
+          {
+            "numero": 2222,
+            "nome": "André Fernandes"
+          },
+          {
+            "numero": 2288,
+            "nome": "Priscila Costa"
+          },
+          {
+            "numero": 22000,
+            "nome": "Dra Mayra Pinheiro"
+          },
+          {
+            "numero": 22022,
+            "nome": "Bella Carmelo"
+          },
+          {
+            "numero": 30000,
+            "nome": "Jeovane Barros"
+          }
         ],
         "df": [
-          11,
-          222,
-          223,
-          2201,
-          3000,
-          22122,
-          22190,
-          22822
+          {
+            "numero": 11,
+            "nome": "Celina Leão"
+          },
+          {
+            "numero": 222,
+            "nome": "Michelle Bolsonaro"
+          },
+          {
+            "numero": 223,
+            "nome": "Bia Kicis"
+          },
+          {
+            "numero": 2201,
+            "nome": "Mariana Naime"
+          },
+          {
+            "numero": 3000,
+            "nome": "Wilker Sá"
+          },
+          {
+            "numero": 22122,
+            "nome": "Carol Kalil"
+          },
+          {
+            "numero": 22190,
+            "nome": "Julia Lucy"
+          },
+          {
+            "numero": 22822,
+            "nome": "Luíza do Clezão"
+          }
         ],
         "es": [
-          10,
-          100,
-          222,
-          2212,
-          2222,
-          22190,
-          22322,
-          30762
+          {
+            "numero": 10,
+            "nome": "Lorenzo Pazolini"
+          },
+          {
+            "numero": 100,
+            "nome": "Evair de Melo"
+          },
+          {
+            "numero": 222,
+            "nome": "Maguinha Malta"
+          },
+          {
+            "numero": 2212,
+            "nome": "Lucas Polese"
+          },
+          {
+            "numero": 2222,
+            "nome": "Gilvan O Federal da Direita"
+          },
+          {
+            "numero": 22190,
+            "nome": "Capitao Assumçao"
+          },
+          {
+            "numero": 22322,
+            "nome": "Darcio Bracarense"
+          },
+          {
+            "numero": 30762,
+            "nome": "Elber Fidelis"
+          }
         ],
         "go": [
-          22,
-          222,
-          227,
-          2220,
-          2280,
-          3011,
-          22133,
-          22221,
-          22223,
-          30111
+          {
+            "numero": 22,
+            "nome": "Wilder Morais"
+          },
+          {
+            "numero": 222,
+            "nome": "Gustavo Gayer"
+          },
+          {
+            "numero": 227,
+            "nome": "Oséias Varão"
+          },
+          {
+            "numero": 2220,
+            "nome": "Fred Rodrigues"
+          },
+          {
+            "numero": 2280,
+            "nome": "Adília Roriz"
+          },
+          {
+            "numero": 3011,
+            "nome": "Delegado Humberto Teófilo"
+          },
+          {
+            "numero": 22133,
+            "nome": "Felipe Galdino"
+          },
+          {
+            "numero": 22221,
+            "nome": "Marquinho"
+          },
+          {
+            "numero": 22223,
+            "nome": "Julio Cunha (pró-Armas)"
+          },
+          {
+            "numero": 30111,
+            "nome": "Dr. Amarildo"
+          }
         ],
         "ma": [
-          55,
-          222,
-          300,
-          2201,
-          2210,
-          22022,
-          25013,
-          55111
+          {
+            "numero": 55,
+            "nome": "Eduardo Braide"
+          },
+          {
+            "numero": 222,
+            "nome": "Cidônio Gonçalves"
+          },
+          {
+            "numero": 300,
+            "nome": "Lahesio Bonfim"
+          },
+          {
+            "numero": 2201,
+            "nome": "Flavia Berthier"
+          },
+          {
+            "numero": 2210,
+            "nome": "Mariana Carvalho"
+          },
+          {
+            "numero": 22022,
+            "nome": "Filipe Arnon"
+          },
+          {
+            "numero": 25013,
+            "nome": "Maria José Alves"
+          },
+          {
+            "numero": 55111,
+            "nome": "Wellington do Curso"
+          }
         ],
         "mg": [
-          22,
-          222,
-          300,
-          2222,
-          3033,
-          3037,
-          22222,
-          30000,
-          30004,
-          30007,
-          30035
+          {
+            "numero": 22,
+            "nome": "Flávio Roscoe"
+          },
+          {
+            "numero": 222,
+            "nome": "Domingos Sávio"
+          },
+          {
+            "numero": 300,
+            "nome": "Marco Antônio Superman"
+          },
+          {
+            "numero": 2222,
+            "nome": "Nikolas Ferreira"
+          },
+          {
+            "numero": 3033,
+            "nome": "Warley Mól"
+          },
+          {
+            "numero": 3037,
+            "nome": "Altivo Duarte"
+          },
+          {
+            "numero": 22222,
+            "nome": "Bruno Engler"
+          },
+          {
+            "numero": 30000,
+            "nome": "Rian Pereira"
+          },
+          {
+            "numero": 30004,
+            "nome": "Saori Volkov"
+          },
+          {
+            "numero": 30007,
+            "nome": "Fernanda Pereira Altoé"
+          },
+          {
+            "numero": 30035,
+            "nome": "Brisa Almeida"
+          }
         ],
         "ms": [
-          11,
-          221,
-          222,
-          2211,
-          2222,
-          22357
+          {
+            "numero": 11,
+            "nome": "Eduardo Riedel"
+          },
+          {
+            "numero": 221,
+            "nome": "Capitão Contar"
+          },
+          {
+            "numero": 222,
+            "nome": "Reinaldo Azambuja"
+          },
+          {
+            "numero": 2211,
+            "nome": "Rodolfo Nogueira"
+          },
+          {
+            "numero": 2222,
+            "nome": "Marcos Pollon"
+          },
+          {
+            "numero": 22357,
+            "nome": "Wagner Higa"
+          }
         ],
         "mt": [
-          22,
-          222,
-          444,
-          2202,
-          2222,
-          2244,
-          22007,
-          22022,
-          22222
+          {
+            "numero": 22,
+            "nome": "Wellington Fagundes"
+          },
+          {
+            "numero": 222,
+            "nome": "Jose Medeiros"
+          },
+          {
+            "numero": 444,
+            "nome": "Mauro Mendes"
+          },
+          {
+            "numero": 2202,
+            "nome": "Thiago Boava Hey Roy"
+          },
+          {
+            "numero": 2222,
+            "nome": "Coronel Fernanda"
+          },
+          {
+            "numero": 2244,
+            "nome": "Coronel Assis"
+          },
+          {
+            "numero": 22007,
+            "nome": "Otávio Xerife"
+          },
+          {
+            "numero": 22022,
+            "nome": "Abmael Borges"
+          },
+          {
+            "numero": 22222,
+            "nome": "Gilberto Cattani"
+          }
         ],
         "pa": [
-          20,
-          200,
-          222,
-          2255,
-          3022,
-          22777,
-          30022
+          {
+            "numero": 20,
+            "nome": "Dr. Daniel"
+          },
+          {
+            "numero": 200,
+            "nome": "Zequinha Marinho"
+          },
+          {
+            "numero": 222,
+            "nome": "Delegado Éder Mauro"
+          },
+          {
+            "numero": 2255,
+            "nome": "Rogerio Barra"
+          },
+          {
+            "numero": 3022,
+            "nome": "Allen Pelo Pará"
+          },
+          {
+            "numero": 22777,
+            "nome": "Jk do Povão"
+          },
+          {
+            "numero": 30022,
+            "nome": "Richard Malheiros"
+          }
         ],
         "pb": [
-          22,
-          222,
-          300,
-          2222,
-          2767,
-          22000,
-          22222
+          {
+            "numero": 22,
+            "nome": "Efraim Filho"
+          },
+          {
+            "numero": 222,
+            "nome": "Dr. Marcelo Queiroga"
+          },
+          {
+            "numero": 300,
+            "nome": "Major Fábio"
+          },
+          {
+            "numero": 2222,
+            "nome": "Cabo Gilberto Silva"
+          },
+          {
+            "numero": 2767,
+            "nome": "Krisna Gopal"
+          },
+          {
+            "numero": 22000,
+            "nome": "Fábio Lopes"
+          },
+          {
+            "numero": 22222,
+            "nome": "Nilvan Ferreira"
+          }
         ],
         "pe": [
-          55,
-          222,
-          300,
-          1122,
-          2201,
-          2288,
-          3030,
-          3090,
-          22123,
-          30000,
-          30123,
-          30321
+          {
+            "numero": 55,
+            "nome": "Raquel Lyra"
+          },
+          {
+            "numero": 222,
+            "nome": "Mendonça Filho"
+          },
+          {
+            "numero": 300,
+            "nome": "Carlos Sant Anna"
+          },
+          {
+            "numero": 1122,
+            "nome": "Clarissa Tércio"
+          },
+          {
+            "numero": 2201,
+            "nome": "Coronel Meira"
+          },
+          {
+            "numero": 2288,
+            "nome": "Thiago Medina"
+          },
+          {
+            "numero": 3030,
+            "nome": "Eduardo Moura"
+          },
+          {
+            "numero": 3090,
+            "nome": "João Pedro Cavalcanti"
+          },
+          {
+            "numero": 22123,
+            "nome": "Lara Cavalcanti"
+          },
+          {
+            "numero": 30000,
+            "nome": "Tecio Teles"
+          },
+          {
+            "numero": 30123,
+            "nome": "Rodolfo Silva"
+          },
+          {
+            "numero": 30321,
+            "nome": "Coronel Tibério"
+          }
         ],
         "pi": [
-          30,
-          222,
-          300,
-          1122,
-          11000,
-          11122
+          {
+            "numero": 30,
+            "nome": "Elizeu Aguiar"
+          },
+          {
+            "numero": 222,
+            "nome": "Tiago Junqueira"
+          },
+          {
+            "numero": 300,
+            "nome": "Antônio Barros"
+          },
+          {
+            "numero": 1122,
+            "nome": "Samantha Cavalca"
+          },
+          {
+            "numero": 11000,
+            "nome": "Petrus Evelyn (o Piauiense)"
+          },
+          {
+            "numero": 11122,
+            "nome": "Lytson Breno"
+          }
         ],
         "pr": [
-          22,
-          222,
-          300,
-          3000,
-          3020,
-          3043,
-          22357,
-          30456
+          {
+            "numero": 22,
+            "nome": "Sergio Moro"
+          },
+          {
+            "numero": 222,
+            "nome": "Filipe Barros"
+          },
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
+          },
+          {
+            "numero": 3000,
+            "nome": "Jeffrey Chiquini"
+          },
+          {
+            "numero": 3020,
+            "nome": "Paulo Martins"
+          },
+          {
+            "numero": 3043,
+            "nome": "Guilherme Livoti"
+          },
+          {
+            "numero": 22357,
+            "nome": "Dr. Cesar Mello"
+          },
+          {
+            "numero": 30456,
+            "nome": "Rodrigo Marcial"
+          }
         ],
         "rj": [
-          22,
-          221,
-          222,
-          2207,
-          2217,
-          2277,
-          3030,
-          22200,
-          22377,
-          30007
+          {
+            "numero": 22,
+            "nome": "Douglas Ruas"
+          },
+          {
+            "numero": 221,
+            "nome": "Carlos Jordy"
+          },
+          {
+            "numero": 222,
+            "nome": "Carlos Portinho"
+          },
+          {
+            "numero": 2207,
+            "nome": "Ed Raposo"
+          },
+          {
+            "numero": 2217,
+            "nome": "Rebeca Ramagem"
+          },
+          {
+            "numero": 2277,
+            "nome": "Sóstenes Cavalcante"
+          },
+          {
+            "numero": 3030,
+            "nome": "Luiz Lima"
+          },
+          {
+            "numero": 22200,
+            "nome": "Felipe Tropa"
+          },
+          {
+            "numero": 22377,
+            "nome": "Alan Lopes"
+          },
+          {
+            "numero": 30007,
+            "nome": "Alexandre Freitas"
+          }
         ],
         "rn": [
-          22,
-          200,
-          222,
-          2210,
-          2211,
-          3000,
-          22222
+          {
+            "numero": 22,
+            "nome": "Álvaro Dias"
+          },
+          {
+            "numero": 200,
+            "nome": "Styvenson Valentim"
+          },
+          {
+            "numero": 222,
+            "nome": "Coronel Hélio"
+          },
+          {
+            "numero": 2210,
+            "nome": "General Girão"
+          },
+          {
+            "numero": 2211,
+            "nome": "Carla Dickson"
+          },
+          {
+            "numero": 3000,
+            "nome": "Raphael Ferreira"
+          },
+          {
+            "numero": 22222,
+            "nome": "Coronel Azevedo"
+          }
         ],
         "ro": [
-          22,
-          221,
-          222,
-          2210,
-          22222
+          {
+            "numero": 22,
+            "nome": "Marcos Rogério"
+          },
+          {
+            "numero": 221,
+            "nome": "Dr. Fernando Máximo"
+          },
+          {
+            "numero": 222,
+            "nome": "Bruno Bolsonaro Scheid"
+          },
+          {
+            "numero": 2210,
+            "nome": "Coronel Chrisóstomo"
+          },
+          {
+            "numero": 22222,
+            "nome": "Jean Mendonça"
+          }
         ],
         "rr": [
-          22,
-          222,
-          227,
-          2022,
-          2255,
-          22522
+          {
+            "numero": 22,
+            "nome": "Arthur Henrique"
+          },
+          {
+            "numero": 222,
+            "nome": "Helio Bolsonaro"
+          },
+          {
+            "numero": 227,
+            "nome": "Nicoletti"
+          },
+          {
+            "numero": 2022,
+            "nome": "Major Adriane"
+          },
+          {
+            "numero": 2255,
+            "nome": "Major Emmanuel"
+          },
+          {
+            "numero": 22522,
+            "nome": "Sargento Priscilla"
+          }
         ],
         "rs": [
-          22,
-          222,
-          300,
-          2230,
-          3003,
-          3030,
-          20010,
-          22321,
-          30123
+          {
+            "numero": 22,
+            "nome": "Zucco"
+          },
+          {
+            "numero": 222,
+            "nome": "Sanderson"
+          },
+          {
+            "numero": 300,
+            "nome": "Marcel Van Hattem"
+          },
+          {
+            "numero": 2230,
+            "nome": "Jessé Sangalli"
+          },
+          {
+            "numero": 3003,
+            "nome": "Fabio Ostermann"
+          },
+          {
+            "numero": 3030,
+            "nome": "Felipe Camozzato"
+          },
+          {
+            "numero": 20010,
+            "nome": "Alexis Efremides"
+          },
+          {
+            "numero": 22321,
+            "nome": "Rodrigo Cassol Lima"
+          },
+          {
+            "numero": 30123,
+            "nome": "Matheus Schilling"
+          }
         ],
         "sc": [
-          22,
-          221,
-          222,
-          2222,
-          2233,
-          3030,
-          3050,
-          22111,
-          22722,
-          30000
+          {
+            "numero": 22,
+            "nome": "Jorginho Mello"
+          },
+          {
+            "numero": 221,
+            "nome": "Carol de Toni"
+          },
+          {
+            "numero": 222,
+            "nome": "Carlos Bolsonaro"
+          },
+          {
+            "numero": 2222,
+            "nome": "Jair Bolsonaro"
+          },
+          {
+            "numero": 2233,
+            "nome": "Julia Zanatta"
+          },
+          {
+            "numero": 3030,
+            "nome": "Rodrigo Livramento"
+          },
+          {
+            "numero": 3050,
+            "nome": "Gilson Marques"
+          },
+          {
+            "numero": 22111,
+            "nome": "Delegado Ulisses Gabriel"
+          },
+          {
+            "numero": 22722,
+            "nome": "Bruno Souza"
+          },
+          {
+            "numero": 30000,
+            "nome": "Matheus Cadorin"
+          }
         ],
         "se": [
-          22,
-          221,
-          222,
-          2222,
-          22100
+          {
+            "numero": 22,
+            "nome": "Ricardo Marques"
+          },
+          {
+            "numero": 221,
+            "nome": "Coronel Rocha"
+          },
+          {
+            "numero": 222,
+            "nome": "Rodrigo Valadares"
+          },
+          {
+            "numero": 2222,
+            "nome": "Moana Valadares"
+          },
+          {
+            "numero": 22100,
+            "nome": "Flávio da Direita Sergipana"
+          }
         ],
         "sp": [
-          10,
-          111,
-          222,
-          2211,
-          2221,
-          2247,
-          3007,
-          22011,
-          22038,
-          22522,
-          30007,
-          30777
+          {
+            "numero": 10,
+            "nome": "Tarcísio"
+          },
+          {
+            "numero": 111,
+            "nome": "Guilherme Derrite"
+          },
+          {
+            "numero": 222,
+            "nome": "André do Prado"
+          },
+          {
+            "numero": 2211,
+            "nome": "Lucas Pavanato"
+          },
+          {
+            "numero": 2221,
+            "nome": "Dra. Nise Yamaguchi"
+          },
+          {
+            "numero": 2247,
+            "nome": "Delegado Paulo Bilynskyj"
+          },
+          {
+            "numero": 3007,
+            "nome": "Marina Helena"
+          },
+          {
+            "numero": 22011,
+            "nome": "Eduarda Campopiano"
+          },
+          {
+            "numero": 22038,
+            "nome": "Paulo Kogos"
+          },
+          {
+            "numero": 22522,
+            "nome": "Leticia Aguiar"
+          },
+          {
+            "numero": 30007,
+            "nome": "Carlo Cauti"
+          },
+          {
+            "numero": 30777,
+            "nome": "Eng. Catharina Donato"
+          }
         ],
         "to": [
-          44,
-          222,
-          444,
-          2288,
-          22888
+          {
+            "numero": 44,
+            "nome": "Professora Dorinha"
+          },
+          {
+            "numero": 222,
+            "nome": "Eduardo Gomes"
+          },
+          {
+            "numero": 444,
+            "nome": "Gaguim"
+          },
+          {
+            "numero": 2288,
+            "nome": "Mauricio Buffon"
+          },
+          {
+            "numero": 22888,
+            "nome": "Dari Fronza"
+          }
         ]
       }
     },
@@ -338,41 +1061,101 @@
       "id": "FMG130002542026",
       "nome": "Nikolas Ferreira",
       "descricao": "Deputado Federal - MG",
-      "foto": "fotos_pl_brasil/FMG130002542026_div.jpg",
+      "foto": "images/candidatos_pl/FMG130002542026_div.jpg",
       "apoiados": {
         "br": [
-          22
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
         ],
         "mg": [
-          222,
-          22001,
-          22032,
-          22111,
-          22221,
-          22555,
-          22600,
-          22722,
-          22822,
-          22888,
-          2222
+          {
+            "numero": 222,
+            "nome": "Domingos Sávio"
+          },
+          {
+            "numero": 22001,
+            "nome": "Pedro Luiz"
+          },
+          {
+            "numero": 22032,
+            "nome": "Roberta Lopes"
+          },
+          {
+            "numero": 22111,
+            "nome": "Pablo Almeida"
+          },
+          {
+            "numero": 22221,
+            "nome": "Anderson Lima"
+          },
+          {
+            "numero": 22555,
+            "nome": "Ivson Gomes"
+          },
+          {
+            "numero": 22600,
+            "nome": "Rafhael de Paulo"
+          },
+          {
+            "numero": 22722,
+            "nome": "Marcelo Heitor"
+          },
+          {
+            "numero": 22822,
+            "nome": "Samuel Caires"
+          },
+          {
+            "numero": 22888,
+            "nome": "Ugleno Alves"
+          },
+          {
+            "numero": 2222,
+            "nome": "Nikolas Ferreira"
+          }
         ],
         "ms": [
-          2267
+          {
+            "numero": 2267,
+            "nome": "Cassy Monteiro"
+          }
         ],
         "mt": [
-          2211
+          {
+            "numero": 2211,
+            "nome": "Ranalli"
+          }
         ],
         "pr": [
-          300,
-          3030
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
+          },
+          {
+            "numero": 3030,
+            "nome": "Guilherme Kilter"
+          }
         ],
         "sc": [
-          3022,
-          22222
+          {
+            "numero": 3022,
+            "nome": "Bia Borba"
+          },
+          {
+            "numero": 22222,
+            "nome": "Ana Campagnolo"
+          }
         ],
         "sp": [
-          2211,
-          22110
+          {
+            "numero": 2211,
+            "nome": "Lucas Pavanato"
+          },
+          {
+            "numero": 22110,
+            "nome": "Felipe Sertanejo"
+          }
         ]
       }
     },
@@ -380,13 +1163,19 @@
       "id": "FSC240002539378",
       "nome": "Julia Zanatta",
       "descricao": "Deputado Federal - SC",
-      "foto": "fotos_pl_brasil/FSC240002539378_div.jpg",
+      "foto": "images/candidatos_pl/FSC240002539378_div.jpg",
       "apoiados": {
         "br": [
-          22
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
         ],
         "sc": [
-          2233
+          {
+            "numero": 2233,
+            "nome": "Julia Zanatta"
+          }
         ]
       }
     },
@@ -394,14 +1183,23 @@
       "id": "FSC240002541931",
       "nome": "Carol de Toni",
       "descricao": "Deputado Federal - SC",
-      "foto": "fotos_pl_brasil/FSC240002541931_div.jpg",
+      "foto": "images/candidatos_pl/FSC240002541931_div.jpg",
       "apoiados": {
         "br": [
-          22
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
         ],
         "sc": [
-          22333,
-          221
+          {
+            "numero": 22333,
+            "nome": "Guilherme Colombo"
+          },
+          {
+            "numero": 221,
+            "nome": "Carol de Toni"
+          }
         ]
       }
     },
@@ -409,111 +1207,255 @@
       "id": "FBR280002551544",
       "nome": "Flavio Bolsonaro",
       "descricao": "Presidente - BR",
-      "foto": "fotos_pl_brasil/FBR280002551544_div.jpg",
+      "foto": "images/candidatos_pl/FBR280002551544_div.jpg",
       "apoiados": {
         "ac": [
-          100,
-          222
+          {
+            "numero": 100,
+            "nome": "Mara Rocha"
+          },
+          {
+            "numero": 222,
+            "nome": "Marcio Bittar"
+          }
         ],
         "al": [
-          111,
-          456
+          {
+            "numero": 111,
+            "nome": "Arthur Lira"
+          },
+          {
+            "numero": 456,
+            "nome": "Marina Jhc"
+          }
         ],
         "am": [
-          222
+          {
+            "numero": 222,
+            "nome": "Capitão Alberto Neto"
+          }
         ],
         "ap": [
-          200,
-          555
+          {
+            "numero": 200,
+            "nome": "Rayssa Furlan"
+          },
+          {
+            "numero": 555,
+            "nome": "Lucas Barreto"
+          }
         ],
         "ba": [
-          100,
-          222
+          {
+            "numero": 100,
+            "nome": "Angelo Coronel"
+          },
+          {
+            "numero": 222,
+            "nome": "João Roma"
+          }
         ],
         "ce": [
-          222,
-          445
+          {
+            "numero": 222,
+            "nome": "Alcides Fernandes"
+          },
+          {
+            "numero": 445,
+            "nome": "Capitão Wagner"
+          }
         ],
         "df": [
-          222,
-          223
+          {
+            "numero": 222,
+            "nome": "Michelle Bolsonaro"
+          },
+          {
+            "numero": 223,
+            "nome": "Bia Kicis"
+          }
         ],
         "es": [
-          100,
-          222
+          {
+            "numero": 100,
+            "nome": "Evair de Melo"
+          },
+          {
+            "numero": 222,
+            "nome": "Maguinha Malta"
+          }
         ],
         "go": [
-          222,
-          227
+          {
+            "numero": 222,
+            "nome": "Gustavo Gayer"
+          },
+          {
+            "numero": 227,
+            "nome": "Oséias Varão"
+          }
         ],
         "ma": [
-          222
+          {
+            "numero": 222,
+            "nome": "Cidônio Gonçalves"
+          }
         ],
         "mg": [
-          222
+          {
+            "numero": 222,
+            "nome": "Domingos Sávio"
+          }
         ],
         "ms": [
-          221,
-          222
+          {
+            "numero": 221,
+            "nome": "Capitão Contar"
+          },
+          {
+            "numero": 222,
+            "nome": "Reinaldo Azambuja"
+          }
         ],
         "mt": [
-          222
+          {
+            "numero": 222,
+            "nome": "Jose Medeiros"
+          }
         ],
         "pa": [
-          200,
-          222
+          {
+            "numero": 200,
+            "nome": "Zequinha Marinho"
+          },
+          {
+            "numero": 222,
+            "nome": "Delegado Éder Mauro"
+          }
         ],
         "pb": [
-          222
+          {
+            "numero": 222,
+            "nome": "Dr. Marcelo Queiroga"
+          }
         ],
         "pe": [
-          222
+          {
+            "numero": 222,
+            "nome": "Mendonça Filho"
+          }
         ],
         "pi": [
-          222
+          {
+            "numero": 222,
+            "nome": "Tiago Junqueira"
+          }
         ],
         "pr": [
-          222,
-          300
+          {
+            "numero": 222,
+            "nome": "Filipe Barros"
+          },
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
+          }
         ],
         "rj": [
-          221,
-          222
+          {
+            "numero": 221,
+            "nome": "Carlos Jordy"
+          },
+          {
+            "numero": 222,
+            "nome": "Carlos Portinho"
+          }
         ],
         "rn": [
-          200,
-          222
+          {
+            "numero": 200,
+            "nome": "Styvenson Valentim"
+          },
+          {
+            "numero": 222,
+            "nome": "Coronel Hélio"
+          }
         ],
         "ro": [
-          221,
-          222
+          {
+            "numero": 221,
+            "nome": "Dr. Fernando Máximo"
+          },
+          {
+            "numero": 222,
+            "nome": "Bruno Bolsonaro Scheid"
+          }
         ],
         "rr": [
-          222,
-          227
+          {
+            "numero": 222,
+            "nome": "Helio Bolsonaro"
+          },
+          {
+            "numero": 227,
+            "nome": "Nicoletti"
+          }
         ],
         "rs": [
-          222,
-          300
+          {
+            "numero": 222,
+            "nome": "Sanderson"
+          },
+          {
+            "numero": 300,
+            "nome": "Marcel Van Hattem"
+          }
         ],
         "sc": [
-          221,
-          222
+          {
+            "numero": 221,
+            "nome": "Carol de Toni"
+          },
+          {
+            "numero": 222,
+            "nome": "Carlos Bolsonaro"
+          }
         ],
         "se": [
-          221,
-          222
+          {
+            "numero": 221,
+            "nome": "Coronel Rocha"
+          },
+          {
+            "numero": 222,
+            "nome": "Rodrigo Valadares"
+          }
         ],
         "sp": [
-          111,
-          222
+          {
+            "numero": 111,
+            "nome": "Guilherme Derrite"
+          },
+          {
+            "numero": 222,
+            "nome": "André do Prado"
+          }
         ],
         "to": [
-          222,
-          444
+          {
+            "numero": 222,
+            "nome": "Eduardo Gomes"
+          },
+          {
+            "numero": 444,
+            "nome": "Gaguim"
+          }
         ],
         "br": [
-          22
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
         ]
       }
     },
@@ -521,10 +1463,13 @@
       "id": "FCE60002536979",
       "nome": "André Fernandes",
       "descricao": "Candidato a Deputado Federal - CE",
-      "foto": "fotos_pl_brasil/FCE60002536979_div.jpg",
+      "foto": "images/candidatos_pl/FCE60002536979_div.jpg",
       "apoiados": {
         "ce": [
-          2222
+          {
+            "numero": 2222,
+            "nome": "André Fernandes"
+          }
         ]
       }
     },
@@ -532,10 +1477,13 @@
       "id": "FDF70002547775",
       "nome": "Kiko Caputo",
       "descricao": "Candidato a Governador - DF",
-      "foto": "fotos_novo_brasil/FDF70002547775_div.jpg",
+      "foto": "images/candidatos_novo/FDF70002547775_div.jpg",
       "apoiados": {
         "df": [
-          30
+          {
+            "numero": 30,
+            "nome": "Kiko Caputo"
+          }
         ]
       }
     },
@@ -543,10 +1491,13 @@
       "id": "FDF70002548624",
       "nome": "Sebastião Coelho",
       "descricao": "Candidato a Senador - DF",
-      "foto": "fotos_novo_brasil/FDF70002548624_div.jpg",
+      "foto": "images/candidatos_novo/FDF70002548624_div.jpg",
       "apoiados": {
         "df": [
-          300
+          {
+            "numero": 300,
+            "nome": "Sebastião Coelho"
+          }
         ]
       }
     },
@@ -554,10 +1505,13 @@
       "id": "FDF70002532006",
       "nome": "Wilker Sá",
       "descricao": "Candidato a Deputado Federal - DF",
-      "foto": "fotos_novo_brasil/FDF70002532006_div.jpg",
+      "foto": "images/candidatos_novo/FDF70002532006_div.jpg",
       "apoiados": {
         "df": [
-          3000
+          {
+            "numero": 3000,
+            "nome": "Wilker Sá"
+          }
         ]
       }
     },
@@ -565,10 +1519,13 @@
       "id": "FMG130002551284",
       "nome": "Marco Antônio Superman",
       "descricao": "Candidato a Senador - MG",
-      "foto": "fotos_novo_brasil/FMG130002551284_div.jpg",
+      "foto": "images/candidatos_novo/FMG130002551284_div.jpg",
       "apoiados": {
         "mg": [
-          300
+          {
+            "numero": 300,
+            "nome": "Marco Antônio Superman"
+          }
         ]
       }
     },
@@ -576,10 +1533,13 @@
       "id": "FPR160002540833",
       "nome": "Sergio Moro",
       "descricao": "Candidato a Governador - PR",
-      "foto": "fotos_pl_brasil/FPR160002540833_div.jpg",
+      "foto": "images/candidatos_pl/FPR160002540833_div.jpg",
       "apoiados": {
         "pr": [
-          22
+          {
+            "numero": 22,
+            "nome": "Sergio Moro"
+          }
         ]
       }
     },
@@ -587,10 +1547,13 @@
       "id": "FPR160002549555",
       "nome": "Cristina Reis Graeml",
       "descricao": "Candidato a Senador - PR",
-      "foto": "fotos_psd_brasil/FPR160002549555_div.jpg",
+      "foto": "images/candidatos_psd/FPR160002549555_div.jpg",
       "apoiados": {
         "pr": [
-          555
+          {
+            "numero": 555,
+            "nome": "Cristina Reis Graeml"
+          }
         ]
       }
     },
@@ -598,10 +1561,13 @@
       "id": "FPR160002542287",
       "nome": "Jeffrey Chiquini",
       "descricao": "Candidato a Deputado Federal - PR",
-      "foto": "fotos_novo_brasil/FPR160002542287_div.jpg",
+      "foto": "images/candidatos_novo/FPR160002542287_div.jpg",
       "apoiados": {
         "pr": [
-          3000
+          {
+            "numero": 3000,
+            "nome": "Jeffrey Chiquini"
+          }
         ]
       }
     },
@@ -609,10 +1575,13 @@
       "id": "FPR160002547628",
       "nome": "João Bettega",
       "descricao": "Candidato a Deputado Estadual - PR",
-      "foto": "fotos_pl_brasil/FPR160002547628_div.jpg",
+      "foto": "images/candidatos_pl/FPR160002547628_div.jpg",
       "apoiados": {
         "pr": [
-          22007
+          {
+            "numero": 22007,
+            "nome": "João Bettega"
+          }
         ]
       }
     },
@@ -620,10 +1589,13 @@
       "id": "FSC240002539977",
       "nome": "Ana Campagnolo",
       "descricao": "Candidato a Deputado Estadual - SC",
-      "foto": "fotos_pl_brasil/FSC240002539977_div.jpg",
+      "foto": "images/candidatos_pl/FSC240002539977_div.jpg",
       "apoiados": {
         "sc": [
-          22222
+          {
+            "numero": 22222,
+            "nome": "Ana Campagnolo"
+          }
         ]
       }
     },
@@ -631,10 +1603,13 @@
       "id": "FSP250002541303",
       "nome": "Tarcísio",
       "descricao": "Candidato a Governador - SP",
-      "foto": "fotos_republicanos_brasil/FSP250002541303_div.jpg",
+      "foto": "images/candidatos_republicanos/FSP250002541303_div.jpg",
       "apoiados": {
         "sp": [
-          10
+          {
+            "numero": 10,
+            "nome": "Tarcísio"
+          }
         ]
       }
     },
@@ -642,10 +1617,13 @@
       "id": "FSP250002532794",
       "nome": "Salles",
       "descricao": "Candidato a Senador - SP",
-      "foto": "fotos_novo_brasil/FSP250002532794_div.jpg",
+      "foto": "images/candidatos_novo/FSP250002532794_div.jpg",
       "apoiados": {
         "sp": [
-          300
+          {
+            "numero": 300,
+            "nome": "Salles"
+          }
         ]
       }
     },
@@ -653,10 +1631,13 @@
       "id": "FSP250002535995",
       "nome": "Lucas Pavanato",
       "descricao": "Candidato a Deputado Federal - SP",
-      "foto": "fotos_pl_brasil/FSP250002535995_div.jpg",
+      "foto": "images/candidatos_pl/FSP250002535995_div.jpg",
       "apoiados": {
         "sp": [
-          2211
+          {
+            "numero": 2211,
+            "nome": "Lucas Pavanato"
+          }
         ]
       }
     },
@@ -664,10 +1645,13 @@
       "id": "FSP250002535935",
       "nome": "Dra. Nise Yamaguchi",
       "descricao": "Candidato a Deputado Federal - SP",
-      "foto": "fotos_pl_brasil/FSP250002535935_div.jpg",
+      "foto": "images/candidatos_pl/FSP250002535935_div.jpg",
       "apoiados": {
         "sp": [
-          2221
+          {
+            "numero": 2221,
+            "nome": "Dra. Nise Yamaguchi"
+          }
         ]
       }
     },
@@ -675,10 +1659,13 @@
       "id": "FSP250002535991",
       "nome": "Delegado Paulo Bilynskyj",
       "descricao": "Candidato a Deputado Federal - SP",
-      "foto": "fotos_pl_brasil/FSP250002535991_div.jpg",
+      "foto": "images/candidatos_pl/FSP250002535991_div.jpg",
       "apoiados": {
         "sp": [
-          2247
+          {
+            "numero": 2247,
+            "nome": "Delegado Paulo Bilynskyj"
+          }
         ]
       }
     },
@@ -686,10 +1673,13 @@
       "id": "FSP250002530115",
       "nome": "Marina Helena",
       "descricao": "Candidato a Deputado Federal - SP",
-      "foto": "fotos_novo_brasil/FSP250002530115_div.jpg",
+      "foto": "images/candidatos_novo/FSP250002530115_div.jpg",
       "apoiados": {
         "sp": [
-          3007
+          {
+            "numero": 3007,
+            "nome": "Marina Helena"
+          }
         ]
       }
     },
@@ -697,10 +1687,13 @@
       "id": "FSP250002536384",
       "nome": "Eduarda Campopiano",
       "descricao": "Candidato a Deputado Estadual - SP",
-      "foto": "fotos_pl_brasil/FSP250002536384_div.jpg",
+      "foto": "images/candidatos_pl/FSP250002536384_div.jpg",
       "apoiados": {
         "sp": [
-          22011
+          {
+            "numero": 22011,
+            "nome": "Eduarda Campopiano"
+          }
         ]
       }
     },
@@ -708,10 +1701,13 @@
       "id": "FBR280002539826",
       "nome": "Zema",
       "descricao": "Candidato a Presidente - BR",
-      "foto": "fotos_novo_brasil/FBR280002539826_div.jpg",
+      "foto": "images/candidatos_novo/FBR280002539826_div.jpg",
       "apoiados": {
         "br": [
-          30
+          {
+            "numero": 30,
+            "nome": "Zema"
+          }
         ]
       }
     },
@@ -719,10 +1715,13 @@
       "id": "FDF70002552934",
       "nome": "Bia Kicis",
       "descricao": "Candidato a Senador - DF",
-      "foto": "fotos_pl_brasil/FDF70002552934_div.jpg",
+      "foto": "images/candidatos_pl/FDF70002552934_div.jpg",
       "apoiados": {
         "df": [
-          223
+          {
+            "numero": 223,
+            "nome": "Bia Kicis"
+          }
         ]
       }
     },
@@ -730,10 +1729,13 @@
       "id": "FGO90002543556",
       "nome": "Gustavo Gayer",
       "descricao": "Candidato a Senador - GO",
-      "foto": "fotos_pl_brasil/FGO90002543556_div.jpg",
+      "foto": "images/candidatos_pl/FGO90002543556_div.jpg",
       "apoiados": {
         "go": [
-          222
+          {
+            "numero": 222,
+            "nome": "Gustavo Gayer"
+          }
         ]
       }
     },
@@ -741,10 +1743,13 @@
       "id": "FPR160002547661",
       "nome": "Deltan Dallagnol",
       "descricao": "Candidato a Senador - PR",
-      "foto": "fotos_novo_brasil/FPR160002547661_div.jpg",
+      "foto": "images/candidatos_novo/FPR160002547661_div.jpg",
       "apoiados": {
         "pr": [
-          300
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
+          }
         ]
       }
     },
@@ -752,10 +1757,13 @@
       "id": "FRS210002547819",
       "nome": "Marcel Van Hattem",
       "descricao": "Candidato a Senador - RS",
-      "foto": "fotos_novo_brasil/FRS210002547819_div.jpg",
+      "foto": "images/candidatos_novo/FRS210002547819_div.jpg",
       "apoiados": {
         "rs": [
-          300
+          {
+            "numero": 300,
+            "nome": "Marcel Van Hattem"
+          }
         ]
       }
     },
@@ -763,10 +1771,13 @@
       "id": "FSP250002541312",
       "nome": "Guilherme Derrite",
       "descricao": "Candidato a Senador - SP",
-      "foto": "fotos_pp_brasil/FSP250002541312_div.jpg",
+      "foto": "images/candidatos_pp/FSP250002541312_div.jpg",
       "apoiados": {
         "sp": [
-          111
+          {
+            "numero": 111,
+            "nome": "Guilherme Derrite"
+          }
         ]
       }
     }
