@@ -1,6 +1,6 @@
 {
     "voto_estrategico": {
         "habilitado_globalmente": true,
-        "ufs_desativadas": ["DF"]
+        "ufs_desativadas": []
     }
 }
