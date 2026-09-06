@@ -17,11 +17,8 @@
   },
   "configuracoes_remotas": {
     "voto_estrategico": {
-      "habilitado_globalmente": true,
-      "ufs_desativadas": [],
-      "candidatos_forcados": {
-        "PR": [300, 555]
-      }
+      "habilitado_globalmente": false,
+      "ufs_desativadas": []
     }
   }
 }
