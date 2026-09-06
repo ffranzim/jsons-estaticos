@@ -1,0 +1,6542 @@
+{
+  "gerado_em": "2026-09-06T04:29:15+00:00",
+  "hash": "0744bb78c9a0",
+  "schema_versao": 3,
+  "descricao": "Para cada UF, historico traz ate as 3 pesquisas mais recentes para o Senado. usarEsta=true indica a pesquisa recomendada como referencia principal (geralmente a mais atual e metodologicamente padrao). observacao registra qualquer anormalidade (cenario consolidado 1o+2o voto somando mais de 100%, pesquisa partidaria/interna, amostra pequena, discrepancia com outras pesquisas do periodo, etc).",
+  "pesquisas": [
+    {
+      "uf": "AC",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-27",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-acre-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Gladson Cameli",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 19
+            },
+            {
+              "nome": "Marcio Bittar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 14
+            },
+            {
+              "nome": "Mara Rocha",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 12
+            },
+            {
+              "nome": "Jorge Viana",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 12
+            },
+            {
+              "nome": "Sérgio Petecão",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 8
+            },
+            {
+              "nome": "Eduardo Velloso",
+              "partido": "Solidariedade",
+              "numero": 77,
+              "percentual": 5
+            },
+            {
+              "nome": "Júnior Feitosa",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Inácio Moreira",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 11
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 17
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "AtlasIntel",
+          "data_pesquisa": "2026-08-02",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-governador-senador-acre-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marcio Bittar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 20.6
+            },
+            {
+              "nome": "Gladson Cameli",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 18.5
+            },
+            {
+              "nome": "Mara Rocha",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 18.1
+            },
+            {
+              "nome": "Jorge Viana",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 11.4
+            },
+            {
+              "nome": "Sérgio Petecão",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 9.9
+            },
+            {
+              "nome": "Eduardo Velloso",
+              "partido": "Solidariedade",
+              "numero": 77,
+              "percentual": 6.4
+            },
+            {
+              "nome": "Inácio Moreira",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3.5
+            },
+            {
+              "nome": "Júnior Feitosa",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.7
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 2.3
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 8.6
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-07-27",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/eal-time-big-data-governador-senador-acre-julho-2026/",
+          "usarEsta": false,
+          "observacao": "Pesquisa apresentou dois cenários estimulados (1º e 2º); dados do 1º cenário (com todos os candidatos) utilizados aqui.",
+          "candidatos": [
+            {
+              "nome": "Gladson Cameli",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 25
+            },
+            {
+              "nome": "Márcio Bittar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 20
+            },
+            {
+              "nome": "Jorge Viana",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 16
+            },
+            {
+              "nome": "Mara Rocha",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 13
+            },
+            {
+              "nome": "Sérgio Petecão",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 5
+            },
+            {
+              "nome": "Eduardo Velloso",
+              "partido": "Solidariedade",
+              "numero": 77,
+              "percentual": 5
+            },
+            {
+              "nome": "Inácio Moreira",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Júnior Feitosa",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "AL",
+      "historico": [
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-31",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senador-alagoas-agosto/",
+          "usarEsta": false,
+          "observacao": "Pesquisa mais recente encontrada, porém em cenário consolidado (soma do 1º e 2º votos apontados pelos entrevistados) — o total ultrapassa 100%.",
+          "candidatos": [
+            {
+              "nome": "Arthur Lira",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 40.4
+            },
+            {
+              "nome": "Renan Calheiros",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 36.8
+            },
+            {
+              "nome": "Marina JHC",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 28.4
+            },
+            {
+              "nome": "Davi Davino Filho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 24.4
+            },
+            {
+              "nome": "Dr. Wanderley",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 10.8
+            },
+            {
+              "nome": "Alexandre Fleming",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 2.5
+            },
+            {
+              "nome": "Mariedson",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0.3
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 7.8
+            },
+            {
+              "categoria": "Não sabe/Não opinou",
+              "percentual": 5.8
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-alagoas-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Arthur Lira",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 20
+            },
+            {
+              "nome": "Renan Calheiros",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 18
+            },
+            {
+              "nome": "Marina JHC",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 15
+            },
+            {
+              "nome": "Davi Davino Filho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 10
+            },
+            {
+              "nome": "Dr. Wanderley",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 5
+            },
+            {
+              "nome": "Mariedson",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Alexandre Fleming",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 12
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 19
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-07-04",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senador-alagoas-julho-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado (soma do 1º e 2º votos) — o total ultrapassa 100%.",
+          "candidatos": [
+            {
+              "nome": "Alfredo Gaspar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 40.4
+            },
+            {
+              "nome": "Arthur Lira",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 39.8
+            },
+            {
+              "nome": "Renan Calheiros",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 36.4
+            },
+            {
+              "nome": "Davi Davino Filho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 22.9
+            },
+            {
+              "nome": "Dr. Wanderley",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 11.1
+            },
+            {
+              "nome": "Eudócia JHC",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 10.8
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 6.7
+            },
+            {
+              "categoria": "Não sabe/Não opinou",
+              "percentual": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "AM",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-26",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-amazonas-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Capitão Alberto Neto",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 24
+            },
+            {
+              "nome": "Wilson Lima",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 19
+            },
+            {
+              "nome": "Eduardo Braga",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 18
+            },
+            {
+              "nome": "Plinio Valério",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 14
+            },
+            {
+              "nome": "Ismael Munduruku",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 5
+            },
+            {
+              "nome": "Professora Evany",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Xuxa do Amazonas",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 2
+            },
+            {
+              "nome": "Evandro de Oliveira",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Dailson Corrêa",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 7
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-amazonas-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de 1º e 2º voto, reduzido a 100%.",
+          "candidatos": [
+            {
+              "nome": "Eduardo Braga",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 25
+            },
+            {
+              "nome": "Capitão Alberto Neto",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 16
+            },
+            {
+              "nome": "Plinio Valério",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 13
+            },
+            {
+              "nome": "Wilson Lima",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 12
+            },
+            {
+              "nome": "Professora Evany",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Xuxa do Amazonas",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 1
+            },
+            {
+              "nome": "Ismael Munduruku",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            },
+            {
+              "nome": "Dailson Corrêa",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0
+            },
+            {
+              "nome": "Evandro de Oliveira",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 12
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 17
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "DMP",
+          "data_pesquisa": "2026-08-17",
+          "fonte_url": "https://bncamazonas.com.br/poder/eduardo-braga-amplia-lideranca-e-abre-117-pontos-sobre-alberto-neto-aponta-dmp/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Eduardo Braga",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 27.8
+            },
+            {
+              "nome": "Capitão Alberto Neto",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 16.1
+            },
+            {
+              "nome": "Wilson Lima",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 14.0
+            },
+            {
+              "nome": "Plínio Valério",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 11.2
+            },
+            {
+              "nome": "Ismael Munduruku",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1.4
+            },
+            {
+              "nome": "Milton Xuxa",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 1.0
+            },
+            {
+              "nome": "Dailson Corrêa",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.4
+            },
+            {
+              "nome": "Evandro de Oliveira",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0.3
+            },
+            {
+              "nome": "Professora Evony",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Indecisos",
+              "percentual": 20.7
+            },
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "AP",
+      "historico": [
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-29",
+          "fonte_url": "https://www.diretodoplanalto.com.br/2026/08/rayssa-furlan-lidera-corrida-ao-senado.html",
+          "usarEsta": false,
+          "observacao": "Pesquisa mais recente encontrada, porém em cenário consolidado (1º e 2º votos) — o total ultrapassa 100%.",
+          "candidatos": [
+            {
+              "nome": "Rayssa Furlan",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 56
+            },
+            {
+              "nome": "Lucas Barreto",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 38.1
+            },
+            {
+              "nome": "Randolfe Rodrigues",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 36.6
+            },
+            {
+              "nome": "Alliny Serrão",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 18.4
+            },
+            {
+              "nome": "Acácio Favacho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 16.2
+            },
+            {
+              "nome": "João Capiberibe",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 6.3
+            },
+            {
+              "nome": "Juíza Jô",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1.4
+            },
+            {
+              "nome": "Professor Uzian Pinto",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.8
+            },
+            {
+              "nome": "Helio Silva",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0.6
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Brancos/Nulos",
+              "percentual": 4.4
+            },
+            {
+              "categoria": "Não sabem/Não opinaram",
+              "percentual": 3.9
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governo-senado-amapa-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Rayssa Furlan",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 27
+            },
+            {
+              "nome": "Randolfe Rodrigues",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 19
+            },
+            {
+              "nome": "Lucas Barreto",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 18
+            },
+            {
+              "nome": "Alliny Serrão",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 9
+            },
+            {
+              "nome": "Acácio Favacho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 7
+            },
+            {
+              "nome": "João Capiberibe",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 4
+            },
+            {
+              "nome": "Helio Silva",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            },
+            {
+              "nome": "Juíza Jô",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0
+            },
+            {
+              "nome": "Professor Uzian Pinto",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 5
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 11
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-07-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-amapa-julho-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de 1º e 2º voto, reduzido a 100%.",
+          "candidatos": [
+            {
+              "nome": "Rayssa Furlan",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 32
+            },
+            {
+              "nome": "Randolfe Rodrigues",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 18
+            },
+            {
+              "nome": "Lucas Barreto",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 12
+            },
+            {
+              "nome": "Alliny Serrão",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 9
+            },
+            {
+              "nome": "João Capiberibe",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 7
+            },
+            {
+              "nome": "Teles Júnior",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 3
+            },
+            {
+              "nome": "Acácio Favacho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 3
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "BA",
+      "historico": [
+        {
+          "instituto_pesquisa": "AtlasIntel",
+          "data_pesquisa": "2026-09-03",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-governo-senado-bahia-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Rui Costa",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 28.2
+            },
+            {
+              "nome": "Jaques Wagner",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 23.7
+            },
+            {
+              "nome": "João Roma",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 18.3
+            },
+            {
+              "nome": "Angelo Coronel",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 16.0
+            },
+            {
+              "nome": "Professora Delliana",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2.3
+            },
+            {
+              "nome": "Marcelo Carvalho",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 0.5
+            },
+            {
+              "nome": "Carlos Sodré",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 0.2
+            },
+            {
+              "nome": "Gregório Gould",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.1
+            },
+            {
+              "nome": "Marcelo Santtana",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.1
+            },
+            {
+              "nome": "Marcelo Millet",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0.0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 7.8
+            },
+            {
+              "categoria": "Não sabe",
+              "percentual": 2.9
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-11",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-bahia-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de 1º e 2º voto, reduzido a 100%.",
+          "candidatos": [
+            {
+              "nome": "Rui Costa",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 25
+            },
+            {
+              "nome": "Jaques Wagner",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 20
+            },
+            {
+              "nome": "Angelo Coronel",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 15
+            },
+            {
+              "nome": "João Roma",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15
+            },
+            {
+              "nome": "Professora Delliana",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 5
+            },
+            {
+              "nome": "Carlos Sodré",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 1
+            },
+            {
+              "nome": "Marcelo Carvalho",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            },
+            {
+              "nome": "Marcelo Santtana",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Gregório Gould",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 9
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 8
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-03",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senado-bahia-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado (1º e 2º votos) — o total ultrapassa 100%.",
+          "candidatos": [
+            {
+              "nome": "Rui Costa",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 44.6
+            },
+            {
+              "nome": "Jaques Wagner",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 35.1
+            },
+            {
+              "nome": "João Roma",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 24.1
+            },
+            {
+              "nome": "Angelo Coronel",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 21.9
+            },
+            {
+              "nome": "Professora Delliana",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 6.4
+            },
+            {
+              "nome": "Marcelo Santtana",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 2.1
+            },
+            {
+              "nome": "Marcelo Carvalho",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1.8
+            },
+            {
+              "nome": "Gregorio Gould",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1.6
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 13.4
+            },
+            {
+              "categoria": "Não sabe/Não opinou",
+              "percentual": 6.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "CE",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-09-04",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-ceara-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Cid Gomes",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 23
+            },
+            {
+              "nome": "Capitão Wagner",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 20
+            },
+            {
+              "nome": "Luizianne",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 13
+            },
+            {
+              "nome": "Alcides Fernandes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 5
+            },
+            {
+              "nome": "Catarina Matos",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Reginaldo",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Guilherme Theofilo",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            },
+            {
+              "nome": "Lino Alves",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 17
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 19
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "AtlasIntel",
+          "data_pesquisa": "2026-09-04",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-governador-senador-ceara-setembro-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado (média do 1º e 2º voto simulado, registro TSE CE-02357/2026); mesma data de divulgação da Quaest, mas campo encerrado um dia antes (28/ago-02/set).",
+          "candidatos": [
+            {
+              "nome": "Cid Gomes",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 24.4
+            },
+            {
+              "nome": "Luizianne",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 24.2
+            },
+            {
+              "nome": "Capitão Wagner",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 19.1
+            },
+            {
+              "nome": "Alcides Fernandes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15.7
+            },
+            {
+              "nome": "Catarina Matos",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 2.3
+            },
+            {
+              "nome": "Guilherme Theofilo",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 0.8
+            },
+            {
+              "nome": "Lino Alves",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0.3
+            },
+            {
+              "nome": "Reginaldo",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0.2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Voto branco/nulo",
+              "percentual": 4.9
+            },
+            {
+              "categoria": "Não sei",
+              "percentual": 8.0
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-20",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-ceara-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Registro TSE CE-08223/2026.",
+          "candidatos": [
+            {
+              "nome": "Cid Gomes",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 27
+            },
+            {
+              "nome": "Capitão Wagner",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 21
+            },
+            {
+              "nome": "Luizianne",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 21
+            },
+            {
+              "nome": "Alcides Fernandes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 14
+            },
+            {
+              "nome": "Guilherme Theofilo",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 5
+            },
+            {
+              "nome": "Catarina Matos",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            },
+            {
+              "nome": "Reginaldo",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 5
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "DF",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-senador-distrito-federal-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "Campo de 21-24/08, divulgada em 25/08 (a data 24/08 registrada anteriormente corresponde ao fim do campo, não à divulgação).",
+          "candidatos": [
+            {
+              "nome": "Michelle Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 25
+            },
+            {
+              "nome": "Leila do Vôlei",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 17
+            },
+            {
+              "nome": "Erika Kokay",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 12
+            },
+            {
+              "nome": "Bia Kicis",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Sebastião Coelho",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 2
+            },
+            {
+              "nome": "Professor Guilherme Amorim",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 2
+            },
+            {
+              "nome": "Ronaldo Fonseca",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 1
+            },
+            {
+              "nome": "Zanata",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Tiago",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 1
+            },
+            {
+              "nome": "Avenir Rosa",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0
+            },
+            {
+              "nome": "Guto Felício dos Santos",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 0
+            },
+            {
+              "nome": "David Horn",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            },
+            {
+              "nome": "Marley",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 12
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 18
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Datafolha",
+          "data_pesquisa": "2026-08-21",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-senador-distrito-federal-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Registro TSE DF-07561/2026.",
+          "candidatos": [
+            {
+              "nome": "Michelle Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 19
+            },
+            {
+              "nome": "Leila do Vôlei",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 16
+            },
+            {
+              "nome": "Erika Kokay",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 12
+            },
+            {
+              "nome": "Bia Kicis",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 11
+            },
+            {
+              "nome": "Sebastião Coelho",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3
+            },
+            {
+              "nome": "Ronaldo Fonseca",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 2
+            },
+            {
+              "nome": "Tiago",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 2
+            },
+            {
+              "nome": "Professor Guilherme Amorim",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 2
+            },
+            {
+              "nome": "Avenir Rosa",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Guto Felício dos Santos",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "David Horn",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 1
+            },
+            {
+              "nome": "Marley",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 1
+            },
+            {
+              "nome": "Zanata",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 16
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 14
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-19",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-senador-distrito-federal-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Registro TSE DF-07849/2026.",
+          "candidatos": [
+            {
+              "nome": "Michelle Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 25
+            },
+            {
+              "nome": "Leila do Vôlei",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 17
+            },
+            {
+              "nome": "Bia Kicis",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15
+            },
+            {
+              "nome": "Erika Kokay",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 15
+            },
+            {
+              "nome": "Sebastião Coelho",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 8
+            },
+            {
+              "nome": "Cristian Viana",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 2
+            },
+            {
+              "nome": "Tiago Tarsis",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 1
+            },
+            {
+              "nome": "Zanata",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0
+            },
+            {
+              "nome": "Professor Guilherme Amorim",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 8
+            },
+            {
+              "categoria": "Não Sabe/Não Respondeu",
+              "percentual": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "ES",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-27",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-espirito-santo-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Renato Casagrande",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 30
+            },
+            {
+              "nome": "Sérgio Meneguelli",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 14
+            },
+            {
+              "nome": "Rose de Freitas",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 10
+            },
+            {
+              "nome": "Fabiano Contarato",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Maguinha Malta",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Evair de Melo",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 6
+            },
+            {
+              "nome": "Leonardo Monjardim",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3
+            },
+            {
+              "nome": "Marcos do Val",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 3
+            },
+            {
+              "nome": "Professor Fabian",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Rodney Miranda",
+              "partido": "PRTB",
+              "numero": 28,
+              "percentual": 3
+            },
+            {
+              "nome": "Callegari",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 4
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 5
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-07-16",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-espirito-santo-julho-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário estimulado consolidado (4º cenário testado pelo instituto).",
+          "candidatos": [
+            {
+              "nome": "Renato Casagrande",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 31
+            },
+            {
+              "nome": "Rose de Freitas",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 12
+            },
+            {
+              "nome": "Sérgio Meneguelli",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 10
+            },
+            {
+              "nome": "Fabiano Contarato",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Maguinha Malta",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 6
+            },
+            {
+              "nome": "Marcos do Val",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 5
+            },
+            {
+              "nome": "Evair de Melo",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 4
+            },
+            {
+              "nome": "Leonardo Monjardim",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            },
+            {
+              "nome": "Professor Fabian",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0
+            },
+            {
+              "nome": "Callegari",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não votaria",
+              "percentual": 8
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 14
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-06-09",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-espirito-santo-junho-2026/",
+          "usarEsta": false,
+          "observacao": "Dois pré-candidatos do mesmo partido (PSD: Paulo Hartung e Sérgio Meneguelli) testados simultaneamente no mesmo cenário.",
+          "candidatos": [
+            {
+              "nome": "Renato Casagrande",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 28
+            },
+            {
+              "nome": "Paulo Hartung",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 15
+            },
+            {
+              "nome": "Sérgio Meneguelli",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 13
+            },
+            {
+              "nome": "Maguinha Malta",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 10
+            },
+            {
+              "nome": "Rose de Freitas",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 9
+            },
+            {
+              "nome": "Fabiano Contarato",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 7
+            },
+            {
+              "nome": "Marcos do Val",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 6
+            },
+            {
+              "nome": "Evair de Melo",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 3
+            },
+            {
+              "nome": "Callegari",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Leonardo Monjardim",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 4
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "GO",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-28",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-goias-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Gracinha Caiado",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 27
+            },
+            {
+              "nome": "Gustavo Gayer",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 17
+            },
+            {
+              "nome": "Gustavo Mendanha",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 12
+            },
+            {
+              "nome": "Dr. Zacharias Calil",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 12
+            },
+            {
+              "nome": "Vanderlan Cardoso",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 10
+            },
+            {
+              "nome": "Isaura Lemos",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 5
+            },
+            {
+              "nome": "Oséias Varão",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 4
+            },
+            {
+              "nome": "Cintia Dias",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Iure Castro",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 2
+            },
+            {
+              "nome": "Ernesto Roller",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 4
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 3
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-27",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-goias-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Gracinha Caiado",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 21
+            },
+            {
+              "nome": "Gustavo Gayer",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 12
+            },
+            {
+              "nome": "Vanderlan Cardoso",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 9
+            },
+            {
+              "nome": "Dr. Zacharias Calil",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 9
+            },
+            {
+              "nome": "Gustavo Mendanha",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 6
+            },
+            {
+              "nome": "Isaura Lemos",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 3
+            },
+            {
+              "nome": "Oséias Varão",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 3
+            },
+            {
+              "nome": "Cintia Dias",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Ernesto Roller",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "Guilherme Darques",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            },
+            {
+              "nome": "Iure Castro",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 9
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 25
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-18",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senador-goias-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Soma dos candidatos ultrapassa 100% (~145%): cada candidato foi testado em simulações/cenários distintos, não em um único cenário simultâneo. Registro TSE GO-01791/2026.",
+          "candidatos": [
+            {
+              "nome": "Gracinha Caiado",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 41.0
+            },
+            {
+              "nome": "Gustavo Gayer",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 27.1
+            },
+            {
+              "nome": "Vanderlan Cardoso",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 21.4
+            },
+            {
+              "nome": "Zacarias Calil",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 19.5
+            },
+            {
+              "nome": "Gustavo Mendanha",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 16.3
+            },
+            {
+              "nome": "Isaura Lemos",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 5.7
+            },
+            {
+              "nome": "Cíntia Dias",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 4.8
+            },
+            {
+              "nome": "Ozeias Varão",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 4.0
+            },
+            {
+              "nome": "Ernesto Roller",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 2.3
+            },
+            {
+              "nome": "Guilherme Darques",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1.8
+            },
+            {
+              "nome": "Iure Castro",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 1.3
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 8.6
+            },
+            {
+              "categoria": "Não sabe/não opinou",
+              "percentual": 7.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "MA",
+      "historico": [
+        {
+          "instituto_pesquisa": "IPSensus",
+          "data_pesquisa": "2026-09-01",
+          "fonte_url": "https://gilbertoleda.com.br/2026/09/01/ipsensus-roseana-sarney-lidera-disputa-pelo-senado",
+          "usarEsta": true,
+          "observacao": "Mais recente que a Quaest de 24/08; registro na Justiça Eleitoral MA-05404/2026. Percentual é a 'intenção combinada' (média 1º+2º voto); a matéria-fonte não informou os partidos dos candidatos, preenchidos aqui com base nas demais pesquisas do mesmo pleito (Quaest/RTBD).",
+          "candidatos": [
+            {
+              "nome": "Roseana Sarney",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 20.5
+            },
+            {
+              "nome": "Lahesio Bonfim",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 14.4
+            },
+            {
+              "nome": "Dr. Hilton Gonçalo",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 13.8
+            },
+            {
+              "nome": "André Fufuca",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 13.6
+            },
+            {
+              "nome": "Weverton Rocha",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 13.2
+            },
+            {
+              "nome": "Eliziane Gama",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 8.9
+            },
+            {
+              "nome": "Simplício Araújo",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1.4
+            },
+            {
+              "nome": "Cidônio Gonçalves",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 1.1
+            },
+            {
+              "nome": "Wilson Leite",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0.8
+            },
+            {
+              "nome": "Raimundo Moreira",
+              "partido": "PCB",
+              "numero": 21,
+              "percentual": 0.7
+            },
+            {
+              "nome": "Enilton Rodrigues",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.7
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Indeciso",
+              "percentual": 5.1
+            },
+            {
+              "categoria": "Não Sabe/Não Respondeu",
+              "percentual": 5.8
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-maranhao-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Campo 20-23/08, divulgada em 24/08.",
+          "candidatos": [
+            {
+              "nome": "Roseana Sarney",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 16
+            },
+            {
+              "nome": "Weverton Rocha",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 11
+            },
+            {
+              "nome": "Lahesio Bonfim",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 10
+            },
+            {
+              "nome": "Eliziane Gama",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Fufuca",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 9
+            },
+            {
+              "nome": "Dr. Hilton Gonçalo",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 5
+            },
+            {
+              "nome": "Cidônio Gonçalves",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 1
+            },
+            {
+              "nome": "Wilson Leite",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Simplício Araújo",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Raimundo Moreira",
+              "partido": "PCB",
+              "numero": 21,
+              "percentual": 1
+            },
+            {
+              "nome": "Enilton Rodrigues",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 9
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 27
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-07-08",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-maranhao-julho-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de dois cenários estimulados testados (dois candidatos do Novo e dois do PSOL testados em cenários diferentes); soma ultrapassa 100%. Percentual de Eliziane Gama informado como faixa 10-11%, usado aqui o valor médio (10%).",
+          "candidatos": [
+            {
+              "nome": "Duarte Jr.",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 14
+            },
+            {
+              "nome": "Roseana Sarney",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 13
+            },
+            {
+              "nome": "Weverton Rocha",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 13
+            },
+            {
+              "nome": "Roberto Rocha",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 11
+            },
+            {
+              "nome": "Eliziane Gama",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 10
+            },
+            {
+              "nome": "Lahesio Bonfim",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 10
+            },
+            {
+              "nome": "André Fufuca",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 10
+            },
+            {
+              "nome": "Pedro Lucas Fernandes",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 9
+            },
+            {
+              "nome": "César Pires",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 2
+            },
+            {
+              "nome": "Dr. Hilton Gonçalo",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 2
+            },
+            {
+              "nome": "Antonia Cariongo",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Franklin Douglas",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 6
+            },
+            {
+              "categoria": "Não sabe",
+              "percentual": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "MG",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-26",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-minas-gerais-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marília Campos",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 24
+            },
+            {
+              "nome": "Carlos Viana",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 13
+            },
+            {
+              "nome": "Domingos Sávio",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 13
+            },
+            {
+              "nome": "Marcelo Aro",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 12
+            },
+            {
+              "nome": "Áurea Carolina",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 9
+            },
+            {
+              "nome": "Marco Antônio Superman",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 4
+            },
+            {
+              "nome": "Ana Luiza do MLB",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Arcanjo Pimenta",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 1
+            },
+            {
+              "nome": "Carlin Moura",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 1
+            },
+            {
+              "nome": "Gustavo Galassi",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "Manoel Carvalho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 1
+            },
+            {
+              "nome": "Marcelo Heringer",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 8
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 11
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Datafolha",
+          "data_pesquisa": "2026-08-20",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-governador-senador-minas-gerais-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marília Campos",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 11
+            },
+            {
+              "nome": "Carlos Viana",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 8
+            },
+            {
+              "nome": "Domingos Sávio",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 6
+            },
+            {
+              "nome": "Marcelo Aro",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 5
+            },
+            {
+              "nome": "Ana Luiza do MLB",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 4
+            },
+            {
+              "nome": "Marco Antônio Superman",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3
+            },
+            {
+              "nome": "Áurea Carolina",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Manoel Carvalho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 2
+            },
+            {
+              "nome": "Gustavo Galassi",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 2
+            },
+            {
+              "nome": "Tião Pessoa",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 2
+            },
+            {
+              "nome": "Marcelo Heringer",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 2
+            },
+            {
+              "nome": "Victória Mello Vic",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 2
+            },
+            {
+              "nome": "Arcanjo Pimenta",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 1
+            },
+            {
+              "nome": "Carlin Moura",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 1
+            },
+            {
+              "nome": "Fidélis Alcântara",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Juíz Ramon Moreira",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 21
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 24
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-07-29",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-minas-gerais-julho-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário 1 de 3 cenários testados pelo instituto",
+          "candidatos": [
+            {
+              "nome": "Marília Campos",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 21
+            },
+            {
+              "nome": "Marcelo Aro",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 14
+            },
+            {
+              "nome": "Aécio Neves",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 13
+            },
+            {
+              "nome": "Carlos Viana",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 12
+            },
+            {
+              "nome": "Domingos Sávio",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Áurea Carolina",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 8
+            },
+            {
+              "nome": "Euclydes Pettersen",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 5
+            },
+            {
+              "nome": "Marco Antonio Costa",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 7
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "MS",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-mato-grosso-sul-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Reinaldo Azambuja",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 22
+            },
+            {
+              "nome": "Capitão Contar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15
+            },
+            {
+              "nome": "Soraya Thronicke",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 11
+            },
+            {
+              "nome": "Vander Loubet",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Roberto Oshiro",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3
+            },
+            {
+              "nome": "Beto do Movimento",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Daniel Júnior",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 2
+            },
+            {
+              "nome": "Valter da Comagran",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 1
+            },
+            {
+              "nome": "Luiz Lemes",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Valderi Garcia",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 12
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 21
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-06",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-mato-grosso-do-sul-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de 1º e 2º voto (resposta estimulada)",
+          "candidatos": [
+            {
+              "nome": "Reinaldo Azambuja",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 38
+            },
+            {
+              "nome": "Capitão Contar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 19
+            },
+            {
+              "nome": "Nelsinho Trad",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 15
+            },
+            {
+              "nome": "Vander Loubet",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Soraya Thronicke",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 8
+            },
+            {
+              "nome": "Beto do Movimento",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 5
+            },
+            {
+              "nome": "Daniel Júnior",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 2
+            },
+            {
+              "nome": "Fernando Moraes",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 4
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 6
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-05-12",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-mato-grosso-do-sul-maio-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário 1 de 2 cenários testados pelo instituto",
+          "candidatos": [
+            {
+              "nome": "Reinaldo Azambuja",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 29
+            },
+            {
+              "nome": "Capitão Contar",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 18
+            },
+            {
+              "nome": "Nelsinho Trad",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 17
+            },
+            {
+              "nome": "Soraya Thronicke",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 10
+            },
+            {
+              "nome": "Vander Loubet",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Beto do Movimento",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Daniel Júnior",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 7
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "MT",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-09-03",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-mato-grosso-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Mauro Mendes",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 27
+            },
+            {
+              "nome": "Janaína Riva",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 26
+            },
+            {
+              "nome": "Carlos Fávaro",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 14
+            },
+            {
+              "nome": "José Medeiros",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 13
+            },
+            {
+              "nome": "Pedro Taques",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 13
+            },
+            {
+              "nome": "Antônio Galvan",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 2
+            },
+            {
+              "nome": "Margareth Buzzetti",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 2
+            },
+            {
+              "nome": "Professor Nelson Ferreira",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0
+            },
+            {
+              "nome": "Coronel Darwin",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0
+            },
+            {
+              "nome": "Beny Godoy",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 1
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 2
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governo-senado-mato-grosso-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Mauro Mendes",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 24
+            },
+            {
+              "nome": "Janaína Riva",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 18
+            },
+            {
+              "nome": "Pedro Taques",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 8
+            },
+            {
+              "nome": "José Medeiros",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 6
+            },
+            {
+              "nome": "Carlos Fávaro",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 5
+            },
+            {
+              "nome": "Coronel Darwin",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 2
+            },
+            {
+              "nome": "Antônio Galvan",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 2
+            },
+            {
+              "nome": "Professor Nelson Ferreira",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 2
+            },
+            {
+              "nome": "Margareth Buzzetti",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 1
+            },
+            {
+              "nome": "Beny Godoy",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 7
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 25
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senado-mato-grosso-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário estimulado consolidado de 1º e 2º voto; soma ultrapassa 100%",
+          "candidatos": [
+            {
+              "nome": "Mauro Mendes",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 52.3
+            },
+            {
+              "nome": "Janaína Riva",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 33.7
+            },
+            {
+              "nome": "José Medeiros",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 18.8
+            },
+            {
+              "nome": "Pedro Taques",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 16.5
+            },
+            {
+              "nome": "Carlos Fávaro",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 14.6
+            },
+            {
+              "nome": "Coronel Darwin",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 4.7
+            },
+            {
+              "nome": "Professor Nelson Ferreira",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 4.1
+            },
+            {
+              "nome": "Antônio Galvan",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 4.0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6.0
+            },
+            {
+              "categoria": "Indeciso",
+              "percentual": 5.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "PA",
+      "historico": [
+        {
+          "instituto_pesquisa": "Indexa",
+          "data_pesquisa": "2026-09-04",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/indexa-governador-senador-para-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "Cenário consolidado de 1º e 2º voto; soma ultrapassa 100%",
+          "candidatos": [
+            {
+              "nome": "Helder Barbalho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 45.8
+            },
+            {
+              "nome": "Delegado Éder Mauro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 34.8
+            },
+            {
+              "nome": "Zequinha Marinho",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 21.0
+            },
+            {
+              "nome": "Chicão Melo",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 18.9
+            },
+            {
+              "nome": "Celso Sabino",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 9.4
+            },
+            {
+              "nome": "Gizelle Freitas",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1.5
+            },
+            {
+              "nome": "Lívia Noronha",
+              "partido": "Solidariedade",
+              "numero": 77,
+              "percentual": 1.4
+            },
+            {
+              "nome": "Breno Guimarães",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 0.9
+            },
+            {
+              "nome": "Fernanda Lopes",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.3
+            },
+            {
+              "nome": "Marcelino Conti de Souza",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.1
+            },
+            {
+              "nome": "Edilaine Rodrigues",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0.1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 19.4
+            },
+            {
+              "categoria": "Não vai votar",
+              "percentual": 9.1
+            },
+            {
+              "categoria": "Não sabe/Não opinou",
+              "percentual": 37.4
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-29",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-para-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Helder Barbalho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 23
+            },
+            {
+              "nome": "Delegado Éder Mauro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 14
+            },
+            {
+              "nome": "Zequinha Marinho",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 11
+            },
+            {
+              "nome": "Celso Sabino",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 7
+            },
+            {
+              "nome": "Chicão Melo",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 5
+            },
+            {
+              "nome": "Gizelle Freitas",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Fernanda Lopes",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Lívia Noronha",
+              "partido": "Solidariedade",
+              "numero": 77,
+              "percentual": 1
+            },
+            {
+              "nome": "Marcelino Conti de Souza",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Edilaine Rodrigues",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0
+            },
+            {
+              "nome": "Breno Guimarães",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 12
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 23
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "AtlasIntel",
+          "data_pesquisa": "2026-08-20",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-governador-senador-para-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário único consolidado de 1º e 2º voto, reduzido para 100%",
+          "candidatos": [
+            {
+              "nome": "Helder Barbalho",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 24.0
+            },
+            {
+              "nome": "Delegado Éder Mauro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 18.4
+            },
+            {
+              "nome": "Zequinha Marinho",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 14.6
+            },
+            {
+              "nome": "Celso Sabino",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 12.4
+            },
+            {
+              "nome": "Chicão",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 10.5
+            },
+            {
+              "nome": "Professor Conti",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3.0
+            },
+            {
+              "nome": "Gizelle Freitas",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2.1
+            },
+            {
+              "nome": "Edilaine Rodrigues",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1.0
+            },
+            {
+              "nome": "Lívia Noronha",
+              "partido": "Solidariedade",
+              "numero": 77,
+              "percentual": 0.7
+            },
+            {
+              "nome": "Breno Guimarães",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 0.3
+            },
+            {
+              "nome": "Fernanda Lopes",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 7.7
+            },
+            {
+              "categoria": "Não sabe",
+              "percentual": 5.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "PB",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.paginapb.com.br/2026/08/quaest-joao-lidera-senado-com-27.html",
+          "usarEsta": true,
+          "observacao": "Amostra de 804 entrevistados",
+          "candidatos": [
+            {
+              "nome": "João Azevêdo",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 27
+            },
+            {
+              "nome": "Veneziano",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 17
+            },
+            {
+              "nome": "Nabor",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 9
+            },
+            {
+              "nome": "Marcelo Queiroga",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 6
+            },
+            {
+              "nome": "Major Fábio",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 5
+            },
+            {
+              "nome": "André Gadelha",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 2
+            },
+            {
+              "nome": "João Batista",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Adriano Trajano",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 1
+            },
+            {
+              "nome": "Rosilene Santana",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            },
+            {
+              "nome": "Rinaldo Júnior",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não votarão",
+              "percentual": 17
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 15
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-22",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-paraiba-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de 1º e 2º voto, reduzido para 100%",
+          "candidatos": [
+            {
+              "nome": "João Azevêdo",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 29
+            },
+            {
+              "nome": "Veneziano",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 23
+            },
+            {
+              "nome": "Marcelo Queiroga",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15
+            },
+            {
+              "nome": "Nabor",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 15
+            },
+            {
+              "nome": "Major Fábio",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 4
+            },
+            {
+              "nome": "André Gadelha",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 4
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 3
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 7
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-05-26",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-paraiba-maio-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "João Azevêdo",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 32
+            },
+            {
+              "nome": "Veneziano",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 25
+            },
+            {
+              "nome": "Marcelo Queiroga",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 13
+            },
+            {
+              "nome": "Nabor Wanderley",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 9
+            },
+            {
+              "nome": "Major Fábio",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3
+            },
+            {
+              "nome": "André Gadelha",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 2
+            },
+            {
+              "nome": "Avenzoar Arruda",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Rinaldo Júnior",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 5
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "PE",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-09-03",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-pernambuco-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marília Arraes",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 29
+            },
+            {
+              "nome": "Mendonça Filho",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 20
+            },
+            {
+              "nome": "Humberto Costa",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 19
+            },
+            {
+              "nome": "Eduardo da Fonte",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 13
+            },
+            {
+              "nome": "Tulio Gadelha",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 12
+            },
+            {
+              "nome": "Carlos Sant'Anna",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            },
+            {
+              "nome": "Paulo Rubem",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 3
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 2
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-pernambuco-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marília Arraes",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 16
+            },
+            {
+              "nome": "Humberto Costa",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 13
+            },
+            {
+              "nome": "Mendonça Filho",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Eduardo da Fonte",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 6
+            },
+            {
+              "nome": "Tulio Gadelha",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 3
+            },
+            {
+              "nome": "Pastor Gilvan Costa",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Carlos Sant'anna",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            },
+            {
+              "nome": "Rubem Santiago",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            },
+            {
+              "nome": "Samuel Timoteo",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            },
+            {
+              "nome": "Mariano Macedo",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0
+            },
+            {
+              "nome": "Mailson Neto",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            },
+            {
+              "nome": "Goret Bitu",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 24
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 26
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Datafolha",
+          "data_pesquisa": "2026-08-21",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-governador-senador-pernambuco-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marília Arraes",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 15
+            },
+            {
+              "nome": "Humberto Costa",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 14
+            },
+            {
+              "nome": "Mendonça Filho",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 12
+            },
+            {
+              "nome": "Eduardo da Fonte",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 11
+            },
+            {
+              "nome": "Tulio Gadelha",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 5
+            },
+            {
+              "nome": "Carlos Sant'anna",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 2
+            },
+            {
+              "nome": "Pastor Gilvan Costa",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 2
+            },
+            {
+              "nome": "Samuel Timoteo",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Mariano Macedo",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Paulo Rubem Santiago",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            },
+            {
+              "nome": "Mailson Neto",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            },
+            {
+              "nome": "Goret Bitu",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/nulo/nenhum",
+              "percentual": 23
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "PI",
+      "historico": [
+        {
+          "instituto_pesquisa": "AtlasIntel",
+          "data_pesquisa": "2026-09-03",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-governador-senador-piaui-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marcelo Castro",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 22.4
+            },
+            {
+              "nome": "Júlio César",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 17.2
+            },
+            {
+              "nome": "Ciro Nogueira",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 13.3
+            },
+            {
+              "nome": "Tiago Junqueira",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 8.2
+            },
+            {
+              "nome": "Francinaldo Leão",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2.3
+            },
+            {
+              "nome": "Antônio Barros",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1.7
+            },
+            {
+              "nome": "Major Paulo Roberto",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 1.2
+            },
+            {
+              "nome": "Jorge Lopes",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "Dionísio Carvalho",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.6
+            },
+            {
+              "nome": "Pastor Sena",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 0.6
+            },
+            {
+              "nome": "Pedro Laurentino",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.6
+            },
+            {
+              "nome": "Maria Madalena Nunes",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.4
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 15.1
+            },
+            {
+              "categoria": "Não sabe",
+              "percentual": 15.1
+            },
+            {
+              "categoria": "Outros candidatos",
+              "percentual": 0.4
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Datafolha",
+          "data_pesquisa": "2026-08-22",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-governador-senador-piaui-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Ciro Nogueira",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 16
+            },
+            {
+              "nome": "Marcelo Castro",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 16
+            },
+            {
+              "nome": "Júlio César",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 14
+            },
+            {
+              "nome": "Tiago Junqueira",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 4
+            },
+            {
+              "nome": "Jorge Lopes",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 2
+            },
+            {
+              "nome": "Danniel Rocha",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 2
+            },
+            {
+              "nome": "Antônio Barros",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            },
+            {
+              "nome": "Antônio José Lira",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 1
+            },
+            {
+              "nome": "Major Paulo Roberto",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 1
+            },
+            {
+              "nome": "Maria Madalena Nunes",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Dionísio Carvalho",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Pedro Laurentino",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Cloves José",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 1
+            },
+            {
+              "nome": "Francinaldo Leão",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Missionário Evandro Craveiro",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Jardenya Bezerra",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Irmão Evandro Marques",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Toinho Dufrango",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Nenhum",
+              "percentual": 20
+            },
+            {
+              "categoria": "Indecisos/Não sabe",
+              "percentual": 14
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-07-14",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-piaui-julho-2026/",
+          "usarEsta": false,
+          "observacao": "cenário consolidado 1º+2º voto",
+          "candidatos": [
+            {
+              "nome": "Marcelo Castro",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 28
+            },
+            {
+              "nome": "Ciro Nogueira",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 21
+            },
+            {
+              "nome": "Júlio César",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 21
+            },
+            {
+              "nome": "Tiago Junqueira",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 7
+            },
+            {
+              "nome": "Francinaldo Leão",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Antônio Barros",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 2
+            },
+            {
+              "nome": "Dionísio Piauí",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Jorge Lopes",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "Ravenna Castro",
+              "partido": "Democratas",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Antônio José Lira",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 1
+            },
+            {
+              "nome": "Major Paulo Roberto",
+              "partido": "Mobiliza",
+              "numero": 33,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6
+            },
+            {
+              "categoria": "Não Sabe",
+              "percentual": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "PR",
+      "historico": [
+        {
+          "instituto_pesquisa": "IRG Pesquisas",
+          "data_pesquisa": "2026-09-04",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/irg-pesquisas-senador-parana-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Deltan Dallagnol",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 23.7
+            },
+            {
+              "nome": "Gleisi Hoffmann",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 20.2
+            },
+            {
+              "nome": "Alexandre Curi",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 19.8
+            },
+            {
+              "nome": "Filipe Barros",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 12.3
+            },
+            {
+              "nome": "Cristina Graeml",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 5.0
+            },
+            {
+              "nome": "Dr. Rosinha",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 3.1
+            },
+            {
+              "nome": "Karen Guerreiro",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 0.9
+            },
+            {
+              "nome": "Joaquim do MLB",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.3
+            },
+            {
+              "nome": "Marcelo Marcelino",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0.2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 5.7
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 8.8
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-09-03",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-senador-parana-setembro-2026/",
+          "usarEsta": false,
+          "observacao": "Percentuais somam mais de 100% (pergunta individual por candidato, não voto único)",
+          "candidatos": [
+            {
+              "nome": "Deltan Dallagnol",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 30.8
+            },
+            {
+              "nome": "Alexandre Curi",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 28.4
+            },
+            {
+              "nome": "Gleisi Hoffmann",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 25.7
+            },
+            {
+              "nome": "Filipe Barros",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 22.9
+            },
+            {
+              "nome": "Cristina Graeml",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 14.4
+            },
+            {
+              "nome": "Dr. Rosinha",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 13.0
+            },
+            {
+              "nome": "Marcelo Marcelino",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 1.7
+            },
+            {
+              "nome": "Joaquim do MLB",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1.3
+            },
+            {
+              "nome": "Karen Guerreiro",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 0.9
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 7.4
+            },
+            {
+              "categoria": "Não sabe/Não opinou",
+              "percentual": 6.1
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-senador-parana-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Alexandre Curi",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 15
+            },
+            {
+              "nome": "Gleisi Hoffmann",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 11
+            },
+            {
+              "nome": "Filipe Barros",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Deltan Dallagnol",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 9
+            },
+            {
+              "nome": "Cristina Graeml",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 8
+            },
+            {
+              "nome": "Dr. Rosinha",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 6
+            },
+            {
+              "nome": "Karen Guerreiro",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 1
+            },
+            {
+              "nome": "Joaquim do MLB",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            },
+            {
+              "nome": "Marcelo Marcelino",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 13
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "RJ",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-09-02",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-rio-de-janeiro-setembro-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Benedita da Silva",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 14
+            },
+            {
+              "nome": "Marcelo Crivella",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 14
+            },
+            {
+              "nome": "Pedro Paulo",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 13
+            },
+            {
+              "nome": "Carlos Jordy",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 11
+            },
+            {
+              "nome": "Carlos Portinho",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Monica Benicio",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 9
+            },
+            {
+              "nome": "Waguinho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 8
+            },
+            {
+              "nome": "Marcos Dias",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 3
+            },
+            {
+              "nome": "Comandante Ribeiro Afonso",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Zé Clemente",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 8
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 9
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senado-rio-de-janeiro-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Percentuais somam mais de 100% (pergunta individual por candidato, não voto único)",
+          "candidatos": [
+            {
+              "nome": "Benedita da Silva",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 29.6
+            },
+            {
+              "nome": "Marcelo Crivella",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 21.0
+            },
+            {
+              "nome": "Pedro Paulo",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 16.4
+            },
+            {
+              "nome": "Carlos Jordy",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 11.9
+            },
+            {
+              "nome": "Carlos Portinho",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 10.6
+            },
+            {
+              "nome": "Waguinho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 9.2
+            },
+            {
+              "nome": "Monica Benicio",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 5.9
+            },
+            {
+              "nome": "André Monteiro",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 5.3
+            },
+            {
+              "nome": "Marcos Dias",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 3.9
+            },
+            {
+              "nome": "Paula Falcão",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 2.9
+            },
+            {
+              "nome": "Michelly Xavier",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 2.6
+            },
+            {
+              "nome": "Helio Secco",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 1.9
+            },
+            {
+              "nome": "Luciano Mattos",
+              "partido": "PRTB",
+              "numero": 28,
+              "percentual": 1.9
+            },
+            {
+              "nome": "Luiz Eugenio",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 1.4
+            },
+            {
+              "nome": "Vinicius Benevides",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1.0
+            },
+            {
+              "nome": "Zé Clemente",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0.2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 13.2
+            },
+            {
+              "categoria": "Não sabe/Não opinou",
+              "percentual": 9.2
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-rio-de-janeiro-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "cenário consolidado 1º+2º voto",
+          "candidatos": [
+            {
+              "nome": "Benedita da Silva",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 10
+            },
+            {
+              "nome": "Carlos Jordy",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 7
+            },
+            {
+              "nome": "Marcelo Crivella",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 6
+            },
+            {
+              "nome": "Monica Benicio",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 5
+            },
+            {
+              "nome": "Carlos Portinho",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 5
+            },
+            {
+              "nome": "Pedro Paulo",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 3
+            },
+            {
+              "nome": "Waguinho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 2
+            },
+            {
+              "nome": "Paula Falcão",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "André Monteiro",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Marcos Dias",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 1
+            },
+            {
+              "nome": "Helio Secco",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 1
+            },
+            {
+              "nome": "Michelly Xavier",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Luciano Mattos",
+              "partido": "PRTB",
+              "numero": 28,
+              "percentual": 0
+            },
+            {
+              "nome": "Luiz Eugenio",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            },
+            {
+              "nome": "Zé Clemente",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0
+            },
+            {
+              "nome": "Vinicius Benevides",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 28
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "RN",
+      "historico": [
+        {
+          "instituto_pesquisa": "Exatus",
+          "data_pesquisa": "2026-09-04",
+          "fonte_url": "https://agorarn.com.br/politica/styvenson-lidera-primeiro-voto-senado-pesquisa-exatus/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Styvenson Valentim",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 39.62
+            },
+            {
+              "nome": "Zenaide Maia",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 13.61
+            },
+            {
+              "nome": "Samanda de Lula",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 8.37
+            },
+            {
+              "nome": "Rafael Motta",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 6.05
+            },
+            {
+              "nome": "Coronel Hélio",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 2.61
+            },
+            {
+              "nome": "Clóvis Costa",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0.43
+            },
+            {
+              "nome": "Tércio Tinôco",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 0.33
+            },
+            {
+              "nome": "Rosália Fernandes",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0.27
+            },
+            {
+              "nome": "Sandro Pimentel",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.2
+            },
+            {
+              "nome": "Sônia Godeiro",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.19
+            },
+            {
+              "nome": "Professor Guilherme",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.17
+            },
+            {
+              "nome": "Gari Wendell Batista",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0.0
+            },
+            {
+              "nome": "Linhares Jiboia",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.0
+            },
+            {
+              "nome": "Luciana Mandu",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0.0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 11.5
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 16.65
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-rio-grande-do-norte-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Styvenson Valentim",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 16
+            },
+            {
+              "nome": "Zenaide Maia",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 10
+            },
+            {
+              "nome": "Samanda de Lula",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 8
+            },
+            {
+              "nome": "Rafael Motta",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 8
+            },
+            {
+              "nome": "Coronel Hélio",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 5
+            },
+            {
+              "nome": "Professor Guilherme",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Sandro Pimentel",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Gari Wendell Batista",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 1
+            },
+            {
+              "nome": "Sônia Godeiro",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Rosália Fernandes",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Tércio Tinoco",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 1
+            },
+            {
+              "nome": "Clóvis Costa do Coletivo Nós",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0
+            },
+            {
+              "nome": "Linhares Jiboia",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0
+            },
+            {
+              "nome": "Luciana Mandu",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Indecisos/Não sabe/Não respondeu",
+              "percentual": 24
+            },
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 23
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "AtlasIntel",
+          "data_pesquisa": "2026-07-22",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-governador-senador-rio-grande-do-norte-julho-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Styvenson Valentim",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 21.4
+            },
+            {
+              "nome": "Samanda Alves",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 18.2
+            },
+            {
+              "nome": "Coronel Hélio Oliveira",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15.3
+            },
+            {
+              "nome": "Rafael Motta",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 14.4
+            },
+            {
+              "nome": "Zenaide Maia",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 11.2
+            },
+            {
+              "nome": "Sandro Pimentel",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2.1
+            },
+            {
+              "nome": "Tércio Tinoco",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 1.3
+            },
+            {
+              "nome": "Sônia Godeiro",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1.1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 6.5
+            },
+            {
+              "categoria": "Não Sabe",
+              "percentual": 8.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "RO",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.rondoniaovivo.com/noticia/eleicoes2026/2026/08/25/eleicoes-2026-quaest-aponta-disputa-equilibrada-por-duas-vagas-ao-senado-em-rondonia.html",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Dr. Fernando Máximo",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 17
+            },
+            {
+              "nome": "Silvia Cristina",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 11
+            },
+            {
+              "nome": "Bruno Bolsonaro Scheid",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 11
+            },
+            {
+              "nome": "Mariana Carvalho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 10
+            },
+            {
+              "nome": "Acir Gurgacz",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 5
+            },
+            {
+              "nome": "Luciana Oliveira",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 4
+            },
+            {
+              "nome": "Engenheiro Thulio",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 1
+            },
+            {
+              "nome": "Luís Fernando",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 1
+            },
+            {
+              "nome": "Neidinha Suruí",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 1
+            },
+            {
+              "nome": "Aires Mota",
+              "partido": "PV",
+              "numero": 43,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco/Não vai votar",
+              "percentual": 13
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 26
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-07-15",
+          "fonte_url": "https://www.rondoniaovivo.com/noticia/eleicoes2026/2026/07/17/quatro-no-pareo-pesquisa-mostra-disputa-aberta-ao-senado-em-rondonia-para-2026.html",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Dr. Fernando Máximo",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 19
+            },
+            {
+              "nome": "Silvia Cristina",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 14
+            },
+            {
+              "nome": "Confúcio Moura",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 13
+            },
+            {
+              "nome": "Bruno Bolsonaro Scheid",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 13
+            },
+            {
+              "nome": "Mariana Carvalho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 12
+            },
+            {
+              "nome": "Acir Gurgacz",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 8
+            },
+            {
+              "nome": "Luís Fernando",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 4
+            },
+            {
+              "nome": "Luciana Oliveira",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 3
+            },
+            {
+              "nome": "Nilton Souza",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 3
+            },
+            {
+              "nome": "Neidinha Suruí",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 1
+            },
+            {
+              "nome": "Anandreia Trovó",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulos e brancos",
+              "percentual": 4
+            },
+            {
+              "categoria": "Não sabem ou não responderam",
+              "percentual": 5
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Instituto Amazônia de Pesquisa (IAP)",
+          "data_pesquisa": "2026-07-09",
+          "fonte_url": "https://www.rondoniaovivo.com/noticia/eleicoes2026/2026/07/29/reviravolta-pesquisa-aponta-mudanca-na-disputa-pelas-duas-vagas-ao-senado-em-rondonia.html",
+          "usarEsta": false,
+          "observacao": "cenário consolidado 1º+2º voto (soma >100%, RO elege dois senadores); campo antigo (divulgada cerca de 20 dias após o encerramento do trabalho de campo, 1 a 9/jul)",
+          "candidatos": [
+            {
+              "nome": "Dr. Fernando Máximo",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 50.27
+            },
+            {
+              "nome": "Bruno Bolsonaro Scheid",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 33.4
+            },
+            {
+              "nome": "Mariana Carvalho",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 30.79
+            },
+            {
+              "nome": "Silvia Cristina",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 30.25
+            },
+            {
+              "nome": "Confúcio Moura",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 24.93
+            },
+            {
+              "nome": "Acir Gurgacz",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 16.31
+            },
+            {
+              "nome": "Luís Fernando",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 10.9
+            },
+            {
+              "nome": "Neidinha Suruí",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 3.15
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Sem decisão/Não responde",
+              "percentual": 19.04
+            },
+            {
+              "categoria": "Branco ou Nulo",
+              "percentual": 18.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "RR",
+      "historico": [
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-26",
+          "fonte_url": "https://www.roraimapress.com.br/noticia/7671/boa-vista/roraima-em-pauta/quaest-aponta-arthur-com-60-ao-governo-e-mostra-disputa-aberta-pelo-senado-em-roraima.html",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Teresa Surita",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 19
+            },
+            {
+              "nome": "Nicoletti",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 17
+            },
+            {
+              "nome": "Helena da Asatur",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 16
+            },
+            {
+              "nome": "Chico Rodrigues",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 11
+            },
+            {
+              "nome": "Hélio Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 5
+            },
+            {
+              "nome": "Pastor Isamar",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 3
+            },
+            {
+              "nome": "Regina Tio Ivo",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 2
+            },
+            {
+              "nome": "Márcio Junqueira",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "Bartô Macuxi",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            },
+            {
+              "nome": "Hilton Xavier",
+              "partido": "Avante",
+              "numero": 70,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Indecisos",
+              "percentual": 17
+            },
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 7
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Instituto Veritá",
+          "data_pesquisa": "2026-04-08",
+          "fonte_url": "https://peronico.com.br/noticia/6374/eleicoes-2026-primeira-pesquisa-do-instituto-verita-coloca-denarium-e-teresa-como-favorito",
+          "usarEsta": false,
+          "observacao": "cobertura disponível traz apenas 3 candidatos citados nominalmente (lista provavelmente incompleta); percentuais somam pouco acima de 100%, sugerindo mistura de cenários estimulado/espontâneo",
+          "candidatos": [
+            {
+              "nome": "Antonio Denarium",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 53.4
+            },
+            {
+              "nome": "Teresa Surita",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 37.3
+            },
+            {
+              "nome": "Hélio Lopes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9.4
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não sabe (cenário estimulado)",
+              "percentual": 28.5
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2025-10-14",
+          "fonte_url": "https://www.cnnbrasil.com.br/politica/real-time-teresa-surita-e-antonio-denarium-lideram-corrida-ao-senado-no-rr/",
+          "usarEsta": false,
+          "observacao": "pesquisa de outubro/2025, período eleitoral ainda inicial e distante das demais desta lista; cenário 1 (com Teresa Surita); alguns candidatos mudaram de partido entre esta pesquisa e agosto/2026 (ex.: Nicoletti e Helena de Asatur)",
+          "candidatos": [
+            {
+              "nome": "Teresa Surita",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 24
+            },
+            {
+              "nome": "Antonio Denarium",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 22
+            },
+            {
+              "nome": "Chico Rodrigues",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 13
+            },
+            {
+              "nome": "Mecias de Jesus",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 13
+            },
+            {
+              "nome": "Hélio Lopes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 9
+            },
+            {
+              "nome": "Nicoletti",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 5
+            },
+            {
+              "nome": "Helena de Asatur",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 3
+            },
+            {
+              "nome": "Rodrigo Cataratas",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulos/brancos",
+              "percentual": 3
+            },
+            {
+              "categoria": "Não sabe/não respondeu",
+              "percentual": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "RS",
+      "historico": [
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-rio-grande-do-sul-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Marcel Van Hattem",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 20
+            },
+            {
+              "nome": "Manuela D'Avila",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 19
+            },
+            {
+              "nome": "Sanderson",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 17
+            },
+            {
+              "nome": "Germano Rigotto",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 15
+            },
+            {
+              "nome": "Paulo Pimenta",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 15
+            },
+            {
+              "nome": "Frederico Antunes",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 5
+            },
+            {
+              "nome": "Milton Cardoso",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            },
+            {
+              "nome": "Luciano do MLB",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 4
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 3
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-rio-grande-do-sul-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "discrepância grande com outras pesquisas do mesmo período (ex.: Real Time Big Data, mesma data-base): elevado percentual de indecisos (37%) e brancos/nulos (14%) resulta em intenções de voto individuais bem menores",
+          "candidatos": [
+            {
+              "nome": "Manuela d'Ávila",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 12
+            },
+            {
+              "nome": "Marcel van Hattem",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 9
+            },
+            {
+              "nome": "Paulo Pimenta",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Germano Rigotto",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 8
+            },
+            {
+              "nome": "Sanderson",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 8
+            },
+            {
+              "nome": "Daniela Mulheres Socialistas",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Frederico Antunes",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 1
+            },
+            {
+              "nome": "Milton Cardoso",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Indecisos/Não sabe",
+              "percentual": 37
+            },
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 14
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-07-19",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senador-rio-grande-do-sul-julho-2026/",
+          "usarEsta": false,
+          "observacao": "cenário consolidado 1º+2º voto (soma >100%, RS elege dois senadores)",
+          "candidatos": [
+            {
+              "nome": "Manuela D'Ávila",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 30.7
+            },
+            {
+              "nome": "Marcel Van Hattem",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 28.6
+            },
+            {
+              "nome": "Germano Rigotto",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 26.3
+            },
+            {
+              "nome": "Paulo Pimenta",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 23.7
+            },
+            {
+              "nome": "Ubiratan Sanderson",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 20.3
+            },
+            {
+              "nome": "Frederico Antunes",
+              "partido": "PSD",
+              "numero": 55,
+              "percentual": 7.4
+            },
+            {
+              "nome": "Renato Jaguarão",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 2.8
+            },
+            {
+              "nome": "Milton Cardoso",
+              "partido": "PSDB",
+              "numero": 45,
+              "percentual": 2.6
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Nenhum",
+              "percentual": 9.7
+            },
+            {
+              "categoria": "Indeciso/Sem opinião",
+              "percentual": 6.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "SC",
+      "historico": [
+        {
+          "instituto_pesquisa": "Neokemp",
+          "data_pesquisa": "2026-08-26",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/neokemp-senador-santa-catarina-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "resultado refere-se ao 'voto 1' (primeira escolha); a pesquisa também apurou um 'voto 2' separado para a segunda vaga ao Senado",
+          "candidatos": [
+            {
+              "nome": "Caroline de Toni",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 25.5
+            },
+            {
+              "nome": "Carlos Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 24.2
+            },
+            {
+              "nome": "Esperidião Amin",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 16.0
+            },
+            {
+              "nome": "Décio Lima",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 14.6
+            },
+            {
+              "nome": "Lunelli",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 7.2
+            },
+            {
+              "nome": "Afrânio Boppré",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3.5
+            },
+            {
+              "nome": "Ana Lúcia da Silveira Machado",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 0.4
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 2.6
+            },
+            {
+              "categoria": "Não sabe/Indeciso",
+              "percentual": 5.4
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-23",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-senador-santa-catarina-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Esperidião Amin",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 19
+            },
+            {
+              "nome": "Carlos Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 16
+            },
+            {
+              "nome": "Carol De Toni",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 12
+            },
+            {
+              "nome": "Décio Lima",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Afrânio Boppré",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Lunelli",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 2
+            },
+            {
+              "nome": "Túlio de Amorim Pfuetzenreiter",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 1
+            },
+            {
+              "nome": "Ana Lúcia da Silveira Machado",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Joaninha de Oliveira",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Carol",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 1
+            },
+            {
+              "nome": "Marlene Soccas",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Jeferson Rocha",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Indecisos/não sabe",
+              "percentual": 23
+            },
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 11
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Neokemp",
+          "data_pesquisa": "2026-07-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/neokemp-senador-santa-catarina-julho-2026/",
+          "usarEsta": false,
+          "observacao": "resultado refere-se ao 'voto 1' (primeira escolha); a pesquisa também apurou um 'voto 2' separado para a segunda vaga ao Senado",
+          "candidatos": [
+            {
+              "nome": "Carlos Bolsonaro",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 27.7
+            },
+            {
+              "nome": "Caroline de Toni",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 21.0
+            },
+            {
+              "nome": "Décio Lima",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 13.8
+            },
+            {
+              "nome": "Esperidião Amin",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 11.5
+            },
+            {
+              "nome": "Antídio Lunelli",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 8.4
+            },
+            {
+              "nome": "Afrânio Boppré",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 6.6
+            },
+            {
+              "nome": "Jefferson Rocha",
+              "partido": "PRD",
+              "numero": 14,
+              "percentual": 0.5
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 4.0
+            },
+            {
+              "categoria": "Indeciso",
+              "percentual": 6.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "SE",
+      "historico": [
+        {
+          "instituto_pesquisa": "Eipe (Exclusivo Instituto de Pesquisa e Ensino)",
+          "data_pesquisa": "2026-08-28",
+          "fonte_url": "https://www.clicksergipe.com.br/politica/4/109936/pesquisa-eipe-delegado-andreacute-david-lidera-em-todos-os-cenarios-para-o-senado-em-sergipe.html",
+          "usarEsta": false,
+          "observacao": "instituto de menor porte/pouco conhecido; registro TSE não claramente informado na cobertura disponível; data exata do campo não especificada (apenas 'agosto de 2026'); partidos não informados na fonte e preenchidos aqui com base em outras pesquisas do período",
+          "candidatos": [
+            {
+              "nome": "Delegado André David",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 16.83
+            },
+            {
+              "nome": "André Moura",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 10.68
+            },
+            {
+              "nome": "Rogério Carvalho",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9.79
+            },
+            {
+              "nome": "Eduardo Amorim",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 9.63
+            },
+            {
+              "nome": "Edvaldo",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 8.74
+            },
+            {
+              "nome": "Delegado Alessandro",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 7.52
+            },
+            {
+              "nome": "Rodrigo Valadares",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 4.53
+            },
+            {
+              "nome": "Renatinha",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 2.43
+            },
+            {
+              "nome": "Coronel Rocha",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 0.97
+            },
+            {
+              "nome": "Iran Barbosa",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 0.89
+            },
+            {
+              "nome": "Paulinho da União Tur",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 0.24
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Votos Brancos",
+              "percentual": 7.69
+            },
+            {
+              "categoria": "Votos Nulos",
+              "percentual": 7.85
+            },
+            {
+              "categoria": "Não Souberam/Não Responderam",
+              "percentual": 12.22
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-26",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-sergipe-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Delegado André David",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 11
+            },
+            {
+              "nome": "Rogério Carvalho",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 11
+            },
+            {
+              "nome": "André Moura",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 9
+            },
+            {
+              "nome": "Delegado Alessandro",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 8
+            },
+            {
+              "nome": "Eduardo Amorim",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 7
+            },
+            {
+              "nome": "Rodrigo Valadares",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 7
+            },
+            {
+              "nome": "Edvaldo",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 6
+            },
+            {
+              "nome": "Coronel Rocha",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 2
+            },
+            {
+              "nome": "Iran Barbosa",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Renatinha",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Paulinho da União Tur",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 13
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 22
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-01",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senado-sergipe-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "",
+          "candidatos": [
+            {
+              "nome": "Delegado André David",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 17
+            },
+            {
+              "nome": "André Moura",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 14
+            },
+            {
+              "nome": "Dr. Eduardo Amorim",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 13
+            },
+            {
+              "nome": "Rodrigo Valadares",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 12
+            },
+            {
+              "nome": "Delegado Alessandro Vieira",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 9
+            },
+            {
+              "nome": "Rogério Carvalho",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Edvaldo Nogueira",
+              "partido": "PDT",
+              "numero": 12,
+              "percentual": 8
+            },
+            {
+              "nome": "Coronel Rocha",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 6
+            },
+            {
+              "nome": "Adailton Sousa",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 5
+            },
+            {
+              "nome": "Iran Barbosa",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo",
+              "percentual": 3
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "SP",
+      "historico": [
+        {
+          "instituto_pesquisa": "Vox Brasil",
+          "data_pesquisa": "2026-09-01",
+          "fonte_url": "https://www.cnnbrasil.com.br/eleicoes/vox-brasil-senado-sp-marina-tem-277-andre-do-prado-265-tebet-253/",
+          "usarEsta": true,
+          "observacao": "Pesquisa mais recente encontrada para o Senado em SP (campo 29-31/ago, divulgada em 01/09/2026), superando em atualidade a Real Time Big Data (24/08) e a Quaest (25/08) usadas anteriormente como referência. Cenário estimulado padrão para a eleição de 2 vagas ao Senado em SP (por isso a soma dos percentuais ultrapassa 100%, já que o eleitor pode escolher até dois nomes).",
+          "candidatos": [
+            {
+              "nome": "Marina Silva",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 27.7
+            },
+            {
+              "nome": "André do Prado",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 26.5
+            },
+            {
+              "nome": "Simone Tebet",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 25.3
+            },
+            {
+              "nome": "Guilherme Derrite",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 18.1
+            },
+            {
+              "nome": "Ricardo Salles",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 17.5
+            },
+            {
+              "nome": "Soninha Francine",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 4.9
+            },
+            {
+              "nome": "Maíra de Souza",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 2.3
+            },
+            {
+              "nome": "Weller Gonçalves",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 2.1
+            },
+            {
+              "nome": "Geraldo Rufino",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 1.9
+            },
+            {
+              "nome": "Dra Eliana Ferreira",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1.5
+            },
+            {
+              "nome": "Marcio Alves",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1.1
+            },
+            {
+              "nome": "Guto Schiavetto",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 0.3
+            },
+            {
+              "nome": "William Teixeira",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 0.3
+            },
+            {
+              "nome": "Petter Maahs",
+              "partido": "PCB",
+              "numero": 21,
+              "percentual": 0.2
+            },
+            {
+              "nome": "Ednelson Cesaretti",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0.1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Brancos/Nulos/Não escolheram",
+              "percentual": 19.3
+            },
+            {
+              "categoria": "Não souberam/Não responderam",
+              "percentual": 41.1
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.terra.com.br/noticias/eleicoes/pesquisas/derrite-e-marina-tem-12-tebet-11-na-disputa-pelo-senado-em-sao-paulo-aponta-quaest,676ebd7c744d5a91ca659f852bc6f421zzbqsuj9.html",
+          "usarEsta": false,
+          "observacao": "Campo de 21 a 24/08/2026, divulgada em 25/08. Cenário estimulado padrão (combinação de dois votos, dado que SP elege 2 vagas ao Senado em 2026).",
+          "candidatos": [
+            {
+              "nome": "Guilherme Derrite",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 12
+            },
+            {
+              "nome": "Marina Silva",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 12
+            },
+            {
+              "nome": "Simone Tebet",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 11
+            },
+            {
+              "nome": "André do Prado",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 7
+            },
+            {
+              "nome": "Ricardo Salles",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 4
+            },
+            {
+              "nome": "Soninha Francine",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 2
+            },
+            {
+              "nome": "Geraldo Rufino",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 2
+            },
+            {
+              "nome": "Maíra de Souza",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "Dra Eliana Ferreira",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 1
+            },
+            {
+              "nome": "Guto Schiavetto",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 1
+            },
+            {
+              "nome": "Marcio Alves",
+              "partido": "UP",
+              "numero": 80,
+              "percentual": 1
+            },
+            {
+              "nome": "William Teixeira",
+              "partido": "Agir",
+              "numero": 36,
+              "percentual": 1
+            },
+            {
+              "nome": "Weller Gonçalves",
+              "partido": "PSTU",
+              "numero": 16,
+              "percentual": 0
+            },
+            {
+              "nome": "Petter Maahs",
+              "partido": "PCB",
+              "numero": 21,
+              "percentual": 0
+            },
+            {
+              "nome": "Ednelson Cesaretti",
+              "partido": "PCO",
+              "numero": 29,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/nulo/não vai votar",
+              "percentual": 18
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 27
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-24",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-senador-sao-paulo-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Campo de 19 a 22/08/2026, divulgada em 24/08. Cenário estimulado padrão. Amostra de 2.000 entrevistados.",
+          "candidatos": [
+            {
+              "nome": "Guilherme Derrite",
+              "partido": "PP",
+              "numero": 11,
+              "percentual": 18
+            },
+            {
+              "nome": "Simone Tebet",
+              "partido": "PSB",
+              "numero": 40,
+              "percentual": 17
+            },
+            {
+              "nome": "André do Prado",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 15
+            },
+            {
+              "nome": "Marina Silva",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 14
+            },
+            {
+              "nome": "Ricardo Salles",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 10
+            },
+            {
+              "nome": "Soninha Francine",
+              "partido": "Cidadania",
+              "numero": 23,
+              "percentual": 3
+            },
+            {
+              "nome": "Guto Schiavetto",
+              "partido": "Missão",
+              "numero": null,
+              "percentual": 2
+            },
+            {
+              "nome": "Geraldo Rufino",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 2
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 8
+            },
+            {
+              "categoria": "Não sabe/Não respondeu",
+              "percentual": 9
+            },
+            {
+              "categoria": "Outros candidatos (PCB, Agir, UP, PCO, PSTU)",
+              "percentual": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uf": "TO",
+      "historico": [
+        {
+          "instituto_pesquisa": "Paraná Pesquisas",
+          "data_pesquisa": "2026-08-28",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/parana-pesquisas-governador-senador-tocantins-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Cenário consolidado de 1º e 2º voto (a soma dos percentuais ultrapassa 100%), o que dificulta comparação direta com pesquisas de cenário padrão; por isso não foi escolhida como referência apesar de ser a mais recente. Campo de 25 a 27/08/2026, divulgada em 28/08.",
+          "candidatos": [
+            {
+              "nome": "Eduardo Gomes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 35.1
+            },
+            {
+              "nome": "Alexandre Guimarães",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 21.6
+            },
+            {
+              "nome": "Gaguim",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 20.8
+            },
+            {
+              "nome": "Ronaldo Dimas",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 16.0
+            },
+            {
+              "nome": "Vanderlei Luxemburgo",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 15.0
+            },
+            {
+              "nome": "Eli Borges",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 14.2
+            },
+            {
+              "nome": "Paulo Mourão",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 14.0
+            },
+            {
+              "nome": "Hélio Rodrigues Bolsonaro",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 3.3
+            },
+            {
+              "nome": "Nilton Santos",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 3.3
+            },
+            {
+              "nome": "Fábio Ribeiro",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 2.8
+            },
+            {
+              "nome": "Professor Osvaldo",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2.0
+            },
+            {
+              "nome": "Apóstolo Flávio Braga",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1.3
+            },
+            {
+              "nome": "Osvany Luz",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0.4
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nenhum/Branco/Nulo",
+              "percentual": 7.4
+            },
+            {
+              "categoria": "Não sabe/não opinou",
+              "percentual": 5.8
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Real Time Big Data",
+          "data_pesquisa": "2026-08-26",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-governador-senador-tocantins-agosto-2026/",
+          "usarEsta": true,
+          "observacao": "Escolhida como referência: é a pesquisa mais recente com cenário estimulado padrão (soma dos percentuais próxima de 100%, sem consolidação de 1º+2º voto como a Paraná Pesquisas) e mais atual que a Quaest. Campo de 21 a 25/08/2026, divulgada em 26/08. Registro TSE TO-09665/2026.",
+          "candidatos": [
+            {
+              "nome": "Eduardo Gomes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 26
+            },
+            {
+              "nome": "Alexandre Guimarães",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 18
+            },
+            {
+              "nome": "Gaguim",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 10
+            },
+            {
+              "nome": "Vanderlei Luxemburgo",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 9
+            },
+            {
+              "nome": "Ronaldo Dimas",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 8
+            },
+            {
+              "nome": "Eli Borges",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 7
+            },
+            {
+              "nome": "Paulo Mourão",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 6
+            },
+            {
+              "nome": "Professor Osvaldo",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 3
+            },
+            {
+              "nome": "Fábio Ribeiro",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            },
+            {
+              "nome": "Hélio Rodrigues Bolsonaro",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 1
+            },
+            {
+              "nome": "Nilton Santos",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Nulo/Branco",
+              "percentual": 5
+            },
+            {
+              "categoria": "Não Sabe/Não Respondeu",
+              "percentual": 5
+            }
+          ]
+        },
+        {
+          "instituto_pesquisa": "Quaest",
+          "data_pesquisa": "2026-08-25",
+          "fonte_url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-tocantins-agosto-2026/",
+          "usarEsta": false,
+          "observacao": "Campo de 21 a 24/08/2026, divulgada em 25/08. Cenário estimulado com percentuais somando 100% (não consolidado como a Paraná Pesquisas).",
+          "candidatos": [
+            {
+              "nome": "Eduardo Gomes",
+              "partido": "PL",
+              "numero": 22,
+              "percentual": 14
+            },
+            {
+              "nome": "Gaguim",
+              "partido": "União Brasil",
+              "numero": 44,
+              "percentual": 13
+            },
+            {
+              "nome": "Paulo Mourão",
+              "partido": "PT",
+              "numero": 13,
+              "percentual": 9
+            },
+            {
+              "nome": "Alexandre Guimarães",
+              "partido": "MDB",
+              "numero": 15,
+              "percentual": 8
+            },
+            {
+              "nome": "Ronaldo Dimas",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 6
+            },
+            {
+              "nome": "Vanderlei Luxemburgo",
+              "partido": "Podemos",
+              "numero": 19,
+              "percentual": 5
+            },
+            {
+              "nome": "Eli Borges",
+              "partido": "Republicanos",
+              "numero": 10,
+              "percentual": 4
+            },
+            {
+              "nome": "Hélio Rodrigues Bolsonaro",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 2
+            },
+            {
+              "nome": "Professor Osvaldo",
+              "partido": "PSOL",
+              "numero": 50,
+              "percentual": 2
+            },
+            {
+              "nome": "Nilton Santos",
+              "partido": "Novo",
+              "numero": 30,
+              "percentual": 1
+            },
+            {
+              "nome": "Fábio Ribeiro",
+              "partido": "Rede",
+              "numero": 18,
+              "percentual": 1
+            },
+            {
+              "nome": "Apóstolo Flávio Braga",
+              "partido": "DC",
+              "numero": 27,
+              "percentual": 1
+            },
+            {
+              "nome": "Osvany Luz",
+              "partido": "Democrata",
+              "numero": 20,
+              "percentual": 0
+            }
+          ],
+          "brancos_nulos_indecisos": [
+            {
+              "categoria": "Branco/Nulo/Não vai votar",
+              "percentual": 10
+            },
+            {
+              "categoria": "Indecisos",
+              "percentual": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
