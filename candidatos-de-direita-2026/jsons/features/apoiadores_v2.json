@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-05T17:08:00+00:00",
+  "gerado_em": "2026-09-06T17:40:50.304259+00:00",
   "versao": 1,
-  "hash": "40e75bf3722e",
+  "hash": "761d56990c27",
   "apoiadores": [
     {
       "id": "app",
@@ -338,7 +338,7 @@
       "id": "FMG130002542026",
       "nome": "Nikolas Ferreira",
       "descricao": "Deputado Federal - MG",
-      "foto": "images/candidatos_pl/FMG130002542026_div.jpg",
+      "foto": "fotos_pl_brasil/FMG130002542026_div.jpg",
       "apoiados": {
         "br": [
           22
@@ -353,7 +353,8 @@
           22600,
           22722,
           22822,
-          22888
+          22888,
+          2222
         ],
         "ms": [
           2267
@@ -377,34 +378,38 @@
     },
     {
       "id": "FSC240002539378",
-      "nome": "Carol de Toni",
-      "descricao": "Deputado Federal - SC",
-      "foto": "images/candidatos_pl/FSC240002539378_div.jpg",
-      "apoiados": {
-        "br": [
-          22
-        ]
-      }
-    },
-    {
-      "id": "FSC240002541931",
       "nome": "Julia Zanatta",
       "descricao": "Deputado Federal - SC",
-      "foto": "images/candidatos_pl/FSC240002541931_div.jpg",
+      "foto": "fotos_pl_brasil/FSC240002539378_div.jpg",
       "apoiados": {
         "br": [
           22
         ],
         "sc": [
-          22333
+          2233
+        ]
+      }
+    },
+    {
+      "id": "FSC240002541931",
+      "nome": "Carol de Toni",
+      "descricao": "Deputado Federal - SC",
+      "foto": "fotos_pl_brasil/FSC240002541931_div.jpg",
+      "apoiados": {
+        "br": [
+          22
+        ],
+        "sc": [
+          22333,
+          221
         ]
       }
     },
     {
       "id": "FBR280002551544",
-      "nome": "Flávio Bolsonaro",
+      "nome": "Flavio Bolsonaro",
       "descricao": "Presidente - BR",
-      "foto": "images/candidatos_pl/FBR280002551544_div.jpg",
+      "foto": "fotos_pl_brasil/FBR280002551544_div.jpg",
       "apoiados": {
         "ac": [
           100,
@@ -506,6 +511,262 @@
         "to": [
           222,
           444
+        ],
+        "br": [
+          22
+        ]
+      }
+    },
+    {
+      "id": "FCE60002536979",
+      "nome": "André Fernandes",
+      "descricao": "Candidato a Deputado Federal - CE",
+      "foto": "fotos_pl_brasil/FCE60002536979_div.jpg",
+      "apoiados": {
+        "ce": [
+          2222
+        ]
+      }
+    },
+    {
+      "id": "FDF70002547775",
+      "nome": "Kiko Caputo",
+      "descricao": "Candidato a Governador - DF",
+      "foto": "fotos_novo_brasil/FDF70002547775_div.jpg",
+      "apoiados": {
+        "df": [
+          30
+        ]
+      }
+    },
+    {
+      "id": "FDF70002548624",
+      "nome": "Sebastião Coelho",
+      "descricao": "Candidato a Senador - DF",
+      "foto": "fotos_novo_brasil/FDF70002548624_div.jpg",
+      "apoiados": {
+        "df": [
+          300
+        ]
+      }
+    },
+    {
+      "id": "FDF70002532006",
+      "nome": "Wilker Sá",
+      "descricao": "Candidato a Deputado Federal - DF",
+      "foto": "fotos_novo_brasil/FDF70002532006_div.jpg",
+      "apoiados": {
+        "df": [
+          3000
+        ]
+      }
+    },
+    {
+      "id": "FMG130002551284",
+      "nome": "Marco Antônio Superman",
+      "descricao": "Candidato a Senador - MG",
+      "foto": "fotos_novo_brasil/FMG130002551284_div.jpg",
+      "apoiados": {
+        "mg": [
+          300
+        ]
+      }
+    },
+    {
+      "id": "FPR160002540833",
+      "nome": "Sergio Moro",
+      "descricao": "Candidato a Governador - PR",
+      "foto": "fotos_pl_brasil/FPR160002540833_div.jpg",
+      "apoiados": {
+        "pr": [
+          22
+        ]
+      }
+    },
+    {
+      "id": "FPR160002549555",
+      "nome": "Cristina Reis Graeml",
+      "descricao": "Candidato a Senador - PR",
+      "foto": "fotos_psd_brasil/FPR160002549555_div.jpg",
+      "apoiados": {
+        "pr": [
+          555
+        ]
+      }
+    },
+    {
+      "id": "FPR160002542287",
+      "nome": "Jeffrey Chiquini",
+      "descricao": "Candidato a Deputado Federal - PR",
+      "foto": "fotos_novo_brasil/FPR160002542287_div.jpg",
+      "apoiados": {
+        "pr": [
+          3000
+        ]
+      }
+    },
+    {
+      "id": "FPR160002547628",
+      "nome": "João Bettega",
+      "descricao": "Candidato a Deputado Estadual - PR",
+      "foto": "fotos_pl_brasil/FPR160002547628_div.jpg",
+      "apoiados": {
+        "pr": [
+          22007
+        ]
+      }
+    },
+    {
+      "id": "FSC240002539977",
+      "nome": "Ana Campagnolo",
+      "descricao": "Candidato a Deputado Estadual - SC",
+      "foto": "fotos_pl_brasil/FSC240002539977_div.jpg",
+      "apoiados": {
+        "sc": [
+          22222
+        ]
+      }
+    },
+    {
+      "id": "FSP250002541303",
+      "nome": "Tarcísio",
+      "descricao": "Candidato a Governador - SP",
+      "foto": "fotos_republicanos_brasil/FSP250002541303_div.jpg",
+      "apoiados": {
+        "sp": [
+          10
+        ]
+      }
+    },
+    {
+      "id": "FSP250002532794",
+      "nome": "Salles",
+      "descricao": "Candidato a Senador - SP",
+      "foto": "fotos_novo_brasil/FSP250002532794_div.jpg",
+      "apoiados": {
+        "sp": [
+          300
+        ]
+      }
+    },
+    {
+      "id": "FSP250002535995",
+      "nome": "Lucas Pavanato",
+      "descricao": "Candidato a Deputado Federal - SP",
+      "foto": "fotos_pl_brasil/FSP250002535995_div.jpg",
+      "apoiados": {
+        "sp": [
+          2211
+        ]
+      }
+    },
+    {
+      "id": "FSP250002535935",
+      "nome": "Dra. Nise Yamaguchi",
+      "descricao": "Candidato a Deputado Federal - SP",
+      "foto": "fotos_pl_brasil/FSP250002535935_div.jpg",
+      "apoiados": {
+        "sp": [
+          2221
+        ]
+      }
+    },
+    {
+      "id": "FSP250002535991",
+      "nome": "Delegado Paulo Bilynskyj",
+      "descricao": "Candidato a Deputado Federal - SP",
+      "foto": "fotos_pl_brasil/FSP250002535991_div.jpg",
+      "apoiados": {
+        "sp": [
+          2247
+        ]
+      }
+    },
+    {
+      "id": "FSP250002530115",
+      "nome": "Marina Helena",
+      "descricao": "Candidato a Deputado Federal - SP",
+      "foto": "fotos_novo_brasil/FSP250002530115_div.jpg",
+      "apoiados": {
+        "sp": [
+          3007
+        ]
+      }
+    },
+    {
+      "id": "FSP250002536384",
+      "nome": "Eduarda Campopiano",
+      "descricao": "Candidato a Deputado Estadual - SP",
+      "foto": "fotos_pl_brasil/FSP250002536384_div.jpg",
+      "apoiados": {
+        "sp": [
+          22011
+        ]
+      }
+    },
+    {
+      "id": "FBR280002539826",
+      "nome": "Zema",
+      "descricao": "Candidato a Presidente - BR",
+      "foto": "fotos_novo_brasil/FBR280002539826_div.jpg",
+      "apoiados": {
+        "br": [
+          30
+        ]
+      }
+    },
+    {
+      "id": "FDF70002552934",
+      "nome": "Bia Kicis",
+      "descricao": "Candidato a Senador - DF",
+      "foto": "fotos_pl_brasil/FDF70002552934_div.jpg",
+      "apoiados": {
+        "df": [
+          223
+        ]
+      }
+    },
+    {
+      "id": "FGO90002543556",
+      "nome": "Gustavo Gayer",
+      "descricao": "Candidato a Senador - GO",
+      "foto": "fotos_pl_brasil/FGO90002543556_div.jpg",
+      "apoiados": {
+        "go": [
+          222
+        ]
+      }
+    },
+    {
+      "id": "FPR160002547661",
+      "nome": "Deltan Dallagnol",
+      "descricao": "Candidato a Senador - PR",
+      "foto": "fotos_novo_brasil/FPR160002547661_div.jpg",
+      "apoiados": {
+        "pr": [
+          300
+        ]
+      }
+    },
+    {
+      "id": "FRS210002547819",
+      "nome": "Marcel Van Hattem",
+      "descricao": "Candidato a Senador - RS",
+      "foto": "fotos_novo_brasil/FRS210002547819_div.jpg",
+      "apoiados": {
+        "rs": [
+          300
+        ]
+      }
+    },
+    {
+      "id": "FSP250002541312",
+      "nome": "Guilherme Derrite",
+      "descricao": "Candidato a Senador - SP",
+      "foto": "fotos_pp_brasil/FSP250002541312_div.jpg",
+      "apoiados": {
+        "sp": [
+          111
         ]
       }
     }
