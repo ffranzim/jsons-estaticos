@@ -1,10 +1,7 @@
 {
-
-    
-  "mensagemGlobal": "Olá! Para simplificar e focar no que mais importa, informamos que a Pesquisa Estratégica foi descontinuada do nosso app na última atualização. Continuamos trabalhando duro para trazer recursos ainda melhores, mais rápidos e eficientes para o seu dia a dia. Agradecemos muito a sua compreensão!",
-
-    "voto_estrategico": {
-        "habilitado_globalmente": true,
-        "ufs_desativadas": []
-    }
+  "mensagemGlobal": null,
+  "voto_estrategico": {
+    "habilitado_globalmente": true,
+    "ufs_desativadas": []
+  }
 }
