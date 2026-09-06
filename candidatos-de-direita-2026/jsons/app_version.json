@@ -14,11 +14,5 @@
     "minSupportedBuildNumber": "20",
     "updateUrl": "https://play.google.com/store/apps/details?id=br.com.whoami&hl=pt",
     "releaseNotes": "Correção de bugs e melhorias de performance."
-  },
-  "configuracoes_remotas": {
-    "voto_estrategico": {
-      "habilitado_globalmente": false,
-      "ufs_desativadas": []
-    }
   }
 }
