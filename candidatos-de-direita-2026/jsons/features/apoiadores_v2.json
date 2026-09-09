@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-07T09:23:25.194362+00:00",
-  "versao": 2,
-  "hash": "8e5abbb202ff",
+  "gerado_em": "2026-09-09T00:22:14.360627+00:00",
+  "versao": 3,
+  "hash": "ffa8c639d379",
   "apoiadores": [
     {
       "id": "app",
@@ -1175,6 +1175,10 @@
           {
             "numero": 2233,
             "nome": "Julia Zanatta"
+          },
+          {
+            "numero": 22333,
+            "nome": "Guilherme Colombo"
           }
         ]
       }
@@ -1192,10 +1196,6 @@
           }
         ],
         "sc": [
-          {
-            "numero": 22333,
-            "nome": "Guilherme Colombo"
-          },
           {
             "numero": 221,
             "nome": "Carol de Toni"
@@ -1460,6 +1460,34 @@
       }
     },
     {
+      "id": "FCE60002536979",
+      "nome": "André Fernandes",
+      "descricao": "Candidato a Deputado Federal - CE",
+      "foto": "images/candidatos_pl/FCE60002536979_div.jpg",
+      "apoiados": {
+        "ce": [
+          {
+            "numero": 2222,
+            "nome": "André Fernandes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FDF70002547775",
+      "nome": "Kiko Caputo",
+      "descricao": "Candidato a Governador - DF",
+      "foto": "images/candidatos_novo/FDF70002547775_div.jpg",
+      "apoiados": {
+        "df": [
+          {
+            "numero": 30,
+            "nome": "Kiko Caputo"
+          }
+        ]
+      }
+    },
+    {
       "id": "FDF70002548624",
       "nome": "Sebastião Coelho",
       "descricao": "Candidato a Senador - DF",
@@ -1502,6 +1530,20 @@
       }
     },
     {
+      "id": "FPR160002540833",
+      "nome": "Sergio Moro",
+      "descricao": "Candidato a Governador - PR",
+      "foto": "images/candidatos_pl/FPR160002540833_div.jpg",
+      "apoiados": {
+        "pr": [
+          {
+            "numero": 22,
+            "nome": "Sergio Moro"
+          }
+        ]
+      }
+    },
+    {
       "id": "FPR160002549555",
       "nome": "Cristina Reis Graeml",
       "descricao": "Candidato a Senador - PR",
@@ -1511,6 +1553,20 @@
           {
             "numero": 555,
             "nome": "Cristina Reis Graeml"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FPR160002542287",
+      "nome": "Jeffrey Chiquini",
+      "descricao": "Candidato a Deputado Federal - PR",
+      "foto": "images/candidatos_novo/FPR160002542287_div.jpg",
+      "apoiados": {
+        "pr": [
+          {
+            "numero": 3000,
+            "nome": "Jeffrey Chiquini"
           }
         ]
       }
@@ -1581,6 +1637,34 @@
           {
             "numero": 2211,
             "nome": "Lucas Pavanato"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FSP250002535935",
+      "nome": "Dra. Nise Yamaguchi",
+      "descricao": "Candidato a Deputado Federal - SP",
+      "foto": "images/candidatos_pl/FSP250002535935_div.jpg",
+      "apoiados": {
+        "sp": [
+          {
+            "numero": 2221,
+            "nome": "Dra. Nise Yamaguchi"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FSP250002535991",
+      "nome": "Delegado Paulo Bilynskyj",
+      "descricao": "Candidato a Deputado Federal - SP",
+      "foto": "images/candidatos_pl/FSP250002535991_div.jpg",
+      "apoiados": {
+        "sp": [
+          {
+            "numero": 2247,
+            "nome": "Delegado Paulo Bilynskyj"
           }
         ]
       }
@@ -1679,6 +1763,10 @@
           {
             "numero": 300,
             "nome": "Marcel Van Hattem"
+          },
+          {
+            "numero": 222,
+            "nome": "Sanderson"
           }
         ]
       }
