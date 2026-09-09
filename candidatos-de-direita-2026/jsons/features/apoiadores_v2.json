@@ -1,6 +1,6 @@
 {
   "gerado_em": "2026-09-09T00:22:14.360627+00:00",
-  "versao": 3,
+  "versao": 4,
   "hash": "ffa8c639d379",
   "apoiadores": [
     {
@@ -1172,6 +1172,18 @@
           }
         ],
         "sc": [
+          {
+            "numero": 22,
+            "nome": "Jorginho Mello"
+          },
+          {
+            "numero": 221,
+            "nome": "Carol de Toni"
+          },
+          {
+            "numero": 222,
+            "nome": "Carlos Bolsonaro"
+          },
           {
             "numero": 2233,
             "nome": "Julia Zanatta"
