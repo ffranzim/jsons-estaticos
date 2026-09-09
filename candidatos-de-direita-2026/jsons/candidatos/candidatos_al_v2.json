@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Israel Augusto Santos da Silva",
@@ -78,7 +78,7 @@
       "estado": "AL",
       "partido": {
         "sigla": "AVANTE",
-        "numero": 7022
+        "numero": 7070
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -1903,7 +1903,7 @@
     },
     {
       "nome_completo": "José Luis dos Santos",
-      "nome_urna": "Cantor Zé Luiz",
+      "nome_urna": "Cantor Zé Luis",
       "foto": "fotos_prd_brasil/FAL20002538397_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AL",
@@ -2056,7 +2056,7 @@
     },
     {
       "nome_completo": "Ivanildo Gomes do Nascimento",
-      "nome_urna": "Ivanildo Policial",
+      "nome_urna": "Ivanildo Gomes",
       "foto": "fotos_prd_brasil/FAL20002538400_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AL",
@@ -2141,7 +2141,7 @@
     },
     {
       "nome_completo": "Lyara Patricia da Silva Salustiano",
-      "nome_urna": "Prf. Lyara",
+      "nome_urna": "Professora Lyara",
       "foto": "fotos_prd_brasil/FAL20002538385_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AL",
@@ -2158,7 +2158,7 @@
     },
     {
       "nome_completo": "Edilson de Lima Santos",
-      "nome_urna": "Prof. Edilson",
+      "nome_urna": "Professor Edilson",
       "foto": "fotos_prd_brasil/FAL20002538390_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AL",
@@ -2175,7 +2175,7 @@
     },
     {
       "nome_completo": "Givonaldo Silva",
-      "nome_urna": "Pst. Givonaldo",
+      "nome_urna": "Pastor Givonaldo",
       "foto": "fotos_prd_brasil/FAL20002538402_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AL",
@@ -3026,7 +3026,7 @@
     },
     {
       "nome_completo": "Kamila Miranda Davino",
-      "nome_urna": "Kamila",
+      "nome_urna": "Dra. Kamila",
       "foto": "fotos_republicanos_brasil/FAL20002548149_div.jpg",
       "cargo_pleiteado": "2º Suplente",
       "estado": "AL",
@@ -3151,7 +3151,7 @@
       "estado": "AL",
       "partido": {
         "sigla": "SOLIDARIEDADE",
-        "numero": 7720
+        "numero": 7780
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -3383,7 +3383,7 @@
     },
     {
       "nome_completo": "Antonio Ribeiro de Albuquerque",
-      "nome_urna": "Antonio Aluquerque",
+      "nome_urna": "Antonio Albuquerque",
       "foto": "fotos_uniao_brasil/FAL20002548324_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AL",
@@ -3815,5 +3815,5 @@
       ]
     }
   ],
-  "hash": "adbfd7463dae"
+  "hash": "ed3b305da814"
 }

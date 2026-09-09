@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Arthur da Silva",
@@ -616,7 +616,7 @@
     },
     {
       "nome_completo": "Simoni da Fonseca Soares Manduré",
-      "nome_urna": "Simoni dos Canhões",
+      "nome_urna": "Dra. Simoni",
       "foto": "fotos_avante_brasil/FRS210002549650_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -1534,7 +1534,7 @@
     },
     {
       "nome_completo": "Paulo Roberto da Silva",
-      "nome_urna": "Paulinho",
+      "nome_urna": "Paulo da Silva",
       "foto": "fotos_democrata_brasil/FRS210002552772_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -1602,7 +1602,7 @@
     },
     {
       "nome_completo": "Rodrigo Souza Costa",
-      "nome_urna": "Rodrigo Fiscal do Povo",
+      "nome_urna": "Rodrigo  Fiscal do Povo",
       "foto": "fotos_democrata_brasil/FRS210002552765_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -5627,7 +5627,7 @@
     },
     {
       "nome_completo": "Mahmoud Mustafa Salama Amer",
-      "nome_urna": "Mahamoud Amer",
+      "nome_urna": "Mahmoud Amer",
       "foto": "fotos_pl_brasil/FRS210002535714_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -6450,7 +6450,7 @@
     },
     {
       "nome_completo": "Alexis Oleksiuk Efremides",
-      "nome_urna": "Alexis Efremides",
+      "nome_urna": "Alexis Grego",
       "foto": "fotos_pode_brasil/FRS210002534326_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -6504,7 +6504,7 @@
     },
     {
       "nome_completo": "Aparecido Macedo",
-      "nome_urna": "Capitão Macedo",
+      "nome_urna": "Capitão Macedo Professor",
       "foto": "fotos_pode_brasil/FRS210002534303_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -6674,7 +6674,7 @@
     },
     {
       "nome_completo": "Deivid Salomé Martins Goulart",
-      "nome_urna": "Dr Deivid Salomé",
+      "nome_urna": "Dr.Deivid Salome Goulart Filho",
       "foto": "fotos_pode_brasil/FRS210002534331_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -6708,7 +6708,7 @@
     },
     {
       "nome_completo": "Luis Augusto Bringmann",
-      "nome_urna": "Dr Luis Bringmann",
+      "nome_urna": "Luis Augusto",
       "foto": "fotos_pode_brasil/FRS210002534279_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -6776,7 +6776,7 @@
     },
     {
       "nome_completo": "Elanice Lambertes Muller",
-      "nome_urna": "Elanice Conselheira",
+      "nome_urna": "Elanice Muller",
       "foto": "fotos_pode_brasil/FRS210002534310_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -6895,7 +6895,7 @@
     },
     {
       "nome_completo": "Ivaldo Jose Frigheto",
-      "nome_urna": "Frigheto Caminhoneiro",
+      "nome_urna": "Frighetto Caminhoneiro",
       "foto": "fotos_pode_brasil/FRS210002534309_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -7031,7 +7031,7 @@
     },
     {
       "nome_completo": "Jocasta Helena Taguchi",
-      "nome_urna": "Jocasta",
+      "nome_urna": "Dra. Jocasta Taguchi",
       "foto": "fotos_pode_brasil/FRS210002534275_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -7151,7 +7151,7 @@
     },
     {
       "nome_completo": "Marcelo de Brum da Costa",
-      "nome_urna": "Marcelo Brum",
+      "nome_urna": "Marcelo Brum ¿ A Voz do Campo",
       "foto": "fotos_pode_brasil/FRS210002534292_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -7322,7 +7322,7 @@
     },
     {
       "nome_completo": "Nelson Luis Lopes Khalil",
-      "nome_urna": "Nelson Kalil",
+      "nome_urna": "Nelson Khalil",
       "foto": "fotos_pode_brasil/FRS210002534321_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -7424,7 +7424,7 @@
     },
     {
       "nome_completo": "Paulo Roberto da Silva",
-      "nome_urna": "Paulo Opusdei",
+      "nome_urna": "Paulo Opus Dei",
       "foto": "fotos_pode_brasil/FRS210002534306_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -7526,7 +7526,7 @@
     },
     {
       "nome_completo": "Salomão Moraes",
-      "nome_urna": "Salomão Noraes",
+      "nome_urna": "Salomão Moraes",
       "foto": "fotos_pode_brasil/FRS210002534345_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -9939,7 +9939,7 @@
     },
     {
       "nome_completo": "Daniel Trzeciak Duarte",
-      "nome_urna": "Daniel Trzeciak Daniel da Tv",
+      "nome_urna": "Daniel Trzeciak  Daniel da Tv ",
       "foto": "fotos_psdb_brasil/FRS210002541429_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -10042,7 +10042,7 @@
     },
     {
       "nome_completo": "Dulce Maria Marques Lopes",
-      "nome_urna": "Dulce Maria",
+      "nome_urna": "Dulce Lopes",
       "foto": "fotos_psdb_brasil/FRS210002538466_div.jpg",
       "cargo_pleiteado": "2º Suplente",
       "estado": "RS",
@@ -10263,7 +10263,7 @@
     },
     {
       "nome_completo": "Josilene da Silva Martins",
-      "nome_urna": "Josilene Martins",
+      "nome_urna": "Josi Martins",
       "foto": "fotos_psdb_brasil/FRS210002538462_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "RS",
@@ -10671,7 +10671,7 @@
     },
     {
       "nome_completo": "Neide Jaqueline Schwarz",
-      "nome_urna": "Neide Protetora",
+      "nome_urna": "Neide de Teutônia",
       "foto": "fotos_psdb_brasil/FRS210002541432_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -12346,7 +12346,7 @@
     },
     {
       "nome_completo": "Valéska Machado da Silva Walber",
-      "nome_urna": "Valéska Walber",
+      "nome_urna": "Valéska  Walber",
       "foto": "fotos_republicanos_brasil/FRS210002539070_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -12363,7 +12363,7 @@
     },
     {
       "nome_completo": "Vanessa de Bortoli Pouey",
-      "nome_urna": "Vanessa de Bortoli Pouey",
+      "nome_urna": "Vanessa de Bortoli",
       "foto": "fotos_republicanos_brasil/FRS210002539068_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RS",
@@ -12448,7 +12448,7 @@
     },
     {
       "nome_completo": "Arlindo Fernando da Silva Menca",
-      "nome_urna": "Arlindo Mença Baia",
+      "nome_urna": "Arlindo Mença  Baia ",
       "foto": "fotos_solidariedade_brasil/FRS210002551987_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RS",
@@ -13185,5 +13185,5 @@
       ]
     }
   ],
-  "hash": "223b8b6d65df"
+  "hash": "39ea394940ed"
 }

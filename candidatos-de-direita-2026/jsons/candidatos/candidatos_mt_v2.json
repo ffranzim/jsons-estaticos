@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Amorezio Dias Vidrago",
@@ -1614,7 +1614,7 @@
     },
     {
       "nome_completo": "Flaviane Ramalho de Oliveira",
-      "nome_urna": "Flaviane do Bolsonaro",
+      "nome_urna": "Dr.. Flaviane Ramalho",
       "foto": "fotos_novo_brasil/FMT110002543937_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -2453,7 +2453,7 @@
     },
     {
       "nome_completo": "Jose Antonio dos Santos Medeiros",
-      "nome_urna": "Jose Medeiros",
+      "nome_urna": "Zé Medeiros",
       "foto": "fotos_pl_brasil/FMT110002552693_div.jpg",
       "cargo_pleiteado": "Senador",
       "estado": "MT",
@@ -2518,7 +2518,7 @@
     },
     {
       "nome_completo": "Mauricio Jose Escobar",
-      "nome_urna": "Mauricio Escobar",
+      "nome_urna": "Escobar",
       "foto": "fotos_pl_brasil/FMT110002539236_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -2715,7 +2715,7 @@
     },
     {
       "nome_completo": "Rosane Balke",
-      "nome_urna": "Rosane Balke",
+      "nome_urna": "Rosane 300",
       "foto": "fotos_pl_brasil/FMT110002552068_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -3243,7 +3243,7 @@
     },
     {
       "nome_completo": "Neri Geller",
-      "nome_urna": "Nery Geller",
+      "nome_urna": "Neri Geller",
       "foto": "fotos_pode_brasil/FMT110002540131_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MT",
@@ -3642,7 +3642,7 @@
     },
     {
       "nome_completo": "João Bosco de Moraes",
-      "nome_urna": "Bosco do Incra",
+      "nome_urna": "Bosco",
       "foto": "fotos_psd_brasil/FMT110002549718_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -3916,13 +3916,13 @@
     },
     {
       "nome_completo": "Lucivaldo Vieira de Sousa",
-      "nome_urna": "Lucivaldo Vieira",
+      "nome_urna": "Lucivaldo do Sindisppen",
       "foto": "fotos_psd_brasil/FMT110002549734_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
       "partido": {
         "sigla": "PSD",
-        "numero": 55122
+        "numero": 55022
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4428,7 +4428,7 @@
     },
     {
       "nome_completo": "Fernando Schroeter",
-      "nome_urna": "Fernado Schroeter",
+      "nome_urna": "Fernando Schroeter",
       "foto": "fotos_psdb_brasil/FMT110002541774_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -4604,7 +4604,7 @@
       "estado": "MT",
       "partido": {
         "sigla": "PSDB",
-        "numero": 45190
+        "numero": 45244
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4723,7 +4723,7 @@
       "estado": "MT",
       "partido": {
         "sigla": "REPUBLICANOS",
-        "numero": 1031
+        "numero": 1055
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -4751,7 +4751,7 @@
     },
     {
       "nome_completo": "Angelita Rodrigues da Silva Amorim",
-      "nome_urna": "Angelita",
+      "nome_urna": "Angelita Amorim",
       "foto": "fotos_republicanos_brasil/FMT110002547797_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -5009,7 +5009,7 @@
     },
     {
       "nome_completo": "Laura Kelly Hortenci de Barros",
-      "nome_urna": "Laura Kely",
+      "nome_urna": "Kelly da Saúde",
       "foto": "fotos_republicanos_brasil/FMT110002547801_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MT",
@@ -5805,5 +5805,5 @@
       ]
     }
   ],
-  "hash": "1d8df5720258"
+  "hash": "d2bad4ec77cb"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Luiz Adriano Martins Rodrigues",
@@ -1316,7 +1316,7 @@
     },
     {
       "nome_completo": "Luiz Renato Dias da Neiva",
-      "nome_urna": "Subtenente Dias",
+      "nome_urna": "Subten Renato Dias",
       "foto": "fotos_dc_brasil/FES80002551795_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -1877,7 +1877,7 @@
     },
     {
       "nome_completo": "Yara Conceição Pereira Santos",
-      "nome_urna": "Yara Santos",
+      "nome_urna": "Yara Telles",
       "foto": "fotos_democrata_brasil/FES80002549041_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -3032,7 +3032,7 @@
     },
     {
       "nome_completo": "Marcos Soares Moreira",
-      "nome_urna": "Marcosmuralha Contra Corruptos",
+      "nome_urna": "Marcos Muralha",
       "foto": "fotos_novo_brasil/FES80002531656_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -3382,7 +3382,7 @@
     },
     {
       "nome_completo": "Emerson Cardozo",
-      "nome_urna": "Branco da Penal",
+      "nome_urna": "Branco",
       "foto": "fotos_pl_brasil/FES80002549415_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -3936,7 +3936,7 @@
     },
     {
       "nome_completo": "Maria Helena Miranda",
-      "nome_urna": "Maria Helena",
+      "nome_urna": "Helena Miranda",
       "foto": "fotos_pl_brasil/FES80002549435_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -4188,7 +4188,7 @@
     },
     {
       "nome_completo": "Laureci Fernandes Meneguette Junior",
-      "nome_urna": "Tia Laureci Gigante do Norte",
+      "nome_urna": "Tia Laureci Meneguette Gigante",
       "foto": "fotos_pl_brasil/FES80002549414_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -4244,7 +4244,7 @@
     },
     {
       "nome_completo": "Allan Albert Lourenco Ferreira",
-      "nome_urna": "Alan Ferreira",
+      "nome_urna": "Allan Ferreira",
       "foto": "fotos_pode_brasil/FES80002537496_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -4448,7 +4448,7 @@
     },
     {
       "nome_completo": "Gizelia Rosa Hespanhol",
-      "nome_urna": "Gizele Espanhol",
+      "nome_urna": "A Hespanhol do Posto",
       "foto": "fotos_pode_brasil/FES80002537495_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -4567,7 +4567,7 @@
     },
     {
       "nome_completo": "Cássia Cristina da Silva Guimarães",
-      "nome_urna": "Major Cassia",
+      "nome_urna": "Major Cassia Enfermeira",
       "foto": "fotos_pode_brasil/FES80002536279_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "ES",
@@ -5080,7 +5080,7 @@
     },
     {
       "nome_completo": "Sidiclei Giles de Andrade",
-      "nome_urna": "Dr Sidiclei",
+      "nome_urna": "Dr. Sidiclei",
       "foto": "fotos_pp_brasil/FES80002549454_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -5199,7 +5199,7 @@
     },
     {
       "nome_completo": "Peter Nogueira da Costa",
-      "nome_urna": "Peter",
+      "nome_urna": "Peter Costa",
       "foto": "fotos_pp_brasil/FES80002549445_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "ES",
@@ -7099,7 +7099,7 @@
     },
     {
       "nome_completo": "Bruno da Costa Resende",
-      "nome_urna": "Dr Bruno Resende",
+      "nome_urna": "Dr. Bruno Resende",
       "foto": "fotos_uniao_brasil/FES80002542410_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "ES",
@@ -7547,5 +7547,5 @@
       ]
     }
   ],
-  "hash": "907a3eff562b"
+  "hash": "a3d5c7b8c29f"
 }

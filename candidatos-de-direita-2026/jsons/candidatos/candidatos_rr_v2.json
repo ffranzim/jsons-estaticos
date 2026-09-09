@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Bruna Maria dos Santos Cavalcante",
@@ -1042,7 +1042,7 @@
     },
     {
       "nome_completo": "Erika Danielly de Souza Maciel",
-      "nome_urna": "Erika Maciel",
+      "nome_urna": "Erika  Maciel",
       "foto": "fotos_mdb_brasil/FRR230002552741_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RR",
@@ -1348,7 +1348,7 @@
     },
     {
       "nome_completo": "Warhmisson Oliveira da Silva",
-      "nome_urna": "W Dino Tiro Porrada e Bomba",
+      "nome_urna": "Wdino",
       "foto": "fotos_mdb_brasil/FRR230002552754_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RR",
@@ -1557,7 +1557,7 @@
     },
     {
       "nome_completo": "Iuri Santana Patricio",
-      "nome_urna": "Iuri da Caixa Econômica",
+      "nome_urna": "Iuri Bancário",
       "foto": "fotos_novo_brasil/FRR230002549367_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RR",
@@ -1576,7 +1576,7 @@
     },
     {
       "nome_completo": "Joel Gonçalves Martins",
-      "nome_urna": "Joel Martins",
+      "nome_urna": "Joel  Martins",
       "foto": "fotos_novo_brasil/FRR230002549370_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RR",
@@ -2150,7 +2150,7 @@
     },
     {
       "nome_completo": "Helio Fernando Barbosa Lopes",
-      "nome_urna": "Helio Bolsonaro",
+      "nome_urna": "Helio Fernando Barbosa Lopes",
       "foto": "fotos_pl_brasil/FRR230002534806_div.jpg",
       "cargo_pleiteado": "Senador",
       "estado": "RR",
@@ -5411,5 +5411,5 @@
       ]
     }
   ],
-  "hash": "6c06c25de5bd"
+  "hash": "cf5218fdedc4"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Isidro Nascimento do Amaral",
@@ -21,7 +21,7 @@
     },
     {
       "nome_completo": "Antonia Gonzaga dos Santos",
-      "nome_urna": "Antonia da Caixa D Agua",
+      "nome_urna": "Antonia da Caixa D  Agua",
       "foto": "fotos_agir_brasil/FBA50002549659_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "BA",
@@ -566,7 +566,7 @@
     },
     {
       "nome_completo": "Danillo Rodrigues Rocha",
-      "nome_urna": "Danillo Kiribamba",
+      "nome_urna": "Kiribamba",
       "foto": "fotos_avante_brasil/FBA50002534758_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "BA",
@@ -4907,7 +4907,7 @@
     },
     {
       "nome_completo": "Roberto Carlos Brito",
-      "nome_urna": "Roberto Carlos",
+      "nome_urna": "Roberto Brito",
       "foto": "fotos_mobiliza_brasil/FBA50002549147_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "BA",
@@ -8449,7 +8449,7 @@
       "estado": "BA",
       "partido": {
         "sigla": "PRD",
-        "numero": 2525
+        "numero": 2552
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -8988,7 +8988,7 @@
     },
     {
       "nome_completo": "Esmeraldino Correia Santos",
-      "nome_urna": "Esmeraldino Correia",
+      "nome_urna": "Coronel Esmeraldino",
       "foto": "fotos_psdb_brasil/FBA50002532654_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "BA",
@@ -11648,7 +11648,7 @@
     },
     {
       "nome_completo": "Shirley Maria Gomes Cruz",
-      "nome_urna": "Shirley Cruz",
+      "nome_urna": "Shirley  Cruz",
       "foto": "fotos_republicanos_brasil/FBA50002532503_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "BA",
@@ -11835,7 +11835,7 @@
     },
     {
       "nome_completo": "Washington Oliveira Miranda",
-      "nome_urna": "Washington Voz da Favela",
+      "nome_urna": "Washington  Voz da Favela",
       "foto": "fotos_republicanos_brasil/FBA50002532554_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "BA",
@@ -13351,7 +13351,7 @@
     },
     {
       "nome_completo": "Balbino Santos de Carvalho",
-      "nome_urna": "Sabá Metais",
+      "nome_urna": "Sabá",
       "foto": "fotos_uniao_brasil/FBA50002535011_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "BA",
@@ -13798,5 +13798,5 @@
       ]
     }
   ],
-  "hash": "132c80a5f091"
+  "hash": "585c5c96e347"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Adriene Hage Pires",
@@ -21,7 +21,7 @@
     },
     {
       "nome_completo": "Ana Rute da Silva",
-      "nome_urna": "Ana Rute",
+      "nome_urna": "Cantora Ana Rute",
       "foto": "fotos_avante_brasil/FPA140002541334_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -89,7 +89,7 @@
     },
     {
       "nome_completo": "Clea Jessica dos Santos Barra",
-      "nome_urna": "Clea Barra",
+      "nome_urna": "Jessica Barra",
       "foto": "fotos_avante_brasil/FPA140002548657_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PA",
@@ -140,7 +140,7 @@
     },
     {
       "nome_completo": "Debora Candido da Silva",
-      "nome_urna": "Débora Cândido",
+      "nome_urna": "Enfermeira Debora Candido",
       "foto": "fotos_avante_brasil/FPA140002541319_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -499,7 +499,7 @@
     },
     {
       "nome_completo": "Paulo Henrique da Silva Gomes",
-      "nome_urna": "Paulo Henrique",
+      "nome_urna": "Paulo Henrique Gomes",
       "foto": "fotos_avante_brasil/FPA140002540873_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -1182,7 +1182,7 @@
     },
     {
       "nome_completo": "Mariana de Souza Maia",
-      "nome_urna": "Mariana Maia",
+      "nome_urna": "Enfermeira Mariana",
       "foto": "fotos_dc_brasil/FPA140002552074_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -1267,7 +1267,7 @@
     },
     {
       "nome_completo": "Jacirene Siqueira do Espirito Santo",
-      "nome_urna": "Professora Jace",
+      "nome_urna": "Professora Jace Siqueira",
       "foto": "fotos_dc_brasil/FPA140002531072_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PA",
@@ -1301,7 +1301,7 @@
     },
     {
       "nome_completo": "Sandro Reis de Oliveira",
-      "nome_urna": "Sanro Oliveira",
+      "nome_urna": "Sandro Oliveira",
       "foto": "fotos_dc_brasil/FPA140002553741_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "PA",
@@ -1516,7 +1516,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "MDB",
-        "numero": 15002
+        "numero": 15155
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1648,7 +1648,7 @@
     },
     {
       "nome_completo": "Maria da Graca Medeiros Matos",
-      "nome_urna": "Dr Graça Matos",
+      "nome_urna": "Dra. Graça Matos",
       "foto": "fotos_mdb_brasil/FPA140002541725_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -1896,7 +1896,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "MDB",
-        "numero": 15546
+        "numero": 15456
       },
       "prioridade": 1,
       "posicao_segundo_hub_politico": "centro-direita",
@@ -2012,7 +2012,7 @@
     },
     {
       "nome_completo": "Sipriano Ferraz Santos Junior",
-      "nome_urna": "Sipriano Ferraz",
+      "nome_urna": "Dr Sipriano Ferraz",
       "foto": "fotos_mdb_brasil/FPA140002541713_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -2052,7 +2052,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "MDB",
-        "numero": 15003
+        "numero": 15163
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2355,7 +2355,7 @@
     },
     {
       "nome_completo": "Gildehan Lima Pacheco",
-      "nome_urna": "Dehan Pacheco",
+      "nome_urna": "Dehan  Pacheco",
       "foto": "fotos_novo_brasil/FPA140002551843_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PA",
@@ -2548,13 +2548,13 @@
     },
     {
       "nome_completo": "Luciano Silva da Silva",
-      "nome_urna": "Luciano Silva",
+      "nome_urna": "Sargento Luciano Silva",
       "foto": "fotos_novo_brasil/FPA140002551348_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
       "partido": {
         "sigla": "NOVO",
-        "numero": 30121
+        "numero": 30190
       },
       "prioridade": 10,
       "redes_sociais": {},
@@ -2704,7 +2704,7 @@
     },
     {
       "nome_completo": "José Renato Neves Barbosa",
-      "nome_urna": "Reverendo Renato",
+      "nome_urna": "Renato  Neves",
       "foto": "fotos_novo_brasil/FPA140002551335_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -2767,7 +2767,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "NOVO",
-        "numero": 30190
+        "numero": 30230
       },
       "prioridade": 10,
       "redes_sociais": {},
@@ -4539,7 +4539,7 @@
     },
     {
       "nome_completo": "Paulo Afonso da Silva Mardock",
-      "nome_urna": "Dr. Mardock das Latinhas",
+      "nome_urna": "Doutor Mardock das Latinhas",
       "foto": "fotos_pode_brasil/FPA140002544256_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -4675,7 +4675,7 @@
     },
     {
       "nome_completo": "Geisa da Silva Sampaio Feitosa",
-      "nome_urna": "Geisa Sampaio",
+      "nome_urna": "Irmã Geisa",
       "foto": "fotos_pode_brasil/FPA140002544272_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -4971,7 +4971,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "PODE",
-        "numero": 20580
+        "numero": 20202
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -6153,7 +6153,7 @@
     },
     {
       "nome_completo": "Alex Williams de Lima Souza",
-      "nome_urna": "Alex Contador",
+      "nome_urna": "Alex Williams",
       "foto": "fotos_psdb_brasil/FPA140002550103_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -6646,7 +6646,7 @@
     },
     {
       "nome_completo": "Gisele Nascimento Mainard",
-      "nome_urna": "Gisele Mainard",
+      "nome_urna": "Dra Gisele Mainard",
       "foto": "fotos_republicanos_brasil/FPA140002536951_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PA",
@@ -8032,7 +8032,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "UNIÃO",
-        "numero": 44666
+        "numero": 44077
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -8130,7 +8130,7 @@
     },
     {
       "nome_completo": "Jorge Levy da Silva Araújo",
-      "nome_urna": "Jorge Levy da Silva Araújo",
+      "nome_urna": "Jorge Levy",
       "foto": "fotos_uniao_brasil/FPA140002551122_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -8353,7 +8353,7 @@
     },
     {
       "nome_completo": "Marcos Cesar Barbosa e Silva",
-      "nome_urna": "Professor Marcos",
+      "nome_urna": "Prof. Marcos",
       "foto": "fotos_uniao_brasil/FPA140002551128_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -8421,7 +8421,7 @@
     },
     {
       "nome_completo": "Francisco Eduardo Branches",
-      "nome_urna": "Sgt Branches",
+      "nome_urna": "Sargento Branches",
       "foto": "fotos_uniao_brasil/FPA140002551144_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PA",
@@ -8444,7 +8444,7 @@
       "estado": "PA",
       "partido": {
         "sigla": "UNIÃO",
-        "numero": 4490
+        "numero": 4445
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -8842,5 +8842,5 @@
       "status_tse": "Aguardando julgamento"
     }
   ],
-  "hash": "bffadf346fd7"
+  "hash": "6585e8d91ddd"
 }

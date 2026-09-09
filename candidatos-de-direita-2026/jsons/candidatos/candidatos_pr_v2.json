@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Ademir Goncalves",
@@ -922,7 +922,7 @@
     },
     {
       "nome_completo": "Rolselleine Nascimento de Paula",
-      "nome_urna": "Dra. Rose de Paula",
+      "nome_urna": "Dra Rolse de Paula",
       "foto": "fotos_democrata_brasil/FPR160002553652_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PR",
@@ -1330,7 +1330,7 @@
     },
     {
       "nome_completo": "Ademilson de Almeida",
-      "nome_urna": "Ademilson Almeida",
+      "nome_urna": "Vereador Ademilson",
       "foto": "fotos_mdb_brasil/FPR160002540798_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PR",
@@ -1653,7 +1653,7 @@
     },
     {
       "nome_completo": "Gefferson Stephen Campos",
-      "nome_urna": "Gefferson",
+      "nome_urna": "Corretor Gefferson",
       "foto": "fotos_mdb_brasil/FPR160002547684_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -1772,7 +1772,7 @@
     },
     {
       "nome_completo": "Joao Carlos Rodrigues",
-      "nome_urna": "João 5 Irmãos",
+      "nome_urna": "João da 5 Irmãos",
       "foto": "fotos_mdb_brasil/FPR160002540791_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PR",
@@ -2469,7 +2469,7 @@
     },
     {
       "nome_completo": "Alexandre Salomao",
-      "nome_urna": "Alexandre Salomão",
+      "nome_urna": "Doutor Alexandre Salomão",
       "foto": "fotos_mobiliza_brasil/FPR160002547594_div.jpg",
       "cargo_pleiteado": "Governador",
       "estado": "PR",
@@ -3630,7 +3630,7 @@
     },
     {
       "nome_completo": "Laryssa de Melo Pereira da Silva",
-      "nome_urna": "Laryssa Silva",
+      "nome_urna": "Laryssa Melo",
       "foto": "fotos_novo_brasil/FPR160002542309_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PR",
@@ -4432,7 +4432,7 @@
     },
     {
       "nome_completo": "Emerson Gielinski Bacil",
-      "nome_urna": "Bacil",
+      "nome_urna": "Emerson Bacil",
       "foto": "fotos_pl_brasil/FPR160002547636_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -4812,7 +4812,7 @@
     },
     {
       "nome_completo": "Luiz Ernesto de Giacometti",
-      "nome_urna": "Dr. Luiz Ernesto",
+      "nome_urna": "Luiz Ernesto",
       "foto": "fotos_pl_brasil/FPR160002547644_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -5182,7 +5182,7 @@
     },
     {
       "nome_completo": "Jenifer Lima",
-      "nome_urna": "Jenifer Lima",
+      "nome_urna": "Professora Jenifer Lima",
       "foto": "fotos_pl_brasil/FPR160002547623_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -6050,7 +6050,7 @@
     },
     {
       "nome_completo": "Tatiana Assuiti",
-      "nome_urna": "Tati Assuiti",
+      "nome_urna": "Tati",
       "foto": "fotos_pl_brasil/FPR160002547633_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -6131,7 +6131,7 @@
     },
     {
       "nome_completo": "Antonio Benedito Fenelon",
-      "nome_urna": "Toninho da Farmácia",
+      "nome_urna": "Toninho Fenelon da Farmácia",
       "foto": "fotos_pl_brasil/FPR160002547589_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PR",
@@ -6196,7 +6196,7 @@
     },
     {
       "nome_completo": "Wilson Picler",
-      "nome_urna": "Wilson Picler",
+      "nome_urna": "Professor Picler",
       "foto": "fotos_pl_brasil/FPR160002547659_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "PR",
@@ -7071,7 +7071,7 @@
       "estado": "PR",
       "partido": {
         "sigla": "PODE",
-        "numero": 20220
+        "numero": 20230
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -7473,7 +7473,7 @@
     },
     {
       "nome_completo": "Sebastiao Carlos de Souza",
-      "nome_urna": "Sgt Carlos de Souza",
+      "nome_urna": "Sgt Carlos Souza",
       "foto": "fotos_pode_brasil/FPR160002547535_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -7592,7 +7592,7 @@
     },
     {
       "nome_completo": "Waldirene Budal",
-      "nome_urna": "Waldirene Advogada",
+      "nome_urna": "Waldirene Budal Advogada",
       "foto": "fotos_pode_brasil/FPR160002547532_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -7815,7 +7815,7 @@
     },
     {
       "nome_completo": "Braulio Cesar Pereira",
-      "nome_urna": "Dr Braulio",
+      "nome_urna": "Dr. Bráulio",
       "foto": "fotos_pp_brasil/FPR160002533477_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -7917,7 +7917,7 @@
     },
     {
       "nome_completo": "Carlos Felippe Marcondes Machado",
-      "nome_urna": "Felippe Machado",
+      "nome_urna": "Felipe Machado da Saúde",
       "foto": "fotos_pp_brasil/FPR160002533447_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -8243,7 +8243,7 @@
     },
     {
       "nome_completo": "Ruggieri de Almeida Caravage",
-      "nome_urna": "Ruggiere Caravage",
+      "nome_urna": "Ruggieri Caravage",
       "foto": "fotos_pp_brasil/FPR160002533491_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -8364,7 +8364,7 @@
     },
     {
       "nome_completo": "Valdecir Alcantara Rodrigues",
-      "nome_urna": "Valdecir Alcantara Rodrigues",
+      "nome_urna": "Valdecir Alcantara",
       "foto": "fotos_pp_brasil/FPR160002533471_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -8755,7 +8755,7 @@
     },
     {
       "nome_completo": "Cristina Reis Graeml",
-      "nome_urna": "Cristina Reis Graeml",
+      "nome_urna": "Cristina Graeml",
       "foto": "fotos_psd_brasil/FPR160002549555_div.jpg",
       "cargo_pleiteado": "Senador",
       "estado": "PR",
@@ -10632,7 +10632,7 @@
       "estado": "PR",
       "partido": {
         "sigla": "PSDB",
-        "numero": 45888
+        "numero": 45190
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -11207,7 +11207,7 @@
     },
     {
       "nome_completo": "Eduardo Albani Dala Costa",
-      "nome_urna": "Eduardo Dalla Costa",
+      "nome_urna": "Eduardo Dala Costa",
       "foto": "fotos_republicanos_brasil/FPR160002547542_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PR",
@@ -11840,7 +11840,7 @@
     },
     {
       "nome_completo": "Paulo Roberto da Costa",
-      "nome_urna": "Galo",
+      "nome_urna": "Galo da Tv",
       "foto": "fotos_solidariedade_brasil/FPR160002553367_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PR",
@@ -12987,5 +12987,5 @@
       ]
     }
   ],
-  "hash": "12dd1aea17d4"
+  "hash": "42787546cbf7"
 }

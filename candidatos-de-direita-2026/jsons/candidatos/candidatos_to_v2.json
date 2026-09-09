@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Adevar Junior Braga",
-      "nome_urna": "Advar Júnior",
+      "nome_urna": "Adevar Júnior",
       "foto": "fotos_dc_brasil/FTO270002552969_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "TO",
@@ -1003,7 +1003,7 @@
     },
     {
       "nome_completo": "Edna Gomes dos Santos",
-      "nome_urna": "Edna Gomes dos Santos",
+      "nome_urna": "Edna Gomes",
       "foto": "fotos_novo_brasil/FTO270002550613_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "TO",
@@ -1115,7 +1115,7 @@
     },
     {
       "nome_completo": "Nilton Rodrigues dos Santos",
-      "nome_urna": "Nilton Santos",
+      "nome_urna": "Coronel Nilton Santos",
       "foto": "fotos_novo_brasil/FTO270002550610_div.jpg",
       "cargo_pleiteado": "Senador",
       "estado": "TO",
@@ -1187,7 +1187,7 @@
     },
     {
       "nome_completo": "Thaisla Amaro Resplandes",
-      "nome_urna": "Thaisla Amaro Resplandes",
+      "nome_urna": "Thaisla Resplandes",
       "foto": "fotos_novo_brasil/FTO270002550617_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "TO",
@@ -1470,7 +1470,7 @@
     },
     {
       "nome_completo": "Henrique Jorge Hj Rosa Martins",
-      "nome_urna": "Henrique Jorge Martins",
+      "nome_urna": "Dr. Henrique Martins",
       "foto": "fotos_pl_brasil/FTO270002544471_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "TO",
@@ -1628,7 +1628,7 @@
     },
     {
       "nome_completo": "Luiz Osvaldo Pastore",
-      "nome_urna": "Pastore",
+      "nome_urna": "Luiz Pastore",
       "foto": "fotos_pl_brasil/FTO270002546332_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "TO",
@@ -2380,7 +2380,7 @@
     },
     {
       "nome_completo": "Angela Maria Silva",
-      "nome_urna": "Angela da Facit",
+      "nome_urna": "Dra. Angela da Facit",
       "foto": "fotos_prd_brasil/FTO270002550593_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "TO",
@@ -2840,7 +2840,7 @@
     },
     {
       "nome_completo": "Orlando dos Reis Silva",
-      "nome_urna": "Orlando Canabe",
+      "nome_urna": "Orlando Zé da Penha",
       "foto": "fotos_psd_brasil/FTO270002544626_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "TO",
@@ -2857,7 +2857,7 @@
     },
     {
       "nome_completo": "Marcos Mota do Nascimento",
-      "nome_urna": "Prof Marcos Mota",
+      "nome_urna": "Prof. Marcos Mota",
       "foto": "fotos_psd_brasil/FTO270002544614_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "TO",
@@ -4214,7 +4214,7 @@
     },
     {
       "nome_completo": "Aluisio Gregorio Motta Junior",
-      "nome_urna": "Aluisio Motta",
+      "nome_urna": "Aluisio Gregório",
       "foto": "fotos_uniao_brasil/FTO270002548232_div.jpg",
       "cargo_pleiteado": "2º Suplente",
       "estado": "TO",
@@ -4526,7 +4526,7 @@
     },
     {
       "nome_completo": "Leandro Caitano dos Santos",
-      "nome_urna": "Sub Tenente Caitano",
+      "nome_urna": "Subtenente Caitano",
       "foto": "fotos_uniao_brasil/FTO270002548457_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "TO",
@@ -4871,5 +4871,5 @@
       ]
     }
   ],
-  "hash": "76830b44c9c6"
+  "hash": "0a78b142276c"
 }

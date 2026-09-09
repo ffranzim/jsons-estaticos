@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-09T00:22:14.360627+00:00",
-  "versao": 4,
-  "hash": "ffa8c639d379",
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
+  "hash": "00ee8866c108",
   "apoiadores": [
     {
       "id": "app",
@@ -1558,7 +1558,7 @@
     {
       "id": "FPR160002549555",
       "nome": "Cristina Reis Graeml",
-      "descricao": "Candidato a Senador - PR",
+      "descricao": "Candidata a Senador - PR",
       "foto": "images/candidatos_psd/FPR160002549555_div.jpg",
       "apoiados": {
         "pr": [
@@ -1570,26 +1570,30 @@
       }
     },
     {
-      "id": "FPR160002542287",
-      "nome": "Jeffrey Chiquini",
-      "descricao": "Candidato a Deputado Federal - PR",
-      "foto": "images/candidatos_novo/FPR160002542287_div.jpg",
-      "apoiados": {
-        "pr": [
-          {
-            "numero": 3000,
-            "nome": "Jeffrey Chiquini"
-          }
-        ]
-      }
-    },
-    {
       "id": "FPR160002547628",
       "nome": "João Bettega",
       "descricao": "Candidato a Deputado Estadual - PR",
       "foto": "images/candidatos_pl/FPR160002547628_div.jpg",
       "apoiados": {
+        "br": [
+          {
+            "numero": 22,
+            "nome": "Flavio Bolsonaro"
+          }
+        ],
         "pr": [
+          {
+            "numero": 22,
+            "nome": "Sergio Moro"
+          },
+          {
+            "numero": 222,
+            "nome": "Filipe Barros"
+          },
+          {
+            "numero": 2211,
+            "nome": "Delegado Francischini"
+          },
           {
             "numero": 22007,
             "nome": "João Bettega"
@@ -1649,34 +1653,6 @@
           {
             "numero": 2211,
             "nome": "Lucas Pavanato"
-          }
-        ]
-      }
-    },
-    {
-      "id": "FSP250002535935",
-      "nome": "Dra. Nise Yamaguchi",
-      "descricao": "Candidato a Deputado Federal - SP",
-      "foto": "images/candidatos_pl/FSP250002535935_div.jpg",
-      "apoiados": {
-        "sp": [
-          {
-            "numero": 2221,
-            "nome": "Dra. Nise Yamaguchi"
-          }
-        ]
-      }
-    },
-    {
-      "id": "FSP250002535991",
-      "nome": "Delegado Paulo Bilynskyj",
-      "descricao": "Candidato a Deputado Federal - SP",
-      "foto": "images/candidatos_pl/FSP250002535991_div.jpg",
-      "apoiados": {
-        "sp": [
-          {
-            "numero": 2247,
-            "nome": "Delegado Paulo Bilynskyj"
           }
         ]
       }

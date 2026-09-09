@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-07T22:07:30+00:00",
-  "versao": 4,
-  "hash": "c2f493ba7d27",
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
+  "hash": "771b262e93b2",
   "candidatos": [
     {
       "nome_completo": "Aguinaldo Vargas de Vargas",
@@ -124,7 +124,7 @@
     },
     {
       "nome_completo": "Angel Miguel Gomes Schon",
-      "nome_urna": "Angel",
+      "nome_urna": "Dj Angel",
       "foto": "fotos_avante_brasil/FSC240002551680_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",
@@ -464,7 +464,7 @@
     },
     {
       "nome_completo": "Sabrina da Conceicao Antonio",
-      "nome_urna": "Sabrina da Conceição",
+      "nome_urna": "A Sabrina da Conceição",
       "foto": "fotos_avante_brasil/FSC240002551679_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",
@@ -2785,7 +2785,7 @@
     },
     {
       "nome_completo": "Andre Batisti",
-      "nome_urna": "A. Deco Batisti",
+      "nome_urna": "A Deco Batisti",
       "foto": "fotos_pl_brasil/FSC240002539966_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SC",
@@ -2825,7 +2825,7 @@
     },
     {
       "nome_completo": "Alexander Brasil Alves Pereira",
-      "nome_urna": "Alex Brasil",
+      "nome_urna": "A Alex Brasil",
       "foto": "fotos_pl_brasil/FSC240002539957_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SC",
@@ -3825,7 +3825,7 @@
       "estado": "SC",
       "partido": {
         "sigla": "PL",
-        "numero": 22555
+        "numero": 22002
       },
       "prioridade": 6,
       "redes_sociais": {
@@ -4156,7 +4156,7 @@
     },
     {
       "nome_completo": "Carla Andressa Zamperlini Pereira",
-      "nome_urna": "Carlinha",
+      "nome_urna": "Carla Z Pereira",
       "foto": "fotos_pode_brasil/FSC240002539563_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SC",
@@ -5780,7 +5780,7 @@
     },
     {
       "nome_completo": "Jeferson da Rocha",
-      "nome_urna": "Jeferson da Rocha",
+      "nome_urna": "Jeferson Rocha",
       "foto": "fotos_prd_brasil/FSC240002551377_div.jpg",
       "cargo_pleiteado": "Senador",
       "estado": "SC",
@@ -5803,7 +5803,7 @@
       "estado": "SC",
       "partido": {
         "sigla": "PRD",
-        "numero": 25098
+        "numero": 25123
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -6052,7 +6052,7 @@
     },
     {
       "nome_completo": "Rosinha Nichelatti Machado",
-      "nome_urna": "Rosinha do Povo",
+      "nome_urna": "Rosinha Pelo Povo",
       "foto": "fotos_prd_brasil/FSC240002552132_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SC",
@@ -6103,7 +6103,7 @@
     },
     {
       "nome_completo": "Vagner Braga Tebalde",
-      "nome_urna": "Vagner Tebalde",
+      "nome_urna": "Vagnão do Têxtil",
       "foto": "fotos_prd_brasil/FSC240002551670_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",
@@ -7524,7 +7524,7 @@
     },
     {
       "nome_completo": "Sabrina da Conceicao",
-      "nome_urna": "Sabrina da Conceição",
+      "nome_urna": "Sabrina Sassá",
       "foto": "fotos_republicanos_brasil/FSC240002537082_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",
@@ -7729,7 +7729,7 @@
     },
     {
       "nome_completo": "Adriana Mazzucco Zanelato",
-      "nome_urna": "Adriana",
+      "nome_urna": "Adriana Zanelato",
       "foto": "fotos_solidariedade_brasil/FSC240002551666_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",
@@ -7769,7 +7769,7 @@
       "estado": "SC",
       "partido": {
         "sigla": "SOLIDARIEDADE",
-        "numero": 7725
+        "numero": 7777
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -8226,7 +8226,7 @@
     },
     {
       "nome_completo": "Jane Stefenn",
-      "nome_urna": "Jane Steffen",
+      "nome_urna": "Jane Stefenn",
       "foto": "fotos_uniao_brasil/FSC240002541925_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",
@@ -8431,7 +8431,7 @@
     },
     {
       "nome_completo": "Tania Regina Larson",
-      "nome_urna": "Tânia Regina Larson",
+      "nome_urna": "Tânia Larson",
       "foto": "fotos_uniao_brasil/FSC240002541918_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SC",

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Adalberto Souza de Almeida",
@@ -2402,7 +2402,7 @@
     },
     {
       "nome_completo": "Sergio Torres dos Santos",
-      "nome_urna": "Sérgio Torres",
+      "nome_urna": "Professor Sérgio Torres",
       "foto": "fotos_pode_brasil/FAC10002552834_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AC",
@@ -3660,7 +3660,7 @@
       "estado": "AC",
       "partido": {
         "sigla": "PSDB",
-        "numero": 45321
+        "numero": 45100
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3705,7 +3705,7 @@
     },
     {
       "nome_completo": "Maria Jucileide Marinho",
-      "nome_urna": "Maria Jucileide",
+      "nome_urna": "Lora do Comércio",
       "foto": "fotos_psdb_brasil/FAC10002544027_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AC",
@@ -3739,7 +3739,7 @@
     },
     {
       "nome_completo": "Patrícia Parente de Carvalho Pascoal",
-      "nome_urna": "Patrícia Parente",
+      "nome_urna": "Patty Parente",
       "foto": "fotos_psdb_brasil/FAC10002544018_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AC",
@@ -4108,7 +4108,7 @@
     },
     {
       "nome_completo": "Isabelle de Araujo Pereira",
-      "nome_urna": "Isabelle Araujo",
+      "nome_urna": "Isabelle Pereira",
       "foto": "fotos_republicanos_brasil/FAC10002536327_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AC",
@@ -4478,7 +4478,7 @@
     },
     {
       "nome_completo": "Demilson Silva dos Santos",
-      "nome_urna": "Denilson Silva",
+      "nome_urna": "Demilson Silva",
       "foto": "fotos_solidariedade_brasil/FAC10002552394_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AC",
@@ -4604,7 +4604,7 @@
       "estado": "AC",
       "partido": {
         "sigla": "SOLIDARIEDADE",
-        "numero": 7777
+        "numero": 7711
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -4858,7 +4858,7 @@
     },
     {
       "nome_completo": "Hechylen Pereira Davila",
-      "nome_urna": "Hechylen Pereira Davila",
+      "nome_urna": "Hechylen Davila",
       "foto": "fotos_uniao_brasil/FAC10002545225_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "AC",
@@ -5271,5 +5271,5 @@
       ]
     }
   ],
-  "hash": "2a7f148ccb6f"
+  "hash": "9d1cb6573319"
 }

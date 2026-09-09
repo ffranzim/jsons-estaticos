@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:30+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Alex Ofredi Melim",
@@ -991,7 +991,7 @@
     },
     {
       "nome_completo": "Sérgio Henrique Dias Farias",
-      "nome_urna": "Serginho",
+      "nome_urna": "Serginho Hd",
       "foto": "fotos_agir_brasil/FRJ190002536566_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -1518,7 +1518,7 @@
     },
     {
       "nome_completo": "Bruno de Andrade Ferreira",
-      "nome_urna": "Bruno Ferreira",
+      "nome_urna": "Bruno da Academia",
       "foto": "fotos_avante_brasil/FRJ190002538586_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -1637,7 +1637,7 @@
     },
     {
       "nome_completo": "Jose Guilherme de Moraes Neto",
-      "nome_urna": "Coronel Guilherme Morais",
+      "nome_urna": "Coronel Guilherme Moraes",
       "foto": "fotos_avante_brasil/FRJ190002537171_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -2470,7 +2470,7 @@
     },
     {
       "nome_completo": "Onasis Roberto de Assis Gomes",
-      "nome_urna": "Onasis",
+      "nome_urna": "Onassis",
       "foto": "fotos_avante_brasil/FRJ190002537163_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -2640,7 +2640,7 @@
     },
     {
       "nome_completo": "Veronice Alves Martins",
-      "nome_urna": "Perta Martins",
+      "nome_urna": "Preta Martins",
       "foto": "fotos_avante_brasil/FRJ190002538561_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -3388,7 +3388,7 @@
     },
     {
       "nome_completo": "Ághata do Nascimento Oakes",
-      "nome_urna": "Aghata Almeida",
+      "nome_urna": "Aghata  Almeida",
       "foto": "fotos_dc_brasil/FRJ190002543891_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -4085,7 +4085,7 @@
     },
     {
       "nome_completo": "Alinaldo Sousa Oliveira",
-      "nome_urna": "Dr. Ali Oliveira",
+      "nome_urna": "Dr. Ali",
       "foto": "fotos_dc_brasil/FRJ190002548323_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -4204,7 +4204,7 @@
     },
     {
       "nome_completo": "Erika Gama Albuquerque",
-      "nome_urna": "Erika Gama Maezona da Segura",
+      "nome_urna": "Erika Maezona da Segurança",
       "foto": "fotos_dc_brasil/FRJ190002548296_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -5598,7 +5598,7 @@
     },
     {
       "nome_completo": "Paulo José dos Santos de Oliveira",
-      "nome_urna": "Bispo Paulo",
+      "nome_urna": "Bispo Paulo Santos",
       "foto": "fotos_democrata_brasil/FRJ190002551521_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -5853,7 +5853,7 @@
     },
     {
       "nome_completo": "Ricardo Maticera Araujo Chamorro",
-      "nome_urna": "Dr. Ricardo",
+      "nome_urna": "Dr.  Ricardo",
       "foto": "fotos_democrata_brasil/FRJ190002552249_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -5955,7 +5955,7 @@
     },
     {
       "nome_completo": "Eduardo Barbosa Rodrigues",
-      "nome_urna": "Duda da Portela",
+      "nome_urna": "Duda Portela",
       "foto": "fotos_democrata_brasil/FRJ190002551526_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -6822,7 +6822,7 @@
     },
     {
       "nome_completo": "Gilson Araujo Dias Pereira Goncalves",
-      "nome_urna": "Professor Gilson Dias",
+      "nome_urna": "Professor  Gilson Dias",
       "foto": "fotos_democrata_brasil/FRJ190002551210_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -7298,7 +7298,7 @@
     },
     {
       "nome_completo": "Erica dos Santos Ferreira Pio",
-      "nome_urna": "Érica Pio",
+      "nome_urna": "Érica Ferreira",
       "foto": "fotos_democrata_brasil/FRJ190002554204_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -7434,7 +7434,7 @@
     },
     {
       "nome_completo": "Joao Alves Ferreira",
-      "nome_urna": "Apostolo João Alves",
+      "nome_urna": "Ap. João Alves",
       "foto": "fotos_mdb_brasil/FRJ190002539330_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -9511,7 +9511,7 @@
     },
     {
       "nome_completo": "Elna Alice de Almeida de Araujo",
-      "nome_urna": "Elna Miller",
+      "nome_urna": "Elna Müller",
       "foto": "fotos_mobiliza_brasil/FRJ190002547201_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -9596,7 +9596,7 @@
     },
     {
       "nome_completo": "Anderson de Lima Cruz",
-      "nome_urna": "Fineli",
+      "nome_urna": "Finelli",
       "foto": "fotos_mobiliza_brasil/FRJ190002547253_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -12847,7 +12847,7 @@
     },
     {
       "nome_completo": "Erigreyce de Alcantara Monteiro",
-      "nome_urna": "Tenete Coronel Erigreyce",
+      "nome_urna": "Tenente Coronel Erigreyce",
       "foto": "fotos_novo_brasil/FRJ190002537523_div.jpg",
       "cargo_pleiteado": "Vice-Governador",
       "estado": "RJ",
@@ -13338,7 +13338,7 @@
     },
     {
       "nome_completo": "Batata da Madsen",
-      "nome_urna": "Batata da Madsen",
+      "nome_urna": "Sgt Batata",
       "foto": "fotos_pl_brasil/FRJ190002532839_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -14450,7 +14450,7 @@
     },
     {
       "nome_completo": "Jorge Miguel Felippe Poyares Bethlem",
-      "nome_urna": "Jorge Felippe",
+      "nome_urna": "Jorge Felippe Neto",
       "foto": "fotos_pl_brasil/FRJ190002533686_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -14520,7 +14520,7 @@
     },
     {
       "nome_completo": "Keila Gomes Prado",
-      "nome_urna": "Keila Acaba Não Mundão",
+      "nome_urna": "Keila  Acaba Não Mundão ",
       "foto": "fotos_pl_brasil/FRJ190002532801_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -14645,7 +14645,7 @@
     },
     {
       "nome_completo": "Elitusalem Gomes de Freitas",
-      "nome_urna": "Major Elitusalem Silveira",
+      "nome_urna": "Major Elitusalem",
       "foto": "fotos_pl_brasil/FRJ190002533701_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -14880,7 +14880,7 @@
     },
     {
       "nome_completo": "Vanessa da Silva Oliveira",
-      "nome_urna": "Negona do Bolsonaro",
+      "nome_urna": "Vanessa Silva",
       "foto": "fotos_pl_brasil/FRJ190002532833_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -15037,7 +15037,7 @@
     },
     {
       "nome_completo": "Kauan de Abreu Medeiros Poubel",
-      "nome_urna": "Poubel",
+      "nome_urna": "Poubel Filho",
       "foto": "fotos_pl_brasil/FRJ190002533709_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -15208,7 +15208,7 @@
     },
     {
       "nome_completo": "Carlos Renan Leal de Mattos",
-      "nome_urna": "Renan",
+      "nome_urna": "Renan Jordy",
       "foto": "fotos_pl_brasil/FRJ190002533430_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -15250,7 +15250,7 @@
     },
     {
       "nome_completo": "Renato de Araujo Correa",
-      "nome_urna": "Renato Araújo do Bolsonaro",
+      "nome_urna": "Renato Araújo",
       "foto": "fotos_pl_brasil/FRJ190002532803_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -17164,7 +17164,7 @@
       "estado": "RJ",
       "partido": {
         "sigla": "PODE",
-        "numero": 20317
+        "numero": 20230
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -17249,7 +17249,7 @@
       "estado": "RJ",
       "partido": {
         "sigla": "PODE",
-        "numero": 2020
+        "numero": 2019
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -17328,7 +17328,7 @@
     },
     {
       "nome_completo": "Wagner de Almeida Santos",
-      "nome_urna": "Waguinho",
+      "nome_urna": "Waguinho Esporte",
       "foto": "fotos_pode_brasil/FRJ190002544917_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -18476,7 +18476,7 @@
     },
     {
       "nome_completo": "Sidney Morgado Nascimento Filho",
-      "nome_urna": "Batata Neles",
+      "nome_urna": "Batata",
       "foto": "fotos_prd_brasil/FRJ190002534094_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -20710,7 +20710,7 @@
     },
     {
       "nome_completo": "Patrick de Lima Ferreira",
-      "nome_urna": "Patrick Ferreira",
+      "nome_urna": "Patrick Lima",
       "foto": "fotos_psd_brasil/FRJ190002553916_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -21425,7 +21425,7 @@
     },
     {
       "nome_completo": "Charles Rodrigues de Carvalho Sciammarella",
-      "nome_urna": "Fiscal do Povo",
+      "nome_urna": "Charles Fiscal do Povo",
       "foto": "fotos_psdb_brasil/FRJ190002550028_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -21989,7 +21989,7 @@
     },
     {
       "nome_completo": "Maria da Penha Machado de Souza da Silva",
-      "nome_urna": "Maria da Penha",
+      "nome_urna": "Pastora Maria da Penha",
       "foto": "fotos_psdb_brasil/FRJ190002550022_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -22551,7 +22551,7 @@
     },
     {
       "nome_completo": "Adriana Pinto de Arruda da França",
-      "nome_urna": "Adriana França",
+      "nome_urna": "Professora Adriana França",
       "foto": "fotos_republicanos_brasil/FRJ190002542999_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -22807,7 +22807,7 @@
     },
     {
       "nome_completo": "Luiz Cesar Silva Lopes",
-      "nome_urna": "Cesar da Federal",
+      "nome_urna": "Vet. L. Cesar",
       "foto": "fotos_republicanos_brasil/FRJ190002543362_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -22892,7 +22892,7 @@
     },
     {
       "nome_completo": "William Olinda Sodre",
-      "nome_urna": "Coronel William Sodre",
+      "nome_urna": "Coronel William  Sodre",
       "foto": "fotos_republicanos_brasil/FRJ190002542993_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -23710,7 +23710,7 @@
     },
     {
       "nome_completo": "Marcelo José Rizzi",
-      "nome_urna": "Marcelo Rizzi",
+      "nome_urna": "Marcelo  Rizzi",
       "foto": "fotos_republicanos_brasil/FRJ190002543371_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -24000,7 +24000,7 @@
     },
     {
       "nome_completo": "Pedro Henrique da Cruz de Carvalho",
-      "nome_urna": "Pedro Henrique",
+      "nome_urna": "Pedro Henrique Pelo Rio",
       "foto": "fotos_republicanos_brasil/FRJ190002542988_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -25500,7 +25500,7 @@
     },
     {
       "nome_completo": "Michele Santos do Nascimento",
-      "nome_urna": "Michelle Nascimento",
+      "nome_urna": "Michele Nascimento",
       "foto": "fotos_solidariedade_brasil/FRJ190002534869_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -26456,7 +26456,7 @@
     },
     {
       "nome_completo": "Edio Antonio Rodrigues Neto",
-      "nome_urna": "Itaborai",
+      "nome_urna": "Nino de Itaborai",
       "foto": "fotos_uniao_brasil/FRJ190002541074_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RJ",
@@ -26781,7 +26781,7 @@
     },
     {
       "nome_completo": "Tatiana Oliveira de Castro",
-      "nome_urna": "Tatiana Oliveira",
+      "nome_urna": "Tatiana Oliveira de Castro",
       "foto": "fotos_uniao_brasil/FRJ190002541681_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RJ",
@@ -27159,5 +27159,5 @@
       ]
     }
   ],
-  "hash": "3b35f2ea4af9"
+  "hash": "a4158a634312"
 }

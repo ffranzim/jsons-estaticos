@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-07T22:07:30+00:00",
-  "versao": 4,
-  "hash": "7635b6b68790",
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
+  "hash": "dd77ba3f1887",
   "candidatos": [
     {
       "nome_completo": "Abel Costa",
@@ -2606,7 +2606,7 @@
     },
     {
       "nome_completo": "Everaldo Antonio de Andrade",
-      "nome_urna": "Everaldo da Assitência",
+      "nome_urna": "Everaldo da Assistência",
       "foto": "fotos_avante_brasil/FSP250002551066_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -2623,7 +2623,7 @@
     },
     {
       "nome_completo": "Fabio dos Santos Mafaldo",
-      "nome_urna": "Fabio Mafaldo",
+      "nome_urna": "Fabio Mafaldo - Força do Povo",
       "foto": "fotos_avante_brasil/FSP250002551225_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -3524,7 +3524,7 @@
     },
     {
       "nome_completo": "André Luís dos Santos",
-      "nome_urna": "Rafael Dultra",
+      "nome_urna": "Rafael Dutra",
       "foto": "fotos_avante_brasil/FSP250002550246_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -5530,7 +5530,7 @@
     },
     {
       "nome_completo": "Gabriel Pereira de Souza Lima",
-      "nome_urna": "Grabiel Lima",
+      "nome_urna": "Gabriel Lima",
       "foto": "fotos_dc_brasil/FSP250002553802_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -5649,7 +5649,7 @@
     },
     {
       "nome_completo": "Isabela Letícia dos Santos Gouveia",
-      "nome_urna": "Isabela Goulveia",
+      "nome_urna": "Isabela Gouveia",
       "foto": "fotos_dc_brasil/FSP250002553834_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -5768,7 +5768,7 @@
     },
     {
       "nome_completo": "Josemar Jose Barros de Souza",
-      "nome_urna": "Jochuia",
+      "nome_urna": "Joshua",
       "foto": "fotos_dc_brasil/FSP250002552626_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -6420,7 +6420,7 @@
       "estado": "SP",
       "partido": {
         "sigla": "DC",
-        "numero": 2777
+        "numero": 2776
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -8318,7 +8318,7 @@
     },
     {
       "nome_completo": "André de Jesus Santos",
-      "nome_urna": "Andre Santos",
+      "nome_urna": "André da Massa",
       "foto": "fotos_mdb_brasil/FSP250002533622_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -10783,7 +10783,7 @@
       "estado": "SP",
       "partido": {
         "sigla": "MOBILIZA",
-        "numero": 33222
+        "numero": 33020
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -10913,7 +10913,7 @@
     },
     {
       "nome_completo": "Evaldo Claudino de Almeida",
-      "nome_urna": "Dr Evaldo",
+      "nome_urna": "Dr. Evaldo Almeida",
       "foto": "fotos_mobiliza_brasil/FSP250002552912_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -10970,7 +10970,7 @@
       "estado": "SP",
       "partido": {
         "sigla": "MOBILIZA",
-        "numero": 33020
+        "numero": 33222
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -11270,7 +11270,7 @@
     },
     {
       "nome_completo": "Juliana de Oliveira Martins Machado",
-      "nome_urna": "Juliana Machado",
+      "nome_urna": "Professora Juliana Machado",
       "foto": "fotos_mobiliza_brasil/FSP250002552900_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -11440,7 +11440,7 @@
     },
     {
       "nome_completo": "Patrocinio Ramos da Cruz Neto",
-      "nome_urna": "Patrocinio Ramos Causa Animal",
+      "nome_urna": "Patrocinio Ramos  Causa Animal",
       "foto": "fotos_mobiliza_brasil/FSP250002552905_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -11559,7 +11559,7 @@
     },
     {
       "nome_completo": "Santiago dos Santos Rissi",
-      "nome_urna": "Santiago Mestre",
+      "nome_urna": "Santiago  Mestre ",
       "foto": "fotos_mobiliza_brasil/FSP250002552889_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -13417,7 +13417,7 @@
     },
     {
       "nome_completo": "Marcos Vitor Lessa",
-      "nome_urna": "Lessa do Corpo de Bombeiros",
+      "nome_urna": "Bombeiro Lessa",
       "foto": "fotos_novo_brasil/FSP250002530146_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -13909,7 +13909,7 @@
     },
     {
       "nome_completo": "Monica Ramires Ferraz Cury",
-      "nome_urna": "Mônica Cury",
+      "nome_urna": "Monica Ramires Ferraz Cury",
       "foto": "fotos_novo_brasil/FSP250002530274_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -14259,7 +14259,7 @@
     },
     {
       "nome_completo": "Christian Lohbauer",
-      "nome_urna": "Professor Christian",
+      "nome_urna": "Professor Christian Lohbauer",
       "foto": "fotos_novo_brasil/FSP250002530170_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -14346,7 +14346,7 @@
     },
     {
       "nome_completo": "Rafael Stefano Feltrin",
-      "nome_urna": "Rafael Feltrin",
+      "nome_urna": "Rafael  Feltrin",
       "foto": "fotos_novo_brasil/FSP250002530140_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -15259,7 +15259,7 @@
     },
     {
       "nome_completo": "Alessandra Roberto Prado Duarte",
-      "nome_urna": "Ale Duarte",
+      "nome_urna": "Ale  Duarte",
       "foto": "fotos_pl_brasil/FSP250002535979_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -15518,7 +15518,7 @@
     },
     {
       "nome_completo": "Mosart Aragão Pereira",
-      "nome_urna": "Capitão Mosart Bolsonaro",
+      "nome_urna": "Capitão Mosart",
       "foto": "fotos_pl_brasil/FSP250002536344_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -16201,6 +16201,7 @@
       "nome_completo": "Maria Eduarda Campopiano Monteiro",
       "nome_urna": "Eduarda Campopiano",
       "foto": "fotos_pl_brasil/FSP250002536384_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
       "partido": {
         "sigla": "PL",
@@ -16246,6 +16247,7 @@
       "nome_completo": "Elias do Bomfim Amaral",
       "nome_urna": "Elias de Madureira",
       "foto": "fotos_pl_brasil/FSP250002536372_div.jpg",
+      "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
       "partido": {
         "sigla": "PL",
@@ -16263,7 +16265,7 @@
     },
     {
       "nome_completo": "Fabiana de Lima Barroso Souza",
-      "nome_urna": "Fabiana Bolsonaro",
+      "nome_urna": "Fabiana B.",
       "foto": "fotos_pl_brasil/FSP250002536380_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -16538,7 +16540,7 @@
     },
     {
       "nome_completo": "Giovanni Giudice Calderon",
-      "nome_urna": "Giovani Sanches",
+      "nome_urna": "Giovani do Lucas Sanches",
       "foto": "fotos_pl_brasil/FSP250002536388_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -18089,7 +18091,7 @@
     },
     {
       "nome_completo": "Samanta Salerno de Almeida",
-      "nome_urna": "Samanta Bolsonaro",
+      "nome_urna": "Samanta Salerno",
       "foto": "fotos_pl_brasil/FSP250002536421_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -18428,7 +18430,7 @@
     },
     {
       "nome_completo": "Thiago Felipe Neves",
-      "nome_urna": "Thiago Neves - Enéas Bolsonaro",
+      "nome_urna": "Thiago Neves - Meunomeéneves",
       "foto": "fotos_pl_brasil/FSP250002535989_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -19399,7 +19401,7 @@
     },
     {
       "nome_completo": "Neria Lucio Buzatto",
-      "nome_urna": "Doutora Néria",
+      "nome_urna": "Dra. Néria",
       "foto": "fotos_pode_brasil/FSP250002544352_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -21086,7 +21088,7 @@
     },
     {
       "nome_completo": "Valeria Aparecida Messias Lima",
-      "nome_urna": "Valeria Messias",
+      "nome_urna": "Dra. Valeria Messias",
       "foto": "fotos_pode_brasil/FSP250002545200_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -21599,7 +21601,7 @@
     },
     {
       "nome_completo": "Antônio Cassio Habice Prado",
-      "nome_urna": "Dr Cássio Prado",
+      "nome_urna": "Dr. Cássio",
       "foto": "fotos_pp_brasil/FSP250002533746_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -21667,13 +21669,13 @@
     },
     {
       "nome_completo": "Telma Mara dos Santos Rodolpho",
-      "nome_urna": "Dra Telma",
+      "nome_urna": "Dra Telma Rodolpho",
       "foto": "fotos_pp_brasil/FSP250002533799_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
       "partido": {
         "sigla": "PP",
-        "numero": 11511
+        "numero": 11101
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -22031,7 +22033,7 @@
     },
     {
       "nome_completo": "Manoel Marcos de Jesus Ferreira",
-      "nome_urna": "Manoel Marcos (mané)",
+      "nome_urna": "Manoel Marcos",
       "foto": "fotos_pp_brasil/FSP250002533804_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -22322,7 +22324,7 @@
     },
     {
       "nome_completo": "Maria Letícia de Freitas Assis",
-      "nome_urna": "Soldado Letícia",
+      "nome_urna": "Soldado Letícia Assis",
       "foto": "fotos_pp_brasil/FSP250002533753_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -25804,7 +25806,7 @@
     },
     {
       "nome_completo": "Ricardo da Silva Araujo",
-      "nome_urna": "Ricardo Araujo",
+      "nome_urna": "Ricardo Japa",
       "foto": "fotos_psd_brasil/FSP250002540879_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -26969,7 +26971,7 @@
     },
     {
       "nome_completo": "Everton Luiz Costa dos Santos",
-      "nome_urna": "Everton Santos da Aabb",
+      "nome_urna": "Everton Santos",
       "foto": "fotos_psdb_brasil/FSP250002550400_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -27547,7 +27549,7 @@
     },
     {
       "nome_completo": "Luiz Fernando Salmeron Momesso",
-      "nome_urna": "Luiz Salmeron",
+      "nome_urna": "Salmeron",
       "foto": "fotos_psdb_brasil/FSP250002550070_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -28210,7 +28212,7 @@
     },
     {
       "nome_completo": "Maria Lucia dos Santos Correia",
-      "nome_urna": "Rede Solidária",
+      "nome_urna": "Maria Lúcia da Rede Solidária",
       "foto": "fotos_psdb_brasil/FSP250002548877_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",
@@ -31126,7 +31128,7 @@
     },
     {
       "nome_completo": "Fabio Del Monte Sobrinho",
-      "nome_urna": "Pastor Fabio Bombeiro",
+      "nome_urna": "Pr Fabio Bombeiro",
       "foto": "fotos_solidariedade_brasil/FSP250002534940_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "SP",
@@ -32826,7 +32828,7 @@
     },
     {
       "nome_completo": "Vanderlei Cesar de Assis",
-      "nome_urna": "Vanderlei da Pena",
+      "nome_urna": "Vanderlei da Penal",
       "foto": "fotos_uniao_brasil/FSP250002533791_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SP",

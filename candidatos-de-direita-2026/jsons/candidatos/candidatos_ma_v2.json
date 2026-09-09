@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Ester Alves Soares",
@@ -2207,7 +2207,7 @@
     },
     {
       "nome_completo": "Laurindo Freitas de Sousa",
-      "nome_urna": "Laurindo 25freitas",
+      "nome_urna": "Laurindo Freitas",
       "foto": "fotos_novo_brasil/FMA100002545697_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -2266,7 +2266,7 @@
     },
     {
       "nome_completo": "Maria Silvana da Silva Ribeiro",
-      "nome_urna": "Maria Ribeiro",
+      "nome_urna": "Pastora Silvana Ribeiro",
       "foto": "fotos_novo_brasil/FMA100002545691_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -3223,7 +3223,7 @@
     },
     {
       "nome_completo": "Eva Alves de Morais Barros",
-      "nome_urna": "Prof. Eva Educadores Coletivo",
+      "nome_urna": "Prof. Eva Educadores  Coletivo",
       "foto": "fotos_pl_brasil/FMA100002537268_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MA",
@@ -4071,7 +4071,7 @@
     },
     {
       "nome_completo": "Louíse Machado Mendes",
-      "nome_urna": "Louse Machado",
+      "nome_urna": "Louise Machado",
       "foto": "fotos_prd_brasil/FMA100002542590_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -4579,7 +4579,7 @@
     },
     {
       "nome_completo": "Jerfeson Yann da Silva Sousa",
-      "nome_urna": "Jerferson Yann",
+      "nome_urna": "Jerfeson Yann",
       "foto": "fotos_psd_brasil/FMA100002550328_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -5879,7 +5879,7 @@
     },
     {
       "nome_completo": "Claudio David de Andrade",
-      "nome_urna": "Claudio dos Caldos",
+      "nome_urna": "Claudio do Caldo",
       "foto": "fotos_solidariedade_brasil/FMA100002542591_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -5947,7 +5947,7 @@
     },
     {
       "nome_completo": "Luanda Cruz Palacio",
-      "nome_urna": "Luanda Cruz",
+      "nome_urna": "Luanda Palácio",
       "foto": "fotos_solidariedade_brasil/FMA100002542584_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -6494,7 +6494,7 @@
     },
     {
       "nome_completo": "Welton Sousa Martins",
-      "nome_urna": "Tenete Welton",
+      "nome_urna": "Tenente Welton",
       "foto": "fotos_uniao_brasil/FMA100002542856_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MA",
@@ -6787,5 +6787,5 @@
       ]
     }
   ],
-  "hash": "773c9d48e102"
+  "hash": "9c5039bc1d61"
 }

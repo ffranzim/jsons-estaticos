@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:30+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Jaime Domingues Nunes",
@@ -142,7 +142,7 @@
     },
     {
       "nome_completo": "Marcos Jose Reategui de Souza",
-      "nome_urna": "Marcos Reategui",
+      "nome_urna": "Delegado Marcos",
       "foto": "fotos_dc_brasil/FAP30002552017_div.jpg",
       "cargo_pleiteado": "Governador",
       "estado": "AP",
@@ -1440,7 +1440,7 @@
     },
     {
       "nome_completo": "Elias Real da Silva",
-      "nome_urna": "Elias Real",
+      "nome_urna": "Elias Real do Menino Jesus",
       "foto": "fotos_pl_brasil/FAP30002538089_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "AP",
@@ -2834,7 +2834,7 @@
     },
     {
       "nome_completo": "Sebastiao Filho de Oliveira Possa",
-      "nome_urna": "Sebastião Vampiro",
+      "nome_urna": "Sebastião Filho",
       "foto": "fotos_psd_brasil/FAP30002532242_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AP",
@@ -3358,7 +3358,7 @@
       "estado": "AP",
       "partido": {
         "sigla": "UNIÃO",
-        "numero": 44369
+        "numero": 44478
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3386,7 +3386,7 @@
     },
     {
       "nome_completo": "Elizete Trindade da Cruz",
-      "nome_urna": "Conselheira Elizete",
+      "nome_urna": "Elizete Trindade",
       "foto": "fotos_uniao_brasil/FAP30002539126_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AP",
@@ -3677,7 +3677,7 @@
     },
     {
       "nome_completo": "Roseli de Araujo Correa Teixeira",
-      "nome_urna": "Roseli",
+      "nome_urna": "Roseli Matos",
       "foto": "fotos_uniao_brasil/FAP30002539114_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AP",
@@ -4039,5 +4039,5 @@
       "status_tse": "Aguardando julgamento"
     }
   ],
-  "hash": "b0adbb39e815"
+  "hash": "3f800e02c50a"
 }

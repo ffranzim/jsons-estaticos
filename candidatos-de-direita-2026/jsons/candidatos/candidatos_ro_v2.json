@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Allen Cleiton Padilha do Prado",
@@ -157,7 +157,7 @@
     },
     {
       "nome_completo": "Jolian Inácio Galdino",
-      "nome_urna": "Galdino",
+      "nome_urna": "Bombeiro Galdino",
       "foto": "fotos_avante_brasil/FRO220002537572_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RO",
@@ -634,7 +634,7 @@
     },
     {
       "nome_completo": "Paulo Jorge Sulzbacher",
-      "nome_urna": "Paulo Jorge",
+      "nome_urna": "Paulo Jorge Sulzbacher",
       "foto": "fotos_dc_brasil/FRO220002550689_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RO",
@@ -1008,7 +1008,7 @@
     },
     {
       "nome_completo": "Mauro Pereira dos Santos",
-      "nome_urna": "Mauro Pereira",
+      "nome_urna": "Mauro Santos",
       "foto": "fotos_mdb_brasil/FRO220002551252_div.jpg",
       "cargo_pleiteado": "Vice-Governador",
       "estado": "RO",
@@ -1671,7 +1671,7 @@
     },
     {
       "nome_completo": "Tainara Menezes de Souza",
-      "nome_urna": "Tainara da Ccj",
+      "nome_urna": "Tainara  da Ccj",
       "foto": "fotos_mobiliza_brasil/FRO220002550924_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -2290,7 +2290,7 @@
     },
     {
       "nome_completo": "Rayane Almeida dos Santos Valente",
-      "nome_urna": "Rayane do Agro",
+      "nome_urna": "Rayane  do Agro",
       "foto": "fotos_novo_brasil/FRO220002536032_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -2629,7 +2629,7 @@
     },
     {
       "nome_completo": "Fábio Freitas da Silva",
-      "nome_urna": "Fábio Sphera",
+      "nome_urna": "Eng. Fábio Sphera",
       "foto": "fotos_pl_brasil/FRO220002537558_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -2840,7 +2840,7 @@
     },
     {
       "nome_completo": "Moises Cruz Vieira",
-      "nome_urna": "Moisés da Tv",
+      "nome_urna": "Moisés Cruz da Tv",
       "foto": "fotos_pl_brasil/FRO220002537563_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -3065,7 +3065,7 @@
     },
     {
       "nome_completo": "Alexandro Justino de Lima",
-      "nome_urna": "Alex dos Importados",
+      "nome_urna": "Alex Importados",
       "foto": "fotos_pode_brasil/FRO220002542200_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -3099,7 +3099,7 @@
     },
     {
       "nome_completo": "Cleyanne Alves",
-      "nome_urna": "Anne Cleyane",
+      "nome_urna": "Anne Cleyanne",
       "foto": "fotos_pode_brasil/FRO220002542206_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -3551,7 +3551,7 @@
     },
     {
       "nome_completo": "Nilzon Lopes de Oliveira Junior",
-      "nome_urna": "Sgt Nilzon",
+      "nome_urna": "Sargento Nilzon",
       "foto": "fotos_pode_brasil/FRO220002542191_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -4049,7 +4049,7 @@
     },
     {
       "nome_completo": "Marcia Luiza Scheffer de Oliveira",
-      "nome_urna": "Márcia de Oliveira",
+      "nome_urna": "Marcia Oliveira",
       "foto": "fotos_prd_brasil/FRO220002547386_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RO",
@@ -4290,7 +4290,7 @@
     },
     {
       "nome_completo": "Lauro Fernandes da Silva Junior",
-      "nome_urna": "Doutor Lauro Fernandes",
+      "nome_urna": "Dr. Lauro Fernandes",
       "foto": "fotos_psd_brasil/FRO220002542938_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -4581,7 +4581,7 @@
     },
     {
       "nome_completo": "Lindomara Alves de Moura Mareto",
-      "nome_urna": "Mara Moretto",
+      "nome_urna": "Mara Mareto",
       "foto": "fotos_psd_brasil/FRO220002542930_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RO",
@@ -6069,5 +6069,5 @@
       ]
     }
   ],
-  "hash": "64b480933d6c"
+  "hash": "2cc7daed0ca5"
 }

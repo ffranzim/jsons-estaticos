@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Alexandra Maria da Silva Santos",
@@ -208,7 +208,7 @@
     },
     {
       "nome_completo": "Eduardo Lucas de Oliveira",
-      "nome_urna": "Dudu do Correio",
+      "nome_urna": "Dudu Carteiro",
       "foto": "fotos_agir_brasil/FMG130002551777_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -650,7 +650,7 @@
     },
     {
       "nome_completo": "Jovelino Aparecido Ferreira",
-      "nome_urna": "Pastor Jovelino Ich/ufjf",
+      "nome_urna": "Jovelino Pastor",
       "foto": "fotos_agir_brasil/FMG130002551769_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -1041,7 +1041,7 @@
     },
     {
       "nome_completo": "Andreia Evangelista Gomes",
-      "nome_urna": "Andreia Gomes",
+      "nome_urna": "Andréa Gomes Tchuca",
       "foto": "fotos_avante_brasil/FMG130002544384_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -1262,7 +1262,7 @@
     },
     {
       "nome_completo": "Ivan José Lopes",
-      "nome_urna": "Delegado Ivan Lopes",
+      "nome_urna": "Delegado  Ivan Lopes",
       "foto": "fotos_avante_brasil/FMG130002544128_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -2555,7 +2555,7 @@
     },
     {
       "nome_completo": "Sthefanie Eduarda Carvalho dos Santos",
-      "nome_urna": "Sthefanie Oliveira",
+      "nome_urna": "Sthefanie Carvalho",
       "foto": "fotos_avante_brasil/FMG130002543627_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -2623,7 +2623,7 @@
     },
     {
       "nome_completo": "Wirley Rodrigues Reis",
-      "nome_urna": "Têko - Willer Reis",
+      "nome_urna": "Têko - Wirley Reis",
       "foto": "fotos_avante_brasil/FMG130002544381_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -2969,7 +2969,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "DC",
-        "numero": 2701
+        "numero": 2713
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -3167,7 +3167,7 @@
     },
     {
       "nome_completo": "Carolina Ramos da Silva Menezes",
-      "nome_urna": "Carol Ramos",
+      "nome_urna": "Carol  Ramos",
       "foto": "fotos_democrata_brasil/FMG130002533505_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -3439,7 +3439,7 @@
     },
     {
       "nome_completo": "Wemerson Silva de Oliveira",
-      "nome_urna": "Investigador Wemerson",
+      "nome_urna": "Investigador  Wemerson",
       "foto": "fotos_democrata_brasil/FMG130002533507_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -3507,7 +3507,7 @@
     },
     {
       "nome_completo": "Juarez Francisco Tavares",
-      "nome_urna": "Juarez Tavares",
+      "nome_urna": "Juarez  Tavares",
       "foto": "fotos_democrata_brasil/FMG130002533534_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -4109,7 +4109,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "MDB",
-        "numero": 15007
+        "numero": 15110
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4426,7 +4426,7 @@
     },
     {
       "nome_completo": "Eder Augusto Costa",
-      "nome_urna": "Eder Tnt",
+      "nome_urna": "Eder da Tnt",
       "foto": "fotos_mdb_brasil/FMG130002547912_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -4868,7 +4868,7 @@
     },
     {
       "nome_completo": "Kátia Flávia Mota Pereira",
-      "nome_urna": "Katia Flavia",
+      "nome_urna": "Katia Mota",
       "foto": "fotos_mdb_brasil/FMG130002547914_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -5396,7 +5396,7 @@
     },
     {
       "nome_completo": "Maria Constança Ferreira",
-      "nome_urna": "Professora Constância",
+      "nome_urna": "Maria Constança",
       "foto": "fotos_mdb_brasil/FMG130002550117_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -5555,7 +5555,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "MDB",
-        "numero": 15003
+        "numero": 15060
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -5839,7 +5839,7 @@
     },
     {
       "nome_completo": "Antonio Otavio da Silva",
-      "nome_urna": "Antônio Otávio dos Correios",
+      "nome_urna": "Antônio Otávio Tj",
       "foto": "fotos_mobiliza_brasil/FMG130002553036_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -6264,7 +6264,7 @@
     },
     {
       "nome_completo": "Itamar Silva",
-      "nome_urna": "Itamar Caminhoneiro",
+      "nome_urna": "Itamar Silva",
       "foto": "fotos_mobiliza_brasil/FMG130002552460_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -6383,13 +6383,13 @@
     },
     {
       "nome_completo": "Jose Mauricio Correia",
-      "nome_urna": "Jose Mauricio Correa",
+      "nome_urna": "Mauricio Poeta",
       "foto": "fotos_mobiliza_brasil/FMG130002553032_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
       "partido": {
         "sigla": "MOBILIZA",
-        "numero": 3321
+        "numero": 3328
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -7063,7 +7063,7 @@
     },
     {
       "nome_completo": "Sebastiao dos Reis Pedro da Silva",
-      "nome_urna": "Tiãozinho Silva",
+      "nome_urna": "Tíãozinho R Sillva",
       "foto": "fotos_mobiliza_brasil/FMG130002552448_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -7199,7 +7199,7 @@
     },
     {
       "nome_completo": "Wagner Martins de Oliveira",
-      "nome_urna": "Wagner Martins",
+      "nome_urna": "Wagner Oliveira",
       "foto": "fotos_mobiliza_brasil/FMG130002552452_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -8238,13 +8238,13 @@
     },
     {
       "nome_completo": "Elizeu Bomfa Santos",
-      "nome_urna": "Elizeu Bomfa Santos",
+      "nome_urna": "Eliseu Bomfá",
       "foto": "fotos_novo_brasil/FMG130002534531_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
       "partido": {
         "sigla": "NOVO",
-        "numero": 30004
+        "numero": 30678
       },
       "prioridade": 10,
       "redes_sociais": {
@@ -8513,7 +8513,7 @@
     },
     {
       "nome_completo": "Jose da Luz Soares",
-      "nome_urna": "Jose Soares",
+      "nome_urna": "José Amigão",
       "foto": "fotos_novo_brasil/FMG130002534547_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -8775,7 +8775,7 @@
     },
     {
       "nome_completo": "Marco Aurélio de Barros",
-      "nome_urna": "Marco Aurélio",
+      "nome_urna": "Marco Aurélio de Santa Luzia",
       "foto": "fotos_novo_brasil/FMG130002534526_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -9937,7 +9937,7 @@
     },
     {
       "nome_completo": "Marcos Paulo Silveira Carvalho Abreu",
-      "nome_urna": "Marcos Abreu",
+      "nome_urna": "Marcos Paulo Abreu",
       "foto": "fotos_novo_brasil/FMG130002554207_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -10198,7 +10198,7 @@
     },
     {
       "nome_completo": "Averaldo Pereira da Silva",
-      "nome_urna": "Averaldo Pica-Pau",
+      "nome_urna": "Averaldo  Pica-Pau",
       "foto": "fotos_pl_brasil/FMG130002542104_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -10397,7 +10397,7 @@
     },
     {
       "nome_completo": "Charlles Thomacelli Evangelista",
-      "nome_urna": "Charles Evangelista",
+      "nome_urna": "Charlles Evangelista",
       "foto": "fotos_pl_brasil/FMG130002547840_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -12680,7 +12680,7 @@
     },
     {
       "nome_completo": "Ronivon Borges Maia",
-      "nome_urna": "Cabo Borges Gepar",
+      "nome_urna": "Cabo Borges",
       "foto": "fotos_pode_brasil/FMG130002548736_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -12884,7 +12884,7 @@
     },
     {
       "nome_completo": "Wanderson Matozinho de Souza",
-      "nome_urna": "Decinho Bolsonaro do Barreiro",
+      "nome_urna": "Decinho do Barreiro",
       "foto": "fotos_pode_brasil/FMG130002548787_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -13105,7 +13105,7 @@
     },
     {
       "nome_completo": "Patricia Tobias Santos",
-      "nome_urna": "Dra.Patrícia Tobias do Procon",
+      "nome_urna": "Dra.Patrícia Tobias",
       "foto": "fotos_pode_brasil/FMG130002548729_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -13701,7 +13701,7 @@
     },
     {
       "nome_completo": "Juarez Carvalho de Oliveira",
-      "nome_urna": "Juarez Carvalho",
+      "nome_urna": "Carvalho do Povo",
       "foto": "fotos_pode_brasil/FMG130002548799_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -14195,7 +14195,7 @@
     },
     {
       "nome_completo": "Renata do Couto Rosa",
-      "nome_urna": "Renata Couto A Voz da Saúde",
+      "nome_urna": "Renata Couto  A Voz da Saúde ",
       "foto": "fotos_pode_brasil/FMG130002548816_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -14774,7 +14774,7 @@
     },
     {
       "nome_completo": "Alice Marquez Peres Drummond",
-      "nome_urna": "Alice Drummond",
+      "nome_urna": "Alice  Drummond",
       "foto": "fotos_pp_brasil/FMG130002542789_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -14825,7 +14825,7 @@
     },
     {
       "nome_completo": "Ana Paula Procopio Junqueira",
-      "nome_urna": "Ana Paula Junqueira Leão",
+      "nome_urna": "Ana Paula Leão",
       "foto": "fotos_pp_brasil/FMG130002542714_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -14866,7 +14866,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "PP",
-        "numero": 11221
+        "numero": 11775
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -15818,7 +15818,7 @@
     },
     {
       "nome_completo": "Vitorio Filho Ribeiro",
-      "nome_urna": "Vitorio Junior",
+      "nome_urna": "Vitório",
       "foto": "fotos_pp_brasil/FMG130002542764_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -16575,7 +16575,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "PRD",
-        "numero": 25321
+        "numero": 25900
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -16694,7 +16694,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "PRD",
-        "numero": 25231
+        "numero": 25321
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -16841,7 +16841,7 @@
     },
     {
       "nome_completo": "Regiane Lucas Moreira",
-      "nome_urna": "Regiane Moreira",
+      "nome_urna": "Regiane Jubrijô",
       "foto": "fotos_prd_brasil/FMG130002533273_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -17080,7 +17080,7 @@
     },
     {
       "nome_completo": "Ana Beatriz de Andrade Lazaro",
-      "nome_urna": "Ana Beatriz Lazaro",
+      "nome_urna": "Beatriz Andrade",
       "foto": "fotos_psd_brasil/FMG130002549965_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MG",
@@ -17131,7 +17131,7 @@
     },
     {
       "nome_completo": "Carlos Magno Rodrigues",
-      "nome_urna": "Carlos Magno Rodrigues",
+      "nome_urna": "Carlos Magno",
       "foto": "fotos_psd_brasil/FMG130002545581_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -19299,7 +19299,7 @@
     },
     {
       "nome_completo": "Thiago Mariscal dos Santos",
-      "nome_urna": "Thiago Mariscal",
+      "nome_urna": "Mariscal",
       "foto": "fotos_psdb_brasil/FMG130002539875_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MG",
@@ -21423,7 +21423,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "SOLIDARIEDADE",
-        "numero": 77200
+        "numero": 77888
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -21886,7 +21886,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "UNIÃO",
-        "numero": 44400
+        "numero": 44300
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -22194,7 +22194,7 @@
       "estado": "MG",
       "partido": {
         "sigla": "UNIÃO",
-        "numero": 44300
+        "numero": 44400
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -22843,5 +22843,5 @@
       ]
     }
   ],
-  "hash": "ccd6bb25822e"
+  "hash": "dc153f8c812f"
 }

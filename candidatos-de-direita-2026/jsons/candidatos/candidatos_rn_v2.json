@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Clovis Ferreira da Costa",
@@ -89,7 +89,7 @@
     },
     {
       "nome_completo": "Karlo Rodrigo Lucio Vieira",
-      "nome_urna": "Rodrigo Bolsonaro",
+      "nome_urna": "Rodrigo de Bolsonaro",
       "foto": "fotos_agir_brasil/FRN200002546756_div.jpg",
       "cargo_pleiteado": "Governador",
       "estado": "RN",
@@ -242,7 +242,7 @@
     },
     {
       "nome_completo": "Alexander Jutic Campello",
-      "nome_urna": "Palhaço Fuxiquinho",
+      "nome_urna": "Palhaço  Fuxiquinho",
       "foto": "fotos_avante_brasil/FRN200002551425_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "RN",
@@ -282,7 +282,7 @@
       "estado": "RN",
       "partido": {
         "sigla": "CIDADANIA",
-        "numero": 2328
+        "numero": 2323
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -684,7 +684,7 @@
     },
     {
       "nome_completo": "Hermano da Costa Moraes",
-      "nome_urna": "Hermano Morais",
+      "nome_urna": "Hermano",
       "foto": "fotos_mdb_brasil/FRN200002535256_div.jpg",
       "cargo_pleiteado": "Vice-Governador",
       "estado": "RN",
@@ -2345,7 +2345,7 @@
     },
     {
       "nome_completo": "Francisco Antonio da Silva",
-      "nome_urna": "Chico do Chapéu de Couro",
+      "nome_urna": "Chico Chapéu de Couro",
       "foto": "fotos_prd_brasil/FRN200002546780_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RN",
@@ -2623,7 +2623,7 @@
       "estado": "RN",
       "partido": {
         "sigla": "PSDB",
-        "numero": 4581
+        "numero": 4508
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -2674,7 +2674,7 @@
       "estado": "RN",
       "partido": {
         "sigla": "PSDB",
-        "numero": 45231
+        "numero": 45321
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2776,7 +2776,7 @@
       "estado": "RN",
       "partido": {
         "sigla": "PSDB",
-        "numero": 45777
+        "numero": 45454
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2896,7 +2896,7 @@
       "estado": "RN",
       "partido": {
         "sigla": "PSDB",
-        "numero": 45077
+        "numero": 45777
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2958,7 +2958,7 @@
     },
     {
       "nome_completo": "Moisés de Almeida Santos",
-      "nome_urna": "Major Moisés",
+      "nome_urna": "Policial Cantor",
       "foto": "fotos_psdb_brasil/FRN200002538222_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "RN",
@@ -3000,7 +3000,7 @@
       "estado": "RN",
       "partido": {
         "sigla": "PSDB",
-        "numero": 4500
+        "numero": 4555
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -3803,5 +3803,5 @@
       ]
     }
   ],
-  "hash": "347ddcbca58d"
+  "hash": "f5cedaae5a48"
 }

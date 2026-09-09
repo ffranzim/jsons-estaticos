@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "José Cristiano dos Santos",
@@ -27,7 +27,7 @@
       "estado": "PB",
       "partido": {
         "sigla": "AVANTE",
-        "numero": 7000
+        "numero": 7030
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -72,7 +72,7 @@
     },
     {
       "nome_completo": "Francileide da Silva",
-      "nome_urna": "Francileide",
+      "nome_urna": "Neide Bicuda",
       "foto": "fotos_avante_brasil/FPB150002553390_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PB",
@@ -942,7 +942,7 @@
     },
     {
       "nome_completo": "Roberto Carlos de Almeida Lima",
-      "nome_urna": "Prof. Roberto do Volei",
+      "nome_urna": "Roberto Lima",
       "foto": "fotos_mdb_brasil/FPB150002540248_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PB",
@@ -1348,7 +1348,7 @@
     },
     {
       "nome_completo": "Joao Henrique Alves de Queiroz",
-      "nome_urna": "Joao Queiroz",
+      "nome_urna": "Henrique Queiroz",
       "foto": "fotos_novo_brasil/FPB150002548398_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PB",
@@ -4824,5 +4824,5 @@
       ]
     }
   ],
-  "hash": "281a7edd6f23"
+  "hash": "bf3cfc83a67e"
 }

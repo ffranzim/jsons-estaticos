@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Alessandro Garcia",
@@ -174,7 +174,7 @@
     },
     {
       "nome_completo": "Barbara Cristina Fernandes Rodrigues de Mesquita",
-      "nome_urna": "Barbara Mesquita",
+      "nome_urna": "Pastora Barbara Mesquita",
       "foto": "fotos_avante_brasil/FMS120002549567_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MS",
@@ -429,7 +429,7 @@
     },
     {
       "nome_completo": "Johnnathan de Arruda Jara",
-      "nome_urna": "Johnnathan Jara",
+      "nome_urna": "Jara",
       "foto": "fotos_avante_brasil/FMS120002549575_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MS",
@@ -651,7 +651,7 @@
     },
     {
       "nome_completo": "Sidcley Brasil da Silva",
-      "nome_urna": "Sidicley Brasil",
+      "nome_urna": "Sidcley Brasil",
       "foto": "fotos_avante_brasil/FMS120002549581_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MS",
@@ -906,7 +906,7 @@
     },
     {
       "nome_completo": "Jose Lopez dos Santos Sobrinho",
-      "nome_urna": "Jose Sobrinho",
+      "nome_urna": "Zé Lopes",
       "foto": "fotos_dc_brasil/FMS120002552945_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MS",
@@ -1042,7 +1042,7 @@
     },
     {
       "nome_completo": "Maria Isabela Oliveira Saldanha",
-      "nome_urna": "Maria Saldanha",
+      "nome_urna": "Maria Isabela Saldanha",
       "foto": "fotos_dc_brasil/FMS120002552947_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MS",
@@ -1229,7 +1229,7 @@
     },
     {
       "nome_completo": "Joelson Sebastião Balejo de Arruda",
-      "nome_urna": "Tenete Balejo de Arruda",
+      "nome_urna": "Tenente Balejo de Arruda",
       "foto": "fotos_dc_brasil/FMS120002552951_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MS",
@@ -1433,7 +1433,7 @@
     },
     {
       "nome_completo": "Jenir Neves Silva",
-      "nome_urna": "Jenir Neves Silva",
+      "nome_urna": "Jenir Neves",
       "foto": "fotos_mdb_brasil/FMS120002544714_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MS",
@@ -4750,7 +4750,7 @@
     },
     {
       "nome_completo": "Roberto Hashioka Soler",
-      "nome_urna": "Hashioka",
+      "nome_urna": "Roberto Hashioka",
       "foto": "fotos_republicanos_brasil/FMS120002537363_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "MS",
@@ -5194,7 +5194,7 @@
     },
     {
       "nome_completo": "Juliana Aparecida Fleury Aranda",
-      "nome_urna": "Juliana Aranda do Ru Uniformes",
+      "nome_urna": "Juliana Aranda da Ru Uniformes",
       "foto": "fotos_uniao_brasil/FMS120002539690_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "MS",
@@ -5590,5 +5590,5 @@
       ]
     }
   ],
-  "hash": "738467230250"
+  "hash": "72ecc4a368f1"
 }

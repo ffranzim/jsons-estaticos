@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Raimundo Balbino de Albuquerque",
@@ -573,7 +573,7 @@
       "estado": "CE",
       "partido": {
         "sigla": "MDB",
-        "numero": 1513
+        "numero": 1531
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -2390,7 +2390,7 @@
     },
     {
       "nome_completo": "Boaz David de Lima Gino",
-      "nome_urna": "Boaz do Bolsonaro",
+      "nome_urna": "Boaz",
       "foto": "fotos_pl_brasil/FCE60002542841_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "CE",
@@ -2799,7 +2799,7 @@
     },
     {
       "nome_completo": "Jose Nilson Soares Frota Neto",
-      "nome_urna": "Frota Neto",
+      "nome_urna": "Pastor Frota",
       "foto": "fotos_pl_brasil/FCE60002542827_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "CE",
@@ -3650,7 +3650,7 @@
       "estado": "CE",
       "partido": {
         "sigla": "PODE",
-        "numero": 20116
+        "numero": 20000
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4055,7 +4055,7 @@
     },
     {
       "nome_completo": "Maria Nogueira Gomes",
-      "nome_urna": "Deusa do Cras",
+      "nome_urna": "Deusa Gomes",
       "foto": "fotos_prd_brasil/FCE60002532448_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "CE",
@@ -5031,7 +5031,7 @@
     },
     {
       "nome_completo": "Raimundo Gerson dos Santos Lima",
-      "nome_urna": "Sergento Gerson",
+      "nome_urna": "Sargento Gerson",
       "foto": "fotos_psdb_brasil/FCE60002541569_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "CE",
@@ -6191,7 +6191,7 @@
     },
     {
       "nome_completo": "Edilania Maria de Souza",
-      "nome_urna": "Prof. Edilane Souza",
+      "nome_urna": "Prof. Edilany Souza",
       "foto": "fotos_solidariedade_brasil/FCE60002532471_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "CE",
@@ -7422,5 +7422,5 @@
       "status_tse": "Deferido"
     }
   ],
-  "hash": "96c7478663d9"
+  "hash": "dd1a5677f654"
 }

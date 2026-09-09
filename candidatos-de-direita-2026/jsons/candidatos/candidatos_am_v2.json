@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Antônio José Fernandes Sá",
@@ -55,7 +55,7 @@
     },
     {
       "nome_completo": "João Fernandes de Azevedo",
-      "nome_urna": "Doutor João Fernandes",
+      "nome_urna": "Dr. João Fernandes",
       "foto": "fotos_agir_brasil/FAM40002536479_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -293,7 +293,7 @@
     },
     {
       "nome_completo": "Lúcio Moisés Santana Gusmão",
-      "nome_urna": "Moisés Gusmão",
+      "nome_urna": "Moisés das Ações",
       "foto": "fotos_agir_brasil/FAM40002536477_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -1794,7 +1794,7 @@
     },
     {
       "nome_completo": "Igor Felipe Oliveira Bezerra",
-      "nome_urna": "Igor Oliveira",
+      "nome_urna": "Professor Igor Oliveira",
       "foto": "fotos_mobiliza_brasil/FAM40002551739_div.jpg",
       "cargo_pleiteado": "Vice-Governador",
       "estado": "AM",
@@ -2457,7 +2457,7 @@
     },
     {
       "nome_completo": "Alessandro Bronze Toniza",
-      "nome_urna": "Alessandro Bronze",
+      "nome_urna": "Alessandro Toniza",
       "foto": "fotos_pl_brasil/FAM40002542688_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "AM",
@@ -3473,7 +3473,7 @@
     },
     {
       "nome_completo": "João Francisco de Miranda Soares",
-      "nome_urna": "Joãozinho Miranda",
+      "nome_urna": "Joãozinho  Miranda",
       "foto": "fotos_pode_brasil/FAM40002541615_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -3728,7 +3728,7 @@
     },
     {
       "nome_completo": "Moisés Loiola de Souza",
-      "nome_urna": "Sgt Loiola",
+      "nome_urna": "Sgt  Loiola",
       "foto": "fotos_pode_brasil/FAM40002541601_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -4103,7 +4103,7 @@
     },
     {
       "nome_completo": "Ayslan Christennes Carvalho Marques",
-      "nome_urna": "Delegado Ayslan Marques",
+      "nome_urna": "Delegado  Ayslan Marques",
       "foto": "fotos_psd_brasil/FAM40002532789_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -4188,7 +4188,7 @@
     },
     {
       "nome_completo": "Gracinete da Costa Souza",
-      "nome_urna": "Grazzy",
+      "nome_urna": "Enfermeira Grazzy",
       "foto": "fotos_psd_brasil/FAM40002532786_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -4410,7 +4410,7 @@
     },
     {
       "nome_completo": "Sidinei Tavares de Souza",
-      "nome_urna": "Sidinei Tavares",
+      "nome_urna": "Sidney Souza",
       "foto": "fotos_psd_brasil/FAM40002532783_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -4731,7 +4731,7 @@
     },
     {
       "nome_completo": "Gustavo Costa Morais",
-      "nome_urna": "Gustavo Morais",
+      "nome_urna": "Gustavo  Morais",
       "foto": "fotos_republicanos_brasil/FAM40002534372_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "AM",
@@ -5180,7 +5180,7 @@
     },
     {
       "nome_completo": "Will Robson Fontes Goiabeira",
-      "nome_urna": "Robson Goiabeira",
+      "nome_urna": "Goiabeira",
       "foto": "fotos_solidariedade_brasil/FAM40002549902_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "AM",
@@ -6027,5 +6027,5 @@
       ]
     }
   ],
-  "hash": "b6c4141d0113"
+  "hash": "ee1a56c9e460"
 }

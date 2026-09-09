@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Alessandra Oliveira da Conceição Ribeiro",
@@ -992,13 +992,13 @@
     },
     {
       "nome_completo": "Dinair Bernardo Pereira",
-      "nome_urna": "Dinair Bernardo",
+      "nome_urna": "Dinair Dino Rodas",
       "foto": "fotos_dc_brasil/FGO90002552475_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
       "partido": {
         "sigla": "DC",
-        "numero": 27800
+        "numero": 27300
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1468,7 +1468,7 @@
     },
     {
       "nome_completo": "Maruzan Marques de Jesus Ribeiro",
-      "nome_urna": "Sargento Maruzan",
+      "nome_urna": "Sargento  Maruzan",
       "foto": "fotos_dc_brasil/FGO90002552468_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -1536,7 +1536,7 @@
     },
     {
       "nome_completo": "Tacileide Aparecida Rodrigues de Lemos",
-      "nome_urna": "Tacileide Aparecida",
+      "nome_urna": "Tacileide Lemos",
       "foto": "fotos_dc_brasil/FGO90002552474_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -2318,7 +2318,7 @@
     },
     {
       "nome_completo": "Maria da Conceição Alves",
-      "nome_urna": "Conceição Alves",
+      "nome_urna": "Conceição do Entorno",
       "foto": "fotos_mdb_brasil/FGO90002546976_div.jpg",
       "cargo_pleiteado": "2º Suplente",
       "estado": "GO",
@@ -2952,13 +2952,13 @@
     },
     {
       "nome_completo": "Lorena Jardim Marques",
-      "nome_urna": "Sargenta Lorena",
+      "nome_urna": "Sargento Lorena",
       "foto": "fotos_mdb_brasil/FGO90002551488_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
       "partido": {
         "sigla": "MDB",
-        "numero": 15193
+        "numero": 15555
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3105,7 +3105,7 @@
     },
     {
       "nome_completo": "Ana Paula Alves de Oliveira Rezende",
-      "nome_urna": "Ana Paula Rezende",
+      "nome_urna": "Ana Paula do Aleomar",
       "foto": "fotos_mobiliza_brasil/FGO90002543135_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -4071,7 +4071,7 @@
     },
     {
       "nome_completo": "Elisson Fagner de Souza Lopes",
-      "nome_urna": "Fagner Skay",
+      "nome_urna": "Fagner Sky",
       "foto": "fotos_novo_brasil/FGO90002540934_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "GO",
@@ -4670,7 +4670,7 @@
     },
     {
       "nome_completo": "Paulo Vitor Gonçalves Marques",
-      "nome_urna": "Paulo Vitor Marques",
+      "nome_urna": "Pv Marques",
       "foto": "fotos_novo_brasil/FGO90002540978_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -5208,7 +5208,7 @@
     },
     {
       "nome_completo": "Celia Maria Duarte",
-      "nome_urna": "Célia Maria",
+      "nome_urna": "Celia Duarte",
       "foto": "fotos_pl_brasil/FGO90002543785_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -5289,7 +5289,7 @@
     },
     {
       "nome_completo": "Jean Carlos Ribeiro",
-      "nome_urna": "Dr. Jean Carlos",
+      "nome_urna": "Jean Carlos",
       "foto": "fotos_pl_brasil/FGO90002543769_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -5428,7 +5428,7 @@
     },
     {
       "nome_completo": "Eunice Gomes Bento Pereira dos Santos",
-      "nome_urna": "Eunice Gomes",
+      "nome_urna": "Eunice Bento",
       "foto": "fotos_pl_brasil/FGO90002543775_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -6721,7 +6721,7 @@
     },
     {
       "nome_completo": "Gislaine Silva Maia Ferreira",
-      "nome_urna": "Gislane Maia Correto",
+      "nome_urna": "Gislaine Maia",
       "foto": "fotos_pode_brasil/FGO90002537389_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "GO",
@@ -6825,7 +6825,7 @@
     },
     {
       "nome_completo": "Juscelio dos Santos",
-      "nome_urna": "Juscélio dos Santos",
+      "nome_urna": "Juscélio Santos",
       "foto": "fotos_pode_brasil/FGO90002537433_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -7165,13 +7165,13 @@
     },
     {
       "nome_completo": "Thumilla Batista de Carvalho",
-      "nome_urna": "Thumilla Carvalho",
+      "nome_urna": "Milla Carvalho",
       "foto": "fotos_pode_brasil/FGO90002538943_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
       "partido": {
         "sigla": "PODE",
-        "numero": 20159
+        "numero": 20001
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -7405,7 +7405,7 @@
     },
     {
       "nome_completo": "Luiz Fernando Naves Sanches de Siqueira",
-      "nome_urna": "Sanches da Federal",
+      "nome_urna": "Sanches",
       "foto": "fotos_pp_brasil/FGO90002543238_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "GO",
@@ -7697,7 +7697,7 @@
     },
     {
       "nome_completo": "Jhanecleia Leopoldina",
-      "nome_urna": "Jhanecleia Leopoldina",
+      "nome_urna": "Jhane Leopoldina",
       "foto": "fotos_prd_brasil/FGO90002548669_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -7936,7 +7936,7 @@
     },
     {
       "nome_completo": "Paulo Adriano Nunes Miranda",
-      "nome_urna": "Sub Tenente Paulo",
+      "nome_urna": "Paulo Miranda",
       "foto": "fotos_prd_brasil/FGO90002549169_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -9852,7 +9852,7 @@
     },
     {
       "nome_completo": "João da Costa Sobrinho",
-      "nome_urna": "João Costa Anápolis Diário",
+      "nome_urna": "João Costa Anápolis Solidário",
       "foto": "fotos_republicanos_brasil/FGO90002548077_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -10605,7 +10605,7 @@
     },
     {
       "nome_completo": "João Pedro Almeida Ribeiro",
-      "nome_urna": "Jp Almeidinha",
+      "nome_urna": "João Pedro Almeida",
       "foto": "fotos_solidariedade_brasil/FGO90002543563_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "GO",
@@ -10914,7 +10914,7 @@
     },
     {
       "nome_completo": "Rodolfo de Souza Silva",
-      "nome_urna": "Capitão Rodoldo Souza",
+      "nome_urna": "Capitão Rodolfo Souza",
       "foto": "fotos_uniao_brasil/FGO90002543250_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "GO",
@@ -10931,7 +10931,7 @@
     },
     {
       "nome_completo": "Caroline de Carlos Monteiro",
-      "nome_urna": "Caroline Monteiro",
+      "nome_urna": "Carol Monteiro",
       "foto": "fotos_uniao_brasil/FGO90002547007_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -11119,7 +11119,7 @@
     },
     {
       "nome_completo": "Gilda Andre da Silva",
-      "nome_urna": "Gilda André",
+      "nome_urna": "Missionária Gilda",
       "foto": "fotos_uniao_brasil/FGO90002547024_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -11313,7 +11313,7 @@
       "estado": "GO",
       "partido": {
         "sigla": "UNIÃO",
-        "numero": 44400
+        "numero": 44065
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -11341,7 +11341,7 @@
     },
     {
       "nome_completo": "Marciel Francisco da Silva",
-      "nome_urna": "Pastor Maciel Francisco",
+      "nome_urna": "Pr. Marciel Daqui",
       "foto": "fotos_uniao_brasil/FGO90002547023_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "GO",
@@ -11961,5 +11961,5 @@
       ]
     }
   ],
-  "hash": "6a2cfb32c667"
+  "hash": "534ee7c681ea"
 }

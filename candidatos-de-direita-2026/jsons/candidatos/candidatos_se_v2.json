@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:30+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Alessandra Regina Campos Ramos",
@@ -804,7 +804,7 @@
     },
     {
       "nome_completo": "Tatiana Cristina Santos de Jesus",
-      "nome_urna": "Taty Cristina de Jesus",
+      "nome_urna": "Taty  Cristina de Jesus",
       "foto": "fotos_dc_brasil/FSE260002550683_div.jpg",
       "cargo_pleiteado": "Governador",
       "estado": "SE",
@@ -2590,7 +2590,7 @@
     },
     {
       "nome_completo": "Maria Marcia dos Santos",
-      "nome_urna": "Maria Márcia",
+      "nome_urna": "Marcinha da Saúde",
       "foto": "fotos_pode_brasil/FSE260002550446_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SE",
@@ -2695,7 +2695,7 @@
     },
     {
       "nome_completo": "José Carlos Vieira",
-      "nome_urna": "Pr. Zé Carlos Viera",
+      "nome_urna": "Pr. Zé Carlos Vieira",
       "foto": "fotos_pode_brasil/FSE260002550442_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SE",
@@ -3172,7 +3172,7 @@
     },
     {
       "nome_completo": "Bruno Vasconcelos Souza",
-      "nome_urna": "Bruno Vasconcelos",
+      "nome_urna": "Bruno  Vasconcelos",
       "foto": "fotos_psd_brasil/FSE260002547479_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SE",
@@ -3189,7 +3189,7 @@
     },
     {
       "nome_completo": "Carlos Augusto Ferreira",
-      "nome_urna": "Carlinhos de Brejo Grande",
+      "nome_urna": "Carlinhos Ferreira",
       "foto": "fotos_psd_brasil/FSE260002547488_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "SE",
@@ -5134,5 +5134,5 @@
       ]
     }
   ],
-  "hash": "a8fa9d1f4241"
+  "hash": "736800197013"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:31+00:00",
-  "versao": 4,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
   "candidatos": [
     {
       "nome_completo": "Alexandre Mariano Lustosa",
@@ -78,7 +78,7 @@
       "estado": "PI",
       "partido": {
         "sigla": "AVANTE",
-        "numero": 7077
+        "numero": 7007
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -2779,7 +2779,7 @@
     },
     {
       "nome_completo": "Alexandre Campelo de Sousa",
-      "nome_urna": "Alexandre Campelo",
+      "nome_urna": "Alexandre Sousa",
       "foto": "fotos_pode_brasil/FPI180002541694_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "PI",
@@ -3195,7 +3195,7 @@
     },
     {
       "nome_completo": "Juraci Ribeiro Alberto",
-      "nome_urna": "Juraci Ribeiro",
+      "nome_urna": "Juraci do Piauí",
       "foto": "fotos_pp_brasil/FPI180002539025_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PI",
@@ -3923,7 +3923,7 @@
     },
     {
       "nome_completo": "Nemaura de Sousa Santos",
-      "nome_urna": "Neumara",
+      "nome_urna": "Nemaura Santos",
       "foto": "fotos_psdb_brasil/FPI180002552114_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PI",
@@ -4180,7 +4180,7 @@
     },
     {
       "nome_completo": "Ana Cristina Fernandes da Silva",
-      "nome_urna": "Ana Comboa",
+      "nome_urna": "Ana Camboa",
       "foto": "fotos_uniao_brasil/FPI180002539027_div.jpg",
       "cargo_pleiteado": "Deputado Estadual",
       "estado": "PI",
@@ -4592,5 +4592,5 @@
       ]
     }
   ],
-  "hash": "0b0c269d6926"
+  "hash": "d8d52450f70a"
 }

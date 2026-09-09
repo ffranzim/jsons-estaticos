@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-07T22:07:30+00:00",
-  "versao": 6,
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 7,
   "candidatos": [
     {
       "nome_completo": "Alexandre Nunes dos Santos",
@@ -21,7 +21,7 @@
     },
     {
       "nome_completo": "Thiago Luiz da Silva Melo",
-      "nome_urna": "2°sgt Thiago Melo",
+      "nome_urna": "Sgt Thiago Melo",
       "foto": "fotos_agir_brasil/FDF70002551324_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "DF",
@@ -1160,7 +1160,7 @@
     },
     {
       "nome_completo": "Willian Martins de Souza",
-      "nome_urna": "Professor William Comunidade",
+      "nome_urna": "Professor Willian Comunidade",
       "foto": "fotos_dc_brasil/FDF70002543441_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -1421,7 +1421,7 @@
       "estado": "DF",
       "partido": {
         "sigla": "DEMOCRATA",
-        "numero": 3500
+        "numero": 3555
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -1517,7 +1517,7 @@
     },
     {
       "nome_completo": "Antonia Angelica Neta",
-      "nome_urna": "Dra. Angélica",
+      "nome_urna": "Dra. Angélica Caraíba",
       "foto": "fotos_democrata_brasil/FDF70002546949_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -1602,7 +1602,7 @@
     },
     {
       "nome_completo": "Fernanda Silva Batista",
-      "nome_urna": "Fernanda Silva Batista",
+      "nome_urna": "Nanda Batista",
       "foto": "fotos_democrata_brasil/FDF70002546953_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -1738,7 +1738,7 @@
     },
     {
       "nome_completo": "Leandro Pereira Sanches Gomes",
-      "nome_urna": "Leandro Sanches",
+      "nome_urna": "Sanchez",
       "foto": "fotos_democrata_brasil/FDF70002546419_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "DF",
@@ -1823,7 +1823,7 @@
     },
     {
       "nome_completo": "Alanna Alves Amaral",
-      "nome_urna": "Pastora Alanna",
+      "nome_urna": "Pastora Allana",
       "foto": "fotos_democrata_brasil/FDF70002546962_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -1863,7 +1863,7 @@
       "estado": "DF",
       "partido": {
         "sigla": "DEMOCRATA",
-        "numero": 3555
+        "numero": 3500
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -2268,7 +2268,7 @@
     },
     {
       "nome_completo": "Marcos Antonio Nascimento de Abreu",
-      "nome_urna": "Marshall",
+      "nome_urna": "Marcos Marshal",
       "foto": "fotos_mdb_brasil/FDF70002542493_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -3884,7 +3884,7 @@
     },
     {
       "nome_completo": "Wilker Leão de Sá",
-      "nome_urna": "Wilker Sá",
+      "nome_urna": "Wilker Leão",
       "foto": "fotos_novo_brasil/FDF70002532006_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "DF",
@@ -4398,7 +4398,7 @@
     },
     {
       "nome_completo": "Kellen Margareth Peres Pamplona Guerra",
-      "nome_urna": "Kellen Guerra",
+      "nome_urna": "Dra. Kellen Guerra",
       "foto": "fotos_pl_brasil/FDF70002550013_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -4817,7 +4817,7 @@
     },
     {
       "nome_completo": "Alessandro Goncalves de Almeida",
-      "nome_urna": "Alessandro Bolsonaro",
+      "nome_urna": "Alessandro Mito",
       "foto": "fotos_pode_brasil/FDF70002541279_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -6173,7 +6173,7 @@
     },
     {
       "nome_completo": "Joao Luiz Arantes de Freitas",
-      "nome_urna": "João Luiz",
+      "nome_urna": "Dr. João Luiz",
       "foto": "fotos_psd_brasil/FDF70002537011_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "DF",
@@ -6224,7 +6224,7 @@
     },
     {
       "nome_completo": "Maria de Lourdes Abadia",
-      "nome_urna": "Maria Abadia",
+      "nome_urna": "Abadia",
       "foto": "fotos_psd_brasil/FDF70002537009_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "DF",
@@ -7401,7 +7401,7 @@
     },
     {
       "nome_completo": "Gilvam Maximo",
-      "nome_urna": "Gilvam Máximo",
+      "nome_urna": "Gilvan Patrulha do Consumidor",
       "foto": "fotos_republicanos_brasil/FDF70002538523_div.jpg",
       "cargo_pleiteado": "Deputado Federal",
       "estado": "DF",
@@ -7663,7 +7663,7 @@
     },
     {
       "nome_completo": "Renata Mesquita D Aguiar",
-      "nome_urna": "Renata D Aguiar",
+      "nome_urna": "Renata Daguiar",
       "foto": "fotos_republicanos_brasil/FDF70002540824_div.jpg",
       "cargo_pleiteado": "Deputado Distrital",
       "estado": "DF",
@@ -7941,7 +7941,7 @@
       "estado": "DF",
       "partido": {
         "sigla": "SOLIDARIEDADE",
-        "numero": 7717
+        "numero": 7777
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -8705,5 +8705,5 @@
       ]
     }
   ],
-  "hash": "9dbb9c1af740"
+  "hash": "642bd2f55cd9"
 }
