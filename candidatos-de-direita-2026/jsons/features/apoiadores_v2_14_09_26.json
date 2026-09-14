@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-14T20:47:31+00:00",
-  "versao": 6,
-  "hash": "4692d75a403e",
+  "gerado_em": "2026-09-09T20:11:13+00:00",
+  "versao": 5,
+  "hash": "00ee8866c108",
   "apoiadores": [
     {
       "id": "app",
@@ -1156,16 +1156,6 @@
             "numero": 22110,
             "nome": "Felipe Sertanejo"
           }
-        ],
-        "es": [
-          {
-            "numero": 100,
-            "nome": "Evair de Melo"
-          },
-          {
-            "numero": 222,
-            "nome": "Maguinha Malta"
-          }
         ]
       }
     },
@@ -1659,36 +1649,10 @@
       "descricao": "Candidato a Deputado Federal - SP",
       "foto": "images/candidatos_pl/FSP250002535995_div.jpg",
       "apoiados": {
-        "br": [
-          {
-            "numero": 22,
-            "nome": "Flavio Bolsonaro"
-          }
-        ],
         "sp": [
-          {
-            "numero": 10,
-            "nome": "Tarcísio"
-          },
-          {
-            "numero": 111,
-            "nome": "Guilherme Derrite"
-          },
-          {
-            "numero": 222,
-            "nome": "André do Prado"
-          },
           {
             "numero": 2211,
             "nome": "Lucas Pavanato"
-          },
-          {
-            "numero": 22011,
-            "nome": "Eduarda Campopiano"
-          },
-          {
-            "numero": 22110,
-            "nome": "Felipe Sertanejo"
           }
         ]
       }
@@ -1703,22 +1667,6 @@
           {
             "numero": 3007,
             "nome": "Marina Helena"
-          },
-          {
-            "numero": 30007,
-            "nome": "Carlo Cauti"
-          },
-          {
-            "numero": 30777,
-            "nome": "Catharina Donato"
-          },
-          {
-            "numero": 30030,
-            "nome": "Monica Cury"
-          },
-          {
-            "numero": 30153,
-            "nome": "Pedro Lima"
           }
         ]
       }

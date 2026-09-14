@@ -1,0 +1,135 @@
+AUDITORIA TSE x JSONs — candidatos-de-direita-2026
+Gerado em: 2026-09-12 (revisado após checagem cruzada com excluidos_candidatos.json)
+Fonte oficial: TSE DivulgaCandContas (eleição 2026, id 20322002026)
+Pasta auditada: jsons-estaticos/candidatos-de-direita-2026/jsons/candidatos/
+  (candidatos_<uf>_v2.json + excluidos_candidatos.json)
+
+ESCOPO DESTA AUDITORIA
+-----------------------
+Cargos verificados, nos 27 estados + chapa nacional (BR):
+  - Governador, Vice-Governador, Senador, Presidente / Vice-Presidente
+
+Cargos AINDA NÃO verificados (fora do escopo desta rodada, por serem MUITO maiores):
+  - Deputado Federal (5.177 candidatos), Deputado Estadual/Distrital (8.332 candidatos),
+    1º e 2º Suplentes de Senador
+
+IMPORTANTE — CORREÇÃO DE MÉTODO: a primeira versão deste arquivo comparou o TSE só contra a
+whitelist de partidos de direita (AGIR, AVANTE, CIDADANIA, DC, DEMOCRATA, MDB, MOBILIZA, NOVO,
+PL, PODE, PP, PRD, PRTB, PSD, PSDB, REPUBLICANOS, SOLIDARIEDADE, UNIÃO) e apontou 38 candidatos
+"faltando". Isso estava errado: 36 desses 38 já estavam no excluidos_candidatos.json, excluídos
+de propósito pelo Hub Político (candidato de partido nominalmente "de direita" mas classificado
+individualmente como centro/centro-esquerda, ou com apoio ao Lula, ou condenado por corrupção).
+Esta versão já cruza os candidatos do TSE contra os DOIS arquivos (candidatos_*.json E
+excluidos_candidatos.json) antes de considerar alguém "faltando" de verdade.
+
+
+1) CANDIDATOS REALMENTE FALTANDO (não estão nem em candidatos_*.json nem em excluidos_candidatos.json)
+-------------------------------------------------------------------------------------------
+Total: 0
+
+Nenhum candidato de Governador/Vice-Governador/Senador/Presidente/Vice-Presidente, de partido
+da whitelist de direita, ficou de fora dos dois arquivos. Os JSONs (somados aos excluídos) estão
+completos para esses cargos.
+
+
+2) CANDIDATOS QUE CAÍRAM NA WHITELIST DE PARTIDO MAS FORAM CORRETAMENTE EXCLUÍDOS PELO HUB POLÍTICO
+-------------------------------------------------------------------------------------------
+Total: 36 — listados aqui só para registro/transparência, não precisam de nenhuma ação:
+
+AL | Governador      | Renan Filho (MDB, nº15)            -> centro
+AL | Senador         | Dr. Wanderley (MDB, nº156)          -> centro
+AL | Senador         | Renan (MDB, nº151)                  -> centro
+AM | Governador      | David Almeida (AVANTE, nº70)        -> centro
+AM | Governador      | Omar Aziz (PSD, nº55)               -> Apoio ao Lula; centro
+AM | Vice-Governador | Alessandra Campelo (PSD, nº55)       -> Apoio ao Lula
+AP | Governador      | Clécio (UNIÃO, nº44)                -> centro
+AP | Senador         | Acácio Favacho (MDB, nº151)          -> centro
+DF | Governador      | Arruda (PSD, nº55)                   -> Condenado por corrupção
+DF | Governador      | Paula Belmonte (PSDB, nº45)          -> centro
+ES | Senador         | Rose de Freitas (MDB, nº156)         -> centro
+MA | Senador         | Roseana Sarney (MDB, nº151)          -> centro
+MG | Governador      | Gabriel (MDB, nº15)                  -> centro
+MT | Governador      | Doutora Natasha (PSD, nº55)          -> Apoio ao Lula
+MT | Senador         | Fávaro (PSD, nº555)                  -> centro
+MT | Senador         | Janaina Riva (MDB, nº150)             -> centro
+PB | Senador         | Veneziano (MDB, nº155)               -> centro
+PE | Senador         | Túlio Gadêlha (PSD, nº555)           -> centro-esquerda
+PI | Senador         | Julio Cesar (PSD, nº555)             -> Apoio ao Lula; centro
+PI | Senador         | Marcelo Castro (MDB, nº151)           -> centro
+PR | Governador      | Sandro Alex (PSD, nº55)               -> centro
+RJ | Governador      | Eduardo Paes (PSD, nº55)              -> Apoio ao Lula; centro
+RJ | Governador      | Garotinho (REPUBLICANOS, nº10)        -> Condenado por corrupção
+RN | Senador         | Zenaide Maia (PSD, nº555)             -> centro
+RO | Governador      | Adailton Furia (PSD, nº55)            -> centro
+RR | Senador         | Helena da Asatur (PSD, nº555)         -> centro
+RR | Senador         | Teresa Surita (MDB, nº155)            -> centro
+RS | Governador      | Marcelo Maranata (PSDB, nº45)         -> centro-esquerda
+SC | Senador         | Lunelli (MDB, nº155)                  -> centro
+SE | Governador      | Fábio (PSD, nº55)                     -> Apoio ao Lula; centro
+SE | Vice-Governador | Jeferson Andrade (PSD, nº55)           -> Apoio ao Lula
+SE | Senador         | Delegado Alessandro (MDB, nº155)       -> centro
+SP | Senador         | Soninha Francine (CIDADANIA, nº232)    -> Se declara de centro-esquerda
+TO | Governador      | Laurez Moreira (PSD, nº55)             -> Apoio ao Lula
+TO | Vice-Governador | Coronel Silva Neto (PSD, nº55)         -> Apoio ao Lula
+TO | Senador         | Vanderlei Luxemburgo (PODE, nº200)     -> Afirma origem/ideologia de esquerda
+
+Ou seja: o filtro por sigla de partido sozinho não é suficiente para decidir quem "deveria"
+estar em candidatos_*.json — o Hub Político já faz essa triagem individual corretamente para
+esses 36 casos.
+
+
+3) DADOS PROVAVELMENTE ERRADOS
+-------------------------------------------------------------------------------------------
+a) Número de urna errado (alta confiança):
+   TO | Senador | O JSON local (candidatos_to_v2.json) tem "Coronel Nilton Santos" com nº303
+                  (NOVO), mas o TSE registra esse candidato como nº300 (NOVO). Não está nos
+                  excluídos também com nenhum dos dois números — ou seja, o candidato existe
+                  no arquivo certo, só com o número errado.
+                  -> Recomenda-se corrigir 303 para 300 em candidatos_to_v2.json.
+
+b) Anomalias observadas na própria base do TSE (não é erro do seu JSON — o TSE está
+   retornando dois candidatos diferentes com o MESMO número, no mesmo cargo/estado;
+   provavelmente candidaturas substituídas/impugnadas que ainda não foram removidas da
+   listagem pública). Nenhuma ação foi tomada automaticamente nesses casos:
+   BA | Governador       | nº27 (DC) -> "Ariel Capistrano" e "Estêvão"
+   BA | Vice-Governador  | nº27 (DC) -> "Neuzimar Camacam" e "Zé Augusto"
+   CE | Governador       | nº30 (NOVO) -> "Pedro Brito" e "Vera Lúcia"
+   CE | Vice-Governador  | nº30 (NOVO) -> "Cap. Amilton Gomes" e "Vera Lúcia"
+   MS | Vice-Governador  | nº27 (DC) -> "Roberto Patzlaff" e "Thiago Martins"
+   MT | Governador       | nº36 (AGIR) -> "Sargento Laudicério" e "Sargento Laudicério (Lau)" (provável duplicata)
+   PA | Governador       | nº16 (PSTU) -> "Cleber Rabelo" e "Well Macedo"  [PSTU fora da whitelist, só registrando]
+   PA | Vice-Governador  | nº16 (PSTU) -> "Seu Alex" e "Well Macedo"
+   PA | Senador          | nº277 (DC) -> "Coronel Jonildo" e "Willem da Silva"
+   PI | Senador          | nº700 (AVANTE) -> "Alexandre Mariano" e "Antônio José Lira"
+   RJ | Vice-Governador  | nº10 (DEMOCRATA) -> "André Monteiro" e "Major Elaine"
+   RJ | Senador          | nº350 (DEMOCRATA) -> "André Monteiro" e "Comandante Ribeiro Afonso"
+   SE | Vice-Governador  | nº22 (PL) -> "Erico Menezes" e "Pastora Salete"
+   SP | Vice-Governador  | nº80 (UP) -> "Cris Damasio" e "Marcelo Pereira"  [UP fora da whitelist]
+   SP | Vice-Governador  | nº36 (AGIR) -> "Professora Nayr Duarte" e "Renata Bolsonaro"
+
+   Se algum desses partidos/estados for prioridade, recomenda-se checar manualmente na página
+   pública do TSE (divulgacandcontas.tse.jus.br) qual candidatura está realmente ativa.
+
+
+4) CANDIDATOS SOBRANDO (estão em candidatos_*.json mas não foram encontrados no TSE atual)
+-------------------------------------------------------------------------------------------
+Total: 0 confirmados (o único candidato inicialmente sinalizado era o próprio "Coronel Nilton
+Santos" do item 3a, com número trocado — não é um candidato inexistente).
+
+
+5) SITUAÇÃO "AGUARDANDO JULGAMENTO"
+-------------------------------------------------------------------------------------------
+Como não sobrou nenhum candidato "faltando" de verdade neste escopo (Governador/Vice/Senador/
+Presidente), não há candidatos aguardando julgamento a adicionar nesta rodada. Se quiser, posso
+checar a situação exata (Deferido / Deferido com recurso / Aguardando julgamento) de cada
+candidato já presente nos JSONs que ainda não tem o campo status_tse preenchido.
+
+
+6) LIMITAÇÕES / PRÓXIMOS PASSOS SUGERIDOS
+-------------------------------------------------------------------------------------------
+- Esta auditoria cobriu Governador, Vice-Governador, Senador e Presidente/Vice-Presidente.
+  Deputado Federal e Deputado Estadual/Distrital NÃO foram auditados: juntos somam mais de
+  13.000 candidatos nos 27 estados. Se quiser essa parte também, dá pra fazer em lotes por
+  estado, mas o volume de chamadas ao TSE é bem maior que o desta rodada.
+- Única correção sugerida por esta auditoria: número de urna do "Coronel Nilton Santos" em
+  candidatos_to_v2.json (303 -> 300).
