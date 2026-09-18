@@ -1,10 +1,10 @@
 {
-  "versao": 4,
-  "hash": "06a5c853f046",
-  "data": "2026-09-17",
-  "gerado_em": "2026-09-18T01:47:29+00:00",
+  "versao": 3,
+  "hash": "431ed9521461",
+  "data": "2026-09-14",
+  "gerado_em": "2026-09-14T20:33:06+00:00",
   "fonte": "https://agregadordepesquisas.tech/estados?cargo=sen",
-  "extraidoEm": "2026-09-17",
+  "extraidoEm": "2026-09-14",
   "estados": {
     "SP": {
       "uf": "SP",
@@ -15,74 +15,74 @@
         {
           "candidato": "Simone Tebet",
           "partido": "PSB",
-          "amostraTotal": "18,8%",
-          "votosValidos": "21,5%",
-          "dispersao": "12,3% – 25,3%",
-          "ajustadoPreditor": "22,5%",
-          "chanceVaga": "62,1%"
+          "amostraTotal": "18,0%",
+          "votosValidos": "20,5%",
+          "dispersao": "11,1% – 24,9%",
+          "ajustadoPreditor": "21,3%",
+          "chanceVaga": "58,5%"
         },
         {
           "candidato": "Guilherme Derrite",
           "partido": "PP",
           "amostraTotal": "17,6%",
-          "votosValidos": "20,0%",
+          "votosValidos": "20,1%",
           "dispersao": "10,3% – 25,0%",
-          "ajustadoPreditor": "21,4%",
-          "chanceVaga": "52,5%"
+          "ajustadoPreditor": "20,9%",
+          "chanceVaga": "55,1%"
         },
         {
           "candidato": "Marina Silva",
           "partido": "REDE",
-          "amostraTotal": "17,5%",
-          "votosValidos": "19,9%",
-          "dispersao": "10,2% – 24,7%",
-          "ajustadoPreditor": "21,2%",
-          "chanceVaga": "51,3%"
+          "amostraTotal": "17,3%",
+          "votosValidos": "19,8%",
+          "dispersao": "9,9% – 24,6%",
+          "ajustadoPreditor": "20,6%",
+          "chanceVaga": "53,0%"
         },
         {
           "candidato": "André do Prado",
           "partido": "PL",
-          "amostraTotal": "14,2%",
-          "votosValidos": "16,6%",
-          "dispersao": "10,0% – 18,5%",
-          "ajustadoPreditor": "18,0%",
-          "chanceVaga": "26,2%"
+          "amostraTotal": "13,8%",
+          "votosValidos": "16,2%",
+          "dispersao": "9,4% – 18,3%",
+          "ajustadoPreditor": "17,1%",
+          "chanceVaga": "25,5%"
         },
         {
           "candidato": "Salles",
           "partido": "NOVO",
-          "amostraTotal": "8,8%",
-          "votosValidos": "9,3%",
-          "dispersao": "3,3% – 14,2%",
-          "ajustadoPreditor": "12,5%",
-          "chanceVaga": "5,5%"
+          "amostraTotal": "9,2%",
+          "votosValidos": "9,9%",
+          "dispersao": "4,1% – 14,2%",
+          "ajustadoPreditor": "12,4%",
+          "chanceVaga": "6,3%"
         },
         {
           "candidato": "Soninha Francine",
           "partido": "CIDADANIA",
-          "amostraTotal": "2,9%",
-          "votosValidos": "3,1%",
-          "dispersao": "1,2% – 4,6%",
-          "ajustadoPreditor": "6,6%",
-          "chanceVaga": "0,4%"
+          "amostraTotal": "3,1%",
+          "votosValidos": "3,4%",
+          "dispersao": "1,5% – 4,6%",
+          "ajustadoPreditor": "6,3%",
+          "chanceVaga": "0,5%"
         },
         {
           "candidato": "Geraldo Rufino",
           "partido": "PODE",
-          "amostraTotal": "2,6%",
-          "votosValidos": "3,1%",
-          "dispersao": "1,6% – 3,6%",
-          "ajustadoPreditor": "6,6%",
-          "chanceVaga": "0,5%"
+          "amostraTotal": "2,7%",
+          "votosValidos": "3,2%",
+          "dispersao": "1,7% – 3,7%",
+          "ajustadoPreditor": "6,0%",
+          "chanceVaga": "0,3%"
         },
         {
           "candidato": "Dra Eliana Ferreira",
           "partido": "PSTU",
           "amostraTotal": "1,6%",
-          "votosValidos": "2,1%",
+          "votosValidos": "2,2%",
           "dispersao": "1,0% – 2,3%",
-          "ajustadoPreditor": "5,6%",
-          "chanceVaga": "0,3%"
+          "ajustadoPreditor": "5,0%",
+          "chanceVaga": "—"
         }
       ]
     },
@@ -95,65 +95,65 @@
         {
           "candidato": "Marília Campos",
           "partido": "PT",
-          "amostraTotal": "17,5%",
-          "votosValidos": "25,9%",
-          "dispersao": "14,3% – 20,8%",
-          "ajustadoPreditor": "21,3%",
-          "chanceVaga": "80,2%"
+          "amostraTotal": "15,5%",
+          "votosValidos": "23,5%",
+          "dispersao": "11,4% – 19,6%",
+          "ajustadoPreditor": "18,7%",
+          "chanceVaga": "74,0%"
         },
         {
           "candidato": "Aécio Neves",
           "partido": "PSDB",
-          "amostraTotal": "12,4%",
-          "votosValidos": "18,6%",
-          "dispersao": "10,8% – 14,1%",
-          "ajustadoPreditor": "16,2%",
-          "chanceVaga": "43,3%"
+          "amostraTotal": "11,4%",
+          "votosValidos": "17,6%",
+          "dispersao": "9,5% – 13,3%",
+          "ajustadoPreditor": "14,7%",
+          "chanceVaga": "42,5%"
         },
         {
           "candidato": "Carlos Viana",
           "partido": "PSD",
-          "amostraTotal": "11,1%",
-          "votosValidos": "16,5%",
-          "dispersao": "9,0% – 13,3%",
-          "ajustadoPreditor": "14,9%",
-          "chanceVaga": "33,3%"
+          "amostraTotal": "10,4%",
+          "votosValidos": "15,9%",
+          "dispersao": "8,4% – 12,5%",
+          "ajustadoPreditor": "13,7%",
+          "chanceVaga": "34,1%"
         },
         {
           "candidato": "Domingos Sávio",
           "partido": "PL",
-          "amostraTotal": "10,2%",
-          "votosValidos": "14,7%",
-          "dispersao": "6,9% – 13,4%",
-          "ajustadoPreditor": "14,0%",
-          "chanceVaga": "27,1%"
+          "amostraTotal": "9,5%",
+          "votosValidos": "14,0%",
+          "dispersao": "6,1% – 12,9%",
+          "ajustadoPreditor": "12,8%",
+          "chanceVaga": "27,0%"
         },
         {
           "candidato": "Marcelo Aro",
           "partido": "PP",
           "amostraTotal": "6,5%",
-          "votosValidos": "9,3%",
+          "votosValidos": "9,6%",
           "dispersao": "4,4% – 8,5%",
-          "ajustadoPreditor": "10,2%",
-          "chanceVaga": "9,9%"
+          "ajustadoPreditor": "9,7%",
+          "chanceVaga": "12,1%"
         },
         {
           "candidato": "Áurea Carolina",
           "partido": "PSOL",
-          "amostraTotal": "3,1%",
-          "votosValidos": "4,3%",
-          "dispersao": "0,9% – 5,3%",
-          "ajustadoPreditor": "6,9%",
-          "chanceVaga": "3,3%"
+          "amostraTotal": "3,8%",
+          "votosValidos": "5,4%",
+          "dispersao": "2,0% – 5,5%",
+          "ajustadoPreditor": "7,0%",
+          "chanceVaga": "4,9%"
         },
         {
           "candidato": "Marco Antônio Superman",
           "partido": "NOVO",
-          "amostraTotal": "2,8%",
-          "votosValidos": "3,6%",
-          "dispersao": "0,4% – 5,2%",
-          "ajustadoPreditor": "6,6%",
-          "chanceVaga": "3,0%"
+          "amostraTotal": "3,1%",
+          "votosValidos": "4,3%",
+          "dispersao": "0,9% – 5,3%",
+          "ajustadoPreditor": "6,3%",
+          "chanceVaga": "3,7%"
         },
         {
           "candidato": "Ana Luiza do Mlb",
@@ -178,8 +178,8 @@
           "amostraTotal": "17,8%",
           "votosValidos": "21,8%",
           "dispersao": "11,0% – 24,5%",
-          "ajustadoPreditor": "21,1%",
-          "chanceVaga": "73,9%"
+          "ajustadoPreditor": "21,0%",
+          "chanceVaga": "74,5%"
         },
         {
           "candidato": "Marcelo Crivella",
@@ -187,8 +187,8 @@
           "amostraTotal": "12,9%",
           "votosValidos": "15,4%",
           "dispersao": "8,2% – 17,7%",
-          "ajustadoPreditor": "16,3%",
-          "chanceVaga": "37,9%"
+          "ajustadoPreditor": "16,2%",
+          "chanceVaga": "37,6%"
         },
         {
           "candidato": "Carlos Jordy",
@@ -196,8 +196,8 @@
           "amostraTotal": "11,6%",
           "votosValidos": "14,1%",
           "dispersao": "8,0% – 15,2%",
-          "ajustadoPreditor": "14,9%",
-          "chanceVaga": "27,7%"
+          "ajustadoPreditor": "14,8%",
+          "chanceVaga": "28,3%"
         },
         {
           "candidato": "Pedro Paulo",
@@ -205,8 +205,8 @@
           "amostraTotal": "11,3%",
           "votosValidos": "13,1%",
           "dispersao": "6,7% – 15,9%",
-          "ajustadoPreditor": "14,6%",
-          "chanceVaga": "26,4%"
+          "ajustadoPreditor": "14,5%",
+          "chanceVaga": "26,0%"
         },
         {
           "candidato": "Carlos Portinho",
@@ -214,8 +214,8 @@
           "amostraTotal": "9,3%",
           "votosValidos": "11,4%",
           "dispersao": "6,7% – 12,0%",
-          "ajustadoPreditor": "12,7%",
-          "chanceVaga": "16,5%"
+          "ajustadoPreditor": "12,6%",
+          "chanceVaga": "15,7%"
         },
         {
           "candidato": "Monica Benicio",
@@ -232,8 +232,8 @@
           "amostraTotal": "5,3%",
           "votosValidos": "6,1%",
           "dispersao": "2,8% – 7,8%",
-          "ajustadoPreditor": "8,6%",
-          "chanceVaga": "4,3%"
+          "ajustadoPreditor": "8,5%",
+          "chanceVaga": "4,6%"
         },
         {
           "candidato": "Marcos Dias",
@@ -241,7 +241,7 @@
           "amostraTotal": "2,3%",
           "votosValidos": "2,6%",
           "dispersao": "1,1% – 3,6%",
-          "ajustadoPreditor": "5,7%",
+          "ajustadoPreditor": "5,6%",
           "chanceVaga": "1,5%"
         }
       ]
@@ -268,7 +268,7 @@
           "votosValidos": "13,7%",
           "dispersao": "10,9% – 13,4%",
           "ajustadoPreditor": "15,3%",
-          "chanceVaga": "34,2%"
+          "chanceVaga": "34,0%"
         },
         {
           "candidato": "Rose de Freitas",
@@ -286,7 +286,7 @@
           "votosValidos": "10,2%",
           "dispersao": "9,0% – 9,0%",
           "ajustadoPreditor": "12,2%",
-          "chanceVaga": "15,4%"
+          "chanceVaga": "15,2%"
         },
         {
           "candidato": "Maguinha Malta",
@@ -295,7 +295,7 @@
           "votosValidos": "9,5%",
           "dispersao": "7,4% – 9,6%",
           "ajustadoPreditor": "11,7%",
-          "chanceVaga": "13,6%"
+          "chanceVaga": "13,7%"
         },
         {
           "candidato": "Evair de Melo",
@@ -304,7 +304,7 @@
           "votosValidos": "8,5%",
           "dispersao": "5,9% – 9,3%",
           "ajustadoPreditor": "10,8%",
-          "chanceVaga": "10,3%"
+          "chanceVaga": "10,5%"
         },
         {
           "candidato": "Marcos do Val",
@@ -313,16 +313,16 @@
           "votosValidos": "4,9%",
           "dispersao": "3,5% – 5,2%",
           "ajustadoPreditor": "7,5%",
-          "chanceVaga": "3,6%"
+          "chanceVaga": "3,9%"
         },
         {
-          "candidato": "Professor Fabian",
-          "partido": "PSOL",
+          "candidato": "Rodney Miranda",
+          "partido": "PRTB",
           "amostraTotal": "2,8%",
           "votosValidos": "3,2%",
           "dispersao": "2,5% – 3,2%",
           "ajustadoPreditor": "6,0%",
-          "chanceVaga": "2,0%"
+          "chanceVaga": "2,2%"
         }
       ]
     },
@@ -410,52 +410,52 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "eleitores": "7,2 mi",
-      "pesquisas": 11,
+      "pesquisas": 10,
       "candidatos": [
         {
           "candidato": "Marília Arraes",
           "partido": "PDT",
-          "amostraTotal": "22,1%",
-          "votosValidos": "29,0%",
-          "dispersao": "16,8% – 27,4%",
-          "ajustadoPreditor": "25,8%",
-          "chanceVaga": "85,3%"
+          "amostraTotal": "20,2%",
+          "votosValidos": "29,2%",
+          "dispersao": "14,9% – 25,5%",
+          "ajustadoPreditor": "23,4%",
+          "chanceVaga": "86,8%"
         },
         {
           "candidato": "Humberto Costa",
           "partido": "PT",
-          "amostraTotal": "17,1%",
-          "votosValidos": "22,8%",
-          "dispersao": "14,4% – 19,7%",
-          "ajustadoPreditor": "20,8%",
-          "chanceVaga": "54,1%"
+          "amostraTotal": "15,9%",
+          "votosValidos": "23,4%",
+          "dispersao": "13,7% – 18,1%",
+          "ajustadoPreditor": "19,1%",
+          "chanceVaga": "58,4%"
         },
         {
           "candidato": "Mendonça Filho",
           "partido": "PL",
-          "amostraTotal": "15,8%",
-          "votosValidos": "20,3%",
-          "dispersao": "11,0% – 20,5%",
-          "ajustadoPreditor": "19,4%",
-          "chanceVaga": "41,8%"
+          "amostraTotal": "13,4%",
+          "votosValidos": "19,2%",
+          "dispersao": "9,7% – 17,2%",
+          "ajustadoPreditor": "16,7%",
+          "chanceVaga": "35,9%"
         },
         {
           "candidato": "Eduardo da Fonte",
           "partido": "PP",
-          "amostraTotal": "10,7%",
-          "votosValidos": "13,9%",
-          "dispersao": "8,1% – 13,2%",
-          "ajustadoPreditor": "14,3%",
-          "chanceVaga": "12,4%"
+          "amostraTotal": "9,6%",
+          "votosValidos": "13,8%",
+          "dispersao": "7,2% – 12,1%",
+          "ajustadoPreditor": "12,9%",
+          "chanceVaga": "13,5%"
         },
         {
           "candidato": "Túlio Gadêlha",
           "partido": "PSD",
-          "amostraTotal": "7,7%",
-          "votosValidos": "9,5%",
-          "dispersao": "4,2% – 11,2%",
-          "ajustadoPreditor": "11,3%",
-          "chanceVaga": "5,1%"
+          "amostraTotal": "6,3%",
+          "votosValidos": "8,6%",
+          "dispersao": "3,0% – 9,6%",
+          "ajustadoPreditor": "9,6%",
+          "chanceVaga": "4,2%"
         },
         {
           "candidato": "Pastor Gilvan Costa",
@@ -463,7 +463,7 @@
           "amostraTotal": "1,5%",
           "votosValidos": "2,4%",
           "dispersao": "1,0% – 2,0%",
-          "ajustadoPreditor": "5,6%",
+          "ajustadoPreditor": "4,8%",
           "chanceVaga": "0,4%"
         },
         {
@@ -472,16 +472,16 @@
           "amostraTotal": "1,5%",
           "votosValidos": "2,4%",
           "dispersao": "1,0% – 2,0%",
-          "ajustadoPreditor": "5,6%",
-          "chanceVaga": "0,5%"
+          "ajustadoPreditor": "4,8%",
+          "chanceVaga": "0,4%"
         },
         {
           "candidato": "Paulo Rubem Santiago",
           "partido": "REDE",
-          "amostraTotal": "0,8%",
-          "votosValidos": "1,1%",
-          "dispersao": "0,4% – 1,2%",
-          "ajustadoPreditor": "4,5%",
+          "amostraTotal": "0,7%",
+          "votosValidos": "1,0%",
+          "dispersao": "0,3% – 1,2%",
+          "ajustadoPreditor": "4,0%",
           "chanceVaga": "0,4%"
         }
       ]
@@ -495,38 +495,38 @@
         {
           "candidato": "Cid Gomes",
           "partido": "PSB",
-          "amostraTotal": "26,2%",
+          "amostraTotal": "25,4%",
           "votosValidos": "31,5%",
-          "dispersao": "24,5% – 27,9%",
-          "ajustadoPreditor": "29,6%",
-          "chanceVaga": "89,7%"
+          "dispersao": "23,9% – 26,9%",
+          "ajustadoPreditor": "28,5%",
+          "chanceVaga": "90,5%"
         },
         {
           "candidato": "Capitão Wagner",
           "partido": "UNIÃO",
-          "amostraTotal": "21,0%",
+          "amostraTotal": "20,4%",
           "votosValidos": "25,4%",
-          "dispersao": "20,1% – 22,0%",
-          "ajustadoPreditor": "24,4%",
-          "chanceVaga": "59,0%"
+          "dispersao": "19,3% – 21,4%",
+          "ajustadoPreditor": "23,4%",
+          "chanceVaga": "60,3%"
         },
         {
           "candidato": "Luizianne",
           "partido": "REDE",
-          "amostraTotal": "19,5%",
+          "amostraTotal": "18,8%",
           "votosValidos": "22,8%",
-          "dispersao": "14,1% – 24,9%",
-          "ajustadoPreditor": "22,9%",
-          "chanceVaga": "44,0%"
+          "dispersao": "14,4% – 23,1%",
+          "ajustadoPreditor": "21,8%",
+          "chanceVaga": "42,7%"
         },
         {
           "candidato": "Alcides Fernandes",
           "partido": "PL",
-          "amostraTotal": "12,9%",
+          "amostraTotal": "12,4%",
           "votosValidos": "14,7%",
-          "dispersao": "7,5% – 18,2%",
-          "ajustadoPreditor": "16,3%",
-          "chanceVaga": "7,2%"
+          "dispersao": "7,4% – 17,3%",
+          "ajustadoPreditor": "15,4%",
+          "chanceVaga": "6,4%"
         },
         {
           "candidato": "Guilherme Theophilo",
@@ -534,25 +534,25 @@
           "amostraTotal": "2,7%",
           "votosValidos": "3,2%",
           "dispersao": "0,9% – 4,4%",
-          "ajustadoPreditor": "6,1%",
+          "ajustadoPreditor": "5,7%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Catarina Matos",
           "partido": "UP",
-          "amostraTotal": "1,9%",
+          "amostraTotal": "1,7%",
           "votosValidos": "2,2%",
-          "dispersao": "1,1% – 2,6%",
-          "ajustadoPreditor": "5,4%",
+          "dispersao": "1,1% – 2,4%",
+          "ajustadoPreditor": "4,7%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Reginaldo",
           "partido": "PSTU",
-          "amostraTotal": "1,1%",
+          "amostraTotal": "1,0%",
           "votosValidos": "1,4%",
           "dispersao": "0,3% – 1,8%",
-          "ajustadoPreditor": "4,6%",
+          "ajustadoPreditor": "4,0%",
           "chanceVaga": "—"
         },
         {
@@ -561,7 +561,7 @@
           "amostraTotal": "0,4%",
           "votosValidos": "0,5%",
           "dispersao": "0,0% – 0,8%",
-          "ajustadoPreditor": "4,0%",
+          "ajustadoPreditor": "3,4%",
           "chanceVaga": "—"
         }
       ]
@@ -578,7 +578,7 @@
           "amostraTotal": "18,0%",
           "votosValidos": "21,4%",
           "dispersao": "18,0% – 18,0%",
-          "ajustadoPreditor": "18,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -587,7 +587,7 @@
           "amostraTotal": "15,0%",
           "votosValidos": "17,9%",
           "dispersao": "15,0% – 15,0%",
-          "ajustadoPreditor": "15,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -596,7 +596,7 @@
           "amostraTotal": "15,0%",
           "votosValidos": "17,9%",
           "dispersao": "15,0% – 15,0%",
-          "ajustadoPreditor": "15,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -650,60 +650,60 @@
       "uf": "PB",
       "estado": "Paraíba",
       "eleitores": "3,2 mi",
-      "pesquisas": 11,
+      "pesquisas": 10,
       "candidatos": [
         {
           "candidato": "Joao Azevêdo",
           "partido": "PSB",
-          "amostraTotal": "44,4%",
-          "votosValidos": "38,9%",
-          "dispersao": "32,5% – 56,3%",
-          "ajustadoPreditor": "45,5%",
+          "amostraTotal": "28,0%",
+          "votosValidos": "35,8%",
+          "dispersao": "27,0% – 29,0%",
+          "ajustadoPreditor": "30,9%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Veneziano",
           "partido": "MDB",
-          "amostraTotal": "29,2%",
-          "votosValidos": "25,7%",
-          "dispersao": "22,4% – 35,9%",
-          "ajustadoPreditor": "30,3%",
+          "amostraTotal": "20,0%",
+          "votosValidos": "25,2%",
+          "dispersao": "17,0% – 23,0%",
+          "ajustadoPreditor": "23,0%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Nabor",
           "partido": "REPUBLICANOS",
-          "amostraTotal": "16,7%",
-          "votosValidos": "14,8%",
-          "dispersao": "13,1% – 20,4%",
-          "ajustadoPreditor": "17,9%",
+          "amostraTotal": "12,2%",
+          "votosValidos": "15,2%",
+          "dispersao": "9,4% – 15,1%",
+          "ajustadoPreditor": "15,2%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Dr. Marcelo Queiroga",
           "partido": "PL",
-          "amostraTotal": "10,5%",
-          "votosValidos": "9,7%",
-          "dispersao": "7,9% – 13,2%",
-          "ajustadoPreditor": "11,7%",
+          "amostraTotal": "10,8%",
+          "votosValidos": "13,1%",
+          "dispersao": "6,5% – 15,1%",
+          "ajustadoPreditor": "13,8%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Major Fábio",
           "partido": "NOVO",
-          "amostraTotal": "6,9%",
-          "votosValidos": "6,1%",
-          "dispersao": "5,1% – 8,7%",
-          "ajustadoPreditor": "8,0%",
+          "amostraTotal": "4,4%",
+          "votosValidos": "5,8%",
+          "dispersao": "4,0% – 4,9%",
+          "ajustadoPreditor": "7,4%",
           "chanceVaga": "—"
         },
         {
           "candidato": "André Gadelha",
           "partido": "MDB",
-          "amostraTotal": "3,9%",
-          "votosValidos": "3,5%",
-          "dispersao": "3,1% – 4,7%",
-          "ajustadoPreditor": "5,0%",
+          "amostraTotal": "3,0%",
+          "votosValidos": "3,6%",
+          "dispersao": "1,9% – 4,0%",
+          "ajustadoPreditor": "5,9%",
           "chanceVaga": "—"
         },
         {
@@ -730,60 +730,60 @@
       "uf": "PI",
       "estado": "Piauí",
       "eleitores": "2,7 mi",
-      "pesquisas": 12,
+      "pesquisas": 13,
       "candidatos": [
         {
           "candidato": "Marcelo Castro",
           "partido": "MDB",
-          "amostraTotal": "20,6%",
-          "votosValidos": "28,8%",
-          "dispersao": "15,8% – 25,5%",
-          "ajustadoPreditor": "24,5%",
+          "amostraTotal": "19,0%",
+          "votosValidos": "28,1%",
+          "dispersao": "15,7% – 22,3%",
+          "ajustadoPreditor": "22,0%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Ciro Nogueira",
           "partido": "PP",
-          "amostraTotal": "17,6%",
-          "votosValidos": "24,8%",
-          "dispersao": "15,6% – 19,5%",
-          "ajustadoPreditor": "21,4%",
+          "amostraTotal": "15,3%",
+          "votosValidos": "22,9%",
+          "dispersao": "13,8% – 16,8%",
+          "ajustadoPreditor": "18,3%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Julio Cesar",
           "partido": "PSD",
-          "amostraTotal": "15,7%",
-          "votosValidos": "22,0%",
-          "dispersao": "12,9% – 18,4%",
-          "ajustadoPreditor": "19,6%",
+          "amostraTotal": "15,2%",
+          "votosValidos": "22,5%",
+          "dispersao": "13,7% – 16,6%",
+          "ajustadoPreditor": "18,1%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Tiago Junqueira",
           "partido": "PL",
-          "amostraTotal": "5,8%",
-          "votosValidos": "8,1%",
-          "dispersao": "4,0% – 7,6%",
-          "ajustadoPreditor": "9,7%",
-          "chanceVaga": "—"
-        },
-        {
-          "candidato": "Antônio Barros",
-          "partido": "NOVO",
-          "amostraTotal": "1,7%",
-          "votosValidos": "2,4%",
-          "dispersao": "1,0% – 2,4%",
-          "ajustadoPreditor": "5,6%",
+          "amostraTotal": "5,9%",
+          "votosValidos": "8,7%",
+          "dispersao": "3,8% – 7,9%",
+          "ajustadoPreditor": "8,9%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Francinaldo Leão",
           "partido": "PSOL",
-          "amostraTotal": "1,6%",
+          "amostraTotal": "1,5%",
+          "votosValidos": "2,2%",
+          "dispersao": "0,9% – 2,1%",
+          "ajustadoPreditor": "4,5%",
+          "chanceVaga": "—"
+        },
+        {
+          "candidato": "Antônio Barros",
+          "partido": "NOVO",
+          "amostraTotal": "1,4%",
           "votosValidos": "2,1%",
-          "dispersao": "0,8% – 2,3%",
-          "ajustadoPreditor": "5,4%",
+          "dispersao": "0,9% – 2,0%",
+          "ajustadoPreditor": "4,4%",
           "chanceVaga": "—"
         },
         {
@@ -890,38 +890,38 @@
       "uf": "AL",
       "estado": "Alagoas",
       "eleitores": "2,4 mi",
-      "pesquisas": 2,
+      "pesquisas": 1,
       "candidatos": [
-        {
-          "candidato": "Renan",
-          "partido": "MDB",
-          "amostraTotal": "22,0%",
-          "votosValidos": "25,6%",
-          "dispersao": "22,0% – 22,0%",
-          "ajustadoPreditor": "22,0%",
-          "chanceVaga": "—"
-        },
-        {
-          "candidato": "Marina Jhc",
-          "partido": "PSDB",
-          "amostraTotal": "21,0%",
-          "votosValidos": "24,4%",
-          "dispersao": "21,0% – 21,0%",
-          "ajustadoPreditor": "21,0%",
-          "chanceVaga": "—"
-        },
         {
           "candidato": "Arthur Lira",
           "partido": "PP",
-          "amostraTotal": "19,0%",
-          "votosValidos": "22,1%",
-          "dispersao": "19,0% – 19,0%",
-          "ajustadoPreditor": "19,0%",
+          "amostraTotal": "20,0%",
+          "votosValidos": "29,0%",
+          "dispersao": "20,0% – 20,0%",
+          "ajustadoPreditor": "—",
+          "chanceVaga": "—"
+        },
+        {
+          "candidato": "Renan",
+          "partido": "MDB",
+          "amostraTotal": "18,0%",
+          "votosValidos": "26,1%",
+          "dispersao": "18,0% – 18,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
           "candidato": "Davi Davino Filho",
           "partido": "REPUBLICANOS",
+          "amostraTotal": "10,0%",
+          "votosValidos": "14,5%",
+          "dispersao": "10,0% – 10,0%",
+          "ajustadoPreditor": "—",
+          "chanceVaga": "—"
+        },
+        {
+          "candidato": "Marina Jhc",
+          "partido": "PSDB",
           "amostraTotal": "—",
           "votosValidos": "—",
           "dispersao": "—",
@@ -1041,78 +1041,78 @@
       "uf": "PR",
       "estado": "Paraná",
       "eleitores": "8,6 mi",
-      "pesquisas": 10,
+      "pesquisas": 8,
       "candidatos": [
         {
           "candidato": "Deltan Dallagnol",
           "partido": "NOVO",
-          "amostraTotal": "33,5%",
-          "votosValidos": "22,9%",
-          "dispersao": "19,2% – 47,8%",
-          "ajustadoPreditor": "34,3%",
-          "chanceVaga": "52,2%"
+          "amostraTotal": "25,3%",
+          "votosValidos": "21,4%",
+          "dispersao": "11,5% – 39,1%",
+          "ajustadoPreditor": "27,1%",
+          "chanceVaga": "57,2%"
         },
         {
           "candidato": "Filipe Barros",
           "partido": "PL",
-          "amostraTotal": "25,9%",
-          "votosValidos": "18,5%",
-          "dispersao": "17,7% – 34,2%",
-          "ajustadoPreditor": "26,7%",
-          "chanceVaga": "42,5%"
+          "amostraTotal": "21,8%",
+          "votosValidos": "19,1%",
+          "dispersao": "11,9% – 31,6%",
+          "ajustadoPreditor": "23,6%",
+          "chanceVaga": "41,0%"
         },
         {
           "candidato": "Alexandre Curi",
           "partido": "REPUBLICANOS",
-          "amostraTotal": "25,1%",
-          "votosValidos": "18,4%",
-          "dispersao": "18,4% – 31,8%",
-          "ajustadoPreditor": "25,9%",
-          "chanceVaga": "50,7%"
+          "amostraTotal": "20,2%",
+          "votosValidos": "18,8%",
+          "dispersao": "13,9% – 26,6%",
+          "ajustadoPreditor": "22,1%",
+          "chanceVaga": "50,6%"
         },
         {
           "candidato": "Gleisi",
           "partido": "PT",
-          "amostraTotal": "22,9%",
-          "votosValidos": "16,2%",
-          "dispersao": "15,4% – 30,5%",
-          "ajustadoPreditor": "23,7%",
-          "chanceVaga": "31,7%"
+          "amostraTotal": "17,4%",
+          "votosValidos": "15,5%",
+          "dispersao": "10,1% – 24,7%",
+          "ajustadoPreditor": "19,3%",
+          "chanceVaga": "32,8%"
         },
         {
           "candidato": "Cristina Graeml",
           "partido": "PSD",
-          "amostraTotal": "16,8%",
-          "votosValidos": "12,4%",
-          "dispersao": "12,0% – 21,5%",
-          "ajustadoPreditor": "17,5%",
-          "chanceVaga": "20,9%"
+          "amostraTotal": "15,5%",
+          "votosValidos": "14,3%",
+          "dispersao": "10,6% – 20,4%",
+          "ajustadoPreditor": "17,4%",
+          "chanceVaga": "17,1%"
         },
         {
           "candidato": "Dr Rosinha",
           "partido": "PT",
-          "amostraTotal": "13,4%",
-          "votosValidos": "9,6%",
-          "dispersao": "8,3% – 18,6%",
-          "ajustadoPreditor": "14,2%",
-          "chanceVaga": "1,5%"
+          "amostraTotal": "10,1%",
+          "votosValidos": "9,2%",
+          "dispersao": "4,5% – 15,7%",
+          "ajustadoPreditor": "12,0%",
+          "chanceVaga": "1,2%"
         },
         {
           "candidato": "Karen Guerreiro",
           "partido": "MISSÃO",
-          "amostraTotal": "1,2%",
-          "votosValidos": "1,0%",
-          "dispersao": "1,0% – 1,4%",
-          "ajustadoPreditor": "2,0%",
-          "chanceVaga": "0,3%"
+          "amostraTotal": "1,1%",
+          "votosValidos": "1,2%",
+          "dispersao": "1,0% – 1,3%",
+          "ajustadoPreditor": "3,0%",
+          "chanceVaga": "0,1%"
         },
         {
           "candidato": "Joaquim do Mlb",
           "partido": "UP",
-          "amostraTotal": "0,7%",
-          "votosValidos": "0,5%",
-          "dispersao": "0,0% – 1,4%",
-          "ajustadoPreditor": "1,3%",
+          "amostraTotal": "0,3%",
+          "votosValidos": "0,3%",
+          "dispersao": "0,0% – 0,7%",
+          "ajustadoPreditor": "2,0%",
           "chanceVaga": "—"
         }
       ]
@@ -1130,7 +1130,7 @@
           "votosValidos": "21,6%",
           "dispersao": "15,8% – 25,5%",
           "ajustadoPreditor": "23,9%",
-          "chanceVaga": "63,7%"
+          "chanceVaga": "63,6%"
         },
         {
           "candidato": "Manuela D'Ávila",
@@ -1139,7 +1139,7 @@
           "votosValidos": "20,5%",
           "dispersao": "13,6% – 25,4%",
           "ajustadoPreditor": "22,7%",
-          "chanceVaga": "55,3%"
+          "chanceVaga": "55,2%"
         },
         {
           "candidato": "Sanderson",
@@ -1148,7 +1148,7 @@
           "votosValidos": "17,4%",
           "dispersao": "13,0% – 19,5%",
           "ajustadoPreditor": "19,5%",
-          "chanceVaga": "30,6%"
+          "chanceVaga": "31,1%"
         },
         {
           "candidato": "Pimenta",
@@ -1157,7 +1157,7 @@
           "votosValidos": "16,7%",
           "dispersao": "12,3% – 19,3%",
           "ajustadoPreditor": "19,0%",
-          "chanceVaga": "28,1%"
+          "chanceVaga": "27,7%"
         },
         {
           "candidato": "Rigotto",
@@ -1184,7 +1184,7 @@
           "votosValidos": "1,4%",
           "dispersao": "0,5% – 2,2%",
           "ajustadoPreditor": "4,6%",
-          "chanceVaga": "—"
+          "chanceVaga": "0,1%"
         },
         {
           "candidato": "Daniela Mulheres Socialistas",
@@ -1201,69 +1201,69 @@
       "uf": "SC",
       "estado": "Santa Catarina",
       "eleitores": "5,7 mi",
-      "pesquisas": 9,
+      "pesquisas": 8,
       "candidatos": [
         {
           "candidato": "Carol de Toni",
           "partido": "PL",
-          "amostraTotal": "31,2%",
-          "votosValidos": "27,1%",
-          "dispersao": "19,4% – 43,0%",
-          "ajustadoPreditor": "33,4%",
-          "chanceVaga": "88,3%"
+          "amostraTotal": "36,8%",
+          "votosValidos": "27,7%",
+          "dispersao": "23,6% – 50,1%",
+          "ajustadoPreditor": "38,3%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Carlos Bolsonaro",
           "partido": "PL",
-          "amostraTotal": "24,8%",
-          "votosValidos": "21,2%",
-          "dispersao": "13,3% – 36,3%",
-          "ajustadoPreditor": "27,0%",
-          "chanceVaga": "41,1%"
+          "amostraTotal": "28,6%",
+          "votosValidos": "20,5%",
+          "dispersao": "14,4% – 42,8%",
+          "ajustadoPreditor": "30,0%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Esperidião Amin",
           "partido": "PP",
-          "amostraTotal": "24,5%",
-          "votosValidos": "21,9%",
-          "dispersao": "17,0% – 32,1%",
-          "ajustadoPreditor": "26,7%",
-          "chanceVaga": "61,8%"
+          "amostraTotal": "28,1%",
+          "votosValidos": "21,8%",
+          "dispersao": "19,5% – 36,6%",
+          "ajustadoPreditor": "29,5%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Décio Lima",
           "partido": "PT",
-          "amostraTotal": "14,9%",
-          "votosValidos": "12,8%",
-          "dispersao": "8,6% – 21,3%",
-          "ajustadoPreditor": "17,1%",
-          "chanceVaga": "5,9%"
+          "amostraTotal": "18,0%",
+          "votosValidos": "13,4%",
+          "dispersao": "10,9% – 25,2%",
+          "ajustadoPreditor": "19,5%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Afrânio Boppré",
           "partido": "PSOL",
-          "amostraTotal": "10,4%",
-          "votosValidos": "9,4%",
-          "dispersao": "7,6% – 13,3%",
-          "ajustadoPreditor": "12,7%",
-          "chanceVaga": "2,5%"
+          "amostraTotal": "10,8%",
+          "votosValidos": "8,2%",
+          "dispersao": "7,0% – 14,6%",
+          "ajustadoPreditor": "12,2%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Lunelli",
           "partido": "MDB",
-          "amostraTotal": "5,8%",
-          "votosValidos": "4,9%",
-          "dispersao": "2,9% – 8,8%",
-          "ajustadoPreditor": "8,1%",
-          "chanceVaga": "0,2%"
+          "amostraTotal": "7,3%",
+          "votosValidos": "5,3%",
+          "dispersao": "4,0% – 10,6%",
+          "ajustadoPreditor": "8,7%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Túlio de Amorim Pfuetzenreiter",
           "partido": "MISSÃO",
-          "amostraTotal": "2,0%",
-          "votosValidos": "2,3%",
-          "dispersao": "1,7% – 2,4%",
-          "ajustadoPreditor": "5,0%",
+          "amostraTotal": "—",
+          "votosValidos": "—",
+          "dispersao": "—",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -1281,78 +1281,78 @@
       "uf": "PA",
       "estado": "Pará",
       "eleitores": "6,3 mi",
-      "pesquisas": 14,
+      "pesquisas": 13,
       "candidatos": [
         {
           "candidato": "Helder",
           "partido": "MDB",
-          "amostraTotal": "39,6%",
-          "votosValidos": "34,9%",
-          "dispersao": "30,4% – 48,7%",
-          "ajustadoPreditor": "42,2%",
+          "amostraTotal": "41,3%",
+          "votosValidos": "33,3%",
+          "dispersao": "30,6% – 52,1%",
+          "ajustadoPreditor": "43,6%",
           "chanceVaga": "100,0%"
         },
         {
           "candidato": "Delegado Éder Mauro",
           "partido": "PL",
-          "amostraTotal": "23,6%",
-          "votosValidos": "19,8%",
-          "dispersao": "13,6% – 33,7%",
-          "ajustadoPreditor": "26,2%",
-          "chanceVaga": "59,6%"
+          "amostraTotal": "27,4%",
+          "votosValidos": "21,1%",
+          "dispersao": "16,9% – 37,8%",
+          "ajustadoPreditor": "29,7%",
+          "chanceVaga": "68,8%"
         },
         {
           "candidato": "Zequinha Marinho",
           "partido": "PODE",
-          "amostraTotal": "18,0%",
-          "votosValidos": "15,0%",
-          "dispersao": "9,9% – 26,1%",
-          "ajustadoPreditor": "20,6%",
-          "chanceVaga": "20,6%"
+          "amostraTotal": "20,4%",
+          "votosValidos": "15,5%",
+          "dispersao": "11,6% – 29,3%",
+          "ajustadoPreditor": "22,7%",
+          "chanceVaga": "19,1%"
         },
         {
           "candidato": "Chicão",
           "partido": "UNIÃO",
-          "amostraTotal": "16,2%",
-          "votosValidos": "13,4%",
-          "dispersao": "9,2% – 23,2%",
-          "ajustadoPreditor": "18,8%",
-          "chanceVaga": "12,1%"
+          "amostraTotal": "17,8%",
+          "votosValidos": "13,2%",
+          "dispersao": "9,6% – 25,9%",
+          "ajustadoPreditor": "20,1%",
+          "chanceVaga": "6,9%"
         },
         {
           "candidato": "Celso Sabino",
           "partido": "PDT",
-          "amostraTotal": "13,7%",
+          "amostraTotal": "15,1%",
           "votosValidos": "11,7%",
-          "dispersao": "7,8% – 19,7%",
-          "ajustadoPreditor": "16,3%",
-          "chanceVaga": "7,6%"
-        },
-        {
-          "candidato": "Livia Noronha",
-          "partido": "SOLIDARIEDADE",
-          "amostraTotal": "2,4%",
-          "votosValidos": "2,3%",
-          "dispersao": "1,6% – 3,2%",
-          "ajustadoPreditor": "5,0%",
-          "chanceVaga": "—"
+          "dispersao": "8,2% – 21,9%",
+          "ajustadoPreditor": "17,4%",
+          "chanceVaga": "5,1%"
         },
         {
           "candidato": "Gizelle Freitas",
           "partido": "PSOL",
-          "amostraTotal": "1,8%",
-          "votosValidos": "1,5%",
-          "dispersao": "0,7% – 2,8%",
-          "ajustadoPreditor": "4,3%",
+          "amostraTotal": "2,1%",
+          "votosValidos": "1,7%",
+          "dispersao": "1,0% – 3,2%",
+          "ajustadoPreditor": "4,4%",
+          "chanceVaga": "—"
+        },
+        {
+          "candidato": "Livia Noronha",
+          "partido": "SOLIDARIEDADE",
+          "amostraTotal": "2,1%",
+          "votosValidos": "1,8%",
+          "dispersao": "1,3% – 2,9%",
+          "ajustadoPreditor": "4,4%",
           "chanceVaga": "—"
         },
         {
           "candidato": "Conti",
           "partido": "PSOL",
-          "amostraTotal": "1,3%",
+          "amostraTotal": "1,4%",
           "votosValidos": "1,1%",
-          "dispersao": "0,5% – 2,0%",
-          "ajustadoPreditor": "3,9%",
+          "dispersao": "0,5% – 2,3%",
+          "ajustadoPreditor": "3,7%",
           "chanceVaga": "—"
         }
       ]
@@ -1370,7 +1370,7 @@
           "votosValidos": "29,5%",
           "dispersao": "21,4% – 50,9%",
           "ajustadoPreditor": "39,4%",
-          "chanceVaga": "97,4%"
+          "chanceVaga": "97,5%"
         },
         {
           "candidato": "Capitão Alberto Neto",
@@ -1379,7 +1379,7 @@
           "votosValidos": "25,5%",
           "dispersao": "20,9% – 40,1%",
           "ajustadoPreditor": "33,8%",
-          "chanceVaga": "83,2%"
+          "chanceVaga": "83,1%"
         },
         {
           "candidato": "Plinio Valério",
@@ -1388,7 +1388,7 @@
           "votosValidos": "17,9%",
           "dispersao": "14,0% – 29,3%",
           "ajustadoPreditor": "24,9%",
-          "chanceVaga": "10,6%"
+          "chanceVaga": "10,5%"
         },
         {
           "candidato": "Wilson Lima",
@@ -1441,7 +1441,7 @@
       "uf": "RO",
       "estado": "Rondônia",
       "eleitores": "1,3 mi",
-      "pesquisas": 5,
+      "pesquisas": 4,
       "candidatos": [
         {
           "candidato": "Dr. Fernando Máximo",
@@ -1521,79 +1521,79 @@
       "uf": "TO",
       "estado": "Tocantins",
       "eleitores": "1,2 mi",
-      "pesquisas": 9,
+      "pesquisas": 7,
       "candidatos": [
         {
           "candidato": "Eduardo Gomes",
           "partido": "PL",
-          "amostraTotal": "28,8%",
-          "votosValidos": "25,3%",
-          "dispersao": "22,3% – 35,4%",
-          "ajustadoPreditor": "32,1%",
-          "chanceVaga": "96,6%"
+          "amostraTotal": "20,9%",
+          "votosValidos": "25,7%",
+          "dispersao": "15,3% – 26,4%",
+          "ajustadoPreditor": "23,5%",
+          "chanceVaga": "90,2%"
         },
         {
           "candidato": "Alexandre Guimarães",
           "partido": "MDB",
-          "amostraTotal": "19,1%",
-          "votosValidos": "16,7%",
-          "dispersao": "14,2% – 24,1%",
-          "ajustadoPreditor": "22,4%",
-          "chanceVaga": "51,4%"
+          "amostraTotal": "13,6%",
+          "votosValidos": "16,5%",
+          "dispersao": "8,8% – 18,4%",
+          "ajustadoPreditor": "16,3%",
+          "chanceVaga": "46,4%"
         },
         {
           "candidato": "Gaguim",
           "partido": "UNIÃO",
-          "amostraTotal": "17,1%",
-          "votosValidos": "14,9%",
-          "dispersao": "12,2% – 21,9%",
-          "ajustadoPreditor": "20,3%",
-          "chanceVaga": "32,6%"
+          "amostraTotal": "11,2%",
+          "votosValidos": "14,6%",
+          "dispersao": "9,9% – 12,6%",
+          "ajustadoPreditor": "13,9%",
+          "chanceVaga": "28,3%"
         },
         {
           "candidato": "Vanderlei Luxemburgo",
           "partido": "PODE",
-          "amostraTotal": "11,8%",
-          "votosValidos": "10,5%",
-          "dispersao": "9,5% – 14,0%",
-          "ajustadoPreditor": "15,1%",
-          "chanceVaga": "7,2%"
-        },
-        {
-          "candidato": "Paulo Mourão",
-          "partido": "PT",
-          "amostraTotal": "10,8%",
-          "votosValidos": "9,4%",
-          "dispersao": "7,9% – 13,7%",
-          "ajustadoPreditor": "14,1%",
-          "chanceVaga": "5,1%"
+          "amostraTotal": "7,8%",
+          "votosValidos": "9,7%",
+          "dispersao": "5,6% – 10,1%",
+          "ajustadoPreditor": "10,5%",
+          "chanceVaga": "9,9%"
         },
         {
           "candidato": "Ronaldo Dimas",
           "partido": "PODE",
-          "amostraTotal": "9,6%",
-          "votosValidos": "8,6%",
-          "dispersao": "8,1% – 11,1%",
-          "ajustadoPreditor": "12,9%",
-          "chanceVaga": "3,7%"
+          "amostraTotal": "7,3%",
+          "votosValidos": "9,2%",
+          "dispersao": "6,3% – 8,2%",
+          "ajustadoPreditor": "9,9%",
+          "chanceVaga": "9,8%"
+        },
+        {
+          "candidato": "Paulo Mourão",
+          "partido": "PT",
+          "amostraTotal": "7,1%",
+          "votosValidos": "9,3%",
+          "dispersao": "5,7% – 8,5%",
+          "ajustadoPreditor": "9,7%",
+          "chanceVaga": "9,1%"
         },
         {
           "candidato": "Eli Borges",
           "partido": "REPUBLICANOS",
-          "amostraTotal": "9,2%",
-          "votosValidos": "7,5%",
-          "dispersao": "4,4% – 14,0%",
-          "ajustadoPreditor": "12,4%",
-          "chanceVaga": "3,1%"
+          "amostraTotal": "6,2%",
+          "votosValidos": "7,7%",
+          "dispersao": "4,6% – 7,7%",
+          "ajustadoPreditor": "8,8%",
+          "chanceVaga": "6,3%"
         },
         {
           "candidato": "Professor Osvaldo",
           "partido": "PSOL",
-          "amostraTotal": "2,5%",
-          "votosValidos": "2,2%",
-          "dispersao": "2,0% – 2,9%",
-          "ajustadoPreditor": "5,8%",
-          "chanceVaga": "0,1%"
+          "amostraTotal": "2,6%",
+          "votosValidos": "3,2%",
+          "dispersao": "2,2% – 3,1%",
+          "ajustadoPreditor": "5,5%",
+          "chanceVaga": "—"
         }
       ]
     },
@@ -1601,79 +1601,79 @@
       "uf": "AC",
       "estado": "Acre",
       "eleitores": "614 mil",
-      "pesquisas": 10,
+      "pesquisas": 7,
       "candidatos": [
         {
           "candidato": "Gladson Camelí",
           "partido": "PP",
-          "amostraTotal": "27,2%",
-          "votosValidos": "22,8%",
-          "dispersao": "17,1% – 37,3%",
-          "ajustadoPreditor": "27,9%",
-          "chanceVaga": "52,9%"
+          "amostraTotal": "24,2%",
+          "votosValidos": "26,1%",
+          "dispersao": "18,3% – 30,1%",
+          "ajustadoPreditor": "26,8%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Marcio Bittar",
           "partido": "PL",
-          "amostraTotal": "24,8%",
+          "amostraTotal": "19,4%",
           "votosValidos": "20,9%",
-          "dispersao": "16,8% – 32,8%",
-          "ajustadoPreditor": "25,6%",
-          "chanceVaga": "51,1%"
+          "dispersao": "14,3% – 24,4%",
+          "ajustadoPreditor": "22,1%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Jorge Viana",
           "partido": "PT",
-          "amostraTotal": "23,1%",
-          "votosValidos": "18,7%",
-          "dispersao": "13,0% – 33,3%",
-          "ajustadoPreditor": "23,9%",
-          "chanceVaga": "31,4%"
+          "amostraTotal": "16,8%",
+          "votosValidos": "17,9%",
+          "dispersao": "11,8% – 21,8%",
+          "ajustadoPreditor": "19,4%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Mara Rocha",
           "partido": "REPUBLICANOS",
-          "amostraTotal": "19,1%",
-          "votosValidos": "16,5%",
-          "dispersao": "14,3% – 24,0%",
-          "ajustadoPreditor": "19,9%",
-          "chanceVaga": "36,9%"
+          "amostraTotal": "13,8%",
+          "votosValidos": "15,2%",
+          "dispersao": "11,5% – 16,1%",
+          "ajustadoPreditor": "16,5%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Petecão",
           "partido": "PSD",
-          "amostraTotal": "12,4%",
-          "votosValidos": "10,8%",
-          "dispersao": "9,6% – 15,2%",
-          "ajustadoPreditor": "13,1%",
-          "chanceVaga": "16,3%"
+          "amostraTotal": "8,3%",
+          "votosValidos": "9,4%",
+          "dispersao": "8,1% – 8,6%",
+          "ajustadoPreditor": "11,0%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Eduardo Velloso",
           "partido": "SOLIDARIEDADE",
-          "amostraTotal": "8,3%",
-          "votosValidos": "7,0%",
-          "dispersao": "5,7% – 10,9%",
-          "ajustadoPreditor": "9,0%",
-          "chanceVaga": "6,7%"
-        },
-        {
-          "candidato": "Dr. Junior Feitosa",
-          "partido": "DC",
-          "amostraTotal": "2,1%",
-          "votosValidos": "2,0%",
-          "dispersao": "1,3% – 3,0%",
-          "ajustadoPreditor": "2,9%",
-          "chanceVaga": "2,6%"
+          "amostraTotal": "6,6%",
+          "votosValidos": "7,2%",
+          "dispersao": "5,2% – 7,9%",
+          "ajustadoPreditor": "9,2%",
+          "chanceVaga": "—"
         },
         {
           "candidato": "Professor Inacio Moreira",
           "partido": "PSOL",
-          "amostraTotal": "1,6%",
-          "votosValidos": "1,4%",
-          "dispersao": "1,2% – 2,0%",
-          "ajustadoPreditor": "2,4%",
-          "chanceVaga": "2,0%"
+          "amostraTotal": "1,9%",
+          "votosValidos": "1,9%",
+          "dispersao": "0,9% – 2,9%",
+          "ajustadoPreditor": "4,6%",
+          "chanceVaga": "—"
+        },
+        {
+          "candidato": "Dr. Junior Feitosa",
+          "partido": "DC",
+          "amostraTotal": "1,1%",
+          "votosValidos": "1,3%",
+          "dispersao": "0,8% – 1,5%",
+          "ajustadoPreditor": "3,8%",
+          "chanceVaga": "—"
         }
       ]
     },
@@ -1747,8 +1747,8 @@
           "chanceVaga": "—"
         },
         {
-          "candidato": "Helio Silva",
-          "partido": "PCO",
+          "candidato": "Professor Uzian Pinto",
+          "partido": "DC",
           "amostraTotal": "—",
           "votosValidos": "—",
           "dispersao": "—",
@@ -1769,7 +1769,7 @@
           "amostraTotal": "25,0%",
           "votosValidos": "28,1%",
           "dispersao": "25,0% – 25,0%",
-          "ajustadoPreditor": "25,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -1778,7 +1778,7 @@
           "amostraTotal": "17,0%",
           "votosValidos": "19,1%",
           "dispersao": "17,0% – 17,0%",
-          "ajustadoPreditor": "17,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -1787,7 +1787,7 @@
           "amostraTotal": "15,0%",
           "votosValidos": "16,9%",
           "dispersao": "15,0% – 15,0%",
-          "ajustadoPreditor": "15,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -1850,7 +1850,7 @@
           "votosValidos": "28,6%",
           "dispersao": "26,9% – 44,6%",
           "ajustadoPreditor": "39,1%",
-          "chanceVaga": "99,7%"
+          "chanceVaga": "99,6%"
         },
         {
           "candidato": "Gustavo Gayer",
@@ -1859,7 +1859,7 @@
           "votosValidos": "18,1%",
           "dispersao": "16,6% – 29,1%",
           "ajustadoPreditor": "26,2%",
-          "chanceVaga": "61,9%"
+          "chanceVaga": "61,7%"
         },
         {
           "candidato": "Dr. Zacharias Calil",
@@ -1868,7 +1868,7 @@
           "votosValidos": "13,8%",
           "dispersao": "12,2% – 22,9%",
           "ajustadoPreditor": "20,9%",
-          "chanceVaga": "16,4%"
+          "chanceVaga": "16,6%"
         },
         {
           "candidato": "Vanderlan Cardoso",
@@ -1877,7 +1877,7 @@
           "votosValidos": "13,3%",
           "dispersao": "11,3% – 22,9%",
           "ajustadoPreditor": "20,4%",
-          "chanceVaga": "14,7%"
+          "chanceVaga": "14,6%"
         },
         {
           "candidato": "Gustavo Mendanha",
@@ -1886,7 +1886,7 @@
           "votosValidos": "11,6%",
           "dispersao": "10,4% – 19,3%",
           "ajustadoPreditor": "18,2%",
-          "chanceVaga": "7,0%"
+          "chanceVaga": "7,1%"
         },
         {
           "candidato": "Isaura Lemos",
@@ -2009,8 +2009,8 @@
           "amostraTotal": "23,5%",
           "votosValidos": "29,1%",
           "dispersao": "20,9% – 26,1%",
-          "ajustadoPreditor": "27,4%",
-          "chanceVaga": "88,5%"
+          "ajustadoPreditor": "26,8%",
+          "chanceVaga": "89,9%"
         },
         {
           "candidato": "Leila do Vôlei",
@@ -2018,8 +2018,8 @@
           "amostraTotal": "17,3%",
           "votosValidos": "21,4%",
           "dispersao": "16,7% – 17,9%",
-          "ajustadoPreditor": "21,2%",
-          "chanceVaga": "51,4%"
+          "ajustadoPreditor": "20,5%",
+          "chanceVaga": "52,9%"
         },
         {
           "candidato": "Erika Kokay",
@@ -2027,8 +2027,8 @@
           "amostraTotal": "14,8%",
           "votosValidos": "18,2%",
           "dispersao": "12,9% – 16,7%",
-          "ajustadoPreditor": "18,8%",
-          "chanceVaga": "31,2%"
+          "ajustadoPreditor": "18,1%",
+          "chanceVaga": "30,5%"
         },
         {
           "candidato": "Bia Kicis",
@@ -2036,8 +2036,8 @@
           "amostraTotal": "14,0%",
           "votosValidos": "17,3%",
           "dispersao": "11,9% – 16,1%",
-          "ajustadoPreditor": "18,0%",
-          "chanceVaga": "25,4%"
+          "ajustadoPreditor": "17,3%",
+          "chanceVaga": "24,7%"
         },
         {
           "candidato": "Sebastião Coelho",
@@ -2045,8 +2045,8 @@
           "amostraTotal": "5,6%",
           "votosValidos": "6,7%",
           "dispersao": "1,8% – 9,4%",
-          "ajustadoPreditor": "9,6%",
-          "chanceVaga": "2,0%"
+          "ajustadoPreditor": "8,8%",
+          "chanceVaga": "1,4%"
         },
         {
           "candidato": "Ronaldo Fonseca",
@@ -2054,8 +2054,8 @@
           "amostraTotal": "1,9%",
           "votosValidos": "2,3%",
           "dispersao": "1,6% – 2,2%",
-          "ajustadoPreditor": "5,9%",
-          "chanceVaga": "0,4%"
+          "ajustadoPreditor": "5,1%",
+          "chanceVaga": "0,3%"
         },
         {
           "candidato": "Professor Guilherme Amorim",
@@ -2063,8 +2063,8 @@
           "amostraTotal": "1,1%",
           "votosValidos": "1,4%",
           "dispersao": "0,1% – 2,1%",
-          "ajustadoPreditor": "5,0%",
-          "chanceVaga": "0,5%"
+          "ajustadoPreditor": "4,3%",
+          "chanceVaga": "0,1%"
         },
         {
           "candidato": "Tiago",
@@ -2072,8 +2072,8 @@
           "amostraTotal": "0,7%",
           "votosValidos": "0,9%",
           "dispersao": "0,1% – 1,3%",
-          "ajustadoPreditor": "4,7%",
-          "chanceVaga": "0,3%"
+          "ajustadoPreditor": "4,0%",
+          "chanceVaga": "—"
         }
       ]
     },
@@ -2089,7 +2089,7 @@
           "amostraTotal": "32,0%",
           "votosValidos": "35,6%",
           "dispersao": "32,0% – 32,0%",
-          "ajustadoPreditor": "32,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -2098,7 +2098,7 @@
           "amostraTotal": "23,0%",
           "votosValidos": "25,6%",
           "dispersao": "23,0% – 23,0%",
-          "ajustadoPreditor": "23,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {
@@ -2107,7 +2107,7 @@
           "amostraTotal": "11,0%",
           "votosValidos": "12,2%",
           "dispersao": "11,0% – 11,0%",
-          "ajustadoPreditor": "11,0%",
+          "ajustadoPreditor": "—",
           "chanceVaga": "—"
         },
         {

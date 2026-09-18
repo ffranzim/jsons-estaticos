@@ -1,14 +1,13 @@
 {
-  "gerado_em": "2026-09-18T01:58:14+00:00",
-  "versao": 8,
-  "hash": "c7fdee1cedef",
+  "gerado_em": "2026-09-14T20:47:31+00:00",
+  "versao": 6,
+  "hash": "4692d75a403e",
   "apoiadores": [
     {
       "id": "app",
       "nome": "App Candidatos de direita",
       "descricao": "APP",
       "foto": "images/png/logo_direita.png",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -143,8 +142,6 @@
       "nome": "Peter Turguniev",
       "descricao": "ANCAPSU",
       "foto": "images/apoiadores/ancapsu.jpg",
-      "url-fonte": "https://peterapoia.com/",
-      "descricao-fonte": "Site Peter Apoia",
       "apoiados": {
         "ac": [
           {
@@ -1065,8 +1062,6 @@
       "nome": "Nikolas Ferreira",
       "descricao": "Deputado Federal - MG",
       "foto": "images/candidatos_pl/FMG130002542026_div.jpg",
-      "url-fonte": "https://nikolasferreira.com.br/candidatos",
-      "descricao-fonte": "Site Candidato Nikolas Ferreira",
       "apoiados": {
         "br": [
           {
@@ -1074,402 +1069,102 @@
             "nome": "Flavio Bolsonaro"
           }
         ],
-        "ro": [
-          {
-            "numero": 222,
-            "nome": "Bruno Bolsonaro Scheid",
-            "cargo": "senador"
-          },
-          {
-            "numero": 22,
-            "nome": "Marcos Rogério",
-            "cargo": "governador"
-          }
-        ],
-        "ac": [
-          {
-            "numero": 2222,
-            "nome": "João Bittar",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Marcio Bittar",
-            "cargo": "senador"
-          }
-        ],
-        "am": [
-          {
-            "numero": 2210,
-            "nome": "Jean Batista",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Capitão Alberto Neto",
-            "cargo": "senador"
-          }
-        ],
-        "rr": [
-          {
-            "numero": 1010,
-            "nome": "Athally Albuquerque",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Hélio Bolsonaro",
-            "cargo": "senador"
-          }
-        ],
-        "pa": [
-          {
-            "numero": 2233,
-            "nome": "Feliciano Neto",
-            "cargo": "dep. federal"
-          }
-        ],
-        "ma": [
-          {
-            "numero": 2210,
-            "nome": "Mariana",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 2226,
-            "nome": "Francisco Mello",
-            "cargo": "dep. federal"
-          }
-        ],
-        "ce": [
-          {
-            "numero": 22223,
-            "nome": "David Vasconcelos",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22221,
-            "nome": "Abreu Júnior",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22222,
-            "nome": "Tancredo dos Santos",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 2222,
-            "nome": "André Fernandes",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Alcides Fernandes",
-            "cargo": "senador"
-          }
-        ],
-        "rn": [
-          {
-            "numero": 22022,
-            "nome": "Josemar Varela",
-            "cargo": "dep. estadual"
-          }
-        ],
-        "pb": [
-          {
-            "numero": 2222,
-            "nome": "Cabo Gilberto",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 22,
-            "nome": "Efraim",
-            "cargo": "governador"
-          }
-        ],
-        "pe": [
-          {
-            "numero": 30222,
-            "nome": "Ivan Guedes",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22122,
-            "nome": "Alessandro Sarmento",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 2288,
-            "nome": "Thiago Medina",
-            "cargo": "dep. federal"
-          }
-        ],
-        "al": [
-          {
-            "numero": 22222,
-            "nome": "Cabo Bebeto",
-            "cargo": "dep. estadual"
-          }
-        ],
         "mg": [
           {
+            "numero": 222,
+            "nome": "Domingos Sávio"
+          },
+          {
             "numero": 22001,
-            "nome": "Pedro Luiz",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22221,
-            "nome": "Anderson Lima",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22888,
-            "nome": "Ugleno Alves",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22822,
-            "nome": "Samuel Caires",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22600,
-            "nome": "Rafhael de Paulo",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22722,
-            "nome": "Marcelo Heitor",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22111,
-            "nome": "Pablo Almeida",
-            "cargo": "dep. estadual"
+            "nome": "Pedro Luiz"
           },
           {
             "numero": 22032,
-            "nome": "Roberta Lopes",
-            "cargo": "dep. estadual"
+            "nome": "Roberta Lopes"
+          },
+          {
+            "numero": 22111,
+            "nome": "Pablo Almeida"
+          },
+          {
+            "numero": 22221,
+            "nome": "Anderson Lima"
           },
           {
             "numero": 22555,
-            "nome": "Ivson Gomes",
-            "cargo": "dep. estadual"
+            "nome": "Ivson Gomes"
+          },
+          {
+            "numero": 22600,
+            "nome": "Rafhael de Paulo"
+          },
+          {
+            "numero": 22722,
+            "nome": "Marcelo Heitor"
+          },
+          {
+            "numero": 22822,
+            "nome": "Samuel Caires"
+          },
+          {
+            "numero": 22888,
+            "nome": "Ugleno Alves"
           },
           {
             "numero": 2222,
-            "nome": "Nikolas Ferreira",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Domingos Sávio",
-            "cargo": "senador"
-          },
-          {
-            "numero": 300,
-            "nome": "Marco Antônio Superman",
-            "cargo": "senador"
-          }
-        ],
-        "es": [
-          {
-            "numero": 22008,
-            "nome": "Michaella Zukowski",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22122,
-            "nome": "Pr. Dinho Souza",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 2212,
-            "nome": "Lucas Polese",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 100,
-            "nome": "Evair",
-            "cargo": "senador"
-          },
-          {
-            "numero": 222,
-            "nome": "Maguinha Malta",
-            "cargo": "senadora"
-          }
-        ],
-        "rj": [
-          {
-            "numero": 30333,
-            "nome": "Costenaro",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 2202,
-            "nome": "Julia de Castro",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 2227,
-            "nome": "Thiago Gagliasso",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 221,
-            "nome": "Carlos Jordy",
-            "cargo": "senador"
-          },
-          {
-            "numero": 22,
-            "nome": "Douglas Ruas",
-            "cargo": "governador"
-          }
-        ],
-        "sp": [
-          {
-            "numero": 22822,
-            "nome": "Pugina",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22110,
-            "nome": "Felipe Sertanejo",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 2211,
-            "nome": "Lucas Pavanato",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 3022,
-            "nome": "Pedro Poncio",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 111,
-            "nome": "Derrite",
-            "cargo": "senador"
-          },
-          {
-            "numero": 10,
-            "nome": "Tarcísio",
-            "cargo": "governador"
-          }
-        ],
-        "pr": [
-          {
-            "numero": 22922,
-            "nome": "Paulo Melo",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 3030,
-            "nome": "Guilherme Kilter",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 300,
-            "nome": "Deltan Dallagnol",
-            "cargo": "senador"
-          }
-        ],
-        "sc": [
-          {
-            "numero": 22222,
-            "nome": "Ana Campagnolo",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 3022,
-            "nome": "Bia Borba",
-            "cargo": "dep. federal"
-          }
-        ],
-        "rs": [
-          {
-            "numero": 3022,
-            "nome": "Hiago Morandi",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Sanderson",
-            "cargo": "senador"
-          },
-          {
-            "numero": 300,
-            "nome": "Marcel van Hattem",
-            "cargo": "senador"
+            "nome": "Nikolas Ferreira"
           }
         ],
         "ms": [
           {
-            "numero": 22333,
-            "nome": "Daverson Matos",
-            "cargo": "dep. estadual"
-          },
-          {
             "numero": 2267,
-            "nome": "Cassy Monteiro",
-            "cargo": "dep. federal"
+            "nome": "Cassy Monteiro"
           }
         ],
         "mt": [
           {
-            "numero": 20022,
-            "nome": "Ulysses Moraes",
-            "cargo": "dep. estadual"
+            "numero": 2211,
+            "nome": "Ranalli"
+          }
+        ],
+        "pr": [
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
           },
+          {
+            "numero": 3030,
+            "nome": "Guilherme Kilter"
+          }
+        ],
+        "sc": [
+          {
+            "numero": 3022,
+            "nome": "Bia Borba"
+          },
+          {
+            "numero": 22222,
+            "nome": "Ana Campagnolo"
+          }
+        ],
+        "sp": [
           {
             "numero": 2211,
-            "nome": "Ranalli",
-            "cargo": "dep. federal"
+            "nome": "Lucas Pavanato"
+          },
+          {
+            "numero": 22110,
+            "nome": "Felipe Sertanejo"
           }
         ],
-        "go": [
+        "es": [
           {
-            "numero": 30777,
-            "nome": "Rodrigo Palmeira",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 22221,
-            "nome": "Marquinho",
-            "cargo": "dep. estadual"
-          },
-          {
-            "numero": 1122,
-            "nome": "Sanches",
-            "cargo": "dep. federal"
+            "numero": 100,
+            "nome": "Evair de Melo"
           },
           {
             "numero": 222,
-            "nome": "Gustavo Gayer",
-            "cargo": "senador"
-          }
-        ],
-        "df": [
-          {
-            "numero": 10222,
-            "nome": "Estéfane Sampaio",
-            "cargo": "dep. distrital"
-          },
-          {
-            "numero": 2201,
-            "nome": "Mariana Naime",
-            "cargo": "dep. federal"
-          },
-          {
-            "numero": 222,
-            "nome": "Michelle Bolsonaro",
-            "cargo": "senadora"
-          },
-          {
-            "numero": 223,
-            "nome": "Bia Kicis"
+            "nome": "Maguinha Malta"
           }
         ]
       }
@@ -1479,7 +1174,6 @@
       "nome": "Julia Zanatta",
       "descricao": "Deputado Federal - SC",
       "foto": "images/candidatos_pl/FSC240002539378_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -1516,7 +1210,6 @@
       "nome": "Carol de Toni",
       "descricao": "Deputado Federal - SC",
       "foto": "images/candidatos_pl/FSC240002541931_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -1537,8 +1230,6 @@
       "nome": "Flavio Bolsonaro",
       "descricao": "Presidente - BR",
       "foto": "images/candidatos_pl/FBR280002551544_div.jpg",
-      "descricao-fonte": "Site Senadores de Direita",
-      "url-fonte": "https://senadoresdadireita.com.br/",
       "apoiados": {
         "ac": [
           {
@@ -1795,7 +1486,6 @@
       "nome": "André Fernandes",
       "descricao": "Candidato a Deputado Federal - CE",
       "foto": "images/candidatos_pl/FCE60002536979_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "ce": [
           {
@@ -1810,7 +1500,6 @@
       "nome": "Kiko Caputo",
       "descricao": "Candidato a Governador - DF",
       "foto": "images/candidatos_novo/FDF70002547775_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "df": [
           {
@@ -1825,7 +1514,6 @@
       "nome": "Sebastião Coelho",
       "descricao": "Candidato a Senador - DF",
       "foto": "images/candidatos_novo/FDF70002548624_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "df": [
           {
@@ -1840,7 +1528,6 @@
       "nome": "Wilker Sá",
       "descricao": "Candidato a Deputado Federal - DF",
       "foto": "images/candidatos_novo/FDF70002532006_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "df": [
           {
@@ -1855,7 +1542,6 @@
       "nome": "Marco Antônio Superman",
       "descricao": "Candidato a Senador - MG",
       "foto": "images/candidatos_novo/FMG130002551284_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "mg": [
           {
@@ -1870,7 +1556,6 @@
       "nome": "Sergio Moro",
       "descricao": "Candidato a Governador - PR",
       "foto": "images/candidatos_pl/FPR160002540833_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "pr": [
           {
@@ -1885,7 +1570,6 @@
       "nome": "Cristina Reis Graeml",
       "descricao": "Candidata a Senador - PR",
       "foto": "images/candidatos_psd/FPR160002549555_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "pr": [
           {
@@ -1900,7 +1584,6 @@
       "nome": "João Bettega",
       "descricao": "Candidato a Deputado Estadual - PR",
       "foto": "images/candidatos_pl/FPR160002547628_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -1933,7 +1616,6 @@
       "nome": "Ana Campagnolo",
       "descricao": "Candidato a Deputado Estadual - SC",
       "foto": "images/candidatos_pl/FSC240002539977_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "sc": [
           {
@@ -1948,7 +1630,6 @@
       "nome": "Tarcísio",
       "descricao": "Candidato a Governador - SP",
       "foto": "images/candidatos_republicanos/FSP250002541303_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "sp": [
           {
@@ -1963,7 +1644,6 @@
       "nome": "Salles",
       "descricao": "Candidato a Senador - SP",
       "foto": "images/candidatos_novo/FSP250002532794_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "sp": [
           {
@@ -1978,7 +1658,6 @@
       "nome": "Lucas Pavanato",
       "descricao": "Candidato a Deputado Federal - SP",
       "foto": "images/candidatos_pl/FSP250002535995_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -2019,7 +1698,6 @@
       "nome": "Marina Helena",
       "descricao": "Candidato a Deputado Federal - SP",
       "foto": "images/candidatos_novo/FSP250002530115_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "sp": [
           {
@@ -2050,7 +1728,6 @@
       "nome": "Eduarda Campopiano",
       "descricao": "Candidato a Deputado Estadual - SP",
       "foto": "images/candidatos_pl/FSP250002536384_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "sp": [
           {
@@ -2065,7 +1742,6 @@
       "nome": "Zema",
       "descricao": "Candidato a Presidente - BR",
       "foto": "images/candidatos_novo/FBR280002539826_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -2080,7 +1756,6 @@
       "nome": "Bia Kicis",
       "descricao": "Candidato a Senador - DF",
       "foto": "images/candidatos_pl/FDF70002552934_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "df": [
           {
@@ -2095,7 +1770,6 @@
       "nome": "Gustavo Gayer",
       "descricao": "Candidato a Senador - GO",
       "foto": "images/candidatos_pl/FGO90002543556_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "go": [
           {
@@ -2110,7 +1784,6 @@
       "nome": "Deltan Dallagnol",
       "descricao": "Candidato a Senador - PR",
       "foto": "images/candidatos_novo/FPR160002547661_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "pr": [
           {
@@ -2125,7 +1798,6 @@
       "nome": "Marcel Van Hattem",
       "descricao": "Candidato a Senador - RS",
       "foto": "images/candidatos_novo/FRS210002547819_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "rs": [
           {
@@ -2144,7 +1816,6 @@
       "nome": "Guilherme Derrite",
       "descricao": "Candidato a Senador - SP",
       "foto": "images/candidatos_pp/FSP250002541312_div.jpg",
-      "descricao-fonte": "Não informado",
       "apoiados": {
         "sp": [
           {
