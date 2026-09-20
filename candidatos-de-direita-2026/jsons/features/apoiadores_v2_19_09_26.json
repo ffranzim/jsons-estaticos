@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-20T00:14:10+00:00",
-  "versao": 9,
-  "hash": "93bcb9d7ed41",
+  "gerado_em": "2026-09-18T01:58:14+00:00",
+  "versao": 8,
+  "hash": "c7fdee1cedef",
   "apoiadores": [
     {
       "id": "app",
@@ -1791,6 +1791,111 @@
       }
     },
     {
+      "id": "FCE60002536979",
+      "nome": "André Fernandes",
+      "descricao": "Candidato a Deputado Federal - CE",
+      "foto": "images/candidatos_pl/FCE60002536979_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "ce": [
+          {
+            "numero": 2222,
+            "nome": "André Fernandes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FDF70002547775",
+      "nome": "Kiko Caputo",
+      "descricao": "Candidato a Governador - DF",
+      "foto": "images/candidatos_novo/FDF70002547775_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "df": [
+          {
+            "numero": 30,
+            "nome": "Kiko Caputo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FDF70002548624",
+      "nome": "Sebastião Coelho",
+      "descricao": "Candidato a Senador - DF",
+      "foto": "images/candidatos_novo/FDF70002548624_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "df": [
+          {
+            "numero": 300,
+            "nome": "Sebastião Coelho"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FDF70002532006",
+      "nome": "Wilker Sá",
+      "descricao": "Candidato a Deputado Federal - DF",
+      "foto": "images/candidatos_novo/FDF70002532006_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "df": [
+          {
+            "numero": 3000,
+            "nome": "Wilker Sá"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FMG130002551284",
+      "nome": "Marco Antônio Superman",
+      "descricao": "Candidato a Senador - MG",
+      "foto": "images/candidatos_novo/FMG130002551284_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "mg": [
+          {
+            "numero": 300,
+            "nome": "Marco Antônio Superman"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FPR160002540833",
+      "nome": "Sergio Moro",
+      "descricao": "Candidato a Governador - PR",
+      "foto": "images/candidatos_pl/FPR160002540833_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "pr": [
+          {
+            "numero": 22,
+            "nome": "Sergio Moro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FPR160002549555",
+      "nome": "Cristina Reis Graeml",
+      "descricao": "Candidata a Senador - PR",
+      "foto": "images/candidatos_psd/FPR160002549555_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "pr": [
+          {
+            "numero": 555,
+            "nome": "Cristina Reis Graeml"
+          }
+        ]
+      }
+    },
+    {
       "id": "FPR160002547628",
       "nome": "João Bettega",
       "descricao": "Candidato a Deputado Estadual - PR",
@@ -1824,11 +1929,56 @@
       }
     },
     {
+      "id": "FSC240002539977",
+      "nome": "Ana Campagnolo",
+      "descricao": "Candidato a Deputado Estadual - SC",
+      "foto": "images/candidatos_pl/FSC240002539977_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "sc": [
+          {
+            "numero": 22222,
+            "nome": "Ana Campagnolo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FSP250002541303",
+      "nome": "Tarcísio",
+      "descricao": "Candidato a Governador - SP",
+      "foto": "images/candidatos_republicanos/FSP250002541303_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "sp": [
+          {
+            "numero": 10,
+            "nome": "Tarcísio"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FSP250002532794",
+      "nome": "Salles",
+      "descricao": "Candidato a Senador - SP",
+      "foto": "images/candidatos_novo/FSP250002532794_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "sp": [
+          {
+            "numero": 300,
+            "nome": "Salles"
+          }
+        ]
+      }
+    },
+    {
       "id": "FSP250002535995",
       "nome": "Lucas Pavanato",
       "descricao": "Candidato a Deputado Federal - SP",
       "foto": "images/candidatos_pl/FSP250002535995_div.jpg",
-      "descricao-fonte": "Respondido via whatsapp",
+      "descricao-fonte": "Não informado",
       "apoiados": {
         "br": [
           {
@@ -1869,7 +2019,7 @@
       "nome": "Marina Helena",
       "descricao": "Candidato a Deputado Federal - SP",
       "foto": "images/candidatos_novo/FSP250002530115_div.jpg",
-      "descricao-fonte": "Respondido via instagram",
+      "descricao-fonte": "Não informado",
       "apoiados": {
         "sp": [
           {
@@ -1896,11 +2046,86 @@
       }
     },
     {
+      "id": "FSP250002536384",
+      "nome": "Eduarda Campopiano",
+      "descricao": "Candidato a Deputado Estadual - SP",
+      "foto": "images/candidatos_pl/FSP250002536384_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "sp": [
+          {
+            "numero": 22011,
+            "nome": "Eduarda Campopiano"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FBR280002539826",
+      "nome": "Zema",
+      "descricao": "Candidato a Presidente - BR",
+      "foto": "images/candidatos_novo/FBR280002539826_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "br": [
+          {
+            "numero": 30,
+            "nome": "Zema"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FDF70002552934",
+      "nome": "Bia Kicis",
+      "descricao": "Candidato a Senador - DF",
+      "foto": "images/candidatos_pl/FDF70002552934_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "df": [
+          {
+            "numero": 223,
+            "nome": "Bia Kicis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FGO90002543556",
+      "nome": "Gustavo Gayer",
+      "descricao": "Candidato a Senador - GO",
+      "foto": "images/candidatos_pl/FGO90002543556_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "go": [
+          {
+            "numero": 222,
+            "nome": "Gustavo Gayer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FPR160002547661",
+      "nome": "Deltan Dallagnol",
+      "descricao": "Candidato a Senador - PR",
+      "foto": "images/candidatos_novo/FPR160002547661_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "pr": [
+          {
+            "numero": 300,
+            "nome": "Deltan Dallagnol"
+          }
+        ]
+      }
+    },
+    {
       "id": "FRS210002547819",
       "nome": "Marcel Van Hattem",
       "descricao": "Candidato a Senador - RS",
       "foto": "images/candidatos_novo/FRS210002547819_div.jpg",
-      "descricao-fonte": "Respondido via whatsapp",
+      "descricao-fonte": "Não informado",
       "apoiados": {
         "rs": [
           {
@@ -1910,6 +2135,21 @@
           {
             "numero": 222,
             "nome": "Sanderson"
+          }
+        ]
+      }
+    },
+    {
+      "id": "FSP250002541312",
+      "nome": "Guilherme Derrite",
+      "descricao": "Candidato a Senador - SP",
+      "foto": "images/candidatos_pp/FSP250002541312_div.jpg",
+      "descricao-fonte": "Não informado",
+      "apoiados": {
+        "sp": [
+          {
+            "numero": 111,
+            "nome": "Guilherme Derrite"
           }
         ]
       }
