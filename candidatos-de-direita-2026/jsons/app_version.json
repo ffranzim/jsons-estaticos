@@ -1,9 +1,9 @@
 {
   "ios": {
-    "latestVersion": "1.0.34",
-    "buildNumber": "34",
-    "minSupportedVersion": "1.0.34",
-    "minSupportedBuildNumber": "34",
+    "latestVersion": "1.0.35",
+    "buildNumber": "35",
+    "minSupportedVersion": "1.0.35",
+    "minSupportedBuildNumber": "35",
     "updateUrl": "https://apps.apple.com/br/app/candidatos-de-`direita-2026/id6804828582",
     "releaseNotes": "Correção de bugs e melhorias de performance."
   },
