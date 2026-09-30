@@ -1,41 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
-    {
-      "nome_completo": "Israel Augusto Santos da Silva",
-      "nome_urna": "Luli",
-      "foto": "fotos_avante_brasil/FAL20002552575_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7077
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcos Pereira Alves",
-      "nome_urna": "Marcos Alves",
-      "foto": "fotos_avante_brasil/FAL20002552610_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Luiz Teodoro dos Santos",
       "nome_urna": "O Galego",
@@ -45,23 +11,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7000
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lucas Oliveira da Silva",
-      "nome_urna": "Ramon Federal",
-      "foto": "fotos_avante_brasil/FAL20002552572_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7044
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -496,23 +445,6 @@
       ]
     },
     {
-      "nome_completo": "Sebastiao Lais Farias",
-      "nome_urna": "Xicote do Quatí",
-      "foto": "fotos_democrata_brasil/FAL20002553663_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3577
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Aline Rodrigues dos Santos",
       "nome_urna": "Aline Rodrigues",
       "foto": "fotos_mdb_brasil/FAL20002548111_div.jpg",
@@ -933,40 +865,6 @@
         "numero": 15
       },
       "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Cicero Rafael Tenorio da Silva",
-      "nome_urna": "Rafael Tenório",
-      "foto": "fotos_mdb_brasil/FAL20002553955_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "AL",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 156
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Camila Renatha Paiva Barbosa Torres",
-      "nome_urna": "Cel. Camila Paiva",
-      "foto": "fotos_mdb_brasil/FAL20002553958_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "AL",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 156
-      },
-      "prioridade": 41,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1919,40 +1817,6 @@
       ]
     },
     {
-      "nome_completo": "Ivon Berto Tiburcio de Lima",
-      "nome_urna": "Coronel Ivon",
-      "foto": "fotos_prd_brasil/FAL20002538207_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2500
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Danilo Freitas da Silva",
-      "nome_urna": "Danilo da Midia",
-      "foto": "fotos_prd_brasil/FAL20002538395_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25321
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Delan Oliveira Campos",
       "nome_urna": "Delan",
       "foto": "fotos_prd_brasil/FAL20002538386_div.jpg",
@@ -1961,40 +1825,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 25678
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francelino Jose de Brito Neto",
-      "nome_urna": "Dr. França Brito",
-      "foto": "fotos_prd_brasil/FAL20002538393_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Debora da Silva Barbosa Lima",
-      "nome_urna": "Enfermeira Debora",
-      "foto": "fotos_prd_brasil/FAL20002538389_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25888
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2038,23 +1868,6 @@
       ]
     },
     {
-      "nome_completo": "Gervasio Raimundo dos Santos Neto",
-      "nome_urna": "Gervasio Neto",
-      "foto": "fotos_prd_brasil/FAL20002552853_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2525
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ivanildo Gomes do Nascimento",
       "nome_urna": "Ivanildo Gomes",
       "foto": "fotos_prd_brasil/FAL20002538400_div.jpg",
@@ -2063,23 +1876,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 25000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ivelise Pinheiro de Oliveira",
-      "nome_urna": "Ive Oliveira",
-      "foto": "fotos_prd_brasil/FAL20002538383_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25222
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2123,23 +1919,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Natalia do Nascimento Alves",
-      "nome_urna": "Natália Alves",
-      "foto": "fotos_prd_brasil/FAL20002538378_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25551
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Lyara Patricia da Silva Salustiano",
       "nome_urna": "Professora Lyara",
       "foto": "fotos_prd_brasil/FAL20002538385_div.jpg",
@@ -2148,40 +1927,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 25444
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Edilson de Lima Santos",
-      "nome_urna": "Professor Edilson",
-      "foto": "fotos_prd_brasil/FAL20002538390_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25125
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Givonaldo Silva",
-      "nome_urna": "Pastor Givonaldo",
-      "foto": "fotos_prd_brasil/FAL20002538402_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25555
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2464,23 +2209,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Laerson de Lira",
-      "nome_urna": "Comendador da Causa Animal",
-      "foto": "fotos_psdb_brasil/FAL20002553585_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45900
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Wellington Rodrigues Fragôso",
       "nome_urna": "Coronel Fragoso",
       "foto": "fotos_psdb_brasil/FAL20002553261_div.jpg",
@@ -2599,23 +2327,6 @@
         "numero": 4500
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Fabio Silva dos Santos",
-      "nome_urna": "Fabio Gago",
-      "foto": "fotos_psdb_brasil/FAL20002553586_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45200
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2871,23 +2582,6 @@
       ]
     },
     {
-      "nome_completo": "Valbertson de Brito Lyra Santos",
-      "nome_urna": "Professor Beto Brito",
-      "foto": "fotos_psdb_brasil/FAL20002553590_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Amanda Laryssa Paulino dos Santos",
       "nome_urna": "Sargento Amanda",
       "foto": "fotos_psdb_brasil/FAL20002553260_div.jpg",
@@ -2956,40 +2650,6 @@
       ]
     },
     {
-      "nome_completo": "Ana Maria Pereira Hora",
-      "nome_urna": "Ana Hora",
-      "foto": "fotos_psdb_brasil/FAL20002553987_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4599
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcia Danielli Silva de Assuncao",
-      "nome_urna": "Coronel Danielli",
-      "foto": "fotos_psdb_brasil/FAL20002553946_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45045
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Arthur Jessé Mendonça de Albuquerque",
       "nome_urna": "Arthur Albuquerque",
       "foto": "fotos_republicanos_brasil/FAL20002548148_div.jpg",
@@ -3042,40 +2702,6 @@
       ]
     },
     {
-      "nome_completo": "Sandra Patricia Carvalho Medeiros",
-      "nome_urna": "A Blogueira do Povo",
-      "foto": "fotos_solidariedade_brasil/FAL20002538391_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Afranio de Mendonça Alves Neto",
-      "nome_urna": "Afranio de Mendonca Neto",
-      "foto": "fotos_solidariedade_brasil/FAL20002538210_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7717
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Afranio Mendonça Alves Neto",
       "nome_urna": "Afranio Neto",
       "foto": "fotos_solidariedade_brasil/FAL20002552851_div.jpg",
@@ -3093,23 +2719,6 @@
       ]
     },
     {
-      "nome_completo": "Camille da Costa Nunes",
-      "nome_urna": "Camille Costa",
-      "foto": "fotos_solidariedade_brasil/FAL20002538394_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77333
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Israel Jose dos Santos",
       "nome_urna": "Cantor Israel Santos",
       "foto": "fotos_solidariedade_brasil/FAL20002538380_div.jpg",
@@ -3120,23 +2729,6 @@
         "numero": 77233
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Cicero da Conceicao Santos",
-      "nome_urna": "Cicero Conceicao",
-      "foto": "fotos_solidariedade_brasil/FAL20002538212_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7755
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3229,57 +2821,6 @@
       ]
     },
     {
-      "nome_completo": "Heloane Gabriele Lourenço Bezerra Costa",
-      "nome_urna": "Helo Bezerra",
-      "foto": "fotos_solidariedade_brasil/FAL20002538205_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7777
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jaudeni da Silva Coutinho",
-      "nome_urna": "Jaudeni Coutinho",
-      "foto": "fotos_solidariedade_brasil/FAL20002538399_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77444
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Laudiceia de Holanda da Silva",
-      "nome_urna": "Lau da Causa Animal",
-      "foto": "fotos_solidariedade_brasil/FAL20002538206_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7789
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Celio Herculano da Silva",
       "nome_urna": "Mamulengo das Alagoas",
       "foto": "fotos_solidariedade_brasil/FAL20002538379_div.jpg",
@@ -3288,23 +2829,6 @@
       "partido": {
         "sigla": "SOLIDARIEDADE",
         "numero": 77999
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Renata Taislane Silva Cunha Guedes de Melo",
-      "nome_urna": "Renata Guedes",
-      "foto": "fotos_solidariedade_brasil/FAL20002538396_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77222
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3339,23 +2863,6 @@
       "partido": {
         "sigla": "SOLIDARIEDADE",
         "numero": 77465
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Wadson Regis Vieira da Silva",
-      "nome_urna": "Wadson Regis",
-      "foto": "fotos_solidariedade_brasil/FAL20002538403_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77777
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3512,23 +3019,6 @@
       "partido": {
         "sigla": "UNIÃO",
         "numero": 44567
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Vitorino Cavalcante dos Santos",
-      "nome_urna": "Vitorino Cavalcante",
-      "foto": "fotos_uniao_brasil/FAL20002548332_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AL",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44777
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3745,41 +3235,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -3815,5 +3270,5 @@
       ]
     }
   ],
-  "hash": "ed3b305da814"
+  "hash": "d638afd7b364"
 }

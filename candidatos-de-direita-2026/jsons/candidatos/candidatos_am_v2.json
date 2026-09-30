@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Antônio José Fernandes Sá",
@@ -1977,25 +1977,6 @@
       ]
     },
     {
-      "nome_completo": "Jean Carlos de Alencar Carvalho",
-      "nome_urna": "Jean Carlos",
-      "foto": "fotos_novo_brasil/FAM40002536911_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30444
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/jeancarlosoficial_"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Joana Mary de Lemos Travassos",
       "nome_urna": "Joana Travassos",
       "foto": "fotos_novo_brasil/FAM40002536906_div.jpg",
@@ -2198,23 +2179,6 @@
       "partido": {
         "sigla": "NOVO",
         "numero": 30000
-      },
-      "prioridade": 10,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Janete Ferreira da Mota",
-      "nome_urna": "Nete Mota",
-      "foto": "fotos_novo_brasil/FAM40002536902_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30124
       },
       "prioridade": 10,
       "redes_sociais": {},
@@ -3063,26 +3027,6 @@
       ]
     },
     {
-      "nome_completo": "Ramon Pedrosa Ferreira",
-      "nome_urna": "Ramon Pedrosa",
-      "foto": "fotos_pl_brasil/FAM40002542952_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22555
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/ramonpedrosaf",
-        "facebook": "https://www.facebook.com/share/192ubsc1dl/"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Edineth Rayana Rodrigues Pinho",
       "nome_urna": "Rayana Pinho do Bazar",
       "foto": "fotos_pl_brasil/FAM40002542960_div.jpg",
@@ -3206,26 +3150,6 @@
       "contatos": {
         "whatsapp": "https://wa.me/5592993794555"
       },
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Michella dos Santos Oliveira",
-      "nome_urna": "Michella Santos",
-      "foto": "fotos_pl_brasil/FAM40002553973_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22000
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/michella.santos",
-        "facebook": "https://www.facebook.com/share/1go52eptms/"
-      },
-      "contatos": {},
       "bandeiras": [
         "Não cadastradas"
       ]
@@ -4238,23 +4162,6 @@
       ]
     },
     {
-      "nome_completo": "Leandro Lucas Alves",
-      "nome_urna": "Leandro Ativista Pcd",
-      "foto": "fotos_psd_brasil/FAM40002532790_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55241
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Leilane Oliveira do Carmo",
       "nome_urna": "Leilane Oliveira",
       "foto": "fotos_psd_brasil/FAM40002532779_div.jpg",
@@ -4679,23 +4586,6 @@
       ]
     },
     {
-      "nome_completo": "Josepha Gomes Abreu",
-      "nome_urna": "Dra. Josepha Abreu",
-      "foto": "fotos_republicanos_brasil/FAM40002534387_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10800
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Edvan Pires Purus",
       "nome_urna": "Edvan Purus",
       "foto": "fotos_republicanos_brasil/FAM40002534374_div.jpg",
@@ -4858,23 +4748,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10369
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Luciana Lima de Melo",
-      "nome_urna": "Luciana Melo",
-      "foto": "fotos_republicanos_brasil/FAM40002534384_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AM",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10456
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -5957,41 +5830,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -6027,5 +5865,5 @@
       ]
     }
   ],
-  "hash": "ee1a56c9e460"
+  "hash": "d614e9418a03"
 }

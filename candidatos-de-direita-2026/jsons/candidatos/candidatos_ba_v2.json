@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Isidro Nascimento do Amaral",
@@ -37,23 +37,6 @@
       ]
     },
     {
-      "nome_completo": "Ismael Bispo dos Santos Filho",
-      "nome_urna": "Cantor Ismael Junior",
-      "foto": "fotos_agir_brasil/FBA50002549658_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carla Souza de Andrade",
       "nome_urna": "Carla Xavier",
       "foto": "fotos_agir_brasil/FBA50002549662_div.jpg",
@@ -64,23 +47,6 @@
         "numero": 36444
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Augusto Silva Santos",
-      "nome_urna": "Carlos Corote",
-      "foto": "fotos_agir_brasil/FBA50002548858_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3666
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -115,23 +81,6 @@
         "numero": 36789
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "José Francisco da Hora",
-      "nome_urna": "Francisco da Hora",
-      "foto": "fotos_agir_brasil/FBA50002548856_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3603
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -207,23 +156,6 @@
       ]
     },
     {
-      "nome_completo": "Prince Araújo Kerner",
-      "nome_urna": "Mulher Maravilha Prince Kerner",
-      "foto": "fotos_agir_brasil/FBA50002549668_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36013
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Paulo Klinger Santiago Pereira",
       "nome_urna": "Paulo Klinger",
       "foto": "fotos_agir_brasil/FBA50002548857_div.jpg",
@@ -251,23 +183,6 @@
         "numero": 36770
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Alessandra Rodrigues Cardim",
-      "nome_urna": "Sandra Cardim",
-      "foto": "fotos_agir_brasil/FBA50002548859_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3654
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2050,23 +1965,6 @@
       ]
     },
     {
-      "nome_completo": "Allyson de Souza Dantas",
-      "nome_urna": "Allyson Dantas",
-      "foto": "fotos_dc_brasil/FBA50002544000_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2728
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ana Rita Ferreira de Souza Evangelista",
       "nome_urna": "Ana Rita",
       "foto": "fotos_dc_brasil/FBA50002543991_div.jpg",
@@ -2152,23 +2050,6 @@
       ]
     },
     {
-      "nome_completo": "Claudio Jose de Araujo Ferreira",
-      "nome_urna": "Claudio José",
-      "foto": "fotos_dc_brasil/FBA50002543975_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27940
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Evaldo Barbosa Matos",
       "nome_urna": "Dr Evaldo Barbosa",
       "foto": "fotos_dc_brasil/FBA50002543971_div.jpg",
@@ -2196,40 +2077,6 @@
         "numero": 27888
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ernest Christian Bowes",
-      "nome_urna": "Ernest Christian",
-      "foto": "fotos_dc_brasil/FBA50002543995_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27999
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Estevao dos Santos Barbosa",
-      "nome_urna": "Estêvão",
-      "foto": "fotos_dc_brasil/FBA50002536579_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "BA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27
-      },
-      "prioridade": 61,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2458,23 +2305,6 @@
       ]
     },
     {
-      "nome_completo": "Neuzimar Marques Camacam Díaz Morales",
-      "nome_urna": "Neuzimar Camacam",
-      "foto": "fotos_dc_brasil/FBA50002536580_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "BA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Samantha Stefany do Carmo Boudoux",
       "nome_urna": "Samanta Stefany",
       "foto": "fotos_dc_brasil/FBA50002543974_div.jpg",
@@ -2483,23 +2313,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 27555
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Silas Barreto Rodrigues Santana",
-      "nome_urna": "Silas Rodrigues",
-      "foto": "fotos_dc_brasil/FBA50002543982_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27127
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3274,23 +3087,6 @@
       ]
     },
     {
-      "nome_completo": "Iago Barros de Souza",
-      "nome_urna": "Iago Barros",
-      "foto": "fotos_mdb_brasil/FBA50002538735_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15369
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Josilene Santana Carvalho Lucas",
       "nome_urna": "Irmã Josilene",
       "foto": "fotos_mdb_brasil/FBA50002536653_div.jpg",
@@ -3505,23 +3301,6 @@
         "numero": 1524
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Kleber Antonio Monteiro Garrido",
-      "nome_urna": "Kleber Garrido",
-      "foto": "fotos_mdb_brasil/FBA50002538747_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15222
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -4022,23 +3801,6 @@
       ]
     },
     {
-      "nome_completo": "Valter Nilson Pereira dos Santos Filho",
-      "nome_urna": "Waltinho Ebenezer",
-      "foto": "fotos_mdb_brasil/FBA50002554171_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1507
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Dorisvaldo Cardoso Oliveira Junior",
       "nome_urna": "Junior Oliveira",
       "foto": "fotos_mdb_brasil/FBA50002554090_div.jpg",
@@ -4345,23 +4107,6 @@
       ]
     },
     {
-      "nome_completo": "Carlos Eduardo dos Santos",
-      "nome_urna": "Charlles",
-      "foto": "fotos_mobiliza_brasil/FBA50002549604_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33027
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Cristiane Matos de Sousa",
       "nome_urna": "Cristiane Matos",
       "foto": "fotos_mobiliza_brasil/FBA50002549601_div.jpg",
@@ -4370,23 +4115,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 33044
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Cristina Lucia dos Santos",
-      "nome_urna": "Cristina Lucia",
-      "foto": "fotos_mobiliza_brasil/FBA50002549605_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33222
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4438,23 +4166,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 33227
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Edson Silva Barbosa",
-      "nome_urna": "Edson Barbosa",
-      "foto": "fotos_mobiliza_brasil/FBA50002549618_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33127
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -5220,23 +4931,6 @@
       ]
     },
     {
-      "nome_completo": "Rita de Cássia Santos de Araujo",
-      "nome_urna": "Cassia Araujo",
-      "foto": "fotos_novo_brasil/FBA50002537707_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3069
-      },
-      "prioridade": 30,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Cleiton dos Santos Pereira",
       "nome_urna": "Cleiton Pereira",
       "foto": "fotos_novo_brasil/FBA50002537685_div.jpg",
@@ -5307,25 +5001,6 @@
       "redes_sociais": {
         "instagram": "https://www.instagram.com/elianajorgeclebe",
         "facebook": "https://www.facebook.com/elianajorgeclebe"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Flávio Santos Araújo",
-      "nome_urna": "Flávio Araújo",
-      "foto": "fotos_novo_brasil/FBA50002537689_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3024
-      },
-      "prioridade": 30,
-      "redes_sociais": {
-        "site_oficial": "https://flavioaraujo.com.br"
       },
       "contatos": {},
       "bandeiras": [
@@ -5542,25 +5217,6 @@
         "instagram": "https://www.instagram.com/martasantosoficial",
         "youtube": "https://youtube.com/@martasantosoficial-br",
         "tiktok": "https://tiktok.com/@marta.conceio.san"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Mateus Bonfim Mendes",
-      "nome_urna": "Mateus Bonfim",
-      "foto": "fotos_novo_brasil/FBA50002537694_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3001
-      },
-      "prioridade": 30,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/mateusbonfimoficial"
       },
       "contatos": {},
       "bandeiras": [
@@ -5916,23 +5572,6 @@
       ]
     },
     {
-      "nome_completo": "Andreia Arina Teles do Bonfim",
-      "nome_urna": "Cabo Arina",
-      "foto": "fotos_pl_brasil/FBA50002549671_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2258
-      },
-      "prioridade": 26,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Camila Cunha e Vasconcelos Cabaleiro",
       "nome_urna": "Camila Vasconcelos",
       "foto": "fotos_pl_brasil/FBA50002535117_div.jpg",
@@ -6164,23 +5803,6 @@
         "youtube": "https://www.youtube.com/@canaldanielfernando",
         "tiktok": "https://www.tiktok.com/@danielfernandobahia"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Danilo Freitas Santos",
-      "nome_urna": "Danilo Freitas",
-      "foto": "fotos_pl_brasil/FBA50002547232_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22244
-      },
-      "prioridade": 6,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -9004,23 +8626,6 @@
       ]
     },
     {
-      "nome_completo": "Fabia Sueni Gomes dos Santos",
-      "nome_urna": "Fabia do Presídio",
-      "foto": "fotos_psdb_brasil/FBA50002533140_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45113
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Felipe Lucas de Lima e Silva",
       "nome_urna": "Felipe Lucas",
       "foto": "fotos_psdb_brasil/FBA50002532675_div.jpg",
@@ -9184,23 +8789,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 45700
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jurandy da Cruz Carvalho",
-      "nome_urna": "Jurandy da Cruz Carvalho",
-      "foto": "fotos_psdb_brasil/FBA50002533142_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45100
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -10792,23 +10380,6 @@
       ]
     },
     {
-      "nome_completo": "Claudionor Ferreira da Silva Filho",
-      "nome_urna": "Ferreirinha",
-      "foto": "fotos_republicanos_brasil/FBA50002532574_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10567
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Izdalfredo Ramatis Ismerin Bezerra de Menezes Nogueira",
       "nome_urna": "Gcm Nogueira",
       "foto": "fotos_republicanos_brasil/FBA50002532509_div.jpg",
@@ -10919,23 +10490,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10800
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Celia Janaina Lopes Rios",
-      "nome_urna": "Janaína Rios",
-      "foto": "fotos_republicanos_brasil/FBA50002532526_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10100
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -11630,23 +11184,6 @@
       ]
     },
     {
-      "nome_completo": "Sergio Luiz Santos Gonzaga",
-      "nome_urna": "Sergio Luiz Vigilante",
-      "foto": "fotos_republicanos_brasil/FBA50002532567_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10479
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Shirley Maria Gomes Cruz",
       "nome_urna": "Shirley  Cruz",
       "foto": "fotos_republicanos_brasil/FBA50002532503_div.jpg",
@@ -11861,23 +11398,6 @@
         "numero": 10246
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Albry Alves da Anunciacao",
-      "nome_urna": "Albruy Anunciação",
-      "foto": "fotos_solidariedade_brasil/FBA50002553060_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "BA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7795
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -12293,23 +11813,6 @@
       ]
     },
     {
-      "nome_completo": "Clebson Santos Silva",
-      "nome_urna": "Clebson Paz e Vida",
-      "foto": "fotos_solidariedade_brasil/FBA50002554077_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77777
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Antonio Carlos Peixoto de Magalhães Neto",
       "nome_urna": "Acm Neto",
       "foto": "fotos_uniao_brasil/FBA50002533190_div.jpg",
@@ -12603,23 +12106,6 @@
         "numero": 4407
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Arthur Barbosa dos Santos",
-      "nome_urna": "Dr. Arthur",
-      "foto": "fotos_uniao_brasil/FBA50002553646_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "BA",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44222
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -13728,41 +13214,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -13798,5 +13249,5 @@
       ]
     }
   ],
-  "hash": "585c5c96e347"
+  "hash": "85fc9e054fd7"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Allen Cleiton Padilha do Prado",
@@ -28,23 +28,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7007
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Eduardo Rocha Araújo",
-      "nome_urna": "Carlos Eduardo Kadu",
-      "foto": "fotos_avante_brasil/FRO220002537570_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RO",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7022
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -531,40 +514,6 @@
       ]
     },
     {
-      "nome_completo": "Dimas Queiroz de Oliveira Junior",
-      "nome_urna": "Dimas Qualhada",
-      "foto": "fotos_dc_brasil/FRO220002550692_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RO",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2724
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Edivaldo Pedro do Nascimento",
-      "nome_urna": "Edivaldo Pedro",
-      "foto": "fotos_dc_brasil/FRO220002550902_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RO",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27364
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Loide Alves",
       "nome_urna": "Loide Alves",
       "foto": "fotos_dc_brasil/FRO220002550687_div.jpg",
@@ -592,23 +541,6 @@
         "numero": 2720
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Odair Yamamoto Araujo",
-      "nome_urna": "Odair Yamamoto",
-      "foto": "fotos_dc_brasil/FRO220002550903_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RO",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27321
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1568,23 +1500,6 @@
       ]
     },
     {
-      "nome_completo": "Luciene Adárãah Xipu da Silva Almeida Puri",
-      "nome_urna": "Lucilene Puri",
-      "foto": "fotos_mobiliza_brasil/FRO220002550896_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RO",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33012
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Luis Roberto Almeida Sousa",
       "nome_urna": "Luis Almeida",
       "foto": "fotos_mobiliza_brasil/FRO220002550884_div.jpg",
@@ -2374,25 +2289,6 @@
       ]
     },
     {
-      "nome_completo": "Alexandro Barbosa Jensen",
-      "nome_urna": "Alexandro Jensen",
-      "foto": "fotos_pl_brasil/FRO220002537564_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RO",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22369
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/jensen_alexandro"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Bruno Scheid",
       "nome_urna": "Bruno Bolsonaro Scheid",
       "foto": "fotos_pl_brasil/FRO220002539995_div.jpg",
@@ -2598,29 +2494,6 @@
       "prioridade": 6,
       "redes_sociais": {
         "instagram": "https://www.instagram.com/vanderlialvesdasilvaferrei"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Isequiel Neiva de Carvalho",
-      "nome_urna": "Ezequiel Neiva",
-      "foto": "fotos_pl_brasil/FRO220002536883_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RO",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2280
-      },
-      "prioridade": 26,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/oficialezequielneiva/",
-        "site_oficial": "https://ezequielneiva2026.com.br",
-        "youtube": "https://www.youtube.com/channel/uc0w1lav1-zl5ealesaail-a",
-        "facebook": "https://www.facebook.com/oficialezequielneiva"
       },
       "contatos": {},
       "bandeiras": [
@@ -3755,23 +3628,6 @@
       ]
     },
     {
-      "nome_completo": "Wanderson da Silva",
-      "nome_urna": "Rei dos Varais",
-      "foto": "fotos_pp_brasil/FRO220002547318_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RO",
-      "partido": {
-        "sigla": "PP",
-        "numero": 11007
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rodrigo Augusto Macedo Marinho",
       "nome_urna": "Rodrigo Marinho",
       "foto": "fotos_pp_brasil/FRO220002547314_div.jpg",
@@ -4163,23 +4019,6 @@
         "numero": 25123
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Adilson Honorato Gomes",
-      "nome_urna": "Adilson Honorato",
-      "foto": "fotos_psd_brasil/FRO220002539999_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RO",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5544
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5999,41 +5838,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -6069,5 +5873,5 @@
       ]
     }
   ],
-  "hash": "2cc7daed0ca5"
+  "hash": "21e4ef2e5124"
 }

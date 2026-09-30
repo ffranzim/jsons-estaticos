@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Alessandro Garcia",
@@ -132,23 +132,6 @@
         "numero": 365
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Milena Fernandes da Silva",
-      "nome_urna": "Milena Fernandes",
-      "foto": "fotos_agir_brasil/FMS120002534957_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MS",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3699
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -888,23 +871,6 @@
       ]
     },
     {
-      "nome_completo": "João Faria Alves",
-      "nome_urna": "Joao Farias",
-      "foto": "fotos_dc_brasil/FMS120002553245_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MS",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27090
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jose Lopez dos Santos Sobrinho",
       "nome_urna": "Zé Lopes",
       "foto": "fotos_dc_brasil/FMS120002552945_div.jpg",
@@ -915,23 +881,6 @@
         "numero": 2712
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Juliana Lopes da Silva Gamarra",
-      "nome_urna": "Juliana Lopes",
-      "foto": "fotos_dc_brasil/FMS120002553015_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MS",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27234
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1017,23 +966,6 @@
         "numero": 2777
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Maria Ferreira dos Santos",
-      "nome_urna": "Maria do Natal",
-      "foto": "fotos_dc_brasil/FMS120002553016_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MS",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27555
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1238,23 +1170,6 @@
         "numero": 2790
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Antonio Carlos Rodrigues de Farias",
-      "nome_urna": "Tonhão do Forró",
-      "foto": "fotos_dc_brasil/FMS120002553249_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MS",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27113
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3814,23 +3729,6 @@
       ]
     },
     {
-      "nome_completo": "Leticia Tocantins Lobo Aratani de Almeida",
-      "nome_urna": "Leticia Aratani",
-      "foto": "fotos_prd_brasil/FMS120002552209_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MS",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25511
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Luciana de Oliveira Vera Mendonça",
       "nome_urna": "Luciana Mendonça",
       "foto": "fotos_prd_brasil/FMS120002552176_div.jpg",
@@ -5520,41 +5418,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -5590,5 +5453,5 @@
       ]
     }
   ],
-  "hash": "72ecc4a368f1"
+  "hash": "cce76abf85fd"
 }

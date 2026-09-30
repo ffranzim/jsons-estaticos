@@ -1,211 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
-    {
-      "nome_completo": "José Cristiano dos Santos",
-      "nome_urna": "Cristiano Mateus",
-      "foto": "fotos_avante_brasil/FPB150002553391_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7020
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Amara Cristina dos Santos",
-      "nome_urna": "Cristina de João Bodin",
-      "foto": "fotos_avante_brasil/FPB150002553393_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7030
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Daniel da Silva Trigueiro",
-      "nome_urna": "Daniel Trigueiro",
-      "foto": "fotos_avante_brasil/FPB150002553394_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7080
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Danilo Ilton de Sousa",
-      "nome_urna": "Danilo Ilton",
-      "foto": "fotos_avante_brasil/FPB150002553392_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7070
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francileide da Silva",
-      "nome_urna": "Neide Bicuda",
-      "foto": "fotos_avante_brasil/FPB150002553390_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7010
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Hesmon Rodolfo Duarte de Oliveira",
-      "nome_urna": "Rodolfo Duarte",
-      "foto": "fotos_avante_brasil/FPB150002553397_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7050
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Valdecir Amorim Rodrigues Junior",
-      "nome_urna": "Valdecir Junior",
-      "foto": "fotos_avante_brasil/FPB150002553396_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7011
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Marcos Rodrigues da Silva",
-      "nome_urna": "Zé Marcos",
-      "foto": "fotos_avante_brasil/FPB150002553395_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7060
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Antonio Alixandre Maracaja Pires",
-      "nome_urna": "Coronel Alixandre",
-      "foto": "fotos_avante_brasil/FPB150002553966_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7000
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Emerson Pereira de Lima",
-      "nome_urna": "Missinho do Bode",
-      "foto": "fotos_avante_brasil/FPB150002553964_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7090
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Etivaldo Azevedo Bandeira",
-      "nome_urna": "Sargento Etivaldo",
-      "foto": "fotos_avante_brasil/FPB150002553963_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7040
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gleciene da Costa Batista",
-      "nome_urna": "Gleciene",
-      "foto": "fotos_avante_brasil/FPB150002553965_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7099
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Eliú Antenor Nicacio da Silva",
       "nome_urna": "Eliu Nicácio",
@@ -402,23 +198,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 2755
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Stéffenie Jéssica Gomes da Silva",
-      "nome_urna": "Steffenie Jessica",
-      "foto": "fotos_dc_brasil/FPB150002553620_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2700
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -1935,25 +1714,6 @@
       ]
     },
     {
-      "nome_completo": "José Aledson de Sousa Moura",
-      "nome_urna": "Dr. Aledson Moura",
-      "foto": "fotos_pl_brasil/FPB150002538446_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2244
-      },
-      "prioridade": 26,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/draledson/"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "José Evandro Alves da Trindade",
       "nome_urna": "Dr. Evandro Trindade",
       "foto": "fotos_pl_brasil/FPB150002541179_div.jpg",
@@ -2027,42 +1787,6 @@
       "redes_sociais": {
         "site_oficial": "https://emircg02gmail.com"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Joab Almeida Calixto",
-      "nome_urna": "Engenheiro Joab",
-      "foto": "fotos_pl_brasil/FPB150002541199_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22400
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "facebook": "https://www.facebook.com/share/164bhn38sks/"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Fabiano Soares Batista",
-      "nome_urna": "Fabiano Soares",
-      "foto": "fotos_pl_brasil/FPB150002541176_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22500
-      },
-      "prioridade": 6,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -2239,25 +1963,6 @@
       "prioridade": 6,
       "redes_sociais": {
         "instagram": "https://www.instagram.com/michelyfarina"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Mônica Valéria de Albuquerque",
-      "nome_urna": "Mônica Albuquerque",
-      "foto": "fotos_pl_brasil/FPB150002541198_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22025
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/monica_de_albuquerque_"
       },
       "contatos": {},
       "bandeiras": [
@@ -2468,23 +2173,6 @@
         "instagram": "https://www.instagram.com/segundodomiciano",
         "facebook": "https://www.facebook.com/segundodomiciano/"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Maria Alves da Silva",
-      "nome_urna": "Ten Alves da Flamengueira",
-      "foto": "fotos_pl_brasil/FPB150002541197_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22223
-      },
-      "prioridade": 6,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -2734,23 +2422,6 @@
       "partido": {
         "sigla": "PODE",
         "numero": 2011
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Sara Maria Francisca Medeiros Cabral",
-      "nome_urna": "Sara Cabral",
-      "foto": "fotos_pode_brasil/FPB150002533577_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 2033
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -3585,23 +3256,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Janine Assis de Lucena Barros",
-      "nome_urna": "Janine Lucena",
-      "foto": "fotos_psd_brasil/FPB150002544908_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "PB",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 155
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Joao dos Santos Filho",
       "nome_urna": "João dos Santos",
       "foto": "fotos_psd_brasil/FPB150002544012_div.jpg",
@@ -4359,23 +4013,6 @@
       ]
     },
     {
-      "nome_completo": "Josenildo Trajano Soares",
-      "nome_urna": "Trajano",
-      "foto": "fotos_solidariedade_brasil/FPB150002549763_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PB",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7724
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Daniel Gomes da Silva",
       "nome_urna": "Daniel Gomes",
       "foto": "fotos_uniao_brasil/FPB150002548930_div.jpg",
@@ -4754,41 +4391,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -4824,5 +4426,5 @@
       ]
     }
   ],
-  "hash": "bf3cfc83a67e"
+  "hash": "fa4a0b48ed40"
 }

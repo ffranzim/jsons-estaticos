@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Ademir Goncalves",
@@ -190,23 +190,6 @@
       ]
     },
     {
-      "nome_completo": "Aparecido Custodio da Silva",
-      "nome_urna": "Custódio da Silva",
-      "foto": "fotos_avante_brasil/FPR160002547955_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70777
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Danielle Marques da Silva",
       "nome_urna": "Danielle Marques",
       "foto": "fotos_avante_brasil/FPR160002547395_div.jpg",
@@ -334,23 +317,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 70001
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Heraldo Felipe de Faria",
-      "nome_urna": "Heraldo Farias",
-      "foto": "fotos_avante_brasil/FPR160002547942_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70234
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -717,23 +683,6 @@
       ]
     },
     {
-      "nome_completo": "Lucas Aparecido Ramos",
-      "nome_urna": "Lucas Ramos",
-      "foto": "fotos_cidadania_brasil/FPR160002552790_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 23623
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Luis Eduardo de Souza Lelis",
       "nome_urna": "Luis Lelis",
       "foto": "fotos_cidadania_brasil/FPR160002549548_div.jpg",
@@ -989,57 +938,6 @@
       ]
     },
     {
-      "nome_completo": "Jailson Soares da Silva",
-      "nome_urna": "Ja Ja da Saude",
-      "foto": "fotos_democrata_brasil/FPR160002553651_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3501
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Keila Patricia Ramos",
-      "nome_urna": "Keila Ramos",
-      "foto": "fotos_democrata_brasil/FPR160002553672_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35799
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcio Luiz Gonçalves",
-      "nome_urna": "Marcio Loco",
-      "foto": "fotos_democrata_brasil/FPR160002553671_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35700
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Miguel Angelo de Oliveira Santos Machado",
       "nome_urna": "Miguel Bombeiro",
       "foto": "fotos_democrata_brasil/FPR160002553656_div.jpg",
@@ -1125,23 +1023,6 @@
       ]
     },
     {
-      "nome_completo": "Joao Sabino dos Santos",
-      "nome_urna": "Sabino",
-      "foto": "fotos_democrata_brasil/FPR160002553668_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Thyago Rolao dos Santos",
       "nome_urna": "Sargento dos Santos",
       "foto": "fotos_democrata_brasil/FPR160002553659_div.jpg",
@@ -1176,108 +1057,6 @@
       ]
     },
     {
-      "nome_completo": "Tania Mara Preszaniuk",
-      "nome_urna": "Tania Mara",
-      "foto": "fotos_democrata_brasil/FPR160002553653_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3510
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Thays Barbara de Paula Aguiar",
-      "nome_urna": "Taís Bárbara",
-      "foto": "fotos_democrata_brasil/FPR160002553657_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3570
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Aparecido da Silva Garcia",
-      "nome_urna": "Aparecido Garcia",
-      "foto": "fotos_democrata_brasil/FPR160002553962_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3589
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Claudinei Lopes de Souza Borges",
-      "nome_urna": "Claudinei Borges",
-      "foto": "fotos_democrata_brasil/FPR160002554129_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3522
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Daniel dos Santos",
-      "nome_urna": "Daniel Negão",
-      "foto": "fotos_democrata_brasil/FPR160002554125_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3542
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Daniele de Almeida Pinto",
-      "nome_urna": "Dani Almeida",
-      "foto": "fotos_democrata_brasil/FPR160002554126_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3533
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Mauricio Schulz",
       "nome_urna": "Schulz",
       "foto": "fotos_democrata_brasil/FPR160002554124_div.jpg",
@@ -1288,40 +1067,6 @@
         "numero": 3500
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rosemarie Luza Gewehr",
-      "nome_urna": "Rosemarie",
-      "foto": "fotos_democrata_brasil/FPR160002554123_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3599
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francisco Valentim Filho",
-      "nome_urna": "Baixinho da Dalabona",
-      "foto": "fotos_democrata_brasil/FPR160002554128_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35555
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3040,26 +2785,6 @@
         "instagram": "https://www.instagram.com/celmasgomes",
         "youtube": "https://www.youtube.com/@cgpsicologa9274",
         "facebook": "https://www.facebook.com/celmajuliane"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Cristianne Costa Lauer",
-      "nome_urna": "Cris Lauer",
-      "foto": "fotos_novo_brasil/FPR160002542378_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30001
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/crislauer_",
-        "facebook": "https://www.facebook.com/share/1btl8zgpjs/"
       },
       "contatos": {},
       "bandeiras": [
@@ -5543,25 +5268,6 @@
         "site_oficial": "https://www.mineirodeputado.com.br/",
         "youtube": "https://youtube.com/@henriquex2255",
         "facebook": "https://www.facebook.com/share/1egcwd2gkq/"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Miriam Ferreira da Silva",
-      "nome_urna": "Miriam Ferreira",
-      "foto": "fotos_pl_brasil/FPR160002547566_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2226
-      },
-      "prioridade": 26,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/miriam_ferreira/"
       },
       "contatos": {},
       "bandeiras": [
@@ -8431,23 +8137,6 @@
       ]
     },
     {
-      "nome_completo": "Andressa Aparecida Leontino",
-      "nome_urna": "Andressa Leontino",
-      "foto": "fotos_prd_brasil/FPR160002553364_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2525
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Diego Carlos Moraes do Valle",
       "nome_urna": "Diego do Valle",
       "foto": "fotos_prd_brasil/FPR160002553366_div.jpg",
@@ -8456,23 +8145,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 2577
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Nassib Kassem Hammad",
-      "nome_urna": "Dr Nassib",
-      "foto": "fotos_prd_brasil/FPR160002553362_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2567
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -8609,23 +8281,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 2530
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Fernando Augusto Tanck",
-      "nome_urna": "Tanck",
-      "foto": "fotos_prd_brasil/FPR160002553370_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2517
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -10642,23 +10297,6 @@
       ]
     },
     {
-      "nome_completo": "Roseléia Lucas dos Santos",
-      "nome_urna": "Rô Despachante",
-      "foto": "fotos_psdb_brasil/FPR160002552814_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45111
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Sandra Aparecida da Silva Lopes",
       "nome_urna": "Sandra Lopes",
       "foto": "fotos_psdb_brasil/FPR160002552830_div.jpg",
@@ -10839,40 +10477,6 @@
         "numero": 4588
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Dirceu Alves de Almeida",
-      "nome_urna": "José Dirceu Direita",
-      "foto": "fotos_psdb_brasil/FPR160002554285_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45030
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Silvane Costa Rosa",
-      "nome_urna": "Silvane",
-      "foto": "fotos_psdb_brasil/FPR160002554286_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45772
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -11063,23 +10667,6 @@
         "numero": 1055
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Clovis Cesar Fernandes de Amorim",
-      "nome_urna": "Clovis Amorim",
-      "foto": "fotos_republicanos_brasil/FPR160002547555_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10070
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -11805,23 +11392,6 @@
       ]
     },
     {
-      "nome_completo": "Edivande José de Freitas",
-      "nome_urna": "Dr. Edivande Freitas",
-      "foto": "fotos_solidariedade_brasil/FPR160002553379_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77888
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Francisjones Cavalcanti",
       "nome_urna": "Francis Cavalcanti",
       "foto": "fotos_solidariedade_brasil/FPR160002553365_div.jpg",
@@ -12019,23 +11589,6 @@
         "numero": 7707
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rute Bravo dos Santos da Silva",
-      "nome_urna": "Rute Bravo",
-      "foto": "fotos_solidariedade_brasil/FPR160002553388_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PR",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77678
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -12573,23 +12126,6 @@
       ]
     },
     {
-      "nome_completo": "José Renato Rosalino da Silva",
-      "nome_urna": "Pastor Renato",
-      "foto": "fotos_uniao_brasil/FPR160002532879_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PR",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 4447
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Paulo Henrique Coletti Fernandes",
       "nome_urna": "Paulo Litro",
       "foto": "fotos_uniao_brasil/FPR160002532859_div.jpg",
@@ -12917,41 +12453,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -12987,5 +12488,5 @@
       ]
     }
   ],
-  "hash": "42787546cbf7"
+  "hash": "c759acf1a5e8"
 }

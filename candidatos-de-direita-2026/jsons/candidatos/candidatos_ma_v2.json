@@ -1,24 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
-    {
-      "nome_completo": "Ester Alves Soares",
-      "nome_urna": "Ester Alves",
-      "foto": "fotos_agir_brasil/FMA100002550419_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "MA",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 333
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Adael dos Santos Camara",
       "nome_urna": "Adael da Pesca",
@@ -241,23 +224,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Eunice Bezerra Ferreira",
-      "nome_urna": "Eunice da Sinuca",
-      "foto": "fotos_avante_brasil/FMA100002550970_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MA",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70787
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Janiel Ferreira Lima",
       "nome_urna": "Fidel Castro Junior",
       "foto": "fotos_avante_brasil/FMA100002550949_div.jpg",
@@ -428,23 +394,6 @@
       ]
     },
     {
-      "nome_completo": "Sandriane Gomes da Silva Leal",
-      "nome_urna": "Mulher Leal",
-      "foto": "fotos_avante_brasil/FMA100002550968_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MA",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70085
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Nayara Bastos de Carvalho",
       "nome_urna": "Nayara Bastos",
       "foto": "fotos_avante_brasil/FMA100002550959_div.jpg",
@@ -538,23 +487,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7051
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Maria da Conceicao Rodrigues Belfort",
-      "nome_urna": "Profa Belfortt",
-      "foto": "fotos_avante_brasil/FMA100002550740_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MA",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7085
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -1248,23 +1180,6 @@
       ]
     },
     {
-      "nome_completo": "Isabelle Passinho da Silva",
-      "nome_urna": "Isabelle Passinho",
-      "foto": "fotos_mdb_brasil/FMA100002536100_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MA",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1577
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ivo Rezende Aragao",
       "nome_urna": "Ivo Rezende",
       "foto": "fotos_mdb_brasil/FMA100002540260_div.jpg",
@@ -1785,23 +1700,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 3312
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marinaldo Carvalho Alves",
-      "nome_urna": "Marinaldo Alves",
-      "foto": "fotos_mobiliza_brasil/FMA100002551391_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MA",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 3310
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -2392,23 +2290,6 @@
         "instagram": "https://www.instagram.com/nubiadohermesoficial",
         "facebook": "https://www.facebook.com/share/19kg5n9w3h/"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "José Pereira Gomes de Oliveira",
-      "nome_urna": "Pereirão do Povo",
-      "foto": "fotos_novo_brasil/FMA100002545704_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MA",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3044
-      },
-      "prioridade": 30,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -3866,23 +3747,6 @@
       ]
     },
     {
-      "nome_completo": "Caroline Victoria Moura Medeiros",
-      "nome_urna": "Carol Medeiros",
-      "foto": "fotos_prd_brasil/FMA100002542578_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MA",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25666
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Samoel Campelo",
       "nome_urna": "Coletivo Samuel de Itapecuru",
       "foto": "fotos_prd_brasil/FMA100002542559_div.jpg",
@@ -3927,23 +3791,6 @@
         "numero": 2588
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Diêgo Reis Rodrigues",
-      "nome_urna": "Diego Uber",
-      "foto": "fotos_prd_brasil/FMA100002542579_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MA",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25888
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5195,23 +5042,6 @@
       ]
     },
     {
-      "nome_completo": "Anderson Martins das Dores",
-      "nome_urna": "Anderson Martins",
-      "foto": "fotos_republicanos_brasil/FMA100002535228_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MA",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 1015
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Marco Andre Campos da Silva",
       "nome_urna": "André Campos",
       "foto": "fotos_republicanos_brasil/FMA100002535490_div.jpg",
@@ -6116,23 +5946,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Francisco Lima Neres",
-      "nome_urna": "Dr. Zé Francisco",
-      "foto": "fotos_uniao_brasil/FMA100002542874_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MA",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 4480
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Gilliano Fred Nascimento Cutrim",
       "nome_urna": "Gil Cutrim",
       "foto": "fotos_uniao_brasil/FMA100002542879_div.jpg",
@@ -6717,41 +6530,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -6787,5 +6565,5 @@
       ]
     }
   ],
-  "hash": "9c5039bc1d61"
+  "hash": "688deee5b158"
 }

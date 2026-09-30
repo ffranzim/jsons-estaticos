@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-20T00:14:10+00:00",
-  "versao": 9,
-  "hash": "93bcb9d7ed41",
+  "gerado_em": "2026-09-30T00:20:40+00:00",
+  "versao": 10,
+  "hash": "500d63d70c7a",
   "apoiadores": [
     {
       "id": "app",
@@ -110,10 +110,6 @@
           {
             "numero": 111,
             "nome": "Guilherme Derrite"
-          },
-          {
-            "numero": 300,
-            "nome": "Salles"
           },
           {
             "numero": 2211,

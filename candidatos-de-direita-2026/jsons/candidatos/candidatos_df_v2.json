@@ -1,24 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 7,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 8,
   "candidatos": [
-    {
-      "nome_completo": "Alexandre Nunes dos Santos",
-      "nome_urna": "1°sgt Alexandre - Meu Nutri",
-      "foto": "fotos_agir_brasil/FDF70002551325_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "DF",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 360
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Thiago Luiz da Silva Melo",
       "nome_urna": "Sgt Thiago Melo",
@@ -615,23 +598,6 @@
       ]
     },
     {
-      "nome_completo": "Reginaldo Silva Pereira Filho",
-      "nome_urna": "Reginaldo",
-      "foto": "fotos_avante_brasil/FDF70002552584_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "DF",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 700
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Renato Silveira Barbosa",
       "nome_urna": "Renato Silveira Barbosa",
       "foto": "fotos_avante_brasil/FDF70002546734_div.jpg",
@@ -640,23 +606,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 70193
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rigone Amorim de Queiroz",
-      "nome_urna": "Rigone Amorim",
-      "foto": "fotos_avante_brasil/FDF70002546745_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70070
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1397,40 +1346,6 @@
       ]
     },
     {
-      "nome_completo": "Avenir Angelo Rosa Filho",
-      "nome_urna": "Avenir Rosa",
-      "foto": "fotos_democrata_brasil/FDF70002553859_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "DF",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 355
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Mateus Sena Costa",
-      "nome_urna": "C.J. Gta",
-      "foto": "fotos_democrata_brasil/FDF70002546418_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "DF",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3555
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carlos Antonio dos Santos Costa",
       "nome_urna": "Carlão Reclamão",
       "foto": "fotos_democrata_brasil/FDF70002546956_div.jpg",
@@ -1473,23 +1388,6 @@
       "partido": {
         "sigla": "DEMOCRATA",
         "numero": 35353
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Diones Amorim de Almeida",
-      "nome_urna": "Diones Almeida",
-      "foto": "fotos_democrata_brasil/FDF70002551373_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35133
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1720,23 +1618,6 @@
       ]
     },
     {
-      "nome_completo": "Laira dos Santos Inácio",
-      "nome_urna": "Laira Inácio",
-      "foto": "fotos_democrata_brasil/FDF70002546416_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "DF",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3535
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Leandro Pereira Sanches Gomes",
       "nome_urna": "Sanchez",
       "foto": "fotos_democrata_brasil/FDF70002546419_div.jpg",
@@ -1781,23 +1662,6 @@
         "numero": 35035
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marco Aurélio Angelo Rosa",
-      "nome_urna": "Marco Aurélio",
-      "foto": "fotos_democrata_brasil/FDF70002553861_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "DF",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 355
-      },
-      "prioridade": 41,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1941,23 +1805,6 @@
       ]
     },
     {
-      "nome_completo": "Sebastiao Geronimo Filho",
-      "nome_urna": "Sebastião Geronimo",
-      "foto": "fotos_democrata_brasil/FDF70002553860_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "DF",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 355
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Stephanie Alves Gama de Souza",
       "nome_urna": "Stephanie Alves",
       "foto": "fotos_democrata_brasil/FDF70002546414_div.jpg",
@@ -2052,23 +1899,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 15777
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Dilson Resende de Almeida",
-      "nome_urna": "Dilson Resende",
-      "foto": "fotos_mdb_brasil/FDF70002538809_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15500
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2326,23 +2156,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 15100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Tarik Invernizzi",
-      "nome_urna": "Sargento Tárik",
-      "foto": "fotos_mdb_brasil/FDF70002542495_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15333
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3539,25 +3352,6 @@
       ]
     },
     {
-      "nome_completo": "Jairo Luis Ferreira Santos de Melo",
-      "nome_urna": "Jairo Melo",
-      "foto": "fotos_novo_brasil/FDF70002531335_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30190
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "site_oficial": "https://jairoluisbsb@gmail.com"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "José Jézer de Oliveira Júnior",
       "nome_urna": "Jézer Júnior",
       "foto": "fotos_novo_brasil/FDF70002531336_div.jpg",
@@ -3953,29 +3747,6 @@
       "contatos": {
         "whatsapp": "https://api.whatsapp.com/send?phone=5561994171966",
         "telegram": "https://t.me/alessandropaivaap"
-      },
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Andréa Pontes e Silva",
-      "nome_urna": "Andrea Pontes",
-      "foto": "fotos_pl_brasil/FDF70002550018_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22001
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/andreapontes22001",
-        "site_oficial": "https://andreapontes.com",
-        "facebook": "https://www.facebook.com/andrea.pontes.73"
-      },
-      "contatos": {
-        "whatsapp": "https://api.whatsapp.com/send?phone=5561981040661"
       },
       "bandeiras": [
         "Não cadastradas"
@@ -5125,23 +4896,6 @@
       ]
     },
     {
-      "nome_completo": "Klesley Garcia Soares",
-      "nome_urna": "Klesley Garcia",
-      "foto": "fotos_pode_brasil/FDF70002540847_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "DF",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 2022
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Manuela de Souza Andrade",
       "nome_urna": "Manuela Andrade",
       "foto": "fotos_pode_brasil/FDF70002541282_div.jpg",
@@ -6189,23 +5943,6 @@
       ]
     },
     {
-      "nome_completo": "Luiz Carlos Pietschmann",
-      "nome_urna": "Luiz Pitiman",
-      "foto": "fotos_psd_brasil/FDF70002552587_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "DF",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Eleuzito da Silva Rezende",
       "nome_urna": "Léo Rezende",
       "foto": "fotos_psd_brasil/FDF70002537386_div.jpg",
@@ -6581,23 +6318,6 @@
       ]
     },
     {
-      "nome_completo": "Benedito Aarão Sales de Araújo",
-      "nome_urna": "Benedito da Vozinha",
-      "foto": "fotos_psdb_brasil/FDF70002550877_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45222
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carlos Penna Brescianini",
       "nome_urna": "Carlos Penna",
       "foto": "fotos_psdb_brasil/FDF70002550983_div.jpg",
@@ -6691,23 +6411,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 45755
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Edleuzo Souza Cavalcante",
-      "nome_urna": "Edleuzo Cavalcante",
-      "foto": "fotos_psdb_brasil/FDF70002550988_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45061
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -6863,23 +6566,6 @@
         "numero": 45100
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Erotides Souza de Almeida Junior",
-      "nome_urna": "Junior Almeida",
-      "foto": "fotos_psdb_brasil/FDF70002551190_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "DF",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4543
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7747,23 +7433,6 @@
       ]
     },
     {
-      "nome_completo": "Anacleto de Santana Santos",
-      "nome_urna": "Anacleto",
-      "foto": "fotos_solidariedade_brasil/FDF70002538127_div.jpg",
-      "cargo_pleiteado": "Deputado Distrital",
-      "estado": "DF",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77456
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Bethania Kelly de Almeida Barbosa",
       "nome_urna": "Bethania Kelly",
       "foto": "fotos_solidariedade_brasil/FDF70002548153_div.jpg",
@@ -8360,23 +8029,6 @@
       ]
     },
     {
-      "nome_completo": "Didia Cristian Pereira Ferreira",
-      "nome_urna": "Prof. Dídia",
-      "foto": "fotos_uniao_brasil/FDF70002538516_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "DF",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 4456
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rodrigo Francelino Alves",
       "nome_urna": "Professor Francelino",
       "foto": "fotos_uniao_brasil/FDF70002538511_div.jpg",
@@ -8635,41 +8287,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -8705,5 +8322,5 @@
       ]
     }
   ],
-  "hash": "642bd2f55cd9"
+  "hash": "86166dbbbeac"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Alessandra Regina Campos Ramos",
@@ -616,57 +616,6 @@
       ]
     },
     {
-      "nome_completo": "Suely Chaves Barreto",
-      "nome_urna": "Suely Barreto",
-      "foto": "fotos_cidadania_brasil/FSE260002551711_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "SE",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 45
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Geivisson Vieira dos Anjos",
-      "nome_urna": "Geivisson",
-      "foto": "fotos_dc_brasil/FSE260002543592_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "SE",
-      "partido": {
-        "sigla": "DC",
-        "numero": 270
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Georgila de Jesus Santos",
-      "nome_urna": "Gel de Sergipe",
-      "foto": "fotos_dc_brasil/FSE260002552347_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2777
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Micheli Silva dos Santos",
       "nome_urna": "Irmã Micheli",
       "foto": "fotos_dc_brasil/FSE260002552342_div.jpg",
@@ -709,23 +658,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 277
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Paulo Vieira dos Anjos",
-      "nome_urna": "Paulinho da União Tur",
-      "foto": "fotos_dc_brasil/FSE260002543589_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "SE",
-      "partido": {
-        "sigla": "DC",
-        "numero": 270
       },
       "prioridade": 41,
       "redes_sociais": {},
@@ -813,23 +745,6 @@
         "numero": 27
       },
       "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Antônio Mário de Jesus",
-      "nome_urna": "Mario Sonhador",
-      "foto": "fotos_dc_brasil/FSE260002554205_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "SE",
-      "partido": {
-        "sigla": "DC",
-        "numero": 270
-      },
-      "prioridade": 41,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1325,26 +1240,6 @@
       },
       "prioridade": 1,
       "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Allan Lino Marques",
-      "nome_urna": "Allan Marques",
-      "foto": "fotos_novo_brasil/FSE260002533090_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3033
-      },
-      "prioridade": 30,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/allanmarques1978",
-        "facebook": "https://www.facebook.com/allanmarques"
-      },
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -1942,25 +1837,6 @@
       ]
     },
     {
-      "nome_completo": "Manoel Conde Sobral Neto",
-      "nome_urna": "Neo Sobral",
-      "foto": "fotos_pl_brasil/FSE260002549707_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2244
-      },
-      "prioridade": 26,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/manoelsobral/"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Peter Santana Costa",
       "nome_urna": "Peter Costa",
       "foto": "fotos_pl_brasil/FSE260002550757_div.jpg",
@@ -1980,26 +1856,6 @@
       "contatos": {
         "whatsapp": "https://whatsapp.com/channel/0029vajorkcgzzkc4h4pof45"
       },
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Priscilla Silva Costa",
-      "nome_urna": "Pripri do Povo",
-      "foto": "fotos_pl_brasil/FSE260002550762_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22300
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/eiprih/",
-        "facebook": "https://www.facebook.com/share/1c4mfy31ud/"
-      },
-      "contatos": {},
       "bandeiras": [
         "Não cadastradas"
       ]
@@ -2245,25 +2101,6 @@
       ]
     },
     {
-      "nome_completo": "Geyvson Cardoso Varjao",
-      "nome_urna": "Gg Leandro",
-      "foto": "fotos_pl_brasil/FSE260002554130_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22345
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/geyvsonleandro"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Adalto Vieira Aragao",
       "nome_urna": "Adalto Aragão",
       "foto": "fotos_pode_brasil/FSE260002550447_div.jpg",
@@ -2272,23 +2109,6 @@
       "partido": {
         "sigla": "PODE",
         "numero": 20200
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Allyson dos Santos Figueiredo",
-      "nome_urna": "Allyson O Sonhador",
-      "foto": "fotos_pode_brasil/FSE260002550429_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20444
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3532,23 +3352,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Acacio Ferreira Cardoso",
-      "nome_urna": "Acácio Cardoso",
-      "foto": "fotos_psdb_brasil/FSE260002551704_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4545
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Debora Cristiane dos Anjos Cavalcante",
       "nome_urna": "Cantora Debora Cristiane",
       "foto": "fotos_psdb_brasil/FSE260002551703_div.jpg",
@@ -3576,40 +3379,6 @@
         "numero": 45
       },
       "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcos Antônio Fontes da Silva",
-      "nome_urna": "Marquinhos Fontes",
-      "foto": "fotos_psdb_brasil/FSE260002551706_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4510
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Natali Lima Aragão",
-      "nome_urna": "Natali da Saúde",
-      "foto": "fotos_psdb_brasil/FSE260002551707_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4555
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -4354,159 +4123,6 @@
       ]
     },
     {
-      "nome_completo": "Fabiana de Santana Lima",
-      "nome_urna": "Fabiana Santana",
-      "foto": "fotos_solidariedade_brasil/FSE260002545619_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7707
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Giovanna Pereira Rocha",
-      "nome_urna": "Giovanna Rocha",
-      "foto": "fotos_solidariedade_brasil/FSE260002545614_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7777
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Givaldo Henrique de Jesus Silva",
-      "nome_urna": "Givaldo Silva",
-      "foto": "fotos_solidariedade_brasil/FSE260002545620_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7733
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gleidoaldo do Nascimento",
-      "nome_urna": "Gleidoaldo",
-      "foto": "fotos_solidariedade_brasil/FSE260002545622_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7766
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lucilene da Silva Gomes",
-      "nome_urna": "Lene Hall",
-      "foto": "fotos_solidariedade_brasil/FSE260002545615_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7711
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Moacir Vieira dos Santos Filho",
-      "nome_urna": "Moacir da Ambulância",
-      "foto": "fotos_solidariedade_brasil/FSE260002545617_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7722
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Sergio Mendonca Fontes Junior",
-      "nome_urna": "Serginho Mendonça",
-      "foto": "fotos_solidariedade_brasil/FSE260002545616_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7755
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Soares Pinto",
-      "nome_urna": "Soares Pinto",
-      "foto": "fotos_solidariedade_brasil/FSE260002545621_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7700
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Vitória Simões Teles",
-      "nome_urna": "Vitoria Simões",
-      "foto": "fotos_solidariedade_brasil/FSE260002545618_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SE",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7788
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Alex Santos Souza",
       "nome_urna": "Alex Pintado",
       "foto": "fotos_uniao_brasil/FSE260002547413_div.jpg",
@@ -5064,41 +4680,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -5134,5 +4715,5 @@
       ]
     }
   ],
-  "hash": "736800197013"
+  "hash": "0853d248054c"
 }

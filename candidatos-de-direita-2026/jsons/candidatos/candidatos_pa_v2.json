@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Adriene Hage Pires",
@@ -198,23 +198,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7070
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Heuder Pereira Pires",
-      "nome_urna": "Geógrafo Raiz",
-      "foto": "fotos_avante_brasil/FPA140002548661_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7020
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -516,23 +499,6 @@
       ]
     },
     {
-      "nome_completo": "Salomao Reis Anjos Rabelo",
-      "nome_urna": "Prof Salomão Reis",
-      "foto": "fotos_avante_brasil/FPA140002541321_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70466
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Osmar Pereira da Silva Filho",
       "nome_urna": "Professor Osmar Holanda",
       "foto": "fotos_avante_brasil/FPA140002553885_div.jpg",
@@ -664,23 +630,6 @@
       },
       "prioridade": 1,
       "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Williane Oliveira de Sousa Carvalho",
-      "nome_urna": "Willi Carvalho",
-      "foto": "fotos_avante_brasil/FPA140002548656_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7075
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -875,23 +824,6 @@
       ]
     },
     {
-      "nome_completo": "Rosiani Sanches Mourão",
-      "nome_urna": "Bianny Sanches",
-      "foto": "fotos_dc_brasil/FPA140002531060_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2777
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Caroline Prestes dos Santos Marcelino",
       "nome_urna": "Carolina",
       "foto": "fotos_dc_brasil/FPA140002552073_div.jpg",
@@ -926,23 +858,6 @@
       ]
     },
     {
-      "nome_completo": "Daniella Lopes Pereira Bitencourt",
-      "nome_urna": "Daniella Bitencourt",
-      "foto": "fotos_dc_brasil/FPA140002552072_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27277
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Deivith Esmaily dos Santos Ferreira",
       "nome_urna": "Deivith Potente",
       "foto": "fotos_dc_brasil/FPA140002531062_div.jpg",
@@ -951,23 +866,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 2720
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Roberto Lobato de Souza",
-      "nome_urna": "Dr. Jose Roberto",
-      "foto": "fotos_dc_brasil/FPA140002531069_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2717
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -1249,23 +1147,6 @@
       ]
     },
     {
-      "nome_completo": "Scilas de Jesus da Silva Muinhos",
-      "nome_urna": "Professor Silas",
-      "foto": "fotos_dc_brasil/FPA140002531063_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2775
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jacirene Siqueira do Espirito Santo",
       "nome_urna": "Professora Jace Siqueira",
       "foto": "fotos_dc_brasil/FPA140002531072_div.jpg",
@@ -1310,23 +1191,6 @@
         "numero": 277
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jandyr Ferreira de Araujo",
-      "nome_urna": "Tenete Coronel Jandyr",
-      "foto": "fotos_dc_brasil/FPA140002552075_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27499
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1387,24 +1251,6 @@
       "status_tse": "Aguardando julgamento"
     },
     {
-      "nome_completo": "José Lucivaldo Moita",
-      "nome_urna": "José Moita",
-      "foto": "fotos_democrata_brasil/FPA140002551357_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "status_tse": "Aguardando julgamento"
-    },
-    {
       "nome_completo": "Nelson Antonio Barbosa Margalho",
       "nome_urna": "Nelson Margalho",
       "foto": "fotos_democrata_brasil/FPA140002548152_div.jpg",
@@ -1420,41 +1266,6 @@
       "bandeiras": [
         "Não cadastradas"
       ]
-    },
-    {
-      "nome_completo": "Ruth Helena Ferreira Reis",
-      "nome_urna": "Ruth Reis",
-      "foto": "fotos_democrata_brasil/FPA140002548151_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 355
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ruth Helena Ferreira Reis",
-      "nome_urna": "Ruth Reis",
-      "foto": "fotos_democrata_brasil/FPA140002551358_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "PA",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ],
-      "status_tse": "Aguardando julgamento"
     },
     {
       "nome_completo": "Adriana Ferreira de Almeida Silva",
@@ -2252,23 +2063,6 @@
       ]
     },
     {
-      "nome_completo": "Ana Raquel Braga Silva",
-      "nome_urna": "Ana Raquel",
-      "foto": "fotos_novo_brasil/FPA140002551856_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3000
-      },
-      "prioridade": 30,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Aparecida Silva Rêgo",
       "nome_urna": "Aparecida Rego",
       "foto": "fotos_novo_brasil/FPA140002553903_div.jpg",
@@ -2791,24 +2585,6 @@
         "instagram": "https://www.instagram.com/silvioterracohotel",
         "facebook": "https://www.facebook.com/share/14gwxwa4txw/"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Wagner Bach Martins",
-      "nome_urna": "Vavá Martins",
-      "foto": "fotos_novo_brasil/FPA140002551858_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3010
-      },
-      "prioridade": 30,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -3927,25 +3703,6 @@
       ]
     },
     {
-      "nome_completo": "Rayssa Nayara Gomes de Lima",
-      "nome_urna": "Rayssa Lima",
-      "foto": "fotos_pl_brasil/FPA140002549260_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22123
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/rayssalima.19oficial"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Renata Abreu do Nascimento Fonseca",
       "nome_urna": "Renata Fonseca",
       "foto": "fotos_pl_brasil/FPA140002549255_div.jpg",
@@ -4247,23 +4004,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Haroldo Araujo da Silva Rodrigues",
-      "nome_urna": "Baratão",
-      "foto": "fotos_pode_brasil/FPA140002544240_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20120
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Alexsandro Santos de Sousa",
       "nome_urna": "Bonança",
       "foto": "fotos_pode_brasil/FPA140002544261_div.jpg",
@@ -4378,23 +4118,6 @@
         "numero": 2024
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ronald Xavier de Oliveira",
-      "nome_urna": "Dedê",
-      "foto": "fotos_pode_brasil/FPA140002544239_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20999
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5486,23 +5209,6 @@
       ]
     },
     {
-      "nome_completo": "Elen Rose de Jesus Silva Ferreira",
-      "nome_urna": "Elen Ferreira",
-      "foto": "fotos_prd_brasil/FPA140002552353_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25255
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Breno Simão Tavares de Tavares",
       "nome_urna": "Enfermeiro Breno",
       "foto": "fotos_prd_brasil/FPA140002552354_div.jpg",
@@ -6118,23 +5824,6 @@
       ]
     },
     {
-      "nome_completo": "Sebastiao Miranda Filho",
-      "nome_urna": "Tião Miranda",
-      "foto": "fotos_psd_brasil/FPA140002537036_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5594
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Maria Vitoria Reis Hesketh",
       "nome_urna": "Vitória Hesketh",
       "foto": "fotos_psd_brasil/FPA140002536867_div.jpg",
@@ -6281,23 +5970,6 @@
         "numero": 4545
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lucirene da Silva Lima",
-      "nome_urna": "Lene Lima",
-      "foto": "fotos_psdb_brasil/FPA140002550105_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45899
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7139,23 +6811,6 @@
       ]
     },
     {
-      "nome_completo": "Rodrigo Barbosa Ferreira",
-      "nome_urna": "Rodrigo Santarém",
-      "foto": "fotos_republicanos_brasil/FPA140002538958_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 1077
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rosival Possidonio do Nascimento",
       "nome_urna": "Rosival Possidônio",
       "foto": "fotos_republicanos_brasil/FPA140002536961_div.jpg",
@@ -7411,23 +7066,6 @@
       ]
     },
     {
-      "nome_completo": "Jane Patricia Gama do Espirito Santo",
-      "nome_urna": "Chapa Coletiva do Axé",
-      "foto": "fotos_solidariedade_brasil/FPA140002552363_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77180
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Paulo Sergio Souza",
       "nome_urna": "Chico da Pesca",
       "foto": "fotos_solidariedade_brasil/FPA140002552332_div.jpg",
@@ -7504,23 +7142,6 @@
       "partido": {
         "sigla": "SOLIDARIEDADE",
         "numero": 77722
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Idailson Almeida Tigre",
-      "nome_urna": "Idailson Tigre",
-      "foto": "fotos_solidariedade_brasil/FPA140002552364_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77222
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -7666,23 +7287,6 @@
       ]
     },
     {
-      "nome_completo": "Raimundo Sousa",
-      "nome_urna": "Professor Raimundo Sousa",
-      "foto": "fotos_solidariedade_brasil/FPA140002552350_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77888
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jose Raimundo de Oliveira",
       "nome_urna": "Raimundo Belo",
       "foto": "fotos_solidariedade_brasil/FPA140002552333_div.jpg",
@@ -7691,23 +7295,6 @@
       "partido": {
         "sigla": "SOLIDARIEDADE",
         "numero": 7700
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ricardo Augusto Marinho de Alencar",
-      "nome_urna": "Ricardo Alencar",
-      "foto": "fotos_solidariedade_brasil/FPA140002552338_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7776
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -7744,23 +7331,6 @@
         "numero": 7755
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Manuel Vildo Tiago",
-      "nome_urna": "Tiago do Consumidor",
-      "foto": "fotos_solidariedade_brasil/FPA140002552367_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77712
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7840,23 +7410,6 @@
       "nome_urna": "Ian Blois Pinheiro",
       "foto": "fotos_solidariedade_brasil/FPA140002553959_div.jpg",
       "cargo_pleiteado": "1º Suplente",
-      "estado": "PA",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 777
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Joaquim Duarte Cordeiro",
-      "nome_urna": "Kinzinho",
-      "foto": "fotos_solidariedade_brasil/FPA140002553960_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
       "estado": "PA",
       "partido": {
         "sigla": "SOLIDARIEDADE",
@@ -7974,23 +7527,6 @@
       "status_tse": "Aguardando julgamento"
     },
     {
-      "nome_completo": "Fábio Alex Corrêa Barra",
-      "nome_urna": "Coronel Barra",
-      "foto": "fotos_uniao_brasil/FPA140002551131_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44007
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Marco Antonio Gomes",
       "nome_urna": "Coronel Marco Antonio",
       "foto": "fotos_uniao_brasil/FPA140002553881_div.jpg",
@@ -8105,23 +7641,6 @@
       },
       "prioridade": 21,
       "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Joaquim Aristides Araujo Campos",
-      "nome_urna": "Joaquim Campos",
-      "foto": "fotos_uniao_brasil/FPA140002551148_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44400
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -8489,23 +8008,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Willian Goncalves de Oliveira",
-      "nome_urna": "Willian do Potência",
-      "foto": "fotos_uniao_brasil/FPA140002554064_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PA",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44300
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Augusto Jorge Cury",
       "nome_urna": "Escritor Augusto Cury",
       "foto": "fotos_avante_brasil/FBR280002551547_div.jpg",
@@ -8713,41 +8215,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -8842,5 +8309,5 @@
       "status_tse": "Aguardando julgamento"
     }
   ],
-  "hash": "6585e8d91ddd"
+  "hash": "01b7f45ed712"
 }

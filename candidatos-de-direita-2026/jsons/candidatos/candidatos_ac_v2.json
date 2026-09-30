@@ -1,75 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
-    {
-      "nome_completo": "Adalberto Souza de Almeida",
-      "nome_urna": "Adalberto Souza",
-      "foto": "fotos_agir_brasil/FAC10002538249_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Antonio José Rodrigues Marcos",
-      "nome_urna": "Antonio Jose",
-      "foto": "fotos_agir_brasil/FAC10002536767_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AC",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3600
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Alberto Pereira Rodrigues",
-      "nome_urna": "Carlinho Rodrigues",
-      "foto": "fotos_agir_brasil/FAC10002538248_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36120
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Daniel Moura Sampaio",
-      "nome_urna": "Daniel Sampaio",
-      "foto": "fotos_agir_brasil/FAC10002538247_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36222
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Daniela Paiva de Oliveira",
       "nome_urna": "Daniela Paiva",
@@ -98,40 +30,6 @@
         "numero": 36
       },
       "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Edivaldo de Freitas Paes",
-      "nome_urna": "Edivaldo Paes",
-      "foto": "fotos_agir_brasil/FAC10002538251_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Davi Teixeira",
-      "nome_urna": "Padeiro da Fundhacre",
-      "foto": "fotos_agir_brasil/FAC10002538250_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36112
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -258,23 +156,6 @@
       ]
     },
     {
-      "nome_completo": "Cristiane de Souza da Rocha",
-      "nome_urna": "Cristiane de Araujo",
-      "foto": "fotos_cidadania_brasil/FAC10002544040_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 23555
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Juliet Neves Matos",
       "nome_urna": "Juliet",
       "foto": "fotos_cidadania_brasil/FAC10002544280_div.jpg",
@@ -387,23 +268,6 @@
         "numero": 277
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Italo Marcel Nogueira Brasileiro",
-      "nome_urna": "Italo Marcel",
-      "foto": "fotos_democrata_brasil/FAC10002551862_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AC",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3501
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -548,23 +412,6 @@
       ]
     },
     {
-      "nome_completo": "Darla Cristina Penha Almeida de Oliveira",
-      "nome_urna": "Darla Cristina",
-      "foto": "fotos_mdb_brasil/FAC10002552004_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15120
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Adgicleia dos Santos Guimarães",
       "nome_urna": "Dr.. Kel Guimarães",
       "foto": "fotos_mdb_brasil/FAC10002532416_div.jpg",
@@ -575,23 +422,6 @@
         "numero": 1567
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Esperidiao Menezes Junior",
-      "nome_urna": "Esperidião Junior",
-      "foto": "fotos_mdb_brasil/FAC10002552006_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15111
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -777,23 +607,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 15444
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Sergio Ricardo Alves de Oliveira",
-      "nome_urna": "Sergio Ricardo",
-      "foto": "fotos_mdb_brasil/FAC10002552001_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15152
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1068,26 +881,6 @@
       "redes_sociais": {
         "instagram": "https://www.instagram.com/germanodoesperanca",
         "facebook": "https://www.facebook.com/@germanodoesperanca"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "José Antônio Gomes da Silva",
-      "nome_urna": "José Gomes",
-      "foto": "fotos_novo_brasil/FAC10002533994_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30122
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/josegomesdasilva52",
-        "facebook": "https://www.facebook.com/josegomesdasilva"
       },
       "contatos": {},
       "bandeiras": [
@@ -1567,23 +1360,6 @@
         "instagram": "https://www.instagram.com/delegadosergiolopes/",
         "facebook": "https://www.facebook.com/profile.php?id=100042148568630&locale=pt_br"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Giovanni Bady Casseb",
-      "nome_urna": "Dr. Giovanni Casseb",
-      "foto": "fotos_pl_brasil/FAC10002545659_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22345
-      },
-      "prioridade": 6,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -2112,23 +1888,6 @@
       ]
     },
     {
-      "nome_completo": "Eros Asfuri Barroso",
-      "nome_urna": "Eros Asfury",
-      "foto": "fotos_pode_brasil/FAC10002552839_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20777
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Evânia Maria Ferraz Araújo",
       "nome_urna": "Eva Araujo",
       "foto": "fotos_pode_brasil/FAC10002552835_div.jpg",
@@ -2494,23 +2253,6 @@
       "partido": {
         "sigla": "PODE",
         "numero": 20789
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Manoel Airton Souza da Costa",
-      "nome_urna": "M. Airton",
-      "foto": "fotos_pode_brasil/FAC10002553979_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20581
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4055,23 +3797,6 @@
       ]
     },
     {
-      "nome_completo": "Geana Ferreira Lima",
-      "nome_urna": "Geana Ferreira",
-      "foto": "fotos_republicanos_brasil/FAC10002536333_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AC",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10333
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Gene Glenn Diniz Andrade",
       "nome_urna": "Gene Diniz",
       "foto": "fotos_republicanos_brasil/FAC10002536331_div.jpg",
@@ -5201,41 +4926,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -5271,5 +4961,5 @@
       ]
     }
   ],
-  "hash": "9d1cb6573319"
+  "hash": "7a953ed5f1aa"
 }

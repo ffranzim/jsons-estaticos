@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Clovis Ferreira da Costa",
@@ -224,23 +224,6 @@
       ]
     },
     {
-      "nome_completo": "Omar de Oliveira Nogueira",
-      "nome_urna": "Omar Nogueira",
-      "foto": "fotos_avante_brasil/FRN200002551421_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7000
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Alexander Jutic Campello",
       "nome_urna": "Palhaço  Fuxiquinho",
       "foto": "fotos_avante_brasil/FRN200002551425_div.jpg",
@@ -343,91 +326,6 @@
       ]
     },
     {
-      "nome_completo": "Adelita Maria de Oliveira",
-      "nome_urna": "Adelita Oliveira",
-      "foto": "fotos_dc_brasil/FRN200002552147_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2799
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Allain Patrick Ferreira Xavier",
-      "nome_urna": "Allain Agente Judiciário",
-      "foto": "fotos_dc_brasil/FRN200002550227_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 277
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Alberto de Almeida Cavalcante",
-      "nome_urna": "Carlos Jararaca",
-      "foto": "fotos_dc_brasil/FRN200002550223_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jean Rodrigues do Nascimento",
-      "nome_urna": "Jean Rodrigues",
-      "foto": "fotos_dc_brasil/FRN200002552146_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2710
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gladyer Linhares Godeiro",
-      "nome_urna": "Linhares Jiboia",
-      "foto": "fotos_dc_brasil/FRN200002550225_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 277
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Julio Cesar Neves",
       "nome_urna": "Pastor Júlio",
       "foto": "fotos_dc_brasil/FRN200002550224_div.jpg",
@@ -438,23 +336,6 @@
         "numero": 27
       },
       "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Julio Rogerio da Silva Neto",
-      "nome_urna": "Pastor Júlio Neto",
-      "foto": "fotos_dc_brasil/FRN200002552145_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2711
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -496,23 +377,6 @@
       ]
     },
     {
-      "nome_completo": "Wilka Nobrega Batista Souza",
-      "nome_urna": "Wilka Nóbrega",
-      "foto": "fotos_dc_brasil/FRN200002550226_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 277
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Erinaldo Moises Alves de Souza",
       "nome_urna": "Xexeu de Natal",
       "foto": "fotos_dc_brasil/FRN200002552144_div.jpg",
@@ -521,23 +385,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 2724
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Maria Irismar Rodrigues de Souza Gois",
-      "nome_urna": "Íris de Góis",
-      "foto": "fotos_dc_brasil/FRN200002552148_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2777
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -2650,23 +2497,6 @@
       ]
     },
     {
-      "nome_completo": "Ataandra Martins Pereira Abrantes",
-      "nome_urna": "Ataandra Abrantes",
-      "foto": "fotos_psdb_brasil/FRN200002538217_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4588
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Antonio Juscicleiton Silva",
       "nome_urna": "Cleiton da Policlínica",
       "foto": "fotos_psdb_brasil/FRN200002538224_div.jpg",
@@ -2743,23 +2573,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 45123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Julia Ferreira Lopes de Almeida",
-      "nome_urna": "Dra Júlia Almeida",
-      "foto": "fotos_psdb_brasil/FRN200002538227_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RN",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45666
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2848,23 +2661,6 @@
         "numero": 4512
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Flavio Cesar Nogueira",
-      "nome_urna": "Flávio de Berói",
-      "foto": "fotos_psdb_brasil/FRN200002538235_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RN",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45200
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3044,23 +2840,6 @@
       ]
     },
     {
-      "nome_completo": "Rodrigo Antonio Medeiros Aladim de Araujo",
-      "nome_urna": "Rodrigo Aladim",
-      "foto": "fotos_psdb_brasil/FRN200002538218_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4567
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rosano Taveira da Cunha Junior",
       "nome_urna": "Taveira Júnior",
       "foto": "fotos_psdb_brasil/FRN200002538233_div.jpg",
@@ -3092,23 +2871,6 @@
       "redes_sociais": {
         "instagram": "https://www.instagram.com/valeriodjalmac.marinho/"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Domingos Gondim",
-      "nome_urna": "Zé Peixeiro",
-      "foto": "fotos_psdb_brasil/FRN200002538220_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4545
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -3246,23 +3008,6 @@
       },
       "prioridade": 21,
       "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Bianca Fernandes de Negreiros",
-      "nome_urna": "Bianca Negreiros",
-      "foto": "fotos_uniao_brasil/FRN200002535723_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RN",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 4445
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3733,41 +3478,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -3803,5 +3513,5 @@
       ]
     }
   ],
-  "hash": "f5cedaae5a48"
+  "hash": "3868a6bb6058"
 }

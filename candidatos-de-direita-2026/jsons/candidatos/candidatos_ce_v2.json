@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Raimundo Balbino de Albuquerque",
@@ -181,23 +181,6 @@
       "partido": {
         "sigla": "CIDADANIA",
         "numero": 2333
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Aderson Cavalcante da Silva",
-      "nome_urna": "Aderson das Frutas",
-      "foto": "fotos_dc_brasil/FCE60002549973_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2700
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -566,23 +549,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Eronildo Narciso da Silva",
-      "nome_urna": "Eron Narciso",
-      "foto": "fotos_mdb_brasil/FCE60002542439_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1531
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Felipe Aguiar de Meneses",
       "nome_urna": "Felipe Aguiar",
       "foto": "fotos_mdb_brasil/FCE60002542455_div.jpg",
@@ -917,23 +883,6 @@
         "numero": 33833
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Augusto Correia Lima",
-      "nome_urna": "Augusto Correia Lima",
-      "foto": "fotos_mobiliza_brasil/FCE60002536995_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 3333
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1408,23 +1357,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 33007
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Abilio Pedro Pereira Gentil",
-      "nome_urna": "O Portugues",
-      "foto": "fotos_mobiliza_brasil/FCE60002535647_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "CE",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33622
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3507,23 +3439,6 @@
       ]
     },
     {
-      "nome_completo": "Francisco Hilario Maciel de Sousa",
-      "nome_urna": "Hilário Maciel",
-      "foto": "fotos_pode_brasil/FCE60002551884_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 2027
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Igor Emanuel Alves Bezerra",
       "nome_urna": "Igor Nogueira",
       "foto": "fotos_pode_brasil/FCE60002551882_div.jpg",
@@ -3754,23 +3669,6 @@
       "partido": {
         "sigla": "PP",
         "numero": 11555
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Bruno Souza Benevides",
-      "nome_urna": "Bruno Benevides",
-      "foto": "fotos_pp_brasil/FCE60002536208_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "CE",
-      "partido": {
-        "sigla": "PP",
-        "numero": 11011
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4011,23 +3909,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 2580
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Iramar Augusto Aristoteles",
-      "nome_urna": "Coxinha",
-      "foto": "fotos_prd_brasil/FCE60002532970_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2599
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -4453,23 +4334,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 45789
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Maria Christina Machado Publio",
-      "nome_urna": "Christina Machado",
-      "foto": "fotos_psdb_brasil/FCE60002541549_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "CE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45689
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -5526,23 +5390,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Tereza Bezerra e Silva Neta",
-      "nome_urna": "Maria Tereza",
-      "foto": "fotos_republicanos_brasil/FCE60002553890_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "CE",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10555
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Mauricio Mascarenhas Sanford",
       "nome_urna": "Mauricio Sanford",
       "foto": "fotos_republicanos_brasil/FCE60002545101_div.jpg",
@@ -5585,23 +5432,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10444
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Artur Correia Lima Neto",
-      "nome_urna": "Palhaço Tutu",
-      "foto": "fotos_republicanos_brasil/FCE60002553889_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "CE",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10655
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -5679,23 +5509,6 @@
       ]
     },
     {
-      "nome_completo": "Francisco Rodrigo de Matos de Souza",
-      "nome_urna": "Pr Rodrigo Matos",
-      "foto": "fotos_republicanos_brasil/FCE60002545099_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 1016
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Nivaldo Mauro dos Santos",
       "nome_urna": "Professor Nivaldo",
       "foto": "fotos_republicanos_brasil/FCE60002545125_div.jpg",
@@ -5758,23 +5571,6 @@
       },
       "prioridade": 21,
       "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Maria do Rosario Araujo Pedrosa Ximenes",
-      "nome_urna": "Rozário Ximenes",
-      "foto": "fotos_republicanos_brasil/FCE60002545104_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 1015
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5894,23 +5690,6 @@
         "numero": 10121
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Xisto Soares de Oliveira",
-      "nome_urna": "Xisto",
-      "foto": "fotos_republicanos_brasil/FCE60002545097_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "CE",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 1033
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7326,41 +7105,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -7422,5 +7166,5 @@
       "status_tse": "Deferido"
     }
   ],
-  "hash": "dd1a5677f654"
+  "hash": "29efbed1d62f"
 }

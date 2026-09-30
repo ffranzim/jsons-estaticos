@@ -1,24 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
-    {
-      "nome_completo": "Arthur da Silva",
-      "nome_urna": "Arthur Fonseca",
-      "foto": "fotos_agir_brasil/FRS210002553413_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3655
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Carlos Alberto Estevao",
       "nome_urna": "Carlos Alberto Estevão (caco)",
@@ -62,40 +45,6 @@
       "partido": {
         "sigla": "AGIR",
         "numero": 3678
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gentil Alves de Oliveira",
-      "nome_urna": "Gentil Alves",
-      "foto": "fotos_agir_brasil/FRS210002553410_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3612
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Julio Cesar da Silva Carvalho",
-      "nome_urna": "Julio Carvalho",
-      "foto": "fotos_agir_brasil/FRS210002553408_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3666
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -241,40 +190,6 @@
       ]
     },
     {
-      "nome_completo": "Sheila Aparecida Maciel Fernandes",
-      "nome_urna": "Sheila Fernandes",
-      "foto": "fotos_agir_brasil/FRS210002553415_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3684
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Silvana Pradella",
-      "nome_urna": "Silvana Pradella",
-      "foto": "fotos_agir_brasil/FRS210002553405_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3603
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Aline Justo Waskow",
       "nome_urna": "Aline dos Animais",
       "foto": "fotos_avante_brasil/FRS210002544228_div.jpg",
@@ -309,23 +224,6 @@
       ]
     },
     {
-      "nome_completo": "Claudio Costa da Silva",
-      "nome_urna": "Claudio Costa",
-      "foto": "fotos_avante_brasil/FRS210002549652_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7056
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Melissa Ricciardi dos Santos Galery",
       "nome_urna": "Doutora Mel Brizola",
       "foto": "fotos_avante_brasil/FRS210002544218_div.jpg",
@@ -334,23 +232,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7015
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Alan Cleber Mello",
-      "nome_urna": "Dr.. Alan Mello",
-      "foto": "fotos_avante_brasil/FRS210002552600_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7044
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -411,57 +292,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Ivania Backes de Oliveira",
-      "nome_urna": "Ivania Backes",
-      "foto": "fotos_avante_brasil/FRS210002544222_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7050
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jair Fonseca Kepps",
-      "nome_urna": "Jair Kepps",
-      "foto": "fotos_avante_brasil/FRS210002549651_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7002
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Juciane Afrausino Ferreira",
-      "nome_urna": "Juciane Afrausino",
-      "foto": "fotos_avante_brasil/FRS210002544219_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7077
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Lucas Marquiori da Cruz",
       "nome_urna": "Lucas Cruz",
       "foto": "fotos_avante_brasil/FRS210002544220_div.jpg",
@@ -487,40 +317,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7080
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marco Aurelio dos Santos Silva",
-      "nome_urna": "Marco do Rancho",
-      "foto": "fotos_avante_brasil/FRS210002552924_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7020
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marta Dina Vieira Alvarez da Rocha",
-      "nome_urna": "Marta Rocha",
-      "foto": "fotos_avante_brasil/FRS210002549649_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7029
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -615,23 +411,6 @@
       ]
     },
     {
-      "nome_completo": "Simoni da Fonseca Soares Manduré",
-      "nome_urna": "Dra. Simoni",
-      "foto": "fotos_avante_brasil/FRS210002549650_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7065
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Paulo Cesar da Silva Agliardi",
       "nome_urna": "Teté Caçapava",
       "foto": "fotos_avante_brasil/FRS210002544217_div.jpg",
@@ -666,23 +445,6 @@
       ]
     },
     {
-      "nome_completo": "José Antônio Junior Frozza Paladini",
-      "nome_urna": "Catarina Paladini",
-      "foto": "fotos_cidadania_brasil/FRS210002545675_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 2300
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Cleiton Elias Niesciur",
       "nome_urna": "Cleiton Niesciur",
       "foto": "fotos_cidadania_brasil/FRS210002538464_div.jpg",
@@ -710,23 +472,6 @@
         "numero": 23456
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Monica Oliveira Tavares",
-      "nome_urna": "Monica Tavares",
-      "foto": "fotos_cidadania_brasil/FRS210002550099_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 2323
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -810,23 +555,6 @@
       "partido": {
         "sigla": "CIDADANIA",
         "numero": 23320
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Robert Brocca Peres",
-      "nome_urna": "Brocca",
-      "foto": "fotos_cidadania_brasil/FRS210002553925_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 23023
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -997,23 +725,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 2727
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Luiz Fernando da Silva Pinheiro",
-      "nome_urna": "Luiz Pinheiro",
-      "foto": "fotos_dc_brasil/FRS210002550579_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2723
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -1244,23 +955,6 @@
       ]
     },
     {
-      "nome_completo": "Andressa Gonçalves Minho",
-      "nome_urna": "Andressa Goncalves",
-      "foto": "fotos_democrata_brasil/FRS210002552764_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35432
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Antonio Carlos Goncalves Maria Junior",
       "nome_urna": "Antonio Junior",
       "foto": "fotos_democrata_brasil/FRS210002552763_div.jpg",
@@ -1371,23 +1065,6 @@
       "partido": {
         "sigla": "DEMOCRATA",
         "numero": 35000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Eliana de Oliveira dos Santos",
-      "nome_urna": "Eliana Oliveira",
-      "foto": "fotos_democrata_brasil/FRS210002552773_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35147
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1516,23 +1193,6 @@
       ]
     },
     {
-      "nome_completo": "Patricia Pegoraro Ribeiro",
-      "nome_urna": "Patricia Pegoraro",
-      "foto": "fotos_democrata_brasil/FRS210002550530_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3545
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Paulo Roberto da Silva",
       "nome_urna": "Paulo da Silva",
       "foto": "fotos_democrata_brasil/FRS210002552772_div.jpg",
@@ -1567,23 +1227,6 @@
       ]
     },
     {
-      "nome_completo": "Rejane Faleiro",
-      "nome_urna": "Rejane Faleiro Democrata",
-      "foto": "fotos_democrata_brasil/FRS210002552769_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35222
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Robson Rodrigues Mallmann",
       "nome_urna": "Robson Mallmann",
       "foto": "fotos_democrata_brasil/FRS210002550537_div.jpg",
@@ -1594,23 +1237,6 @@
         "numero": 3522
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rodrigo Souza Costa",
-      "nome_urna": "Rodrigo  Fiscal do Povo",
-      "foto": "fotos_democrata_brasil/FRS210002552765_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35555
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -9068,23 +8694,6 @@
       ]
     },
     {
-      "nome_completo": "Gian Antonio Pedroso",
-      "nome_urna": "Gian Pedroso",
-      "foto": "fotos_psd_brasil/FRS210002552922_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55005
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Giordani Krug Campos Ramos",
       "nome_urna": "Gio Krug",
       "foto": "fotos_psd_brasil/FRS210002540658_div.jpg",
@@ -9990,23 +9599,6 @@
       ]
     },
     {
-      "nome_completo": "Fernando Rafael Schmidt",
-      "nome_urna": "Dianho",
-      "foto": "fotos_psdb_brasil/FRS210002552601_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4580
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carlos Alberto Benedetti",
       "nome_urna": "Dr. Benedetti",
       "foto": "fotos_psdb_brasil/FRS210002541449_div.jpg",
@@ -10092,23 +9684,6 @@
       ]
     },
     {
-      "nome_completo": "Luis Afonso Bataglim Cabral",
-      "nome_urna": "Enfermeiro Luís Afonso",
-      "foto": "fotos_psdb_brasil/FRS210002551507_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45400
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Evelyn Cristina Rodrigues Fernandes",
       "nome_urna": "Evelyn do Vasquinho",
       "foto": "fotos_psdb_brasil/FRS210002541974_div.jpg",
@@ -10185,23 +9760,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 4570
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gilmar Joao Alba",
-      "nome_urna": "Gringo Loko",
-      "foto": "fotos_psdb_brasil/FRS210002541443_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4567
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -11423,23 +10981,6 @@
       ]
     },
     {
-      "nome_completo": "Evaristo Pinheiro Righetto",
-      "nome_urna": "Evaristo Righetto Gaúcho Solid",
-      "foto": "fotos_republicanos_brasil/FRS210002539097_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RS",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10800
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ezequiel da Rocha Quadros",
       "nome_urna": "Ezequiel Rocha",
       "foto": "fotos_republicanos_brasil/FRS210002539065_div.jpg",
@@ -12430,23 +11971,6 @@
       ]
     },
     {
-      "nome_completo": "José Ari Gambin",
-      "nome_urna": "Ari Gambin",
-      "foto": "fotos_solidariedade_brasil/FRS210002551978_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RS",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7710
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Arlindo Fernando da Silva Menca",
       "nome_urna": "Arlindo Mença  Baia ",
       "foto": "fotos_solidariedade_brasil/FRS210002551987_div.jpg",
@@ -13115,41 +12639,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -13185,5 +12674,5 @@
       ]
     }
   ],
-  "hash": "39ea394940ed"
+  "hash": "e4034de7720d"
 }

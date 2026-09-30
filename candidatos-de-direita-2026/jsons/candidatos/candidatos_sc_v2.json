@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
-  "hash": "771b262e93b2",
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
+  "hash": "acef27cdd305",
   "candidatos": [
     {
       "nome_completo": "Aguinaldo Vargas de Vargas",
@@ -1458,23 +1458,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 1527
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Roberto Luiz Salum",
-      "nome_urna": "Roberto Salum",
-      "foto": "fotos_mdb_brasil/FSC240002551491_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "SC",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1522
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -6377,23 +6360,6 @@
       ]
     },
     {
-      "nome_completo": "Eolanda Terezinha da Rosa Costa",
-      "nome_urna": "Landa da Rosa Costa",
-      "foto": "fotos_psd_brasil/FSC240002551476_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SC",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55232
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Marlene Fengler",
       "nome_urna": "Marlene Fengler",
       "foto": "fotos_psd_brasil/FSC240002551469_div.jpg",
@@ -6576,23 +6542,6 @@
         "numero": 5550
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Valdemir Antonio Stobe",
-      "nome_urna": "Tigrão",
-      "foto": "fotos_psd_brasil/FSC240002551464_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SC",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55800
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7129,23 +7078,6 @@
       ]
     },
     {
-      "nome_completo": "Aynoã Thayssa Lima de Mello",
-      "nome_urna": "Dra Aynoã Mello",
-      "foto": "fotos_republicanos_brasil/FSC240002537924_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SC",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10500
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Edson Renato Dias",
       "nome_urna": "Edson Piriquito",
       "foto": "fotos_republicanos_brasil/FSC240002537923_div.jpg",
@@ -7489,23 +7421,6 @@
       ]
     },
     {
-      "nome_completo": "Pedro de Assis Silvestre",
-      "nome_urna": "Pedrão",
-      "foto": "fotos_republicanos_brasil/FSC240002537925_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SC",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10033
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Gimar Piccoli",
       "nome_urna": "Piccoli",
       "foto": "fotos_republicanos_brasil/FSC240002537928_div.jpg",
@@ -7565,23 +7480,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10789
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Sandra Andréa Veloso",
-      "nome_urna": "Sandra",
-      "foto": "fotos_republicanos_brasil/FSC240002537922_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "SC",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10017
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -8649,41 +8547,6 @@
       "contatos": {
         "whatsapp": "https://chat.whatsapp.com/lr8ws80juirctdwccvy8kn"
       },
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
       "bandeiras": [
         "Não cadastradas"
       ]

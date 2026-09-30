@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Luiz Adriano Martins Rodrigues",
@@ -787,23 +787,6 @@
       ]
     },
     {
-      "nome_completo": "Armando Tessinari Filho",
-      "nome_urna": "Armandinho Tessinari",
-      "foto": "fotos_dc_brasil/FES80002551825_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2772
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jose Raimundo dos Santos",
       "nome_urna": "Baiano Rpf",
       "foto": "fotos_dc_brasil/FES80002551822_div.jpg",
@@ -1128,23 +1111,6 @@
       ]
     },
     {
-      "nome_completo": "Milton Rosa da Silva",
-      "nome_urna": "Miranda de Jacaraípe",
-      "foto": "fotos_dc_brasil/FES80002551808_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27999
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rosimeri Gonçalves da Costa Simoes",
       "nome_urna": "Missionaria Rose",
       "foto": "fotos_dc_brasil/FES80002551799_div.jpg",
@@ -1264,23 +1230,6 @@
       ]
     },
     {
-      "nome_completo": "Ronaldo Jorge de Souza",
-      "nome_urna": "Ronaldo Jorge",
-      "foto": "fotos_dc_brasil/FES80002551800_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DC",
-        "numero": 27270
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ruthcelia Acriz Vidal",
       "nome_urna": "Ruthcleia",
       "foto": "fotos_dc_brasil/FES80002551830_div.jpg",
@@ -1366,23 +1315,6 @@
       ]
     },
     {
-      "nome_completo": "Vilma Resende da Rocha",
-      "nome_urna": "Vilma Resende",
-      "foto": "fotos_dc_brasil/FES80002551826_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2703
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Vinícius André Teixeira Caran",
       "nome_urna": "Vinícius Caran",
       "foto": "fotos_dc_brasil/FES80002551815_div.jpg",
@@ -1442,23 +1374,6 @@
       "partido": {
         "sigla": "DEMOCRATA",
         "numero": 35888
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Angela Oliveira Fraga",
-      "nome_urna": "Angela Oliveira Fraga",
-      "foto": "fotos_democrata_brasil/FES80002549060_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35400
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -1767,40 +1682,6 @@
         "numero": 3500
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Renato Terra Rios",
-      "nome_urna": "Renato Rios",
-      "foto": "fotos_democrata_brasil/FES80002549047_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35500
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rosiris da Conceicao Rios",
-      "nome_urna": "Rosi Rios",
-      "foto": "fotos_democrata_brasil/FES80002549066_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35444
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2131,40 +2012,6 @@
       ]
     },
     {
-      "nome_completo": "Ronaldo Gonçalves da Silva",
-      "nome_urna": "Gonçalves Rogosi",
-      "foto": "fotos_mdb_brasil/FES80002550948_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15678
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Isabel de Fatima Luz",
-      "nome_urna": "Isabel Luz",
-      "foto": "fotos_mdb_brasil/FES80002549106_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15115
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jeesala Mayer Coutinho",
       "nome_urna": "Jeesala Coutinho",
       "foto": "fotos_mdb_brasil/FES80002549101_div.jpg",
@@ -2278,23 +2125,6 @@
       },
       "prioridade": 1,
       "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francisco de Assis Portela Milfont",
-      "nome_urna": "Milfont",
-      "foto": "fotos_mdb_brasil/FES80002549096_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15151
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2743,25 +2573,6 @@
       ]
     },
     {
-      "nome_completo": "Erica Poliana Parreiras Terra",
-      "nome_urna": "Erica Terra",
-      "foto": "fotos_novo_brasil/FES80002531654_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30444
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/ericaterra"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Fabíola Saquetto Di Tommaso",
       "nome_urna": "Fabíola Saquetto",
       "foto": "fotos_novo_brasil/FES80002531644_div.jpg",
@@ -3005,25 +2816,6 @@
       "prioridade": 30,
       "redes_sociais": {
         "instagram": "https://www.instagram.com/leosindico/"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcos Antônio Pinto",
-      "nome_urna": "Marcos Antônio Pinto",
-      "foto": "fotos_novo_brasil/FES80002531664_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "ES",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30321
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/marcospoetaoficial/"
       },
       "contatos": {},
       "bandeiras": [
@@ -3802,27 +3594,6 @@
         "twitter": "https://x.com/enflaryssa22",
         "instagram": "https://www.instagram.com/enfermeiralaryssa",
         "facebook": "https://www.facebook.com/laryssa rodrigues"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gilvan Aguiar Costa",
-      "nome_urna": "Gilvan O Federal da Direita",
-      "foto": "fotos_pl_brasil/FES80002549700_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "ES",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2222
-      },
-      "prioridade": 26,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {
-        "twitter": "https://x.com/gilvandafederal",
-        "instagram": "https://www.instagram.com/gilvandafederal"
       },
       "contatos": {},
       "bandeiras": [
@@ -5352,23 +5123,6 @@
       ]
     },
     {
-      "nome_completo": "Valdevir Nogueira Neto",
-      "nome_urna": "Netão do Povo",
-      "foto": "fotos_prd_brasil/FES80002550809_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "ES",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2577
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Sabrine Cecilia Bazilio dos Reis",
       "nome_urna": "Professora Sabrine Bazilio",
       "foto": "fotos_prd_brasil/FES80002550816_div.jpg",
@@ -5464,23 +5218,6 @@
         "numero": 280
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Cintia Cristina Rufino Pereira",
-      "nome_urna": "Cintia Nininha",
-      "foto": "fotos_psd_brasil/FES80002552141_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "ES",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5505
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5652,23 +5389,6 @@
       },
       "prioridade": 41,
       "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francis Tristao Pimenta",
-      "nome_urna": "Tulipa",
-      "foto": "fotos_psd_brasil/FES80002552142_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "ES",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5510
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7477,41 +7197,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -7547,5 +7232,5 @@
       ]
     }
   ],
-  "hash": "a3d5c7b8c29f"
+  "hash": "da42b3b8722b"
 }

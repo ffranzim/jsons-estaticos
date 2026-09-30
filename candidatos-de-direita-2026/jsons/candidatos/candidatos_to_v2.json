@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Adevar Junior Braga",
@@ -326,23 +326,6 @@
       ]
     },
     {
-      "nome_completo": "Jair Medeiro da Cunha",
-      "nome_urna": "Jair Medeiros",
-      "foto": "fotos_democrata_brasil/FTO270002546369_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "TO",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Joao de Araujo Dantas",
       "nome_urna": "João Dantas",
       "foto": "fotos_democrata_brasil/FTO270002551275_div.jpg",
@@ -428,40 +411,6 @@
       ]
     },
     {
-      "nome_completo": "Luiz Carlos Ferreira da Silva",
-      "nome_urna": "Subtenente Luiz Carlos",
-      "foto": "fotos_democrata_brasil/FTO270002546368_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "TO",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Humberto Alves Timoteo Junior",
-      "nome_urna": "Timóteo Júnior",
-      "foto": "fotos_democrata_brasil/FTO270002551271_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "TO",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 351
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Vanda Rodrigues de Carvalho Propercio",
       "nome_urna": "Vanda Rodrigues",
       "foto": "fotos_democrata_brasil/FTO270002551272_div.jpg",
@@ -470,23 +419,6 @@
       "partido": {
         "sigla": "DEMOCRATA",
         "numero": 351
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Zuleica Silva Negri",
-      "nome_urna": "Zuleica Negri",
-      "foto": "fotos_democrata_brasil/FTO270002551274_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "TO",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 355
       },
       "prioridade": 41,
       "redes_sociais": {},
@@ -1095,25 +1027,6 @@
       ]
     },
     {
-      "nome_completo": "Nelcivan Costa Feitosa",
-      "nome_urna": "Nelcivan Costa Feitosa",
-      "foto": "fotos_novo_brasil/FTO270002550618_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30000
-      },
-      "prioridade": 10,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/pastornelcivancosta"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Nilton Rodrigues dos Santos",
       "nome_urna": "Coronel Nilton Santos",
       "foto": "fotos_novo_brasil/FTO270002550610_div.jpg",
@@ -1275,26 +1188,6 @@
       "redes_sociais": {
         "instagram": "https://www.instagram.com/anaflorescer/",
         "facebook": "https://www.facebook.com/anaceliada.tavares"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Cirilo Douglas Pereira Aguiar",
-      "nome_urna": "Cirilo Douglas",
-      "foto": "fotos_pl_brasil/FTO270002544479_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22777
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/cirilodouglasoficial/",
-        "facebook": "https://www.facebook.com/profile.php?id=100080276884628"
       },
       "contatos": {},
       "bandeiras": [
@@ -1900,23 +1793,6 @@
       ]
     },
     {
-      "nome_completo": "Jair Correa Junior",
-      "nome_urna": "Jair Junior",
-      "foto": "fotos_pode_brasil/FTO270002546041_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "TO",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 200
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Janivaldo Marques Soares",
       "nome_urna": "Janivaldo do Rodoshopping",
       "foto": "fotos_pode_brasil/FTO270002548419_div.jpg",
@@ -1976,23 +1852,6 @@
       "partido": {
         "sigla": "PODE",
         "numero": 20999
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Luana Matilde Ribeiro Lima",
-      "nome_urna": "Luana Ribeiro",
-      "foto": "fotos_pode_brasil/FTO270002548422_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20221
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2464,23 +2323,6 @@
       ]
     },
     {
-      "nome_completo": "Elmir Jose Alves",
-      "nome_urna": "Elmir Alves",
-      "foto": "fotos_prd_brasil/FTO270002550623_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "TO",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2500
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Gleydson Nato Pereira",
       "nome_urna": "Gleydson Nato",
       "foto": "fotos_prd_brasil/FTO270002550603_div.jpg",
@@ -2506,23 +2348,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 25001
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Manoel Queiroz dos Santos",
-      "nome_urna": "Manoel Queiroz",
-      "foto": "fotos_prd_brasil/FTO270002550589_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 25400
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -2881,23 +2706,6 @@
       "partido": {
         "sigla": "PSD",
         "numero": 55400
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Sandson Dias Menezes",
-      "nome_urna": "Sandson Menezes",
-      "foto": "fotos_psd_brasil/FTO270002544611_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55666
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3750,23 +3558,6 @@
       ]
     },
     {
-      "nome_completo": "Elson Ribeiro dos Santos",
-      "nome_urna": "Elson Ribeiro",
-      "foto": "fotos_republicanos_brasil/FTO270002548411_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "TO",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 100
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rejane Araujo da Silva",
       "nome_urna": "Enfermeira Rejane",
       "foto": "fotos_republicanos_brasil/FTO270002550091_div.jpg",
@@ -3811,23 +3602,6 @@
         "numero": 1020
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Iderval Joao da Silva",
-      "nome_urna": "Iderval",
-      "foto": "fotos_republicanos_brasil/FTO270002550083_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10153
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3931,41 +3705,6 @@
         "numero": 10123
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Pedro Souza Catingueiro Junior",
-      "nome_urna": "Pedro Júnior",
-      "foto": "fotos_republicanos_brasil/FTO270002550079_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10777
-      },
-      "prioridade": 1,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Poliana Resplandes Lopes",
-      "nome_urna": "Poliana Radar",
-      "foto": "fotos_republicanos_brasil/FTO270002548519_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "TO",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 1088
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -4135,23 +3874,6 @@
       "partido": {
         "sigla": "SOLIDARIEDADE",
         "numero": 77777
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gisele Goncalves Ramos Rezek",
-      "nome_urna": "Gisele Rezek",
-      "foto": "fotos_solidariedade_brasil/FTO270002550591_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "TO",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77456
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4801,41 +4523,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -4871,5 +4558,5 @@
       ]
     }
   ],
-  "hash": "0a78b142276c"
+  "hash": "ed121d1d8935"
 }

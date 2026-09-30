@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Joao Agostinho Lima Ferraz",
@@ -955,23 +955,6 @@
       ]
     },
     {
-      "nome_completo": "Quercia Melo de Vasconcelos",
-      "nome_urna": "Quercia Vasconcelos",
-      "foto": "fotos_avante_brasil/FPE170002541229_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70133
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rafael Lourenco de Souza",
       "nome_urna": "Rafael Lourenco",
       "foto": "fotos_avante_brasil/FPE170002541254_div.jpg",
@@ -1278,23 +1261,6 @@
       ]
     },
     {
-      "nome_completo": "Larissa Maria Caló Mesquita",
-      "nome_urna": "Larissa Caló",
-      "foto": "fotos_cidadania_brasil/FPE170002552544_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 2323
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Rhayssa Alves Felipe dos Santos",
       "nome_urna": "Rhayssa Alves",
       "foto": "fotos_cidadania_brasil/FPE170002552546_div.jpg",
@@ -1414,227 +1380,6 @@
       ]
     },
     {
-      "nome_completo": "Adelmo Mendes de Arruda",
-      "nome_urna": "Adelmo Mendes",
-      "foto": "fotos_democrata_brasil/FPE170002544852_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3580
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Aidé Batista de Santana",
-      "nome_urna": "Aide Marciel",
-      "foto": "fotos_democrata_brasil/FPE170002544851_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3536
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Allan Kelly Vieira dos Santos",
-      "nome_urna": "Alan Zé",
-      "foto": "fotos_democrata_brasil/FPE170002544843_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35333
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Amaro Francisco de Moraes",
-      "nome_urna": "Amaro Moraes",
-      "foto": "fotos_democrata_brasil/FPE170002544854_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3522
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Alberto de Brito Junior",
-      "nome_urna": "Carlos Alberto",
-      "foto": "fotos_democrata_brasil/FPE170002541259_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Alcides Sampaio de Vasconcelos",
-      "nome_urna": "Cidinho",
-      "foto": "fotos_democrata_brasil/FPE170002544845_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35822
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Edilson José dos Santos",
-      "nome_urna": "Edilson Bolinha",
-      "foto": "fotos_democrata_brasil/FPE170002544840_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35615
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gilson da Silva Felix",
-      "nome_urna": "Félix Vigilante",
-      "foto": "fotos_democrata_brasil/FPE170002544850_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3517
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Irineu Francisco da Silva",
-      "nome_urna": "Irineu da Kombi",
-      "foto": "fotos_democrata_brasil/FPE170002544842_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35111
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Claudia Maria da Costa",
-      "nome_urna": "Irmã Claudia",
-      "foto": "fotos_democrata_brasil/FPE170002544844_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35222
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jacicleide Rosena do Nascimento",
-      "nome_urna": "Jacicleide Rosena",
-      "foto": "fotos_democrata_brasil/FPE170002544849_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3505
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Joel Deschamps Galdino",
-      "nome_urna": "Joel Galdino",
-      "foto": "fotos_democrata_brasil/FPE170002544847_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Josuel Pinheiro da Silva",
-      "nome_urna": "Jó Ligeiro",
-      "foto": "fotos_democrata_brasil/FPE170002544846_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35124
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Laelson Oliveira Costa",
       "nome_urna": "Laelson Costa",
       "foto": "fotos_democrata_brasil/FPE170002540419_div.jpg",
@@ -1645,57 +1390,6 @@
         "numero": 355
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Michele Lopes Maranhão",
-      "nome_urna": "Michele Lopes",
-      "foto": "fotos_democrata_brasil/FPE170002544853_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3511
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcia Cristina da Costa",
-      "nome_urna": "Márcia de Biel",
-      "foto": "fotos_democrata_brasil/FPE170002544841_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Mario Terêncio Albuquerque Cavalcante",
-      "nome_urna": "Mário Cavalcante",
-      "foto": "fotos_democrata_brasil/FPE170002544848_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 3535
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1730,23 +1424,6 @@
         "numero": 355
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jeremias Cosmo Silva dos Santos",
-      "nome_urna": "Professor Jeremias do Banco",
-      "foto": "fotos_democrata_brasil/FPE170002541258_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "PE",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35
-      },
-      "prioridade": 61,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5211,25 +4888,6 @@
       ]
     },
     {
-      "nome_completo": "Carlos André da Silva",
-      "nome_urna": "Carlos André Trabalhador",
-      "foto": "fotos_pl_brasil/FPE170002539228_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22500
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/carlosandretrabalhador"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "José Carlos de Brito",
       "nome_urna": "Carlos Britto",
       "foto": "fotos_pl_brasil/FPE170002539185_div.jpg",
@@ -5636,25 +5294,6 @@
       "posicao_segundo_hub_politico": "direita",
       "redes_sociais": {
         "instagram": "https://instagram.com/izabelurquizape"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jailson Melo da Rocha Filho",
-      "nome_urna": "Jailson Rocha",
-      "foto": "fotos_pl_brasil/FPE170002539186_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2255
-      },
-      "prioridade": 26,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/jailsonrocha2_"
       },
       "contatos": {},
       "bandeiras": [
@@ -6670,23 +6309,6 @@
       ]
     },
     {
-      "nome_completo": "Rubens Mauricio de Alencar",
-      "nome_urna": "Dr Rubens Alencar",
-      "foto": "fotos_pode_brasil/FPE170002535169_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20192
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "João Francisco Carneiro de Almeida Ferraz",
       "nome_urna": "Dr. João Ferraz",
       "foto": "fotos_pode_brasil/FPE170002535186_div.jpg",
@@ -7005,23 +6627,6 @@
         "numero": 2099
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "João de Deus dos Santos",
-      "nome_urna": "João de Deus",
-      "foto": "fotos_pode_brasil/FPE170002535209_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20615
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -7806,23 +7411,6 @@
       ]
     },
     {
-      "nome_completo": "Floriano Velozo de Carvalho Neto",
-      "nome_urna": "Franklin  Fiscal do Povo",
-      "foto": "fotos_pp_brasil/FPE170002543740_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PP",
-        "numero": 11113
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Gabriel Barbosa de Souza",
       "nome_urna": "Gabriel Maciel",
       "foto": "fotos_pp_brasil/FPE170002543744_div.jpg",
@@ -8279,23 +7867,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 2525
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Eduardo Pereira da Silva",
-      "nome_urna": "Eduardo Chera",
-      "foto": "fotos_prd_brasil/FPE170002541353_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2522
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -9483,23 +9054,6 @@
       ]
     },
     {
-      "nome_completo": "Nancildo Luiz da Silva",
-      "nome_urna": "Dengue",
-      "foto": "fotos_psdb_brasil/FPE170002552542_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4569
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Josenildo José da Silva",
       "nome_urna": "Dodi",
       "foto": "fotos_psdb_brasil/FPE170002552543_div.jpg",
@@ -9593,23 +9147,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 4533
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "João Moraes da Silva Filho",
-      "nome_urna": "João Moraes",
-      "foto": "fotos_psdb_brasil/FPE170002552550_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4591
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -9764,23 +9301,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 4530
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Sandro Gledson Campos Pereira",
-      "nome_urna": "Sandro Tapioca",
-      "foto": "fotos_psdb_brasil/FPE170002552535_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PE",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4526
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -10189,23 +9709,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10310
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Elizeu da Silva Santos",
-      "nome_urna": "Elizeu Santos",
-      "foto": "fotos_republicanos_brasil/FPE170002532415_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10133
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -11238,23 +10741,6 @@
       ]
     },
     {
-      "nome_completo": "Sebastiana da Costa Belem",
-      "nome_urna": "Bezinha Belém",
-      "foto": "fotos_uniao_brasil/FPE170002543762_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PE",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44011
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carlos Antonio Gomes de Andrade Lima",
       "nome_urna": "Carlos Andrade de Lima",
       "foto": "fotos_uniao_brasil/FPE170002552098_div.jpg",
@@ -11889,41 +11375,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -11959,5 +11410,5 @@
       ]
     }
   ],
-  "hash": "6a9960226bae"
+  "hash": "fed886ab53a4"
 }

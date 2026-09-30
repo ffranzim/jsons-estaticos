@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 7,
   "candidatos": [
     {
       "nome_completo": "Alexandra Maria da Silva Santos",
@@ -955,40 +955,6 @@
       ]
     },
     {
-      "nome_completo": "Alberto Junio da Silva",
-      "nome_urna": "Alberto Silva - Betto",
-      "foto": "fotos_avante_brasil/FMG130002543629_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7022
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Wellington Ferreira dos Santos",
-      "nome_urna": "Alemão O Gari de Minas",
-      "foto": "fotos_avante_brasil/FMG130002544376_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70234
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Alessandro Geraldo Dias",
       "nome_urna": "Alessandro Dias",
       "foto": "fotos_avante_brasil/FMG130002543619_div.jpg",
@@ -1526,23 +1492,6 @@
         "numero": 7002
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Glayson Johnny Goncalves Coelho",
-      "nome_urna": "Glayson Johnny",
-      "foto": "fotos_avante_brasil/FMG130002544373_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70133
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2843,23 +2792,6 @@
       ]
     },
     {
-      "nome_completo": "Rodrigo Araujo Cruz",
-      "nome_urna": "Rodrigo Araújo",
-      "foto": "fotos_cidadania_brasil/FMG130002540598_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "CIDADANIA",
-        "numero": 23123
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Claudio Cordeiro",
       "nome_urna": "Claudio Cordeiro",
       "foto": "fotos_dc_brasil/FMG130002551261_div.jpg",
@@ -3064,23 +2996,6 @@
       ]
     },
     {
-      "nome_completo": "Otavio Henrique Alencar",
-      "nome_urna": "Tavinho do Dom Bosco",
-      "foto": "fotos_dc_brasil/FMG130002551256_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2707
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Valdivino Rita da Silva",
       "nome_urna": "Valdivino Rita Vininho",
       "foto": "fotos_dc_brasil/FMG130002551258_div.jpg",
@@ -3251,23 +3166,6 @@
       ]
     },
     {
-      "nome_completo": "Robson Augusto Ferreira de Faria",
-      "nome_urna": "Dr Robson Augusto",
-      "foto": "fotos_democrata_brasil/FMG130002533510_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Elida Tadeu Marcelina Nunes",
       "nome_urna": "Elida Marcelina",
       "foto": "fotos_democrata_brasil/FMG130002533514_div.jpg",
@@ -3276,23 +3174,6 @@
       "partido": {
         "sigla": "DEMOCRATA",
         "numero": 35012
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Eufrasio Henrique de Oliveira",
-      "nome_urna": "Eufrasio da Mamuxca",
-      "foto": "fotos_democrata_brasil/FMG130002533516_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35351
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3404,23 +3285,6 @@
       ]
     },
     {
-      "nome_completo": "Gualter Pereira Monteiro",
-      "nome_urna": "Gualter Monteiro",
-      "foto": "fotos_democrata_brasil/FMG130002533513_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35450
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Guilherme Augusto Marques Nedir",
       "nome_urna": "Guilherme Bombeiro",
       "foto": "fotos_democrata_brasil/FMG130002533519_div.jpg",
@@ -3523,23 +3387,6 @@
       ]
     },
     {
-      "nome_completo": "Jussara Braga Frois",
-      "nome_urna": "Jussara Braga",
-      "foto": "fotos_democrata_brasil/FMG130002533530_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35810
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Keila Paula de Lima",
       "nome_urna": "Keila Lima",
       "foto": "fotos_democrata_brasil/FMG130002533531_div.jpg",
@@ -3582,40 +3429,6 @@
       "partido": {
         "sigla": "DEMOCRATA",
         "numero": 35696
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcelo Augusto Vilas Boas Alves",
-      "nome_urna": "Marcelo Augusto",
-      "foto": "fotos_democrata_brasil/FMG130002533529_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35111
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marta Alves Lanca",
-      "nome_urna": "Marta Lança",
-      "foto": "fotos_democrata_brasil/FMG130002533536_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "DEMOCRATA",
-        "numero": 35022
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3948,23 +3761,6 @@
       ]
     },
     {
-      "nome_completo": "Anania Paula da Silva",
-      "nome_urna": "Ananias Camelô",
-      "foto": "fotos_mdb_brasil/FMG130002553610_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1545
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Andreia Gomes Souza",
       "nome_urna": "Andreia Gomes",
       "foto": "fotos_mdb_brasil/FMG130002550119_div.jpg",
@@ -4144,23 +3940,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 15700
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Charles Raul Cardoso",
-      "nome_urna": "Charles Cardoso",
-      "foto": "fotos_mdb_brasil/FMG130002550148_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15620
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4986,23 +4765,6 @@
       ]
     },
     {
-      "nome_completo": "Luana Lopes Martins",
-      "nome_urna": "Luana Lopes",
-      "foto": "fotos_mdb_brasil/FMG130002550160_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15608
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Luciana Aparecida de Carvalho",
       "nome_urna": "Luciana Carvalho",
       "foto": "fotos_mdb_brasil/FMG130002553607_div.jpg",
@@ -5088,23 +4850,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Eloiza Dias Romualdo Cruz",
-      "nome_urna": "Maria Eloiza Dias",
-      "foto": "fotos_mdb_brasil/FMG130002553609_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1597
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Maria Helena de Quadros Lopes",
       "nome_urna": "Maria Helena",
       "foto": "fotos_mdb_brasil/FMG130002549558_div.jpg",
@@ -5166,23 +4911,6 @@
         "numero": 1512
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Miracy Santos Lima",
-      "nome_urna": "Miracy Santos",
-      "foto": "fotos_mdb_brasil/FMG130002550161_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15989
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5352,23 +5080,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 15888
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Mario Fernando Goncalves Nogueira",
-      "nome_urna": "Professor Mário",
-      "foto": "fotos_mdb_brasil/FMG130002553629_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15093
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -5685,23 +5396,6 @@
       ]
     },
     {
-      "nome_completo": "Valdecir Guadalupe Cassimiro",
-      "nome_urna": "Valdecir Guadalupe",
-      "foto": "fotos_mdb_brasil/FMG130002550133_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15404
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Vanderson Peres dos Santos",
       "nome_urna": "Vando Peres",
       "foto": "fotos_mdb_brasil/FMG130002547902_div.jpg",
@@ -5712,23 +5406,6 @@
         "numero": 1589
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Vitor Porto Fonseca Goncalves",
-      "nome_urna": "Vitor Porto",
-      "foto": "fotos_mdb_brasil/FMG130002550155_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15321
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -5889,23 +5566,6 @@
       ]
     },
     {
-      "nome_completo": "Carlos Alberto Lima",
-      "nome_urna": "Carlos Lima",
-      "foto": "fotos_mobiliza_brasil/FMG130002552437_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33911
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carlos Alberto de Almeida Tursi",
       "nome_urna": "Carlos Tursi",
       "foto": "fotos_mobiliza_brasil/FMG130002552413_div.jpg",
@@ -6016,23 +5676,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 33454
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Demetrio de Miranda Ayala",
-      "nome_urna": "Demetrio Ayala",
-      "foto": "fotos_mobiliza_brasil/FMG130002552417_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33678
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -6297,23 +5940,6 @@
       ]
     },
     {
-      "nome_completo": "Jacqueline Maria Verde de Oliveira",
-      "nome_urna": "Jacqueline Bombeira",
-      "foto": "fotos_mobiliza_brasil/FMG130002552430_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33033
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jose Jarbas Pimenta",
       "nome_urna": "Jarbas Pimenta",
       "foto": "fotos_mobiliza_brasil/FMG130002553035_div.jpg",
@@ -6518,23 +6144,6 @@
       ]
     },
     {
-      "nome_completo": "Leandro Henrique Batista Almeida",
-      "nome_urna": "Leandro Almeida",
-      "foto": "fotos_mobiliza_brasil/FMG130002553033_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 3311
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Lucas Vitorio de Paula",
       "nome_urna": "Lucas Treilher",
       "foto": "fotos_mobiliza_brasil/FMG130002552453_div.jpg",
@@ -6688,23 +6297,6 @@
       ]
     },
     {
-      "nome_completo": "Neimar Siqueira",
-      "nome_urna": "Neimar Salva-Vidas",
-      "foto": "fotos_mobiliza_brasil/FMG130002552456_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33600
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Anício Vieira Tannús Neto",
       "nome_urna": "Neto Tannus",
       "foto": "fotos_mobiliza_brasil/FMG130002552411_div.jpg",
@@ -6849,23 +6441,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 33017
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Pedro Paulo de Souza",
-      "nome_urna": "Pedro Paulo",
-      "foto": "fotos_mobiliza_brasil/FMG130002552407_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33125
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -7036,23 +6611,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 33887
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Stephanie Paula Santos de Souza",
-      "nome_urna": "Stephanie Souza",
-      "foto": "fotos_mobiliza_brasil/FMG130002552449_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 33773
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -7638,23 +7196,6 @@
       "redes_sociais": {
         "site_oficial": "https://www.brunoaraujonovo.com/"
       },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Bruno Moreno Moraes de Castro",
-      "nome_urna": "Bruno Castro",
-      "foto": "fotos_novo_brasil/FMG130002534524_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 30747
-      },
-      "prioridade": 10,
-      "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
         "Não cadastradas"
@@ -8345,25 +7886,6 @@
       "redes_sociais": {
         "instagram": "https://www.instagram.com/gabrielserpamotoboy/",
         "tiktok": "https://www.tiktok.com/@gabriel.serpa.mot"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Giovani dos Santos",
-      "nome_urna": "Giovani dos Santos",
-      "foto": "fotos_novo_brasil/FMG130002534484_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "NOVO",
-        "numero": 3010
-      },
-      "prioridade": 30,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/gs_atleta"
       },
       "contatos": {},
       "bandeiras": [
@@ -10171,25 +9693,6 @@
         "instagram": "https://instagram.com/antoniocarlosarantes/",
         "site_oficial": "https://antoniocarlosarantes.com.br/",
         "facebook": "https://facebook.com/deputadoantoniocarlosarantes"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ataide Vilela",
-      "nome_urna": "Ataide Vilela",
-      "foto": "fotos_pl_brasil/FMG130002542014_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PL",
-        "numero": 2292
-      },
-      "prioridade": 26,
-      "redes_sociais": {
-        "instagram": "https://instagram.com/eng.ataidevilela"
       },
       "contatos": {},
       "bandeiras": [
@@ -12290,25 +11793,6 @@
       ]
     },
     {
-      "nome_completo": "Valdeci Medeiros Gonçalves",
-      "nome_urna": "Valdeci - Mult Lat",
-      "foto": "fotos_pl_brasil/FMG130002542092_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PL",
-        "numero": 22350
-      },
-      "prioridade": 6,
-      "redes_sociais": {
-        "instagram": "https://www.instagram.com/valdeci.oficial"
-      },
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Valeria Cristina Silva Reis",
       "nome_urna": "Valeria Reis",
       "foto": "fotos_pl_brasil/FMG130002542089_div.jpg",
@@ -13206,23 +12690,6 @@
       ]
     },
     {
-      "nome_completo": "William Soares da Silva",
-      "nome_urna": "Empresário William Musk",
-      "foto": "fotos_pode_brasil/FMG130002547938_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20234
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Enrico Vidal Martins Lopes de Oliveira",
       "nome_urna": "Enrico Lopes",
       "foto": "fotos_pode_brasil/FMG130002548779_div.jpg",
@@ -13683,23 +13150,6 @@
       ]
     },
     {
-      "nome_completo": "Jose Renato de Castro",
-      "nome_urna": "José Renato - O Benção",
-      "foto": "fotos_pode_brasil/FMG130002548721_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20157
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Juarez Carvalho de Oliveira",
       "nome_urna": "Carvalho do Povo",
       "foto": "fotos_pode_brasil/FMG130002548799_div.jpg",
@@ -13759,23 +13209,6 @@
       "partido": {
         "sigla": "PODE",
         "numero": 20193
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leisson Mauro da Silva Venturato",
-      "nome_urna": "Leisson Venturato",
-      "foto": "fotos_pode_brasil/FMG130002548709_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20194
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -14704,23 +14137,6 @@
       ]
     },
     {
-      "nome_completo": "Flavio Silva Paula",
-      "nome_urna": "Flávio de Paula",
-      "foto": "fotos_pode_brasil/FMG130002554138_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 2025
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Carlos Antonio de Jesus Cesario",
       "nome_urna": "Pretão",
       "foto": "fotos_pode_brasil/FMG130002554269_div.jpg",
@@ -15320,23 +14736,6 @@
       ]
     },
     {
-      "nome_completo": "Luiza Maria Ferreira Pinto",
-      "nome_urna": "Luiza do Hospital",
-      "foto": "fotos_pp_brasil/FMG130002542813_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PP",
-        "numero": 11100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Lílian França Albuquerque",
       "nome_urna": "Lílian França",
       "foto": "fotos_pp_brasil/FMG130002547839_div.jpg",
@@ -15382,23 +14781,6 @@
       },
       "prioridade": 41,
       "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Maressa Silva Taborda",
-      "nome_urna": "Maressa Taborda",
-      "foto": "fotos_pp_brasil/FMG130002542719_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PP",
-        "numero": 1127
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -15887,23 +15269,6 @@
       ]
     },
     {
-      "nome_completo": "Alexandre Augusto Souza Carmo",
-      "nome_urna": "Alexandre Augusto",
-      "foto": "fotos_prd_brasil/FMG130002533265_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2535
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Anderson Luiz Costa",
       "nome_urna": "Anderson Costa",
       "foto": "fotos_prd_brasil/FMG130002532932_div.jpg",
@@ -16278,23 +15643,6 @@
       ]
     },
     {
-      "nome_completo": "Márcia Cristina Fernandes Barros de Assis",
-      "nome_urna": "Dra. Márcia",
-      "foto": "fotos_prd_brasil/FMG130002533251_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2505
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Eduarda Ferreira Lima",
       "nome_urna": "Duda Lima",
       "foto": "fotos_prd_brasil/FMG130002532940_div.jpg",
@@ -16305,23 +15653,6 @@
         "numero": 25255
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Eder Ferreira Rodrigues da Silva",
-      "nome_urna": "Eder Ferreira da Unipabe",
-      "foto": "fotos_prd_brasil/FMG130002533239_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2545
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -16449,23 +15780,6 @@
       ]
     },
     {
-      "nome_completo": "Helio Maltaro Barbosa",
-      "nome_urna": "Hélio Barbosa",
-      "foto": "fotos_prd_brasil/FMG130002533256_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2501
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jaqueline Avelar Rosa",
       "nome_urna": "Jaqueline Avelar",
       "foto": "fotos_prd_brasil/FMG130002532930_div.jpg",
@@ -16525,23 +15839,6 @@
       "partido": {
         "sigla": "PRD",
         "numero": 2508
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Lindomar de Sousa",
-      "nome_urna": "Lindomar",
-      "foto": "fotos_prd_brasil/FMG130002533260_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PRD",
-        "numero": 2555
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -17062,23 +16359,6 @@
       ]
     },
     {
-      "nome_completo": "Alessandra Ribeiro de Meireles",
-      "nome_urna": "Alessandra Meireles",
-      "foto": "fotos_psd_brasil/FMG130002545556_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5570
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ana Beatriz de Andrade Lazaro",
       "nome_urna": "Beatriz Andrade",
       "foto": "fotos_psd_brasil/FMG130002549965_div.jpg",
@@ -17121,23 +16401,6 @@
       "partido": {
         "sigla": "PSD",
         "numero": 5569
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Magno Rodrigues",
-      "nome_urna": "Carlos Magno",
-      "foto": "fotos_psd_brasil/FMG130002545581_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5556
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -17193,23 +16456,6 @@
       },
       "prioridade": 21,
       "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francisco de Assis Santiago",
-      "nome_urna": "Chicão Jesus Te Ama",
-      "foto": "fotos_psd_brasil/FMG130002545558_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5512
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -17278,23 +16524,6 @@
       "partido": {
         "sigla": "PSD",
         "numero": 5545
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Djalma Augusto Gomes Bastos",
-      "nome_urna": "Djalma Bastos",
-      "foto": "fotos_psd_brasil/FMG130002545582_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5507
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -17605,23 +16834,6 @@
       },
       "prioridade": 1,
       "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lucia Dias Rodrigues Barbosa",
-      "nome_urna": "Lucia da Lojinha",
-      "foto": "fotos_psd_brasil/FMG130002549964_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 55445
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -18089,9 +17301,9 @@
       ]
     },
     {
-      "nome_completo": "Antonio Divino de Souza",
-      "nome_urna": "Antônio Divino",
-      "foto": "fotos_psdb_brasil/FMG130002553352_div.jpg",
+      "nome_completo": "MARCELO HERINGER",
+      "nome_urna": "Marcelo Heringer",
+      "foto": "fotos_psdb_brasil/FMG130002554334_div.jpg",
       "cargo_pleiteado": "2º Suplente",
       "estado": "MG",
       "partido": {
@@ -18184,23 +17396,6 @@
         "numero": 45126
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Braulio Marcos Cardoso Alves",
-      "nome_urna": "Bráulio Marcos",
-      "foto": "fotos_psdb_brasil/FMG130002539867_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4590
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -18378,23 +17573,6 @@
       ]
     },
     {
-      "nome_completo": "Mastroiano de Mendonca Alves",
-      "nome_urna": "Doca Mastroiano",
-      "foto": "fotos_psdb_brasil/FMG130002539855_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4599
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Dorcas Ferreira de Morais",
       "nome_urna": "Dorcas da Proteção Animal",
       "foto": "fotos_psdb_brasil/FMG130002540604_div.jpg",
@@ -18473,40 +17651,6 @@
         "numero": 4580
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Adriane Cristina da Cruz",
-      "nome_urna": "Dryka Cruz",
-      "foto": "fotos_psdb_brasil/FMG130002539921_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45445
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Eduardo Gomes de Magalhaes",
-      "nome_urna": "Eduardo Peixe",
-      "foto": "fotos_psdb_brasil/FMG130002540595_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45111
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -18650,9 +17794,9 @@
       ]
     },
     {
-      "nome_completo": "Gustavo Galassi Gargalhone",
-      "nome_urna": "Gustavo Galassi",
-      "foto": "fotos_psdb_brasil/FMG130002553354_div.jpg",
+      "nome_completo": "AÉCIO NEVES DA CUNHA",
+      "nome_urna": "Aécio Neves",
+      "foto": "fotos_psdb_brasil/FMG130002554332_div.jpg",
       "cargo_pleiteado": "Senador",
       "estado": "MG",
       "partido": {
@@ -18660,8 +17804,21 @@
         "numero": 456
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
+      "redes_sociais": {
+        "twitter": "https://x.com/AecioNeves",
+        "instagram": "https://www.instagram.com/aecionevesoficial",
+        "facebook": "https://www.facebook.com/share/1D454kJsG8/",
+        "youtube": "https://www.youtube.com/@AecionevesBr",
+        "tiktok": "https://www.tiktok.com/@aecionevesoficial",
+        "threads": "https://www.threads.com/@aecionevesoficial",
+        "kwai": "https://www.kwai.com/@AecioNevesoficial",
+        "spotify": "https://open.spotify.com/user/31paqoq4glkba4in3hhhzb5stjxu?si=lMlvaW6HQ5mHRnHr0h9OMQ&utm_source=copy",
+        "site_oficial": "https://aecioneves.com.br/",
+        "links": "https://linktr.ee/estoucomaeciosenador456"
+      },
+      "contatos": {
+        "whatsapp": "https://chat.whatsapp.com/FFJKDIjNLGwL5VdSM30LZN?s=cl&p=a&ilr=1"
+      },
       "bandeiras": [
         "Não cadastradas"
       ]
@@ -18906,23 +18063,6 @@
       ]
     },
     {
-      "nome_completo": "Marlene Tavares Cardoso",
-      "nome_urna": "Marlene Tavares",
-      "foto": "fotos_psdb_brasil/FMG130002539846_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4515
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Marta Carvalho Murta",
       "nome_urna": "Marta Murta",
       "foto": "fotos_psdb_brasil/FMG130002539913_div.jpg",
@@ -19119,40 +18259,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 4550
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rozivaldo Gervasio",
-      "nome_urna": "Rozivaldo Gervásio",
-      "foto": "fotos_psdb_brasil/FMG130002539872_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4510
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Rui Barbosa Rosa",
-      "nome_urna": "Rui Barbosa",
-      "foto": "fotos_psdb_brasil/FMG130002539876_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 4502
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -19383,9 +18489,9 @@
       ]
     },
     {
-      "nome_completo": "Jose de Freitas Cordeiro",
-      "nome_urna": "Zelinho",
-      "foto": "fotos_psdb_brasil/FMG130002553353_div.jpg",
+      "nome_completo": "GUSTAVO GALASSI GARGALHONE",
+      "nome_urna": "Gustavo Galassi",
+      "foto": "fotos_psdb_brasil/FMG130002554333_div.jpg",
       "cargo_pleiteado": "1º Suplente",
       "estado": "MG",
       "partido": {
@@ -20464,23 +19570,6 @@
       ]
     },
     {
-      "nome_completo": "Ozeias Cipriano da Silva",
-      "nome_urna": "Ozeias Silva",
-      "foto": "fotos_republicanos_brasil/FMG130002539886_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10122
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Valeria Domingues Oliveira Santos",
       "nome_urna": "Pastora Valéria",
       "foto": "fotos_republicanos_brasil/FMG130002537220_div.jpg",
@@ -20506,40 +19595,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10773
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gleiton Marcos Jesus da Silva",
-      "nome_urna": "Professor Gleiton",
-      "foto": "fotos_republicanos_brasil/FMG130002539907_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10500
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lidia Maria de Oliveira Jordao Rocha da Cunha",
-      "nome_urna": "Professora Lidia Jordão",
-      "foto": "fotos_republicanos_brasil/FMG130002539892_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10515
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -20906,23 +19961,6 @@
       ]
     },
     {
-      "nome_completo": "Dirceu dos Santos Ribeiro",
-      "nome_urna": "Dirceu Ribeiro",
-      "foto": "fotos_solidariedade_brasil/FMG130002533230_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77111
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Anderson Luis Coelho",
       "nome_urna": "Dr Anderson Coelho",
       "foto": "fotos_solidariedade_brasil/FMG130002533226_div.jpg",
@@ -21035,23 +20073,6 @@
         "numero": 7738
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Luiz Carlos de Miranda Faria",
-      "nome_urna": "Luiz Carlos Miranda",
-      "foto": "fotos_solidariedade_brasil/FMG130002532953_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 77777
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -21399,23 +20420,6 @@
       ]
     },
     {
-      "nome_completo": "José Maria Gonçalves Santos",
-      "nome_urna": "Zé Maria do 4 Estações",
-      "foto": "fotos_solidariedade_brasil/FMG130002550165_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "SOLIDARIEDADE",
-        "numero": 7744
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jennifer Kelly Carmo de Oliveira Silva",
       "nome_urna": "Jennifer Kelly",
       "foto": "fotos_solidariedade_brasil/FMG130002554206_div.jpg",
@@ -21426,23 +20430,6 @@
         "numero": 77888
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ademir Lucas Gomes",
-      "nome_urna": "Ademir Lucas",
-      "foto": "fotos_uniao_brasil/FMG130002542707_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MG",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 4489
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -21853,23 +20840,6 @@
       "partido": {
         "sigla": "UNIÃO",
         "numero": 44321
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gerci Martins Filho",
-      "nome_urna": "Gerci Filho - Sabonete",
-      "foto": "fotos_uniao_brasil/FMG130002542807_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MG",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44055
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -22773,41 +21743,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -22843,5 +21778,5 @@
       ]
     }
   ],
-  "hash": "dc153f8c812f"
+  "hash": "c131776751c2"
 }

@@ -1,41 +1,7 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
-    {
-      "nome_completo": "Alexandre Mariano Lustosa",
-      "nome_urna": "Alexandre Mariano",
-      "foto": "fotos_avante_brasil/FPI180002552962_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 700
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Aline da Conceição Silva Nascimento",
-      "nome_urna": "Aline Nascimento",
-      "foto": "fotos_avante_brasil/FPI180002552093_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7077
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
     {
       "nome_completo": "Ana Alice Barbosa Alencar Campelo Mendes",
       "nome_urna": "Ana Câmpelo",
@@ -88,40 +54,6 @@
       ]
     },
     {
-      "nome_completo": "Guilherme Ferreira da Cunha Rocha",
-      "nome_urna": "Guilherme Rocha",
-      "foto": "fotos_avante_brasil/FPI180002552960_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 700
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gustavo Henrique Leite Feijó",
-      "nome_urna": "Gustavo Pelo Piauí Ou Gustavo",
-      "foto": "fotos_avante_brasil/FPI180002550421_div.jpg",
-      "cargo_pleiteado": "Governador",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Hedilene do Nascimento Silva",
       "nome_urna": "Hedilene Nassil",
       "foto": "fotos_avante_brasil/FPI180002548563_div.jpg",
@@ -130,125 +62,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 7070
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Calina Raquel Lopes Batista Pereira",
-      "nome_urna": "Irmã Calina Lopes",
-      "foto": "fotos_avante_brasil/FPI180002552094_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7013
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ivanildo Mesquita Lopes",
-      "nome_urna": "Ivanildo Lopes",
-      "foto": "fotos_avante_brasil/FPI180002552961_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 707
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "José Carlos Lima da Silva",
-      "nome_urna": "J C do Dirceu",
-      "foto": "fotos_avante_brasil/FPI180002552963_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 700
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lucas Veras de Moraes",
-      "nome_urna": "Lucas Veras de Moraes",
-      "foto": "fotos_avante_brasil/FPI180002550422_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Glaydston Michel Saldanha Moura Lira",
-      "nome_urna": "Michel Saldanha",
-      "foto": "fotos_avante_brasil/FPI180002549937_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 700
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Francisco de Sena Santos",
-      "nome_urna": "Pastor Sena",
-      "foto": "fotos_avante_brasil/FPI180002552964_div.jpg",
-      "cargo_pleiteado": "Senador",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 707
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Marcos Aurelio da Fonseca",
-      "nome_urna": "Professor Marcos Aurélio",
-      "foto": "fotos_avante_brasil/FPI180002552096_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7010
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -268,23 +81,6 @@
         "numero": 7070
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Stanley Pereira Meireles",
-      "nome_urna": "Stanley Meireles",
-      "foto": "fotos_avante_brasil/FPI180002552959_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 707
-      },
-      "prioridade": 41,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -326,23 +122,6 @@
       ]
     },
     {
-      "nome_completo": "Valteví Barros de Souza",
-      "nome_urna": "Valtevi Barros",
-      "foto": "fotos_avante_brasil/FPI180002554121_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 7022
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Zenivan Vieira dos Santos",
       "nome_urna": "Professor Zenivan",
       "foto": "fotos_avante_brasil/FPI180002554034_div.jpg",
@@ -353,23 +132,6 @@
         "numero": 7088
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Fábio Júnior de Sousa Lima",
-      "nome_urna": "Fabio Junior",
-      "foto": "fotos_avante_brasil/FPI180002553899_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70000
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -428,23 +190,6 @@
       ]
     },
     {
-      "nome_completo": "Marcos Antonio dos Santos",
-      "nome_urna": "Marcos Canguru",
-      "foto": "fotos_avante_brasil/FPI180002553896_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70222
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Neryane Rosa dos Santos Costa",
       "nome_urna": "Neryane Costa",
       "foto": "fotos_avante_brasil/FPI180002554095_div.jpg",
@@ -470,23 +215,6 @@
       "partido": {
         "sigla": "AVANTE",
         "numero": 70190
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Zenivan Vieira dos Santos",
-      "nome_urna": "Professor Zenivan",
-      "foto": "fotos_avante_brasil/FPI180002553895_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PI",
-      "partido": {
-        "sigla": "AVANTE",
-        "numero": 70888
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -717,23 +445,6 @@
       ]
     },
     {
-      "nome_completo": "Jair Sampaio da Silva",
-      "nome_urna": "Jair Sampaio",
-      "foto": "fotos_dc_brasil/FPI180002549592_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2788
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Leonidas Pinto Firmesa",
       "nome_urna": "Leônidas",
       "foto": "fotos_dc_brasil/FPI180002549589_div.jpg",
@@ -778,23 +489,6 @@
         "numero": 27
       },
       "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Adão Roberto Lima da Silva",
-      "nome_urna": "Professor Adão",
-      "foto": "fotos_dc_brasil/FPI180002549594_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2777
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1652,23 +1346,6 @@
       ]
     },
     {
-      "nome_completo": "Alexandre da Costa Silva",
-      "nome_urna": "Alex Cabelo",
-      "foto": "fotos_mobiliza_brasil/FPI180002540687_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 3322
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ângela Maria Sousa de Oliveira",
       "nome_urna": "Angela do Povão",
       "foto": "fotos_mobiliza_brasil/FPI180002540688_div.jpg",
@@ -1847,23 +1524,6 @@
       "partido": {
         "sigla": "MOBILIZA",
         "numero": 3333
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Orlando Matias do Nascimento",
-      "nome_urna": "Orlando Matias",
-      "foto": "fotos_mobiliza_brasil/FPI180002540682_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "MOBILIZA",
-        "numero": 3321
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -3090,23 +2750,6 @@
       ]
     },
     {
-      "nome_completo": "Gyselle Soares Estevao",
-      "nome_urna": "Gyselle Cajuína",
-      "foto": "fotos_pp_brasil/FPI180002539132_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "PI",
-      "partido": {
-        "sigla": "PP",
-        "numero": 1112
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Hallyson Martins da Mata e Silva",
       "nome_urna": "Hallyson da Mata",
       "foto": "fotos_pp_brasil/FPI180002539033_div.jpg",
@@ -3956,23 +3599,6 @@
       ]
     },
     {
-      "nome_completo": "Maria Lucia de Sousa",
-      "nome_urna": "Pastora Lúcia",
-      "foto": "fotos_psdb_brasil/FPI180002552109_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PI",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45222
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Iraldenon Rocha Monteiro",
       "nome_urna": "Professor Iral",
       "foto": "fotos_psdb_brasil/FPI180002552104_div.jpg",
@@ -3981,23 +3607,6 @@
       "partido": {
         "sigla": "PSDB",
         "numero": 45456
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ronnie Wagner Santos Costa",
-      "nome_urna": "Ronnie Costa",
-      "foto": "fotos_psdb_brasil/FPI180002552107_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PI",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45333
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4281,23 +3890,6 @@
       ]
     },
     {
-      "nome_completo": "Francisco das Chagas Costa Oliveira",
-      "nome_urna": "Quem Quem",
-      "foto": "fotos_uniao_brasil/FPI180002539029_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "PI",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44700
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ana Cristina Ferreira Lima",
       "nome_urna": "Tina dos Carroceiros",
       "foto": "fotos_uniao_brasil/FPI180002539034_div.jpg",
@@ -4522,41 +4114,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -4592,5 +4149,5 @@
       ]
     }
   ],
-  "hash": "d8d52450f70a"
+  "hash": "2dc3c1d73e24"
 }

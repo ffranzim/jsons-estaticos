@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Bruna Maria dos Santos Cavalcante",
@@ -795,40 +795,6 @@
         "numero": 27127
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Nidio Gomes de Carvalho",
-      "nome_urna": "Nidio Carvalho",
-      "foto": "fotos_dc_brasil/FRR230002533591_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RR",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2700
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Paulo Cesar Justo Quartiero",
-      "nome_urna": "Paulo Quartiero",
-      "foto": "fotos_dc_brasil/FRR230002533592_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "RR",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2710
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -3055,23 +3021,6 @@
       ]
     },
     {
-      "nome_completo": "Masamy Eda",
-      "nome_urna": "Masamy Eda",
-      "foto": "fotos_pode_brasil/FRR230002538172_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RR",
-      "partido": {
-        "sigla": "PODE",
-        "numero": 20500
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Monica Nogueira Terto de Sousa",
       "nome_urna": "Mônica Nogueira",
       "foto": "fotos_pode_brasil/FRR230002538183_div.jpg",
@@ -3482,23 +3431,6 @@
       ]
     },
     {
-      "nome_completo": "Deyvid da Conceicao Duarte",
-      "nome_urna": "Deyvid Duarte",
-      "foto": "fotos_psdb_brasil/FRR230002548828_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RR",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Dilson Lopes Araujo",
       "nome_urna": "Dilson Araújo",
       "foto": "fotos_psdb_brasil/FRR230002548837_div.jpg",
@@ -3839,23 +3771,6 @@
       ]
     },
     {
-      "nome_completo": "André Marcio Adriano Nunes",
-      "nome_urna": "Márcio Braçal",
-      "foto": "fotos_psdb_brasil/FRR230002548826_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RR",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45100
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Márcio Henrique Junqueira Pereira",
       "nome_urna": "Márcio Junqueira",
       "foto": "fotos_psdb_brasil/FRR230002553636_div.jpg",
@@ -3866,23 +3781,6 @@
         "numero": 456
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ivanildo Santos da Silva",
-      "nome_urna": "Nill Santos",
-      "foto": "fotos_psdb_brasil/FRR230002548848_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RR",
-      "partido": {
-        "sigla": "PSDB",
-        "numero": 45333
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -4070,23 +3968,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10223
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Elivaldo Saldanha Brasil",
-      "nome_urna": "Elivaldo Brasil",
-      "foto": "fotos_republicanos_brasil/FRR230002549242_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RR",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10456
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -4944,23 +4825,6 @@
       ]
     },
     {
-      "nome_completo": "Melquisedek da Silva Menezes",
-      "nome_urna": "Melquisedek",
-      "foto": "fotos_uniao_brasil/FRR230002549350_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "RR",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44192
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Noelia Alves da Silva",
       "nome_urna": "Noelia Alves",
       "foto": "fotos_uniao_brasil/FRR230002549351_div.jpg",
@@ -5341,41 +5205,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -5411,5 +5240,5 @@
       ]
     }
   ],
-  "hash": "cf5218fdedc4"
+  "hash": "546b3398e31f"
 }

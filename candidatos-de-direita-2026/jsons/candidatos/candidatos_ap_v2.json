@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Jaime Domingues Nunes",
@@ -219,23 +219,6 @@
       "partido": {
         "sigla": "DC",
         "numero": 2719
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Siulan Fernandes Bacelar Marques",
-      "nome_urna": "Siulan Bacelar",
-      "foto": "fotos_dc_brasil/FAP30002552021_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AP",
-      "partido": {
-        "sigla": "DC",
-        "numero": 2707
       },
       "prioridade": 21,
       "redes_sociais": {},
@@ -483,23 +466,6 @@
       ]
     },
     {
-      "nome_completo": "Guaracy Batista da Silveira Junior",
-      "nome_urna": "Guaracy",
-      "foto": "fotos_mdb_brasil/FAP30002549853_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AP",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 1522
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Helder Jose Carneiro de Souza",
       "nome_urna": "Helder",
       "foto": "fotos_mdb_brasil/FAP30002549850_div.jpg",
@@ -595,23 +561,6 @@
         "numero": 1545
       },
       "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Lucas Carreiro Mercurio",
-      "nome_urna": "Mercúrio",
-      "foto": "fotos_mdb_brasil/FAP30002549873_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AP",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15456
-      },
-      "prioridade": 1,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -2542,23 +2491,6 @@
       ]
     },
     {
-      "nome_completo": "Manoel Brasil de Paula Filho",
-      "nome_urna": "Dr. Brasil",
-      "foto": "fotos_psd_brasil/FAP30002532249_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "AP",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5555
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Liliane Araújo de Carvalho Albuquerque",
       "nome_urna": "Dr. Liliane Albuquerque",
       "foto": "fotos_psd_brasil/FAP30002531188_div.jpg",
@@ -3140,24 +3072,6 @@
       ]
     },
     {
-      "nome_completo": "Joryosvaldo Queiroz Oeiras",
-      "nome_urna": "Jory Oeiras",
-      "foto": "fotos_republicanos_brasil/FAP30002549885_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AP",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10300
-      },
-      "prioridade": 1,
-      "posicao_segundo_hub_politico": "centro-direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Karla Samila Gomes Silva",
       "nome_urna": "Karla Samila",
       "foto": "fotos_republicanos_brasil/FAP30002549879_div.jpg",
@@ -3226,23 +3140,6 @@
       ]
     },
     {
-      "nome_completo": "Rayra da Silva Araujo",
-      "nome_urna": "Rayra Araújo",
-      "foto": "fotos_republicanos_brasil/FAP30002549893_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AP",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10900
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jeovana da Conceicao Pereira",
       "nome_urna": "Sargento Geovana",
       "foto": "fotos_republicanos_brasil/FAP30002549875_div.jpg",
@@ -3251,23 +3148,6 @@
       "partido": {
         "sigla": "REPUBLICANOS",
         "numero": 10555
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Gracinete Sena da Silva",
-      "nome_urna": "Sargento Gracinete",
-      "foto": "fotos_republicanos_brasil/FAP30002549888_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "AP",
-      "partido": {
-        "sigla": "REPUBLICANOS",
-        "numero": 10600
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3900,41 +3780,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -4039,5 +3884,5 @@
       "status_tse": "Aguardando julgamento"
     }
   ],
-  "hash": "3f800e02c50a"
+  "hash": "5ff663be71bc"
 }

@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-09T20:11:13+00:00",
-  "versao": 5,
+  "gerado_em": "2026-09-30T00:47:21+00:00",
+  "versao": 6,
   "candidatos": [
     {
       "nome_completo": "Amorezio Dias Vidrago",
@@ -30,23 +30,6 @@
         "numero": 365
       },
       "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jefferson Henrique Ribeiro de Oliveira",
-      "nome_urna": "Bispo Jefferson Oliveira",
-      "foto": "fotos_agir_brasil/FMT110002551938_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3626
-      },
-      "prioridade": 21,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -88,40 +71,6 @@
       ]
     },
     {
-      "nome_completo": "Carlos Vianei Longo",
-      "nome_urna": "Carlos Longo",
-      "foto": "fotos_agir_brasil/FMT110002551937_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 3622
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Carlos Severiano Pereira da Silva",
-      "nome_urna": "Carlos Severiano",
-      "foto": "fotos_agir_brasil/FMT110002553688_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Daiane Rodrigues Ferreira Odilon",
       "nome_urna": "Daiane Rodrigues",
       "foto": "fotos_agir_brasil/FMT110002553686_div.jpg",
@@ -132,23 +81,6 @@
         "numero": 36666
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Geraldo Oliveira dos Santos",
-      "nome_urna": "Geraldo",
-      "foto": "fotos_agir_brasil/FMT110002553704_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 365
-      },
-      "prioridade": 41,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -198,23 +130,6 @@
       "partido": {
         "sigla": "AGIR",
         "numero": 360
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Antonio Jackson Pereira da Cruz",
-      "nome_urna": "Jackson Pereira",
-      "foto": "fotos_agir_brasil/FMT110002553703_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 365
       },
       "prioridade": 41,
       "redes_sociais": {},
@@ -283,23 +198,6 @@
       "partido": {
         "sigla": "AGIR",
         "numero": 36444
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Matheus Pedde Pucineli",
-      "nome_urna": "Matheus Pucineli",
-      "foto": "fotos_agir_brasil/FMT110002553690_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36500
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -483,23 +381,6 @@
       "nome_urna": "Sargento Laudicério",
       "foto": "fotos_agir_brasil/FMT110002554073_div.jpg",
       "cargo_pleiteado": "Governador",
-      "estado": "MT",
-      "partido": {
-        "sigla": "AGIR",
-        "numero": 36
-      },
-      "prioridade": 61,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Alex Pedde Pucineli",
-      "nome_urna": "Alex Pucineli",
-      "foto": "fotos_agir_brasil/FMT110002553938_div.jpg",
-      "cargo_pleiteado": "Vice-Governador",
       "estado": "MT",
       "partido": {
         "sigla": "AGIR",
@@ -956,23 +837,6 @@
       ]
     },
     {
-      "nome_completo": "Aluizo Lima Pereira",
-      "nome_urna": "Aluizo Lima",
-      "foto": "fotos_mdb_brasil/FMT110002552697_div.jpg",
-      "cargo_pleiteado": "1º Suplente",
-      "estado": "MT",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 150
-      },
-      "prioridade": 41,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Jose Eduardo Botelho",
       "nome_urna": "Botelho",
       "foto": "fotos_mdb_brasil/FMT110002550847_div.jpg",
@@ -1137,23 +1001,6 @@
         "numero": 15111
       },
       "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Ibrahim Zaher",
-      "nome_urna": "Ibrahim Zaher",
-      "foto": "fotos_mdb_brasil/FMT110002552696_div.jpg",
-      "cargo_pleiteado": "2º Suplente",
-      "estado": "MT",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 150
-      },
-      "prioridade": 41,
       "redes_sociais": {},
       "contatos": {},
       "bandeiras": [
@@ -1340,23 +1187,6 @@
       "partido": {
         "sigla": "MDB",
         "numero": 15000
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Jose Domingues de Godoi Neto",
-      "nome_urna": "Zé Neto da Fato",
-      "foto": "fotos_mdb_brasil/FMT110002550843_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MT",
-      "partido": {
-        "sigla": "MDB",
-        "numero": 15888
       },
       "prioridade": 1,
       "redes_sociais": {},
@@ -3692,23 +3522,6 @@
       ]
     },
     {
-      "nome_completo": "Benedito Francisco Curvo",
-      "nome_urna": "Chico Curvo",
-      "foto": "fotos_psd_brasil/FMT110002548039_div.jpg",
-      "cargo_pleiteado": "Deputado Federal",
-      "estado": "MT",
-      "partido": {
-        "sigla": "PSD",
-        "numero": 5588
-      },
-      "prioridade": 21,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Kleber Julio Amorim da Silva",
       "nome_urna": "Dr. Kleber Amorim",
       "foto": "fotos_psd_brasil/FMT110002549732_div.jpg",
@@ -5266,23 +5079,6 @@
       ]
     },
     {
-      "nome_completo": "Ana Paula Leiria Silva",
-      "nome_urna": "Ana Paula Leiria",
-      "foto": "fotos_uniao_brasil/FMT110002550701_div.jpg",
-      "cargo_pleiteado": "Deputado Estadual",
-      "estado": "MT",
-      "partido": {
-        "sigla": "UNIÃO",
-        "numero": 44555
-      },
-      "prioridade": 1,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Cenira Benedita Evangelista",
       "nome_urna": "Cenira Evangelista",
       "foto": "fotos_uniao_brasil/FMT110002550480_div.jpg",
@@ -5735,41 +5531,6 @@
       ]
     },
     {
-      "nome_completo": "Pablo Henrique Costa Marcal",
-      "nome_urna": "Pablo Marçal",
-      "foto": "fotos_prtb_brasil/FBR280002553884_div.jpg",
-      "cargo_pleiteado": "Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "posicao_segundo_hub_politico": "direita",
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
-      "nome_completo": "Leonardo Alves de Araujo",
-      "nome_urna": "Leonardo Avalanche",
-      "foto": "fotos_prtb_brasil/FBR280002553883_div.jpg",
-      "cargo_pleiteado": "Vice-Presidente",
-      "estado": "BR",
-      "partido": {
-        "sigla": "PRTB",
-        "numero": 28
-      },
-      "prioridade": 81,
-      "redes_sociais": {},
-      "contatos": {},
-      "bandeiras": [
-        "Não cadastradas"
-      ]
-    },
-    {
       "nome_completo": "Ronaldo Ramos Caiado",
       "nome_urna": "Ronaldo Caiado",
       "foto": "fotos_psd_brasil/FBR280002551932_div.jpg",
@@ -5805,5 +5566,5 @@
       ]
     }
   ],
-  "hash": "d2bad4ec77cb"
+  "hash": "fb2a1a8319b6"
 }
