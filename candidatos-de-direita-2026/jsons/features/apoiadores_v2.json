@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-30T00:20:40+00:00",
-  "versao": 10,
-  "hash": "500d63d70c7a",
+  "gerado_em": "2026-09-30T21:52:27+00:00",
+  "versao": 12,
+  "hash": "fe5a7f62fc8e",
   "apoiadores": [
     {
       "id": "app",
@@ -32,16 +32,24 @@
             "nome": "Kiko Caputo"
           },
           {
+            "numero": 222,
+            "nome": "Michelle Bolsonaro"
+          },
+          {
             "numero": 223,
             "nome": "Bia Kicis"
           },
           {
-            "numero": 300,
-            "nome": "Sebastião Coelho"
-          },
-          {
             "numero": 3000,
             "nome": "Wilker Sá"
+          },
+          {
+            "numero": 22190,
+            "nome": "Julia Lucy"
+          },
+          {
+            "numero": 30333,
+            "nome": "Regis Machado"
           }
         ],
         "go": [
