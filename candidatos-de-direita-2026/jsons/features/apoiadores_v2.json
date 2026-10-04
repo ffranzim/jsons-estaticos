@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-09-30T21:52:27+00:00",
-  "versao": 12,
-  "hash": "fe5a7f62fc8e",
+  "gerado_em": "2026-10-04T00:28:49+00:00",
+  "versao": 13,
+  "hash": "45d60cefb859",
   "apoiadores": [
     {
       "id": "app",
@@ -1474,6 +1474,11 @@
           {
             "numero": 223,
             "nome": "Bia Kicis"
+          },
+          {
+            "numero": 22222,
+            "nome": "Eduardo Torres",
+            "cargo": "dep. distrital"
           }
         ]
       }
