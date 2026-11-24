@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidade — LocalShelf</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --surface: #f7f8fa;
+    --border: #e2e5ea;
+    --text: #1a1d29;
+    --text-muted: #565c6b;
+    --primary: #ff7a00;
+    --link: #c65a00;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161f;
+      --surface: #1d2029;
+      --border: #2c303c;
+      --text: #edeef2;
+      --text-muted: #a7acba;
+      --primary: #ff9a3d;
+      --link: #ffb066;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+
+  header {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  header .kicker {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--primary);
+    margin: 0 0 8px;
+  }
+
+  h1 {
+    font-size: 28px;
+    margin: 0 0 8px;
+  }
+
+  .meta {
+    color: var(--text-muted);
+    font-size: 14px;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 19px;
+    margin: 40px 0 12px;
+  }
+
+  h3 {
+    font-size: 16px;
+    margin: 24px 0 8px;
+  }
+
+  p, li {
+    color: var(--text);
+    font-size: 15.5px;
+  }
+
+  p { margin: 0 0 14px; }
+
+  ul { margin: 0 0 14px; padding-left: 22px; }
+  li { margin-bottom: 6px; }
+
+  a { color: var(--link); }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin: 0 0 16px;
+  }
+
+  .card strong { color: var(--text); }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 0 20px;
+    font-size: 14.5px;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+
+  th {
+    color: var(--text-muted);
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+
+  footer {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 13.5px;
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="kicker">LocalShelf</p>
+      <h1>Política de Privacidade do LocalShelf</h1>
+      <p class="meta">Última atualização: 23 de novembro de 2026</p>
+    </header>
+
+    <p>
+      O LocalShelf é uma extensão para Chrome que substitui a nova aba por um painel para
+      organizar links. Esta política explica quais dados a extensão utiliza, onde são
+      armazenados e quando informações são enviadas a serviços externos.
+    </p>
+
+    <h2>Dados armazenados</h2>
+    <p>
+      O LocalShelf armazena no navegador os boxes, abas, cards, links, configurações e
+      imagens de fundo que você cria ou escolhe. Esses dados são mantidos no
+      armazenamento local do navegador e no IndexedDB.
+    </p>
+    <p>
+      O backup automático, ativado por padrão, guarda uma cópia dos dados nos favoritos
+      do Chrome, em uma pasta do LocalShelf. Imagens de fundo incluídas no backup também
+      são armazenadas como itens de favorito. Você pode desativar ou apagar o backup nas
+      configurações da extensão.
+    </p>
+
+    <h2>Acesso aos favoritos</h2>
+    <p>
+      A permissão de favoritos é usada para criar e atualizar o backup do LocalShelf e
+      para permitir que você importe pastas de favoritos. Ao importar, a extensão lê os
+      favoritos para mostrar as pastas disponíveis; os itens são importados conforme a
+      opção que você selecionar.
+    </p>
+
+    <h2>Acesso a sites e serviços externos</h2>
+    <p>
+      O acesso a sites é opcional. Ele só é solicitado quando você escolhe buscar o nome
+      e o ícone de um site ao adicionar um link. Nesse caso, o LocalShelf acessa a página
+      indicada para ler seu título e ícone. O site recebe essa solicitação como parte
+      normal da conexão.
+    </p>
+    <p>
+      Quando um link não possui ícone próprio, o LocalShelf pode consultar o serviço de
+      favicons do Google. Essa consulta pode revelar ao Google o domínio do site
+      solicitado.
+    </p>
+    <p>
+      A galeria de imagens de fundo consulta a API do Wikimedia Commons. Os termos
+      pesquisados são enviados à Wikimedia, e as imagens selecionadas são carregadas de
+      seus servidores.
+    </p>
+
+    <h2>Compartilhamento e publicidade</h2>
+    <p>
+      O LocalShelf não envia ao desenvolvedor uma cópia da sua coleção de links, boxes,
+      configurações ou backup. Não vendemos dados nem usamos os dados armazenados pela
+      extensão para publicidade. O LocalShelf não possui conta de usuário nem serviço
+      próprio de análise de uso.
+    </p>
+    <p>
+      Se a sincronização de favoritos do Chrome estiver ativada na sua conta, o Chrome
+      poderá sincronizar os itens de backup conforme as configurações e políticas do
+      Google.
+    </p>
+
+    <h2>Retenção e exclusão</h2>
+    <p>
+      Os dados permanecem no navegador até que você os apague. Você pode remover os
+      dados e o backup pelas configurações do LocalShelf. Também pode apagar manualmente
+      os itens de backup na pasta da extensão nos favoritos do Chrome.
+    </p>
+
+    <h2>Alterações nesta política</h2>
+    <p>
+      Esta política poderá ser atualizada para refletir mudanças no LocalShelf ou em suas
+      funcionalidades. A data no início do texto indica a versão mais recente.
+    </p>
+
+    <h2>Contato</h2>
+    <p>
+      Dúvidas ou solicitações relacionadas à privacidade:
+      <a href="mailto:fernando.franzim@gmail.com">fernando.franzim@gmail.com</a>.
+    </p>
+  </div>
+</body>
+</html>
